@@ -2,7 +2,7 @@ backend:
   name: github
   branch: main
   repo: myrdn/mjc-morlaix
-  base_url: mjc-morlaix.myrdin.site
+  base_url: https://mjc-morlaix.myrdin.site
 
 locale: 'fr'
 
