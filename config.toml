@@ -1,4 +1,4 @@
-baseURL = 'https://localhost:1313'
+baseURL = 'https://mjc-morlaix.myrdin.site'
 languageCode = 'en-us'
 defaultContentLanguage = "fr"
 title = 'MJC Morlaix'
