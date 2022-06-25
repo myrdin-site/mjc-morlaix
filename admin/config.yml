@@ -6,8 +6,8 @@ backend:
 
 locale: 'fr'
 
-media_folder: "static/media"
-public_folder: "/media/uploads"
+media_folder: static/media
+public_folder: /media/uploads
 
 collections:
   - name: "accueil"
