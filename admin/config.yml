@@ -1,7 +1,8 @@
 backend:
   name: github
   branch: main
-  repo: 
+  repo: myrdn/mjc-morlaix
+  base_url: mjc-morlaix.myrdin.site
 
 locale: 'fr'
 
