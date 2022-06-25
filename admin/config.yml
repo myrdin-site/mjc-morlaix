@@ -30,7 +30,7 @@ collections:
     media_folder: "img"
     public_folder: "img"
     fields:
-      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Titre", name: "title", widget: "string" }
       - { label: "Image d'accroche", name:"cover", widget: "image" }
       - { label: "Date", name: "event_date", widget: "date" }
       - { label: "Time", name: "event_time", widget: "datetime", default: "", time_format: "HH:mm", picker_utc: false }
