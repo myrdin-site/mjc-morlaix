@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcast&#39;s on MJC Morlaix</title>
+    <link>https://localhost:1313/podcasts/</link>
+    <description>Recent content in Podcast&#39;s on MJC Morlaix</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2022 © MJC Morlaix</copyright>
+    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OPEN MIC - Jeunes Talents</title>
+      <link>https://localhost:1313/podcasts/open-mic-jeunes-talents/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/podcasts/open-mic-jeunes-talents/</guid>
+      <description>Retour sur la soirée RAP «Open MIC» qui à eu lieu à l’auditorium de la MJC en 2021. L’occasion de découvrir plusieurs artistes en devenir au sein du programme Trock’Son ou non, et de leur offrir pour certains leur première scène, et d’autres la possibilité de présenter leur projet&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>La Jeunesse Envoie des Des Ondes</title>
+      <link>https://localhost:1313/podcasts/la-jeunesse-envoie-des-ondes/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/podcasts/la-jeunesse-envoie-des-ondes/</guid>
+      <description>L’émission «La Jeunesse Envoie Des Ondes» propose une création sonore globale (musique, bruitage, voix , écriture, captation et montage), sous forme de radio fiction sur le thème de la pandémie en cours&amp;hellip; À une exception près : ce n’est pas le covid qui nous contamine dans cet épisode, mais bien le bonheur et la joie de vivre&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Love And Pop</title>
+      <link>https://localhost:1313/podcasts/love-and-pop/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/podcasts/love-and-pop/</guid>
+      <description>L’émission mensuelle «Love And Pop» balaye, par l’intermédiaire des chroniqueurs des ateliers radio, les tendances et les émergences de la «pop culture» qui les ont interpellés ou intéressés&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Radiophonie</title>
+      <link>https://localhost:1313/podcasts/festival-des-solidarit%C3%A9s/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/podcasts/festival-des-solidarit%C3%A9s/</guid>
+      <description>L’émission RADIOPHONIE revient sur le Festival des solidarités qui à eu lieu à l’auditorium de la MJC en 2018. Toute l’équipe de Radio MJC, se sont atablés pour interviewer les différents représentants de associations du territoire sur leurs projets d’actions quotidiens et futurs&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

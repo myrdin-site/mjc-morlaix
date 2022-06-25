@@ -1,0 +1,55 @@
+{{ define "main" }}
+<div>
+  <div class="page__wrapper">
+    <div class="page__activites_content">
+      <h1>{{ .Title }}</h1>
+      <div class="activites__header">
+        <p>
+          <strong
+            >Retrouvez toutes nos activités en détails pour la saison en
+            cours.</strong
+          >
+        </p>
+      </div>
+
+      <p>
+        Pour toute informations complémentaires ou inscription, contactez la MJC
+        par téléphone, mail ou en venant directement nous rendre visite aux
+        horaires d'ouverture.
+      </p>
+    </div>
+    {{ $paginator := .Paginate (where .Site.RegularPages "Section" "activites")
+    4 }} {{ range $paginator.Pages.ByDate }}
+
+    <div class="activites__wrapper">
+      <div class="activites__left">
+        <h2>{{ .Title }}</h2>
+        {{ $image := .Resources.GetMatch .Params.picto }}
+        <img src="{{ $image.RelPermalink }}" alt="" />
+        <ul>
+          {{ range .Params.public }}
+          <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="activites__right">
+        <p class="activites_description">{{ .Params.description }}</p>
+        <p>
+          <span class="activites__anim"
+            ><strong>Animateur·ice(s) </strong>{{ .Params.anim }}</span
+          >
+          <span class="activites__price">/ {{ .Params.price }}</span>
+        </p>
+        <div>{{ .Params.creneau | markdownify }}</div>
+        <p class="activites__footer">
+          <span class="activites__starting">Début des ateliers > </span>
+          <span class="activites__starting_date"
+            >{{ .Params.starting_date | time.Format ":date_full" }}</span
+          >
+        </p>
+      </div>
+    </div>
+    {{ end }} {{ template "_internal/pagination.html" . }}
+  </div>
+</div>
+{{ end }}

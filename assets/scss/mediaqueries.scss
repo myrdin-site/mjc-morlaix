@@ -1,0 +1,607 @@
+// sm
+@media (min-width: 640px) {
+  // Header
+  .header__button {
+    left: 0.5%;
+    top: -5.5%;
+  }
+
+  .activites__wrapper {
+    display: flex;
+    position: relative;
+  }
+
+  .activites__footer {
+    position: absolute;
+    bottom: 1rem;
+  }
+  // Documents
+  
+  .page__documents_middle, .page__documents__right {
+    margin-top: 0;
+  }
+}
+
+// md
+@media (min-width: 768px) {
+  // Header
+  .header__button {
+    top: -4.5%;
+  }
+  // Contact
+  .contact__column {
+    margin-top: 10rem;
+  }
+  // Infos Jeunesse
+  .page__ij_wrapper1 {
+    display: flex;
+  }
+  .page__ij_logo {
+    max-width: 20vw;
+    padding-top: 0;
+  }
+
+  .page__ij_img {
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 1023px) {
+  // Header
+  .header__wrapper_desktop {
+    display: none;
+  }
+  // Nav
+  .nav__desktop {
+    display: none;
+  }
+  // Sidebar
+  .sidebar {
+    display: none;
+  }
+  // Carousel
+  .carousel__desktop {
+    display: none;
+  }
+  // Actu cover
+  .actu__cover_desktop {
+    display: none;
+  }
+  // Infos Jeunesse
+  .page__ij_imgdesktop {
+    display: none;
+  }
+  //Trockson
+  .trockson__photo_desktop {
+    display: none;
+  }
+}
+
+// lg
+@media (min-width: 1024px) {
+  // Header
+  .header__wrapper {
+    display: none;
+  }
+
+  .header__wrapper_desktop {
+    padding-left: 23rem;
+  }
+
+  #nav__menu {
+    display: none;
+  }
+
+  .header__title {
+    font-size: 2rem;
+    padding-top: 0.8rem;
+    text-align: left;
+  }
+  // Nav
+  .nav__menu {
+    display: flex;
+  }
+  .nav__link {
+    padding: 0;
+    font-size: 0.95rem;
+    a {
+      color: #c2c9c6;
+    }
+  }
+
+  .nav__link {
+    &:nth-child(1) {
+      .nav__active {
+        color: #6ab535;
+      }
+    }
+    &:nth-child(2) {
+      .nav__active {
+        color: #2c7ea2;
+      }
+    }
+    &:nth-child(3) {
+      .nav__active {
+        color: #f8ad13;
+      }
+    }
+    &:nth-child(4) {
+      .nav__active {
+        color: #82c345;
+      }
+    }
+    &:nth-child(5) {
+      .nav__active {
+        color: #a8a4cb;
+      }
+    }
+    &:nth-child(6) {
+      .nav__active {
+        color: #ea5b0c;
+      }
+    }
+    &:nth-child(7) {
+      .nav__active {
+        color: #c3b883;
+      }
+    }
+  }
+
+  .nav__link {
+    &:hover {
+      &:nth-child(1) {
+        a {
+          color: #6ab535;
+        }
+      }
+      &:nth-child(2) {
+        a {
+          color: #2c7ea2;
+        }
+      }
+      &:nth-child(3) {
+        a {
+          color: #f8ad13;
+        }
+      }
+      &:nth-child(4) {
+        a {
+          color: #82c345;
+        }
+      }
+      &:nth-child(5) {
+        a {
+          color: #a8a4cb;
+        }
+      }
+      &:nth-child(6) {
+        a {
+          color: #ea5b0c;
+        }
+      }
+
+      &:nth-child(7) {
+        a {
+          color: #c3b883;
+        }
+      }
+    }
+  }
+
+  .nav__link::after {
+    content: "|";
+    font-weight: 700;
+    color: #ae3785;
+    padding: 0 0.5rem;
+  }
+
+  .nav__link:last-child::after {
+    content: none;
+  }
+  // Carousel
+  .carousel__mobile {
+    display: none;
+  }
+
+  .carousel__wrapper {
+    width: 750px;
+    max-width: 750px !important;
+    margin-top: -1rem;
+    margin-left: 15rem;
+  }
+
+  .carousel__flex {
+    border: 10px solid #3e1e5a;
+    display: flex !important;
+  }
+
+  .carousel__left {
+    position: relative;
+  }
+
+  .carousel__title {
+    position: absolute !important;
+    background: transparent !important;
+    color: white !important;
+    font-size: 3rem !important;
+    align-items: flex-start;
+    a {
+      color: white;
+    }
+  }
+
+  .carousel__right {
+    background-color: #5b6121;
+  }
+
+  .carousel__event {
+    height: 100%;
+    width: 100%;
+  }
+
+  .carousel__event_desc {
+    font-size: 1.5rem;
+  }
+
+  .carousel__event_date {
+    font-size: 2.5rem !important;
+    color: #d9db23;
+    padding-top: 0.8rem;
+    position: relative !important;
+  }
+
+  .carousel__event_time {
+    font-size: 3rem !important;
+    position: absolute;
+    bottom: 0;
+    right: 0.6rem;
+  }
+
+  // Homepage Content
+  .homepage__content {
+    margin-left: 15rem;
+    margin-right: 2rem;
+  }
+
+  // Pages
+  .page__wrapper {
+    width: 60%;
+    margin: auto;
+    margin-top: -4.6rem;
+    margin-bottom: 6rem;
+  }
+
+  // List
+  .list__container {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -0.2rem;
+  }
+
+  .list__wrapper {
+    width: 660px;
+    max-width: 660px;
+  }
+
+  // Actu List
+
+  .actu__cover {
+    display: none;
+  }
+  .actu__wrapper {
+    min-height: 300px;
+    width: 700px;
+    max-width: 700px;
+    position: relative;
+    .actu__description {
+      margin-right: 20rem !important;
+    }
+    .actu__cover_desktop {
+      position: absolute;
+      margin: 0;
+      top: 0;
+      right: 0;
+    }
+    .actu__content {
+      margin-right: 320px;
+      padding: 0 1rem;
+      p {
+        padding: 0.5rem 0;
+      }
+    }
+    .actu__footer {
+      position: absolute;
+      bottom: 1rem;
+      left: 1.4rem;
+    }
+  }
+  // Contact
+  .contact__column {
+    margin-top: 1rem;
+  }
+  .contact__map {
+    margin-top: 10rem;
+  }
+
+  // Podcast
+  .podcast__list {
+    text-align: center;
+  }
+
+  .podcast__item_flex {
+    justify-content: initial;
+  }
+  .podcast__desc {
+    padding: 1rem 0;
+  }
+
+  .podcast__flex {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+
+  .podcast__item {
+    flex-basis: 48%;
+    text-align: left;
+  }
+
+  .podcast__timeline {
+    width: 10.5rem !important;
+  }
+
+  // MJC
+  .page__mjc_content {
+    h2 {
+      padding: 1.6rem 0;
+    }
+  }
+  .page__mjc_wrapper {
+    display: flex;
+  }
+
+  .page__mjc_ext {
+    width: 25vw;
+    margin-left: 0.8rem;
+    padding-top: 2rem;
+  }
+
+  .page__mjc_flex {
+    display: flex;
+  }
+
+  .page__mjc_img {
+    width: 18vw;
+    padding-top: 0;
+    padding-right: 1rem;
+  }
+
+  // Info Jeunesse
+  .page__jeunesse_content {
+    h2 {
+      padding: 1.6rem 0;
+    }
+  }
+  .page__ij_logo {
+    max-width: 11vw;
+    padding: 0rem 1rem 1rem 1rem;
+  }
+
+  .page__ij_imgdesktop {
+    float: right;
+    width: 27vw;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    padding-top: 2rem;
+  }
+
+  .page__ij_imgmobile {
+    display: none;
+  }
+  // Trockson
+  .trockson__wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+  }
+
+  .trockson__logo,
+  .trockson__photo {
+    max-width: 300px;
+  }
+
+  .trockson__h2,
+  .trockson__h3 {
+    text-align: left;
+    padding: 1rem 0.8rem;
+  }
+
+  .trockson__info {
+    padding: 1rem;
+    position: relative;
+  }
+
+  .trockson__info::after {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 5%;
+    height: 90%;
+    width: 50px;
+    border-right: 1px solid black;
+  }
+
+  .trockson__text_left {
+    padding: 1rem;
+    position: relative;
+  }
+
+  .trockson__text_left::after {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: 5%;
+    height: 90%;
+    width: 50px;
+    border-right: 1px solid black;
+  }
+
+  .trockson__photo_desktop {
+    float: right;
+    width: 370px;
+    padding: 1.4rem 1rem 1rem;
+  }
+
+  .trockson__photo {
+    display: none;
+  }
+
+  .trockson__hr_mobile {
+    display: none;
+  }
+  
+  /*Agenda*/
+
+  .agenda__wrapper {
+    display:flex;
+    max-width: 100%;
+    .agenda__right, .agenda__middle, .agenda__left {
+      width: 33.33%;
+      .agenda__cover {
+	object-fit: cover;
+	max-width: 100%;
+	height: 100%;
+      }
+    }
+ }
+}
+
+// xl
+@media (min-width: 1280px) {
+  // Header
+  .header__title {
+    font-size: 2.8rem;
+  }
+
+  // Nav
+  .nav__link {
+    font-size: 1.3rem;
+  }
+
+  // Carousel
+  .carousel__wrapper {
+    margin: -3rem auto;
+  }
+
+  // Homepage
+  .homepage__content {
+    margin: 0.8rem 17rem;
+  }
+
+  // Actu
+  .actu__wrapper {
+    width: 900px;
+    max-width: 900px;
+    .actu__description {
+      margin-right: 36rem !important;
+    }
+    .actu__content {
+      padding: 1rem;
+    }
+    .actu__infos {
+      font-size: 2rem;
+    }
+    .actu__footer {
+      a {
+        font-size: 1.2rem;
+      }
+    }
+    .actu__footer-price {
+      margin-bottom: 1rem;
+    }
+  }
+  // Contact
+
+  .contact__column {
+    margin-top: 10rem;
+  }
+
+  // Lists
+  .list__wrapper {
+    width: 900px;
+    max-width: 900px;
+  }
+
+  // Trockson
+  .trockson__parent {
+    display: flex;
+  }
+  // Documents 
+  .page__documents_middle {
+    margin-right: 9rem;
+  }
+}
+
+// laptop
+@media (min-width: 1440px) {
+  .homepage__content {
+    margin: 0.8rem 21rem;
+  }
+
+  // Infos Jeunesse
+  .page__ij_wrapper {
+    display: flex;
+  }
+
+  .page__ij_img {
+    width: 30vw;
+  }
+
+  // Actu
+  .actu__title {
+    margin-top: -4rem;
+    padding-bottom: 0.5rem;
+  }
+  // Documents 
+  .page__documents_middle {
+    margin-right: 16rem;
+  }
+}
+
+// 2xl
+@media (min-width: 1536px) {
+  // Header
+  .header__title {
+    font-size: 3rem;
+  }
+
+  .actu__wrapper {
+    width: 1000px;
+    max-width: 1000px;
+    .actu__description {
+      margin-right: 46rem !important;
+    }
+  }
+  // List
+  .list__wrapper {
+    width: 1000px;
+    max-width: 1000px;
+ }
+}
+
+@media (min-width: 1900px) {
+  .trockson__title_actu {
+    margin-left: 4.5rem;
+  }
+
+  .podcast__timeline {
+    width: 13.5rem !important;
+  }
+  //Documents
+  .page__documents_middle {
+    margin-right: 35rem;
+  }
+}

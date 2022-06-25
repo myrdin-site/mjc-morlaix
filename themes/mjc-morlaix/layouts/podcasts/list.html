@@ -1,0 +1,90 @@
+{{ define "main" }}
+<div class="list__container">
+  <h1 class="podcast__title">{{ .Title }}</h1>
+  <div class="list__wrapper podcast__list">
+    <p class="podcast__desc">
+      <span class="podcast__desc_purple"
+        >Écoutez gratuitement et à volonté</span
+      >
+      <span class="podcast__desc_yellow">
+        les productions sonores de la MJC</span
+      >
+    </p>
+    <p class="podcast__intro">
+      Retrouvez en écoute libre, toutes les productions des Ateliers Radio, des
+      Artistes TrockSon, en captation live et interviews, ainsi que des extraits
+      de la programmation culturelle, éducative et musicale de la Maison des
+      Jeunes et de la Culture.
+    </p>
+    <div class="podcast__flex">
+      {{ $paginator := .Paginate (where .Site.RegularPages "Section" "podcasts")
+      4 }} {{ range $paginator.Pages.ByDate.Reverse }}
+      <div class="podcast__item">
+        <div class="podcast__item_flex">
+          <div class="podcast__item_picto">
+            {{ $picto := .Resources.GetMatch .Params.picto }} {{ $picto :=
+            $picto.Fit "110x110" }}
+            <img src="{{ $picto.RelPermalink }}" />
+          </div>
+          <div class="podcast__item_data">
+            <h2 class="podcast__item_title">{{ .Title }}</h2>
+            <p class="podcast__item_desc">{{ .Description }}</p>
+            <p>
+              <span class="podcast__item_author">{{ .Params.auteur }}</span>
+              <span class="podcast__item_date"
+                >{{ .Date.Local.Format "01/2006" }}</span
+              >
+            </p>
+          </div>
+        </div>
+        <div class="podcast__content">
+          {{ .Content }}
+          <span class="podcast__content_timing">{{ .Params.durée }}</span>
+        </div>
+        <div class="podcast__player">
+          <div>
+            <div class="podcast__controls">
+              <button class="podcast__player_button">
+                <img
+                  class="podcast__player_play"
+                  src="/images/podcast/play.png"
+                />
+                <img
+                  class="podcast__player_stop"
+                  src="/images/podcast/stop.png"
+                />
+                <img
+                  class="podcast__player_loop"
+                  src="/images/podcast/loop.png"
+                />
+                <img
+                  class="podcast__player_loop-true"
+                  src="/images/podcast/loop_true.png"
+                />
+              </button>
+              <input
+                type="range"
+                id="timeline"
+                class="timeline podcast__timeline"
+                max="100"
+                value="0"
+              />
+            </div>
+            {{ $podcast := .Resources.GetMatch .Params.audio }}
+            <img
+              class="podcast__player_picto"
+              src="/images/podcast/picto.png"
+            />
+            <audio
+              class="podcast__audio"
+              src="{{ $podcast.RelPermalink }}"
+            ></audio>
+          </div>
+        </div>
+      </div>
+      {{ end }} {{ template "_internal/pagination.html" . }}
+    </div>
+  </div>
+</div>
+<script src="/js/scriptPodcast.js"></script>
+{{ end }}

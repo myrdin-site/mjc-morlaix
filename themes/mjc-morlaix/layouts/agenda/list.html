@@ -1,0 +1,56 @@
+{{ define "main" }}
+<div class="page__wrapper">
+  <div class="page__agenda_content">
+    <h1>{{ .Title }}</h1>
+    <div class="agenda__header">
+      <p>
+        <strong
+          >Découvrez toute la programmation de la saison culturelle de la
+          MJC.</strong
+        >
+      </p>
+      <p>
+        En détails et par ordre chronologique, l'intégralité de la diffusion
+        culturelle de la MJC: Concerts & spectacles, Conf'Rock, ciné-concerts,
+        ciné-débat, Festi 'Blues... etc
+      </p>
+    </div>
+    {{ $paginatorAgenda := .Paginate (where .Site.RegularPages "Section"
+    "agenda") 4 }} {{ range $paginatorAgenda.Pages.ByDate }}
+    <div class="agenda__wrapper">
+      <div class="agenda__left">
+        {{ $image := .Resources.GetMatch .Params.cover }}
+        <img class="agenda__cover" src="{{ $image.RelPermalink }}" alt="" />
+      </div>
+      <div class="agenda__middle">
+        <h1>{{ .Title }}</h1>
+        <p>{{ .Summary }} [<a href="{{ .RelPermalink }}">...</a>]</p>
+        <div class="agenda__more">
+          <a href="{{ .RelPermalink }}">> En savoir plus</a>
+        </div>
+      </div>
+      <div class="agenda__right">
+        <p class="agenda__right_desc">{{ .Description }}</p>
+        <p class="agenda__right_place">{{ .Params.lieu }}</p>
+        <p class="agenda__right_date">
+          {{ .Params.date_event | time.Format ":date_long" }} / {{
+          .Params.time_event }}
+        </p>
+        <div class="agenda__footer-price">
+          {{ if (and (isset .Params "tarif_plein") (isset .Params
+          "tarif_adhérent")) }}
+          <span class="agenda__prix"
+            ><span class="agenda__indice">*</span>{{ .Params.tarif_plein }}/{{
+            .Params.tarif_adhérent }}</span
+          >
+          <span class="agenda__legende"
+            >* <strong>Tarif</strong> Non adhérents / adhérents</span
+          >
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    {{ end }} {{ template "_internal/pagination.html" . }}
+  </div>
+</div>
+{{ end }}

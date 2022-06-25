@@ -1,0 +1,70 @@
+.nav__button--close {
+  position: absolute;
+  color: white;
+  border: none;
+  background-color: transparent;
+  right: 4%;
+  top: -1.5%;
+  font-size: 2.5rem;
+}
+
+#nav__menu {
+  width: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  z-index: 100;
+  align-items: flex-end;
+  position: fixed;
+  top: 0;
+  background-color: #843d91;
+  transition: width 0.2s;
+}
+
+.nav__wrapper {
+  padding-top: 3.2rem;
+  text-align: right;
+}
+
+.nav__link {
+  list-style-type: none;
+  padding: 0.6rem;
+  font-size: 1.2rem;
+  text-align: right;
+  a {
+    color: white;
+    text-decoration: none;
+  }
+}
+
+.nav__podcasts {
+  display: block;
+  background-image: url("/images/button-podcast.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100px;
+  width: 100px;
+  margin-left: 6.4rem;
+  &:hover {
+    background-image: url("/images/button-podcast-hover.png");
+    cursor: pointer;
+  }
+}
+
+.nav__documents {
+  display: block;
+  background-image: url("/images/button-doc.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100px;
+  width: 100px;
+  margin-left: 6.4rem;
+  &:hover {
+    background-image: url("/images/button-doc-hover.png");
+    cursor: pointer;
+  }
+}
+
+.active a {
+  color: white;
+}

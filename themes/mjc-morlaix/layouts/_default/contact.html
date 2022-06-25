@@ -1,0 +1,74 @@
+{{ define "main" }}
+<div class="page__wrapper">
+  <div class="page__contact_content">
+    <h1>{{ .Title }}</h1>
+    <div class="contact__container">
+      <div class="contact__header">
+        <h2>Nous contacter</h2>
+        <p>Rejoignez-nous ou contactez-nous aux coordonnées suivantes :</p>
+      </div>
+      <div class="contact__column contact__map">
+        <iframe
+          height="350"
+          frameborder="0"
+          scrolling="no"
+          marginheight="0"
+          marginwidth="0"
+          src="https://www.openstreetmap.org/export/embed.html?bbox=-3.8270106911659245%2C48.57516081387059%2C-3.8234701752662663%2C48.57678459136711&amp;layer=mapnik&amp;marker=48.57597270913803%2C-3.825240433216095"
+          style="border: 1px solid black"
+        ></iframe
+        ><br /><small
+          ><a
+            href="https://www.openstreetmap.org/?mlat=48.57597&amp;mlon=-3.82524#map=19/48.57597/-3.82524"
+            >Voir la carte</a
+          ></small
+        >
+        <div class="contact__address">
+          <p>Maison de la Jeunesse et de la Culture</p>
+          <p>7 place du Dossen - 29600 MORLAIX</p>
+          <a href="tel:0298880994">02 98 88 09 94</a>
+        </div>
+      </div>
+      <div class="contact__column">
+        <form action="" method="POST" autocomplete="on">
+          <div class="form">
+            <label for="prenom">Prénom</label>
+            <input
+              class="form-control"
+              id="prenom"
+              type="name"
+              name="first name"
+              autocomplete="given-name"
+            />
+          </div>
+          <div class="form">
+            <label for="email">Adresse e-mail</label>
+            <input
+              class="form-control"
+              id="email"
+              type="email"
+              name="_replyto"
+              autocomplete="email"
+            />
+          </div>
+          <div class="form">
+            <label for="sujet">Sujet</label>
+            <input class="form-control" id="sujet" type="text" name="subject" />
+          </div>
+          <div class="form">
+            <label for="message">Message</label>
+            <textarea
+              class="form-control"
+              id="message"
+              type="message"
+              name="message"
+              rows="10"
+            ></textarea>
+          </div>
+          <button class="envoyer" type="submit">Envoyer</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

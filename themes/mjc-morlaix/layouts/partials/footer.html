@@ -1,0 +1,8 @@
+<footer>
+  <p class="footer">
+    {{ .Site.Copyright }} {{ $legals := .Site.GetPage "mentions-legales" }}<a
+      href="{{ $legals.Permalink }}"
+      >Mentions légales</a
+    >
+  </p>
+</footer>

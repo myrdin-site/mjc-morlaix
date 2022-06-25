@@ -1,0 +1,47 @@
+<!--Carousel Mobile-->
+<div class="carousel__mobile">
+  <div class="carousel__wrapper">
+    {{ range last 5 (where .Site.RegularPages "Section" "actu") }}
+    <div class="carousel__slide">
+      <div class="carousel__event">
+        {{ .Description }}
+        <div class="carousel__event_date">
+          {{ .Params.event_date }}
+          <span class="carousel__event_time">{{ .Params.event_time }}</span>
+        </div>
+      </div>
+      <div class="carousel__title">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </div>
+      {{ $image := .Resources.GetMatch .Params.cover }} {{ $image := $image.Fill
+      "300x150" }}
+      <img src="{{ $image.RelPermalink }}" />
+    </div>
+    {{ end }}
+  </div>
+</div>
+
+<!--Carousel Desktop-->
+<div class="carousel__desktop">
+  <div class="carousel__wrapper">
+    {{ range last 5 (where .Site.RegularPages "Section" "actu") }}
+    <div class="carousel__slide carousel__flex">
+      <div class="carousel__left">
+        <div class="carousel__title">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </div>
+        {{ $image := .Resources.GetMatch .Params.cover }} {{ $image :=
+        $image.Fill "500x260" }}
+        <img src="{{ $image.RelPermalink }}" />
+      </div>
+      <div class="carousel__right">
+        <div class="carousel__event">
+          <div class="carousel__event_desc">{{ .Description }}</div>
+          <div class="carousel__event_date">{{ .Params.event_date }}</div>
+          <div class="carousel__event_time">{{ .Params.event_time }}</div>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>

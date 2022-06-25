@@ -1,0 +1,63 @@
+.sidebar {
+  position: absolute;
+  margin-left: 1.5rem;
+  max-width: 100px;
+  top: 18rem;
+}
+
+.sidebar__documents {
+  display: block;
+  background-image: url("/images/button-doc.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100px;
+  width: auto;
+  &:hover {
+    background-image: url("/images/button-doc-hover.png");
+    cursor: pointer;
+  }
+}
+
+.sidebar__documents_active {
+  background-image: url("/images/button-doc-active.png");
+}
+
+.sidebar__podcasts {
+  display: block;
+  background-image: url("/images/button-podcast.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100px;
+  width: auto;
+  &:hover {
+    background-image: url("/images/button-podcast-hover.png");
+    cursor: pointer;
+  }
+}
+
+.sidebar__podcasts_active {
+  background-image: url("/images/button-podcast-active.png");
+}
+
+.sidebar__contacts {
+  display: block;
+  background-image: url("/images/button-contact.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 100px;
+  width: auto;
+  &:hover {
+    background-image: url("/images/button-contact-hover.png");
+    cursor: pointer;
+  }
+}
+
+.sidebar__contacts_active {
+  background-image: url("/images/button-contact-active.png");
+}
+
+.sidebar__partenaires {
+  width: auto;
+  height: 100px;
+  margin-top: 2rem;
+}

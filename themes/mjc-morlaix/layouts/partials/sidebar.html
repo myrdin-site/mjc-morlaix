@@ -1,0 +1,22 @@
+<aside class="sidebar">
+  <a href="/documents" class='sidebar__documents{{ if (eq .Section "documents")}} sidebar__documents_active {{
+	   end }}'
+    ><span class="sr-only">Documents</span></a
+  >
+  <a
+    href="/podcasts"
+    class='sidebar__podcasts{{ if (eq .Section "podcasts")}} sidebar__podcasts_active {{
+    end }}'
+    ><span class="sr-only">Podcasts</span></a
+  >
+  <a href="/contact" class='sidebar__contacts{{ if (eq .Title "Contact")}} sidebar__contacts_active {{
+    end }}'
+    ><span class="sr-only">Contacts</span></a
+  >
+  <img
+    class="sidebar__partenaires"
+    src="/images/logos-partenaires.png"
+    alt="Morlaix Communauté, Fédération régionale MJC, Ville de Morlaix,
+  Département Finistère, Préfecture du Finistère, FONJEP, Caf du Finistère"
+  />
+</aside>

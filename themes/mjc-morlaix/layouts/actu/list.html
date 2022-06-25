@@ -1,0 +1,42 @@
+{{ define "main" }}
+<div class="list__container">
+  <h1 class="actu__title">Actualités</h1>
+  {{ $paginator := .Paginate (where .Site.RegularPages "Section" "actu") 2 }} {{
+  range $paginator.Pages.ByDate }}
+  <div class="actu__wrapper">
+    <div class="actu__description">{{ .Description }}</div>
+    {{ $image := .Resources.GetMatch .Params.cover }} {{ $image := $image.Fill
+    "365x200" }}
+    <img class="actu__cover" src="{{ $image.RelPermalink }}" />
+    {{ $imageDesktop := .Resources.GetMatch .Params.cover }} {{ $imageDesktop :=
+    $imageDesktop.Fill "300x300 Smart" }}
+    <img class="actu__cover_desktop" src="{{ $imageDesktop.RelPermalink }}" />
+    <div class="actu__content">
+      <h2>{{ .Title }}</h2>
+      <p>{{ .Summary }} [<a href="{{ .RelPermalink }}">...</a>]</p>
+    </div>
+    <div class="actu__footer">
+      <div class="actu__infos">
+        <span class="actu__lieu">{{ .Params.lieu }}</span> {{ .Params.event_date
+        }} {{ .Params.event_time }}
+      </div>
+      <div class="actu__footer-price">
+        {{ if (and (isset .Params "prix_plein") (isset .Params "prix_abonné"))
+        }}
+        <span class="actu__prix"
+          ><span class="actu__indice">*</span>{{ .Params.prix_plein }}/{{
+          .Params.prix_abonné }}</span
+        >
+        <span class="actu__legende"
+          >* <strong>Tarif</strong> Non adhérents / adhérents</span
+        >
+        {{ end }}
+      </div>
+      <div>
+        <a href="{{ .RelPermalink }}">> En savoir plus</a>
+      </div>
+    </div>
+  </div>
+  {{ end }} {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }}

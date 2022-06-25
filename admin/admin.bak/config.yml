@@ -1,0 +1,84 @@
+backend:
+  name: github
+  branch: main
+  repo: 
+
+locale: 'fr'
+
+media_folder: "static/media"
+public_folder: "/media/uploads"
+
+collections:
+  - name: "accueil"
+    label: "Accueil"
+    file: "content/_index.md"
+    create: false
+    fields: 
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Contenu", name: "body", widget: "markdown" }
+  - name: "settings"
+    label: "Données site web"
+    create: false
+    folder: "data"
+    fields: 
+      - { label: "Audio accueil", name: "podcast_site", widget: "file" }
+  - name: "actu"
+    label: "Actualités"
+    folder: "content/actu"
+    create: true
+    media_folder: "img"
+    public_folder: "img"
+    fields:
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Image d'accroche", name:"cover", widget: "image" }
+      - { label: "Date", name: "event_date", widget: "date" }
+      - { label: "Time", name: "event_time", widget: "datetime", default: "", time_format: "HH:mm", picker_utc: false }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Contenu", name: "body", widget: "markdown" }
+  - name: "trockson"
+    label: "Trockson"
+    folder: "content/trockson"
+    create: true
+    media_folder: "img"
+    public_folder: "img"
+    fields: 
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Image d'accroche", name: "cover", widget: "image" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Date", name: "event_date", widget: "date" }
+      - { label: "Time", name: "event_time", widget: "datetime", default: "", time_format: "HH:mm", picker_utc: false }
+      - { label: "Lieu", name: "lieu", widget: "string" }
+      - { label: "Plein Tarif", name: "prix_plein", widget: "string" }
+      - { label: "Tarif Abonné", name: "prix_abonné", widget: "string" }
+  - name: "podcast"
+    label: "Podcasts"
+    folder: "content/podcasts"
+    create: true
+    fields:
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Pictogramme", name: "picto", widget: "image", media_folder: "img" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Auteur", name: "auteur", widget: "string" }
+      - { label: "Date", name: "date", widget: "date" }
+      - { label: "Durée", name: "durée", widget: "string" }
+      - { label: "Audio", name: "audio", widget: "file", media_folder: "audio" }
+  - name: "activites"
+    label: "Activités"
+    folder: "content/activites"
+    create: true
+    fields: 
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Pictogramme", name: "picto", widget: "img", media_folder: "img" }
+      - { label: "Public", name: "public", widget: "select", multiple: "true", min: 1, max: 3, options: ["enfants", "adolescents", "adultes"] }
+      - { label: "Animateur·ice", name: "anim", widget: "string" }
+      - { label: "Prix", name: "price", widget: "string" }
+      - { label: "Créneau(x)", name: "creneau", widget: "markdown" }
+      - { label: "Date de début", name: "starting_date", widget: "date" }
+  - name: "legals"
+    label: "Mentions Légales"
+    file: "content/mentions-legales"
+    create: false
+    fields: 
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Contenu", name: "body", widget: "markdown" }
+

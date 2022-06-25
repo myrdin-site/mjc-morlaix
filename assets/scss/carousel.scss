@@ -1,0 +1,53 @@
+.carousel__wrapper {
+  max-width: 300px;
+  margin: auto;
+  margin-top: 7rem;
+}
+
+.carousel__event {
+  min-height: 170px;
+  min-width: 230px;
+  color: white;
+  padding: 0.8rem;
+  background-color: #5b6121;
+  font-size: 1.3rem;
+  font-weight: 800;
+  position: relative;
+  .carousel__event_date {
+    position: absolute;
+    bottom: 0;
+    padding-bottom: 0.3rem;
+    color: #dcdc24;
+    font-size: 2.4rem;
+    .carousel__event_time {
+      color: white;
+      font-size: 3rem;
+    }
+  }
+}
+
+.carousel__title {
+  font-family: Futura, Futura-Medium, "Futura Medium", "Centhury Gothic",
+    CenthuryGothic, "Apple Gothic";
+  position: relative;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 1000;
+  font-size: 2em;
+  background-color: white;
+  color: #dadc3e;
+  text-shadow: -1.1px 0 black, 0 1.1px black, 1.1px 0 black, 0 -1.1px black;
+  z-index: 1;
+  min-height: 128px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  a {
+    color: #dadc3e;
+  }
+}
+
+.carousel__slide {
+  border: 10px solid #3e1e5a;
+  overflow: hidden;
+}

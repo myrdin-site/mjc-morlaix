@@ -1,0 +1,59 @@
+/* Header */
+
+.header__wrapper {
+  position: relative;
+  background-color: #3a0059;
+}
+
+.header__banner {
+  width: 100vw;
+  height: auto;
+}
+
+.header__button {
+  position: absolute;
+  background-color: transparent;
+  color: white;
+  font-size: 2.5rem;
+  border: none;
+  left: -0.5%;
+  top: -6.5%;
+}
+
+/* Title */
+
+.header__title {
+  font-size: 2rem;
+  text-align: center;
+  padding-bottom: 0.8rem;
+}
+
+.header__title_white {
+  color: white;
+}
+
+.header__title_light {
+  font-weight: 100;
+}
+
+.header__title_city {
+  color: #8e4190;
+}
+
+/* Header Desktop */
+
+.header__wrapper_desktop {
+  background-image: url("/images/banner.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 290px;
+  padding: 0;
+  margin: 0;
+}
+
+/* Player */
+
+.header__player {
+  margin-top: -10rem;
+  margin-left: 1.1rem;
+}

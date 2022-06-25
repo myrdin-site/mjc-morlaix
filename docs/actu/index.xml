@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Actualités on MJC Morlaix</title>
+    <link>https://myrdn.github.io/mjc-morlaix/actu/</link>
+    <description>Recent content in Actualités on MJC Morlaix</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2022 © MJC Morlaix</copyright><atom:link href="https://myrdn.github.io/mjc-morlaix/actu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Concert</title>
+      <link>https://myrdn.github.io/mjc-morlaix/actu/concert-test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://myrdn.github.io/mjc-morlaix/actu/concert-test/</guid>
+      <description>Lorem repudiandae numquam doloribus suscipit odit A facilis delectus ad architecto error. Odit impedit nihil doloribus nulla nostrum odit. Pariatur perferendis tempore dolore numquam quas quae.</description>
+    </item>
+    
+    <item>
+      <title>Devil JO and the backdoormen</title>
+      <link>https://myrdn.github.io/mjc-morlaix/actu/concert-blue-rock/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://myrdn.github.io/mjc-morlaix/actu/concert-blue-rock/</guid>
+      <description>Un rock aux origines multiples. Depuis 2008, ce quintet Stéphanois façonne son répertoire en puisant ses racines dans la musique rock du 20ème siècle Amet deleniti nostrum corrupti assumenda error.</description>
+    </item>
+    
+    <item>
+      <title>Vive le sport</title>
+      <link>https://myrdn.github.io/mjc-morlaix/actu/vive-le-sport/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://myrdn.github.io/mjc-morlaix/actu/vive-le-sport/</guid>
+      <description>Dolor id repudiandae enim optio laudantium Mollitia deserunt commodi reprehenderit tempora mollitia amet nam. Ut sunt rem corrupti unde facere nostrum voluptates?</description>
+    </item>
+    
+  </channel>
+</rss>

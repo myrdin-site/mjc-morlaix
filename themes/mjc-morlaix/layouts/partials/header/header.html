@@ -1,0 +1,44 @@
+<header>
+  <!--Mobile-->
+  <div class="header__wrapper">
+    {{ $yeux := resources.Get "images/yeux.jpg" }}
+    <img
+      class="header__banner"
+      src="{{ $yeux.RelPermalink }}"
+      alt=""
+      aria-hidden="true"
+    />
+    <button
+      class="header__button"
+      id="open"
+      aria-controls="nav__menu"
+      aria-expanded="false"
+    >
+      ☰
+    </button>
+    <h1 class="header__title">
+      <a href="{{ .Site.BaseURL }}"
+        ><span class="header__title_white"
+          >Maison <span class="header__title_light">des</span> Jeunes
+          <span class="header__title_light">et de la</span>
+          Culture </span
+        ><span class="header__title_city">Morlaix</span></a
+      >
+    </h1>
+    {{ partial "header/header-nav.html" . }}
+  </div>
+  <!--Desktop-->
+  <div class="header__wrapper_desktop">
+    <h1 class="header__title">
+      <a href="{{ .Site.BaseURL }}">
+        <span class="header__title_white"
+          >Maison <span class="header__title_light">des</span> Jeunes
+          <span class="header__title_light">et de la</span>
+          Culture </span
+        ><span class="header__title_city">Morlaix</span>
+      </a>
+    </h1>
+    {{ partial "header/header-nav.html" . }}
+  </div>
+  <div class="header__player">{{ partial "header/header-player.html" . }}</div>
+</header>
