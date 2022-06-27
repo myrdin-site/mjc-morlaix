@@ -1,7 +1,7 @@
 ---
 title: Concert
 cover: img/music.jpg
-event_date: 8 mai
+event_date: 9 mai
 event_time: 18h
 description: Test concert 
 ---
