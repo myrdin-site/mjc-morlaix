@@ -12,17 +12,14 @@ public_folder: /media/uploads
 collections:
   - name: "accueil"
     label: "Accueil"
-    file: "content/_index.md"
-    create: false
-    fields: 
-      - { label: "Titre", name: "title", widget: "string" }
-      - { label: "Contenu", name: "body", widget: "markdown" }
-  - name: "settings"
-    label: "Données site web"
-    create: false
-    folder: "data"
-    fields: 
-      - { label: "Audio accueil", name: "podcast_site", widget: "file" }
+    files: 
+      - name: "Accueil"
+        label: "accueil"
+        file: "content/_index.md"
+        create: false
+        fields: 
+          - { label: "Titre", name: "title", widget: "string" }
+          - { label: "Contenu", name: "body", widget: "markdown" }
   - name: "actu"
     label: "Actualités"
     folder: "content/actu"
@@ -31,7 +28,7 @@ collections:
     public_folder: "img"
     fields:
       - { label: "Titre", name: "title", widget: "string" }
-      - { label: "Image d'accroche", name:"cover", widget: "image" }
+      - { label: "Image d'accroche", name: "cover", widget: "image" }
       - { label: "Date", name: "event_date", widget: "date" }
       - { label: "Time", name: "event_time", widget: "datetime", default: "", time_format: "HH:mm", picker_utc: false }
       - { label: "Description", name: "description", widget: "string" }
@@ -65,21 +62,24 @@ collections:
       - { label: "Audio", name: "audio", widget: "file", media_folder: "audio" }
   - name: "activites"
     label: "Activités"
+    slug: "{{slug}}"
     folder: "content/activites"
     create: true
     fields: 
       - { label: "Titre", name: "title", widget: "string" }
       - { label: "Pictogramme", name: "picto", widget: "img", media_folder: "img" }
-      - { label: "Public", name: "public", widget: "select", multiple: "true", min: 1, max: 3, options: ["enfants", "adolescents", "adultes"] }
+      - { label: "Public", name: "public", widget: "select", multiple: true, min: 1, max: 3, options: ["enfants", "adolescents", "adultes"] }
       - { label: "Animateur·ice", name: "anim", widget: "string" }
       - { label: "Prix", name: "price", widget: "string" }
       - { label: "Créneau(x)", name: "creneau", widget: "markdown" }
       - { label: "Date de début", name: "starting_date", widget: "date" }
   - name: "legals"
     label: "Mentions Légales"
-    file: "content/mentions-legales"
-    create: false
-    fields: 
-      - { label: "Titre", name: "title", widget: "string" }
-      - { label: "Contenu", name: "body", widget: "markdown" }
-
+    files:
+      - name: "legals"
+        label: "Mentions Legales"
+        file: "content/mentions-legales.md"
+        create: false
+        fields: 
+          - { label: "Titre", name: "title", widget: "string" }
+          - { label: "Contenu", name: "body", widget: "markdown" }
