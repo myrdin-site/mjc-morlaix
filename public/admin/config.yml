@@ -7,6 +7,8 @@ locale: 'fr'
 media_folder: static/media
 public_folder: /media/uploads
 
+publish_mode: editorial_workflow
+
 collections:
   - name: "accueil"
     label: "Accueil"
@@ -104,8 +106,8 @@ collections:
       - { label: "Public", name: "public", widget: "select", multiple: true, min: 1, max: 3, options: ["enfants", "adolescents", "adultes"] }
       - { label: "Animateur·ice", name: "anim", widget: "string" }
       - { label: "Prix", name: "price", widget: "string" }
-      - { label: "Créneau(x)", name: "creneau", widget: "markdown" }
       - { label: "Date de début", name: "starting_date", widget: "date" }
+      - { label: "Créneau(x)", name: "creneau", widget: "markdown" }
   - name: "legals"
     label: "Mentions Légales"
     files:
