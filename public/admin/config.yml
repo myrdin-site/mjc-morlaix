@@ -82,7 +82,7 @@ collections:
     create: true
     fields: 
       - { label: "Titre", name: "title", widget: "string" }
-      - { label: "Pictogramme", name: "picto", widget: "img", media_folder: "img" }
+      - { label: "Pictogramme", name: "picto", widget: "image", media_folder: "img" }
       - { label: "Public", name: "public", widget: "select", multiple: true, min: 1, max: 3, options: ["enfants", "adolescents", "adultes"] }
       - { label: "Animateur·ice", name: "anim", widget: "string" }
       - { label: "Prix", name: "price", widget: "string" }
