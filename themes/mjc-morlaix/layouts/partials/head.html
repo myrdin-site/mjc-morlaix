@@ -17,5 +17,4 @@
   {{ $title := print .Site.Title " | " .Title }} {{ if .IsHome }}{{ $title =
   .Site.Title }}{{ end }} {{ partial "favicon.html" . }}
   <title>{{ $title }}</title>
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
