@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: main
   repo: myrdn/mjc-morlaix
-  base_url: https://62bd7a908eca53730ee5d258--stunning-meringue-5e3b4f.netlify.app/
+  base_url: https://stunning-meringue-5e3b4f.netlify.app/
 
 locale: 'fr'
 
