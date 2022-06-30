@@ -54,6 +54,24 @@ collections:
       - { label: "Prix", name: "prix_plein", widget: "string" }
       - { label: "Prix Adhérent·e", name: "prix_abonné", widget: "string" }
       - { label: "Contenu", name: "body", widget: "markdown" }
+  - name: "agenda"
+    label: "Agenda"
+    folder: "content/agenda"
+    create: true
+    slug: "{{slug}}"
+    path: "{{slug}}/index"
+    media_folder: "img"
+    public_folder: "img"
+    extension: "md"
+    fields: 
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Image d'accroche", name: "cover", widget: "image" }
+      - { label: "Date et heure", name: "event_time", widget: "datetime", default: "", time_format: "HH:mm", picker_utc: false }
+      - { label: "Lieu", name: "lieu", widget: "string" }
+      - { label: "Prix", name: "prix_plein", widget: "string" }
+      - { label: "Prix Adhérent·e", name: "prix_abonné", widget: "string" }
+      - { label: "Contenu", name: "body", widget: "markdown" }
   - name: "podcast"
     label: "Podcasts"
     folder: "content/podcasts"

@@ -33,15 +33,15 @@
         <p class="agenda__right_desc">{{ .Description }}</p>
         <p class="agenda__right_place">{{ .Params.lieu }}</p>
         <p class="agenda__right_date">
-          {{ .Params.date_event | time.Format ":date_long" }} / {{
-          .Params.time_event }}
+          {{ .Params.event_time | time.Format ":date_long" }} / {{
+          .Params.event_time | time.Format ":time_short"}}
         </p>
         <div class="agenda__footer-price">
           {{ if (and (isset .Params "tarif_plein") (isset .Params
           "tarif_adhérent")) }}
           <span class="agenda__prix"
-            ><span class="agenda__indice">*</span>{{ .Params.tarif_plein }}/{{
-            .Params.tarif_adhérent }}</span
+            ><span class="agenda__indice">*</span>{{ .Params.tarif_plein }}€/{{
+            .Params.tarif_adhérent }}€</span
           >
           <span class="agenda__legende"
             >* <strong>Tarif</strong> Non adhérents / adhérents</span
