@@ -24,6 +24,7 @@ collections:
     create: true
     nested: 
       - depth: 100
+    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
     media_folder: "img"
     public_folder: "img"
     fields:
