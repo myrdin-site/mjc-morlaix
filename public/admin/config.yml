@@ -22,7 +22,7 @@ collections:
     label: "Actualités"
     folder: "content/actu"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     path: "{{slug}}/index"
     media_folder: "img"
     public_folder: "img"
@@ -38,8 +38,11 @@ collections:
     label: "Trockson"
     folder: "content/trockson"
     create: true
+    slug: "{{slug}}"
+    path: "{{slug}}/index"
     media_folder: "img"
     public_folder: "img"
+    extension: "md"
     fields: 
       - { label: "Titre", name: "title", widget: "string" }
       - { label: "Image d'accroche", name: "cover", widget: "image" }
@@ -52,6 +55,11 @@ collections:
   - name: "podcast"
     label: "Podcasts"
     folder: "content/podcasts"
+    slug: "{{slug}}"
+    path: "{{slug}}/index"
+    media_folder: "media"
+    public_folder: "media"
+    extension: "md"
     create: true
     fields:
       - { label: "Titre", name: "title", widget: "string" }
@@ -65,6 +73,11 @@ collections:
     label: "Activités"
     slug: "{{slug}}"
     folder: "content/activites"
+    slug: "{{slug}}"
+    path: "{{slug}}/index"
+    media_folder: "media"
+    public_folder: "media"
+    extension: "md"
     create: true
     fields: 
       - { label: "Titre", name: "title", widget: "string" }
