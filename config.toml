@@ -1,4 +1,4 @@
-baseURL = 'http://thriving-pony-43b8ee.netlify.app'
+baseURL = 'https://thriving-pony-43b8ee.netlify.app'
 languageCode = 'en-us'
 defaultContentLanguage = "fr"
 title = 'MJC Morlaix'
