@@ -1,4 +1,4 @@
-baseURL = 'https://stunning-meringue-5e3b4f.netlify.app/'
+baseURL = /
 languageCode = 'en-us'
 defaultContentLanguage = "fr"
 title = 'MJC Morlaix'
