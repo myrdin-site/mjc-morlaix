@@ -22,9 +22,7 @@ collections:
     label: "Actualités"
     folder: "content/actu"
     create: true
-    nested: 
-      - depth: 100
-    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+    path: "{{slug}}/index"
     media_folder: "img"
     public_folder: "img"
     fields:
