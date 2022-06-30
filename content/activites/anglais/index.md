@@ -10,9 +10,9 @@ description: "À travers l'histoire de l'Art et de ses artistes, découverte de
   contiance en lui."
 anim: Étiennette DESTABLE
 price: 114€  à 172€ /an
+starting_date: 2021-09-20T15:04:22.242Z
 creneau: |-
   # JEUDI
 
   Adultes / 16 ans + > **18H / 19H30**
-starting_date: 2022-06-30T15:04:22.242Z
 ---
