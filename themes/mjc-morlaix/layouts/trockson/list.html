@@ -231,9 +231,8 @@
       <div class="actu__footer">
         <div class="actu__infos">
           <span class="actu__lieu">{{ .Params.lieu }}</span>
-	{{ .Params.event_time | time.Format ":date_long" }} {{ .Params.event_time | time.Format ":time_short"
-	}}
-
+          {{ .Params.event_time | time.Format ":date_long" }} {{
+          .Params.event_time | time.Format ":time_short" }}
         </div>
         <div class="actu__footer-price">
           {{ if (and (isset .Params "prix_plein") (isset .Params "prix_abonné"))

@@ -37,8 +37,12 @@
       <div class="carousel__right">
         <div class="carousel__event">
           <div class="carousel__event_desc">{{ .Description }}</div>
-	  <div class="carousel__event_date">{{ .Params.event_time | time.Format ":date_short" }}</div>
-          <div class="carousel__event_time">{{ .Params.event_time | time.Format ":time_short" }}</div>
+          <div class="carousel__event_date">
+            {{ .Params.event_time | time.Format ':date_short' }}
+          </div>
+          <div class="carousel__event_time">
+            {{ .Params.event_time | time.Format ":time_short" }}
+          </div>
         </div>
       </div>
     </div>
