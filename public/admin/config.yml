@@ -71,7 +71,6 @@ collections:
       - { label: "Audio", name: "audio", widget: "file", media_folder: "audio" }
   - name: "activites"
     label: "Activités"
-    slug: "{{slug}}"
     folder: "content/activites"
     slug: "{{slug}}"
     path: "{{slug}}/index"
