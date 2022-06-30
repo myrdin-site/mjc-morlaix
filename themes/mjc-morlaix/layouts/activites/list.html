@@ -43,7 +43,7 @@
         <div>{{ .Params.creneau | markdownify }}</div>
         <p class="activites__footer">
           <span class="activites__starting">Début des ateliers : </span>
-	  <span class="activites__starting_date">{{ .Params.starting_date | time.Format ":date_full" }}</span>
+	  {{ .Params.starting_date | time.Format ":date_full" }}
         </p>
       </div>
     </div>
