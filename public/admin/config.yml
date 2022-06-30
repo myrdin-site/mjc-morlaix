@@ -76,8 +76,8 @@ collections:
     folder: "content/activites"
     slug: "{{slug}}"
     path: "{{slug}}/index"
-    media_folder: "media"
-    public_folder: "media"
+    media_folder: "img"
+    public_folder: "img"
     extension: "md"
     create: true
     fields: 
