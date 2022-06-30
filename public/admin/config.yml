@@ -22,7 +22,7 @@ collections:
     label: "Actualités"
     folder: "content/actu"
     create: true
-    slug: "{{slug}}/index"
+    path: "{{slug}}/index"
     media_folder: "img"
     public_folder: "img"
     fields:
