@@ -1,12 +1,11 @@
 ---
 title: Concert Rap
 cover: img/cover.jpg
-event_time: 18h
-event_date: "2022-06-22"
+event_time: "2022-09-12" 
 description: Ceci est un test
 lieu: Auditorium
-prix_plein: 10€
-prix_abonné: 6€
+prix_plein: 10
+prix_abonné: 6
 ---
 Amet repudiandae tenetur tempora architecto earum, officia? Maxime adipisci minima non nisi reprehenderit
 error. Delectus nemo unde culpa eveniet voluptates Ipsum quisquam consequuntur doloremque vero at,

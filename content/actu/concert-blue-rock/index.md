@@ -1,12 +1,11 @@
 ---
 title: Devil JO and the backdoormen
 cover: img/devilJo.png
-event_date: vendredi 13 mai
-event_time: 20h30 
+event_time: "2022-09-22" 
 description: Concert Blues/Rock
 lieu: Auditorium
-prix_plein: 10€
-prix_abonné: 6€
+prix_plein: 10
+prix_abonné: 6
 ---
 
 **Un rock aux origines multiples. Depuis 2008, ce quintet Stéphanois façonne son répertoire en

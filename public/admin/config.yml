@@ -29,10 +29,12 @@ collections:
     extension: "md"
     fields:
       - { label: "Titre", name: "title", widget: "string" }
-      - { label: "Image d'accroche", name: "cover", widget: "image" }
-      - { label: "Date", name: "event_date", widget: "date" }
-      - { label: "Time", name: "event_time", widget: "datetime", default: "", time_format: "HH:mm", picker_utc: false }
       - { label: "Description", name: "description", widget: "string" }
+      - { label: "Image d'accroche", name: "cover", widget: "image" }
+      - { label: "Date et heure", name: "event_time", widget: "datetime", default: "", time_format: "HH:mm", picker_utc: false }
+      - { label: "Lieu", name: "lieu", widget: "string" }
+      - { label: "Prix", name: "prix_plein", widget: "number" }
+      - { label: "Prix Adhérent·e", name: "prix_abonné", widget: "number" }
       - { label: "Contenu", name: "body", widget: "markdown" }
   - name: "trockson"
     label: "Trockson"
@@ -45,13 +47,13 @@ collections:
     extension: "md"
     fields: 
       - { label: "Titre", name: "title", widget: "string" }
-      - { label: "Image d'accroche", name: "cover", widget: "image" }
       - { label: "Description", name: "description", widget: "string" }
-      - { label: "Date", name: "event_date", widget: "date" }
-      - { label: "Time", name: "event_time", widget: "datetime", default: "", time_format: "HH:mm", picker_utc: false }
+      - { label: "Image d'accroche", name: "cover", widget: "image" }
+      - { label: "Date et heure", name: "event_time", widget: "datetime", default: "", time_format: "HH:mm", picker_utc: false }
       - { label: "Lieu", name: "lieu", widget: "string" }
-      - { label: "Plein Tarif", name: "prix_plein", widget: "string" }
-      - { label: "Tarif Abonné", name: "prix_abonné", widget: "string" }
+      - { label: "Prix", name: "prix_plein", widget: "string" }
+      - { label: "Prix Adhérent·e", name: "prix_abonné", widget: "string" }
+      - { label: "Contenu", name: "body", widget: "markdown" }
   - name: "podcast"
     label: "Podcasts"
     folder: "content/podcasts"
