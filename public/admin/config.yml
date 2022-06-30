@@ -108,6 +108,7 @@ collections:
       - { label: "Prix", name: "price", widget: "string" }
       - { label: "Date de début", name: "starting_date", widget: "datetime" }
       - { label: "Créneau(x)", name: "creneau", widget: "markdown" }
+      - { label: "Description", name: "description", widget: "string" }
   - name: "legals"
     label: "Mentions Légales"
     files:
