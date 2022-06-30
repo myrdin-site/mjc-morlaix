@@ -33,8 +33,8 @@ collections:
       - { label: "Image d'accroche", name: "cover", widget: "image" }
       - { label: "Date et heure", name: "event_time", widget: "datetime", default: "", time_format: "HH:mm", picker_utc: false }
       - { label: "Lieu", name: "lieu", widget: "string" }
-      - { label: "Prix", name: "prix_plein", widget: "number" }
-      - { label: "Prix Adhérent·e", name: "prix_abonné", widget: "number" }
+      - { label: "Prix", name: "prix_plein", widget: "number", min: 1 }
+      - { label: "Prix Adhérent·e", name: "prix_abonné", widget: "number", min: 1 }
       - { label: "Contenu", name: "body", widget: "markdown" }
   - name: "trockson"
     label: "Trockson"
@@ -51,8 +51,8 @@ collections:
       - { label: "Image d'accroche", name: "cover", widget: "image" }
       - { label: "Date et heure", name: "event_time", widget: "datetime", default: "", time_format: "HH:mm", picker_utc: false }
       - { label: "Lieu", name: "lieu", widget: "string" }
-      - { label: "Prix", name: "prix_plein", widget: "number" }
-      - { label: "Prix Adhérent·e", name: "prix_abonné", widget: "number" }
+      - { label: "Prix", name: "prix_plein", widget: "number", min: 1 }
+      - { label: "Prix Adhérent·e", name: "prix_abonné", widget: "number", min: 1 }
       - { label: "Contenu", name: "body", widget: "markdown" }
   - name: "agenda"
     label: "Agenda"
@@ -69,8 +69,8 @@ collections:
       - { label: "Image d'accroche", name: "cover", widget: "image" }
       - { label: "Date et heure", name: "event_time", widget: "datetime", default: "", time_format: "HH:mm", picker_utc: false }
       - { label: "Lieu", name: "lieu", widget: "string" }
-      - { label: "Prix", name: "prix_plein", widget: "number" }
-      - { label: "Prix Adhérent·e", name: "prix_abonné", widget: "number" }
+      - { label: "Prix", name: "prix_plein", widget: "number", min: 1 }
+      - { label: "Prix Adhérent·e", name: "prix_abonné", widget: "number", min: 1 }
       - { label: "Contenu", name: "body", widget: "markdown" }
   - name: "podcast"
     label: "Podcasts"
