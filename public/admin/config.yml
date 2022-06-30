@@ -22,7 +22,8 @@ collections:
     label: "Actualités"
     folder: "content/actu"
     create: true
-    path: "{{slug}}/index"
+    nested: 
+      - depth: 100
     media_folder: "img"
     public_folder: "img"
     fields:
