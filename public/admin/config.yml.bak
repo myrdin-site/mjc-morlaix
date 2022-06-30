@@ -22,9 +22,11 @@ collections:
     label: "Actualités"
     folder: "content/actu"
     create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     path: "{{slug}}/index"
     media_folder: "img"
     public_folder: "img"
+    extension: "md"
     fields:
       - { label: "Titre", name: "title", widget: "string" }
       - { label: "Image d'accroche", name: "cover", widget: "image" }
