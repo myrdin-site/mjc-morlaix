@@ -1,17 +1,26 @@
 ---
-title: Atelier couture
-picto: img/comediemusicale.png
+title: École de Cirque
+picto: img/cirque.png
 public:
+  - enfants
+  - adolescents
   - adultes
-anim: Rozenn GOURET
-price: 102€  à 202€ /AN
-starting_date: 2021-09-23T12:00:56.123Z
+anim: Cirque à Léon
+price: 114€  à 260€ /AN
+starting_date: 2021-09-15T08:00:56.123Z
 creneau: |-
-  # JEUDI
-  Adultes > **14h00 / 16h00 - 16h15 / 18h15 - 18h30 / 20h30**
-description: L’animatrice vous accompagne au gré de votre création dans la
-  conception  de vos travaux de couture. Apprenez  à utiliser un patron pour
-  l’adapter à vos mesures, couper, coudre et soigner vos finitions. Matériel et
-  machines à coudre à disposition.  Ouvrages techniques et matériaux de
-  récupération peuvent aider à vos créations.
+  # MERCREDI
+  Collège Saint Augustin
+  4/5 ans > **10h00 / 11h00** 6/7 ans > **14h00 / 15h45**
+  8/12 ans > **17h00 / 18h45** adultes/13 ans + **18h45 / 20h30**
+
+  # MERCREDI
+   École E. Cloarec à Ploujean.  
+  4 / 5 ans > **10h00 / 11h00**  -  6 / 9 ans > **11h00 / 12h30**
+description: "À partir de 4 ans : approche par un travail sur le corps et son
+  expressivité, la manipulation d’objets et le travail de l’équilibre.
+  Adolescents et adultes : découverte des arts de la scène et de la piste,
+  développement des capacités physiques (souplesse, équilibre, agilité,
+  tonicité) et d’expression et mise en avant des qualités artistiques de
+  chacun."
 ---
