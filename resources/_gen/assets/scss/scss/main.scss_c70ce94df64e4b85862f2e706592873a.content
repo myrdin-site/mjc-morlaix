@@ -744,6 +744,9 @@ input[type="range"]:focus::-moz-range-thumb {
     .activites__right .activites_description:first-line {
       font-weight: bold; }
 
+.activites__creneau {
+  margin-bottom: 2rem; }
+
 .activites__anim,
 .activites__day,
 .activites__age {
