@@ -2,7 +2,7 @@
 title: Ateliers Santé
 picto: img/ateliersante.png
 public:
-  - adolescents
+  - adultes
 anim: Cap Santé
 price: 7€ à 14€ /Séance
 starting_date: 2021-11-19T17:00:14.923Z
