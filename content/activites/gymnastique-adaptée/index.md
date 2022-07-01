@@ -5,7 +5,7 @@ public:
   - adultes
 anim: Renaud CUDENNEC
 price: 57€  à 92€ /AN
-starting_date: 2022-07-01T10:03:40.804Z
+starting_date: 2021-09-15T08:00:00.000Z
 creneau: >+
   # MERCREDI
 
