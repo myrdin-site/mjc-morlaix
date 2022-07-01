@@ -5,7 +5,7 @@ public:
   - adultes
 anim: Véronique FAUQUET
 price: 96€  à 157€ /AN
-starting_date: 2022-07-01T10:31:18.113Z
+starting_date: 2021-09-16T10:15:00.000Z
 creneau: |-
   # JEUDI
   Adultes / 15 ans et + > **12h15 / 13h15 - 14h00 / 15h00**
