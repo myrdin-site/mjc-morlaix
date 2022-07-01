@@ -1,5 +1,5 @@
 ---
-title: Arts Santé
+title: Ateliers Santé
 picto: img/ateliersante.png
 public:
   - adolescents
