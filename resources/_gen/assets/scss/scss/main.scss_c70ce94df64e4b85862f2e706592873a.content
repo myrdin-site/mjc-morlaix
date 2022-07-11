@@ -26,12 +26,15 @@ body {
   flex-direction: column; }
 
 a {
-  color: #8e4190; }
+  color: #3e6b6c; }
+
+a:hover {
+  color: #5cb0cb; }
 
 /* Header */
 .header__wrapper {
   position: relative;
-  background-color: #3a0059; }
+  background-color: #1b3f47; }
 
 .header__banner {
   width: 100vw;
@@ -59,7 +62,7 @@ a {
   font-weight: 100; }
 
 .header__title_city {
-  color: #8e4190; }
+  color: #5cb0cb; }
 
 /* Header Desktop */
 .header__wrapper_desktop {
@@ -93,7 +96,7 @@ a {
   align-items: flex-end;
   position: fixed;
   top: 0;
-  background-color: #843d91;
+  background-color: #1b3f47;
   transition: width 0.2s; }
 
 .nav__wrapper {
