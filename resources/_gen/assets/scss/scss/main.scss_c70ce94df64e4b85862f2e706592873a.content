@@ -43,8 +43,8 @@ a {
   color: white;
   font-size: 2.5rem;
   border: none;
-  left: -0.5%;
-  top: -6.5%; }
+  left: 1.5%;
+  top: -3.5%; }
 
 /* Title */
 .header__title {
