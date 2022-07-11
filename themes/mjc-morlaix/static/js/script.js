@@ -24,7 +24,7 @@ $(document).ready(function () {
   $(".carousel__wrapper").slick({
     dots: true,
     autoplay: true,
-    autoplaySpeed: 7000,
+    autoplaySpeed: 2600,
   });
 });
 
