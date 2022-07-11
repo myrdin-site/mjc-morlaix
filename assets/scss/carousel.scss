@@ -51,3 +51,17 @@
   border: 10px solid #1b3f47;
   overflow: hidden;
 }
+
+.slick-next:focus .slick-next-icon,.slick-next:focus .slick-prev-icon,.slick-prev:focus
+.slick-next-icon,.slick-prev:focus .slick-prev-icon {
+  color: #5cb0cb;
+}
+
+.slick-dots li button:focus .slick-dot-icon:before {
+  color: #5cb0cb;
+}
+
+.slick-autoplay-toggle-button:focus {
+  color: #5cb0cb;
+}
+
