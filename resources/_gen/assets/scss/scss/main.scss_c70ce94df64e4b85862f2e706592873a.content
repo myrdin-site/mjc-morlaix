@@ -736,18 +736,24 @@ input[type="range"]:focus::-moz-range-thumb {
   margin-top: 1.6rem;
   border: 1px solid #a3a8ab; }
 
-.activites__left:nth-child(odd) {
+.activites__header strong {
+  font-size: 1.6rem; }
+
+.activites__left {
   background-color: #f9ac1a;
   color: white;
   padding: 1rem; }
-  .activites__left:nth-child(odd) h2 {
+  .activites__left h2 {
     font-size: 2rem; }
-  .activites__left:nth-child(odd) img {
+  .activites__left img {
     padding: 1rem 0; }
-  .activites__left:nth-child(odd) ul {
+  .activites__left ul {
     list-style-type: none;
     text-align: right;
     font-size: 1.2rem; }
+
+.activites__wrapper:nth-child(even) > .activites__left {
+  background-color: #39667d; }
 
 .activites__right {
   padding: 1rem; }

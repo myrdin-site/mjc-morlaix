@@ -235,7 +235,13 @@
   border: 1px solid #a3a8ab;
 }
 
-.activites__left:nth-child(odd) {
+.activites__header {
+  strong{
+    font-size: 1.6rem;
+  }
+}
+
+.activites__left {
   background-color: #f9ac1a;
   color: white;
   padding: 1rem;
@@ -250,6 +256,10 @@
     text-align: right;
     font-size: 1.2rem;
   }
+}
+
+.activites__wrapper:nth-child(even) > .activites__left {
+  background-color: #39667d;
 }
 
 .activites__right {
