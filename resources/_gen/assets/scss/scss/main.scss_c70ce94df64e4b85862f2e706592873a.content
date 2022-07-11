@@ -1047,7 +1047,7 @@ label {
     content: "|";
     font-weight: 700;
     color: #ae3785;
-    padding: 0 0.5rem; }
+    padding: 0 0.7rem; }
   .nav__link:last-child::after {
     content: none; }
   .carousel__mobile {
