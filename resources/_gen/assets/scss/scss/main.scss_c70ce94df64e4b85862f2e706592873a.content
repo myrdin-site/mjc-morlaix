@@ -1060,7 +1060,7 @@ label {
     content: "|";
     font-weight: 700;
     color: #ae3785;
-    padding: 0 0.7rem; }
+    padding: 0 0.4rem; }
   .nav__link:last-child::after {
     content: none; }
   .carousel__mobile {
@@ -1241,6 +1241,8 @@ label {
     font-size: 2.8rem; }
   .nav__link {
     font-size: 1.3rem; }
+  .nav__link:after {
+    padding: 0 0.7rem; }
   .carousel__wrapper {
     margin: -3rem auto; }
   .homepage__content {

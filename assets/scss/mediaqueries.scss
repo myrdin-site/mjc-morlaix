@@ -195,7 +195,7 @@
     content: "|";
     font-weight: 700;
     color: #ae3785;
-    padding: 0 0.7rem;
+    padding: 0 0.4rem;
   }
 
   .nav__link:last-child::after {
@@ -489,6 +489,10 @@
   // Nav
   .nav__link {
     font-size: 1.3rem;
+  }
+
+  .nav__link:after {
+    padding: 0 0.7rem;
   }
 
   // Carousel
