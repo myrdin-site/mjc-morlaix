@@ -76,7 +76,7 @@ $brown-actu: #c48a29;
   margin: 6rem auto;
   .podcast__title {
     text-transform: uppercase;
-    color: #8c86be;
+    color: #7c99ba;
     font-size: 3rem;
   }
 }
@@ -84,16 +84,12 @@ $brown-actu: #c48a29;
 .podcast__desc {
   font-size: 1.6rem;
   font-weight: bold;
-  .podcast__desc_purple {
-    color: #3d265a;
+  .podcast__desc_blue {
+    color: #5cb0cb;
   }
-  .podcast__desc_yellow {
-    color: #feab17;
+  .podcast__desc_dark {
+    color: #3e6b6c;
   }
-}
-
-.podcast__intro {
-  color: #8c86be;
 }
 
 .podcast__item {
