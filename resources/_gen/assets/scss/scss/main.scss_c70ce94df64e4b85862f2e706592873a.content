@@ -185,8 +185,10 @@ a:hover {
   border: 10px solid #1b3f47;
   overflow: hidden; }
 
-.slick-next:focus .slick-next-icon, .slick-next:focus .slick-prev-icon, .slick-prev:focus
-.slick-next-icon, .slick-prev:focus .slick-prev-icon {
+.slick-next:focus .slick-next-icon,
+.slick-next:focus .slick-prev-icon,
+.slick-prev:focus .slick-next-icon,
+.slick-prev:focus .slick-prev-icon {
   color: #5cb0cb; }
 
 .slick-dots li button:focus .slick-dot-icon:before {
@@ -206,7 +208,7 @@ footer {
 .audio-player {
   width: 8rem;
   height: 5rem;
-  border: 3px solid  #5cb0cb;
+  border: 3px solid #5cb0cb;
   border-radius: 12.5px;
   overflow: hidden;
   background-color: #37647c;
@@ -698,7 +700,8 @@ input[type="range"]:focus::-moz-range-thumb {
   .agenda__right .agenda__prix {
     color: #243a4e;
     font-weight: bold; }
-  .agenda__right .agenda__indice, .agenda__right .agenda__legende {
+  .agenda__right .agenda__indice,
+  .agenda__right .agenda__legende {
     color: white; }
 
 .agenda__right:nth-child(even) {
@@ -797,7 +800,7 @@ input[type="range"]:focus::-moz-range-thumb {
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  border-bottom: 2px solid #8891A1;
+  border-bottom: 2px solid #8891a1;
   padding-bottom: 1rem;
   padding-top: 1rem; }
   .page__documents_docs:last-child {
@@ -982,7 +985,8 @@ label {
   .activites__footer {
     position: absolute;
     bottom: 1rem; }
-  .page__documents_middle, .page__documents__right {
+  .page__documents_middle,
+  .page__documents__right {
     margin-top: 0; } }
 
 @media (min-width: 768px) {
@@ -1236,9 +1240,13 @@ label {
   .agenda__wrapper {
     display: flex;
     max-width: 100%; }
-    .agenda__wrapper .agenda__right, .agenda__wrapper .agenda__middle, .agenda__wrapper .agenda__left {
+    .agenda__wrapper .agenda__right,
+    .agenda__wrapper .agenda__middle,
+    .agenda__wrapper .agenda__left {
       width: 33.33%; }
-      .agenda__wrapper .agenda__right .agenda__cover, .agenda__wrapper .agenda__middle .agenda__cover, .agenda__wrapper .agenda__left .agenda__cover {
+      .agenda__wrapper .agenda__right .agenda__cover,
+      .agenda__wrapper .agenda__middle .agenda__cover,
+      .agenda__wrapper .agenda__left .agenda__cover {
         object-fit: cover;
         max-width: 100%;
         height: 100%; } }
