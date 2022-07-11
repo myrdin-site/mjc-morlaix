@@ -2,10 +2,10 @@
 .audio-player {
   width: 8rem;
   height: 5rem;
-  border: 3px solid #8379b5;
+  border: 3px solid  #5cb0cb;
   border-radius: 12.5px;
   overflow: hidden;
-  background-color: #4d5264;
+  background-color: #37647c;
   --player-button-width: 1.5em;
 }
 
@@ -81,7 +81,7 @@ input[type="range"] {
 }
 
 input[type="range"]::-webkit-slider-runnable-track {
-  background-color: #3d2558;
+  background-color: #1b3f47;
   border-radius: 0.5rem;
   height: 0.5rem;
 }
@@ -102,7 +102,7 @@ input[type="range"]:focus::-webkit-slider-thumb {
 }
 
 input[type="range"]::-moz-range-track {
-  background-color: #3d2558;
+  background-color: #1b3f47;
   border-radius: 0.5rem;
   height: 0.5rem;
 }
