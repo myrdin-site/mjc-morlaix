@@ -791,6 +791,8 @@ input[type="range"]:focus::-moz-range-thumb {
 /* Documentation */
 .page__documents_content {
   margin-bottom: 4rem; }
+  .page__documents_content strong {
+    font-size: 1.6rem; }
   .page__documents_content h1 {
     text-transform: uppercase;
     font-size: 2.5rem;

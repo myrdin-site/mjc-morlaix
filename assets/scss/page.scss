@@ -308,6 +308,10 @@
 /* Documentation */
 
 .page__documents_content {
+  strong {
+    font-size: 1.6rem;
+  }
+
   h1 {
     text-transform: uppercase;
     font-size: 2.5rem;
