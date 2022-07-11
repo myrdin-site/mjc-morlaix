@@ -18,8 +18,8 @@
     {{ $paginatorAgenda := .Paginate (where .Site.RegularPages "Section"
     "agenda" ) 4 }} {{ range $paginatorAgenda.Pages.ByDate }}
     <!-- If older than today hide content -->
-    {{ $time := (.Params.event_time | time.AsTime).Unix }}
-    {{ if lt now.Unix $time }}
+    {{ $time := (.Params.event_time | time.AsTime).Unix }} {{ if lt now.Unix
+    $time }}
     <div class="agenda__wrapper">
       <div class="agenda__left">
         {{ $image := .Resources.GetMatch .Params.cover }}
@@ -49,8 +49,7 @@
           <span class="agenda__legende"
             >* <strong>Tarif</strong> Non adhérents / adhérents</span
           >
-          {{ end }}
-	  {{ end }}
+          {{ end }} {{ end }}
         </div>
       </div>
     </div>

@@ -40,7 +40,9 @@
           >
           <span class="activites__price">/ {{ .Params.price }}</span>
         </p>
-        <div class="activites__creneau">{{ .Params.creneau | markdownify }}</div>
+        <div class="activites__creneau">
+          {{ .Params.creneau | markdownify }}
+        </div>
         <p class="activites__footer">
           <span class="activites__starting">Début des ateliers > </span>
           {{ .Params.starting_date | time.Format ":date_full" }}
