@@ -666,13 +666,18 @@ input[type="range"]:focus::-moz-range-thumb {
   margin-right: auto; }
 
 .agenda__middle {
-  padding: 1rem; }
+  padding: 1rem;
+  position: relative; }
+  .agenda__middle .agenda__more {
+    position: absolute;
+    bottom: 1rem; }
   .agenda__middle h1 {
     font-size: 1.5rem;
     color: #3e6b6c;
     font-weight: bolder; }
   .agenda__middle p:first-line {
-    font-weight: bold; }
+    font-weight: bold;
+    text-transform: uppercase; }
   .agenda__middle .agenda__more {
     padding-top: 1rem;
     text-align: right; }
