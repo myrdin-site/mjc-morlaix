@@ -959,13 +959,13 @@ label {
   -webkit-appearance: none;
   appearance: none;
   margin-top: -4px;
-  background-color: #f9b726 !important;
+  background-color: #5cb0cb !important;
   border-radius: 0.5rem;
   height: 1rem;
   width: 1rem; }
 
 .podcast__timeline:focus::-webkit-slider-thumb {
-  outline: 2px solid #f9b726 !important;
+  outline: 2px solid #5cb0cb !important;
   outline-offset: 0.125rem; }
 
 .podcast__timeline::-moz-range-track {
@@ -974,14 +974,14 @@ label {
   height: 0.5rem; }
 
 .podcast__timeline::-moz-range-thumb {
-  background-color: #f9b726 !important;
+  background-color: #5cb0cb !important;
   border: none;
   border-radius: 0.5rem;
   height: 1rem;
   width: 1rem; }
 
 .podcast__timeline:focus::-moz-range-thumb {
-  outline: 2px solid #f9b726 !important;
+  outline: 2px solid #5cb0cb !important;
   outline-offset: 0.125rem; }
 
 @media (min-width: 640px) {
