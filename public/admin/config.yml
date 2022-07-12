@@ -109,6 +109,20 @@ collections:
       - { label: "Date de début", name: "starting_date", widget: "datetime" }
       - { label: "Créneau(x)", name: "creneau", widget: "markdown" }
       - { label: "Description", name: "description", widget: "string" }
+  - name: "documents"
+    label: "Documents"
+    folder: "content/documents"
+    slug: "{{slug}}"
+    path: "{{slug}}/index"
+    media_folder: "media"
+    public_folder: "media"
+    extension: "md"
+    create: true
+    fields: 
+      - { label: "Titre", name: "title", widget: "string" }
+      - { label: "Format", name: "public", widget: "select", multiple: false, options: ["pdf", "word", "odt"] }
+      - { label: "Pictogramme", name: "picto", widget: "image", media_folder: "audio" }
+      - { label: "Fichier", name: "Fichier", widget: "file", media_folder: "file" }
   - name: "legals"
     label: "Mentions Légales"
     files:
