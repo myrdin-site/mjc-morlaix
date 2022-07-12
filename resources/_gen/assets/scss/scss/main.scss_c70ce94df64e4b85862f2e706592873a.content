@@ -678,6 +678,8 @@ input[type="range"]:focus::-moz-range-thumb {
   .agenda__middle p:first-line {
     font-weight: bold;
     text-transform: uppercase; }
+  .agenda__middle p {
+    margin-bottom: 2rem; }
   .agenda__middle .agenda__more {
     padding-top: 1rem;
     text-align: right; }
