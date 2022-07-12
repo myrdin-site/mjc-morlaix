@@ -708,7 +708,7 @@ input[type="range"]:focus::-moz-range-thumb {
   .agenda__right .agenda__legende {
     color: white; }
 
-.agenda__right:nth-child(even) {
+.agenda__wrapper:nth-child(even) > .agenda__right {
   background-color: #3cabe2; }
 
 /* Actu */
