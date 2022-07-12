@@ -1,8 +1,7 @@
 ---
-title: "Un bref bilan de la saison 2020/2021 à la MJC"
+title: Un bref bilan de la saison 2020/2021 à la MJC
 ---
-
-Malgré tout notre plus sincère optimisme en septembre denier, cette saison d'activité 2020-2021 aura finalement été très perturbée par
+Malgré tout notre plus sincère optimisme en septembre denier, cette saison d'activité **2020-2021** aura finalement été très perturbée par
 la crise sanitaire:
 \
 \
