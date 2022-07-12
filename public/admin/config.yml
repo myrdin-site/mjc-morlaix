@@ -12,6 +12,8 @@ publish_mode: editorial_workflow
 collections:
   - name: "accueil"
     label: "Accueil"
+    editor: 
+      preview: false
     files: 
       - name: "Accueil"
         label: "accueil"
@@ -22,6 +24,8 @@ collections:
           - { label: "Contenu", name: "body", widget: "markdown" }
   - name: "actu"
     label: "Actualités"
+    editor: 
+      preview: false
     folder: "content/actu"
     create: true
     slug: "{{slug}}"
@@ -40,6 +44,8 @@ collections:
       - { label: "Contenu", name: "body", widget: "markdown" }
   - name: "trockson"
     label: "Trockson"
+    editor: 
+      preview: false
     folder: "content/trockson"
     create: true
     slug: "{{slug}}"
@@ -58,6 +64,8 @@ collections:
       - { label: "Contenu", name: "body", widget: "markdown" }
   - name: "agenda"
     label: "Agenda"
+    editor: 
+      preview: false
     folder: "content/agenda"
     create: true
     slug: "{{slug}}"
@@ -76,6 +84,8 @@ collections:
       - { label: "Contenu", name: "body", widget: "markdown" }
   - name: "podcast"
     label: "Podcasts"
+    editor: 
+      preview: false
     folder: "content/podcasts"
     slug: "{{slug}}"
     path: "{{slug}}/index"
@@ -93,6 +103,8 @@ collections:
       - { label: "Audio", name: "audio", widget: "file", media_folder: "audio" }
   - name: "activites"
     label: "Activités"
+    editor: 
+      preview: false
     folder: "content/activites"
     slug: "{{slug}}"
     path: "{{slug}}/index"
@@ -111,6 +123,8 @@ collections:
       - { label: "Description", name: "description", widget: "string" }
   - name: "documents"
     label: "Documents"
+    editor: 
+      preview: false
     folder: "content/documents"
     slug: "{{slug}}"
     path: "{{slug}}/index"
@@ -126,6 +140,8 @@ collections:
       - { label: "Fichier", name: "Fichier", widget: "file", media_folder: "file" }
   - name: "legals"
     label: "Mentions Légales"
+    editor: 
+      preview: false
     files:
       - name: "legals"
         label: "Mentions Legales"
