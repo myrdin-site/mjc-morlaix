@@ -25,6 +25,7 @@
       <div class="activites__left">
         <h2>{{ .Title }}</h2>
         {{ $image := .Resources.GetMatch .Params.picto }}
+	{{ $image := $image.Fill "180x210" }}
         <img src="{{ $image.RelPermalink }}" alt="" />
         <ul>
           {{ range .Params.public }}
