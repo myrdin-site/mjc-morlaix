@@ -23,6 +23,7 @@
     <div class="agenda__wrapper">
       <div class="agenda__left">
         {{ $image := .Resources.GetMatch .Params.cover }}
+	{{ $image := $image.Fill "300x300 Smart" }}
         <img class="agenda__cover" src="{{ $image.RelPermalink }}" alt="" />
       </div>
       <div class="agenda__middle">
