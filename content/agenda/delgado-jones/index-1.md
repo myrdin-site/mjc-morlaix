@@ -2,7 +2,7 @@
 title: DELGADO JONES
 description: Concert Garage rock psyche lofi
 cover: img/delgado-jones-500px.jpg
-event_time: 2022-08-30T18:30:00.000Z
+event_time: 2022-09-30T18:30:00.000Z
 lieu: Auditorium
 prix_plein: 10
 prix_abonné: 6
