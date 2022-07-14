@@ -10,12 +10,14 @@ price: 114€  à 260€ /AN
 starting_date: 2021-09-15T08:00:56.123Z
 creneau: |-
   # MERCREDI
+
   Collège Saint Augustin
-  4/5 ans > **10h00 / 11h00** 6/7 ans > **14h00 / 15h45**
-  8/12 ans > **17h00 / 18h45** adultes/13 ans + **18h45 / 20h30**
+  4/5 ans > **10h00 / 11h00**     6/7 ans > **14h00 / 15h45**
+  8/12 ans > **17h00 / 18h45**    adultes/13 ans + **18h45 / 20h30**
 
   # MERCREDI
-   École E. Cloarec à Ploujean.  
+
+  École E. Cloarec à Ploujean.\
   4 / 5 ans > **10h00 / 11h00**  -  6 / 9 ans > **11h00 / 12h30**
 description: "À partir de 4 ans : approche par un travail sur le corps et son
   expressivité, la manipulation d’objets et le travail de l’équilibre.
