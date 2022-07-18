@@ -480,6 +480,14 @@
       }
     }
   }
+
+  .agenda__cover {
+    display: block;
+  }
+
+  .agenda__cover_mobile {
+    display: none;
+  }
 }
 
 // xl

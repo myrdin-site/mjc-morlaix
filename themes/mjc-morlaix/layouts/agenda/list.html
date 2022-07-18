@@ -22,6 +22,11 @@
     $time }}
     <div class="agenda__wrapper">
       <div class="agenda__left">
+	<!--Cover mobile-->
+	{{ $imageMobile := .Resources.GetMatch .Params.cover }}
+	{{ $imageMobile := $imageMobile.Fill "342x342 Smart" }}
+	<img class="agenda__cover_mobile" src="{{ $imageMobile.RelPermalink }}" alt="">
+	<!-- Cover desktop -->
         {{ $image := .Resources.GetMatch .Params.cover }}
 	{{ $image := $image.Fill "300x300 Smart" }}
         <img class="agenda__cover" src="{{ $image.RelPermalink }}" alt="" />
