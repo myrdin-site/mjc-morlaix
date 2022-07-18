@@ -33,7 +33,7 @@
       </div>
       <div class="agenda__middle">
         <h1>{{ .Title }}</h1>
-        <p>{{ .Summary }} [<a href="{{ .RelPermalink }}">...</a>]</p>
+        <p>{{ .Summary | truncate 160}} [<a href="{{ .RelPermalink }}">...</a>]</p>
         <div class="agenda__more">
           <a href="{{ .RelPermalink }}">> En savoir plus</a>
         </div>
@@ -46,14 +46,14 @@
           .Params.event_time | time.Format ":time_short"}}
         </p>
         <div class="agenda__footer-price">
-          {{ if (and (isset .Params "tarif_plein") (isset .Params
-          "tarif_adhérent")) }}
+          {{ if (and (isset .Params "prix_plein") (isset .Params
+          "prix_abonné")) }}
           <span class="agenda__prix"
-            ><span class="agenda__indice">*</span>{{ .Params.tarif_plein }}€/{{
-            .Params.tarif_adhérent }}€</span
+            ><span class="agenda__indice">*</span>{{ .Params.prix_plein }}€ / {{
+            .Params.prix_abonné }}€</span
           >
           <span class="agenda__legende"
-            >* <strong>Tarif</strong> Non adhérents / adhérents</span
+            >* Non adhérents / adhérents</span
           >
           {{ end }} {{ end }}
         </div>

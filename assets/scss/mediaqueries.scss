@@ -488,6 +488,14 @@
   .agenda__cover_mobile {
     display: none;
   }
+
+  .agenda__right {
+    position: relative;
+    .agenda__footer-price {
+      position: absolute;
+      bottom: 1rem;
+    }
+  }
 }
 
 // xl
