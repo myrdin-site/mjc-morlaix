@@ -210,7 +210,7 @@
       </div>
     </div>
   </div>
-  <div class="page__wrapper">
+  <div class="page__wrapper trockson">
     <h1 class="trockson__title trockson__title_actu">Actu Trock'Son</h1>
     {{ $paginator := .Paginate (where .Site.RegularPages "Section" "trockson") 2
     }} {{ range $paginator.Pages.ByDate }}
@@ -226,7 +226,7 @@
       <img class="actu__cover_desktop" src="{{ $imageDesktop.RelPermalink }}" />
       <div class="actu__content">
         <h2>{{ .Title }}</h2>
-        <p>{{ .Summary }} [<a href="{{ .RelPermalink }}">...</a>]</p>
+        <p>{{ .Summary | truncate 160 }} [<a href="{{ .RelPermalink }}">...</a>]</p>
       </div>
       <div class="actu__footer">
         <div class="actu__infos">

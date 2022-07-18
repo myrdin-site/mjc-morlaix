@@ -160,7 +160,7 @@ $brown-actu: #c48a29;
 
 .trockson__logo,
 .trockson__photo {
-  max-width: 350px;
+  max-width: 340px;
   display: block;
   margin: 0 auto;
 }
@@ -195,7 +195,7 @@ $brown-actu: #c48a29;
 }
 
 .trockson__text {
-  padding: 0 0.8rem;
+  padding: 0 0.8rem !important;
   li {
     margin-left: 1rem;
   }

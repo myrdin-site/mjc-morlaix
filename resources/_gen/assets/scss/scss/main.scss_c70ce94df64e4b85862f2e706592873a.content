@@ -508,7 +508,7 @@ input[type="range"]:focus::-moz-range-thumb {
 
 .trockson__logo,
 .trockson__photo {
-  max-width: 350px;
+  max-width: 340px;
   display: block;
   margin: 0 auto; }
 
@@ -536,7 +536,7 @@ input[type="range"]:focus::-moz-range-thumb {
     width: auto; }
 
 .trockson__text {
-  padding: 0 0.8rem; }
+  padding: 0 0.8rem !important; }
   .trockson__text li {
     margin-left: 1rem; }
 
@@ -1225,6 +1225,10 @@ label {
   .trockson__wrapper {
     display: flex;
     flex-direction: row-reverse; }
+  .trockson {
+    width: 900px; }
+  .page__trockson_content {
+    padding: 0; }
   .trockson__logo,
   .trockson__photo {
     max-width: 300px; }
