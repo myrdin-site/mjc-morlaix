@@ -391,7 +391,7 @@ input[type="range"]:focus::-moz-range-thumb {
     font-size: 3rem; }
 
 .actu__wrapper {
-  border: 1px solid #44404c;
+  border: 1px solid black;
   max-width: 365px;
   margin: 0.4rem auto;
   padding: 0.4rem;
@@ -673,7 +673,7 @@ input[type="range"]:focus::-moz-range-thumb {
 
 .agenda__wrapper {
   margin-top: 1.6rem;
-  border: 1px solid #a3a8ab;
+  border: 1px solid black;
   max-width: 344px;
   margin-left: auto;
   margin-right: auto; }
@@ -866,7 +866,6 @@ input[type="range"]:focus::-moz-range-thumb {
   margin: 1rem auto; }
 
 .page-item {
-  border: 1px solid black;
   margin: 0 0.2rem;
   padding: 0.4rem; }
 
@@ -1226,6 +1225,8 @@ label {
     padding-top: 2rem; }
   .page__ij_imgmobile {
     display: none; }
+  .trockson__actu_wrapper {
+    margin: 1rem 0; }
   .trockson__wrapper {
     display: flex;
     flex-direction: row-reverse; }
