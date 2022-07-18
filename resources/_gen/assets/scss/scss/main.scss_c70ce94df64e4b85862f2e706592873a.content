@@ -1299,7 +1299,7 @@ label {
     .actu__wrapper .actu__content {
       padding: 1rem; }
     .actu__wrapper .actu__infos {
-      font-size: 2rem; }
+      font-size: 1.4rem; }
     .actu__wrapper .actu__footer a {
       font-size: 1.2rem; }
     .actu__wrapper .actu__footer-price {
