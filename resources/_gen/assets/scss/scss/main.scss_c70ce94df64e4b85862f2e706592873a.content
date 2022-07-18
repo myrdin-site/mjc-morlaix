@@ -1179,6 +1179,8 @@ label {
     margin-top: 1rem; }
   .contact__map {
     margin-top: 10rem; }
+  .list__podcast {
+    margin-top: -4.6rem; }
   .podcast__list {
     text-align: center; }
   .podcast__item_flex {
