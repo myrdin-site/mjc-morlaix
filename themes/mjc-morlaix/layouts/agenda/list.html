@@ -37,7 +37,7 @@
         <p class="agenda__right_desc">{{ .Description }}</p>
         <p class="agenda__right_place">{{ .Params.lieu }}</p>
         <p class="agenda__right_date">
-          {{ .Params.event_time | time.Format ":date_long" }} / {{
+          {{ .Params.event_time | time.Format ":date_medium" }} / {{
           .Params.event_time | time.Format ":time_short"}}
         </p>
         <div class="agenda__footer-price">
