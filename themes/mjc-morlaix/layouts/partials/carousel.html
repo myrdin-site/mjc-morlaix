@@ -6,7 +6,7 @@
       <div class="carousel__event">
         {{ .Description }}
         <div class="carousel__event_date">
-          {{ .Params.event_time | time.Format ":date_short" }}
+          {{ .Params.event_time | time.Format ":date_medium" }}
           <span class="carousel__event_time"
             >{{ .Params.event_time | time.Format ":time_short" }}</span
           >
