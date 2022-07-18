@@ -580,18 +580,19 @@ input[type="range"]:focus::-moz-range-thumb {
   margin-top: 1rem; }
 
 /* MJC */
-.page__mjc_content h1 {
-  color: #d0ecbf;
-  text-transform: uppercase;
-  padding: 0.8rem 0; }
-
-.page__mjc_content h2 {
-  color: #6ab535;
-  padding: 0.6rem 0; }
-
-.page__mjc_content h3 {
-  color: #d0922c;
-  padding: 0.4rem 0; }
+.page__mjc_content {
+  width: 375px;
+  margin: auto; }
+  .page__mjc_content h1 {
+    color: #d0ecbf;
+    text-transform: uppercase;
+    padding: 0.8rem 0; }
+  .page__mjc_content h2 {
+    color: #6ab535;
+    padding: 0.6rem 0; }
+  .page__mjc_content h3 {
+    color: #d0922c;
+    padding: 0.4rem 0; }
 
 .page__mjc_ext,
 .page__mjc_img {
@@ -1196,8 +1197,10 @@ label {
     text-align: left; }
   .podcast__timeline {
     width: 10.5rem !important; }
-  .page__mjc_content h2 {
-    padding: 1.6rem 0; }
+  .page__mjc_content {
+    width: 800px; }
+    .page__mjc_content h2 {
+      padding: 1.6rem 0; }
   .page__mjc_wrapper {
     display: flex; }
   .page__mjc_ext {
