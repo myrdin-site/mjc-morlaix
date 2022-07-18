@@ -139,6 +139,9 @@ a:hover {
 .active a {
   color: white; }
 
+.carousel__mobile {
+  margin-top: 4rem; }
+
 .carousel__wrapper {
   max-width: 300px;
   margin: auto;
@@ -213,7 +216,8 @@ footer {
   overflow: hidden;
   background-color: #37647c;
   --player-button-width: 1.5em;
-  position: relative; }
+  position: relative;
+  display: none; }
 
 /* Image */
 .icon-container {
@@ -1042,6 +1046,8 @@ label {
     display: none; } }
 
 @media (min-width: 1024px) {
+  .audio-player {
+    display: block; }
   .header__wrapper {
     display: none; }
   .header__wrapper_desktop {
