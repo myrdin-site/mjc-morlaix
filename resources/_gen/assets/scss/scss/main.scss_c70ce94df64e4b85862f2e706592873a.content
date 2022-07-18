@@ -384,7 +384,7 @@ input[type="range"]:focus::-moz-range-thumb {
 /* ACTU */
 .list__container {
   max-width: 365px;
-  margin: 6rem auto; }
+  margin: 12rem auto; }
   .list__container .actu__title {
     text-transform: uppercase;
     color: #badca5;
@@ -439,8 +439,7 @@ input[type="range"]:focus::-moz-range-thumb {
 
 /* PODCASTS */
 .list__container {
-  max-width: 365px;
-  margin: 6rem auto; }
+  max-width: 365px; }
   .list__container .podcast__title {
     text-transform: uppercase;
     color: #7c99ba;
