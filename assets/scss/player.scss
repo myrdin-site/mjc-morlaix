@@ -7,6 +7,7 @@
   overflow: hidden;
   background-color: #37647c;
   --player-button-width: 1.5em;
+  position: relative;
 }
 
 /* Image */
@@ -19,6 +20,9 @@
 }
 
 .audio-icon {
+  position: absolute;
+  bottom: 0;
+  right: 0.4rem;
   width: auto;
   height: 40px;
 }

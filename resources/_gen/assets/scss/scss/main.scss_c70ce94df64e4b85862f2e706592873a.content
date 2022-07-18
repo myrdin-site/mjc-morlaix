@@ -212,7 +212,8 @@ footer {
   border-radius: 12.5px;
   overflow: hidden;
   background-color: #37647c;
-  --player-button-width: 1.5em; }
+  --player-button-width: 1.5em;
+  position: relative; }
 
 /* Image */
 .icon-container {
@@ -223,6 +224,9 @@ footer {
   margin-top: -1.6rem; }
 
 .audio-icon {
+  position: absolute;
+  bottom: 0;
+  right: 0.4rem;
   width: auto;
   height: 40px; }
 
