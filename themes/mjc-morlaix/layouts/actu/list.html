@@ -13,7 +13,7 @@
     <img class="actu__cover_desktop" src="{{ $imageDesktop.RelPermalink }}" />
     <div class="actu__content">
       <h2>{{ .Title }}</h2>
-      <p>{{ .Summary }} [<a href="{{ .RelPermalink }}">...</a>]</p>
+      <p>{{ .Summary | truncate 160 }} [<a href="{{ .RelPermalink }}">...</a>]</p>
     </div>
     <div class="actu__footer">
       <div class="actu__infos">
