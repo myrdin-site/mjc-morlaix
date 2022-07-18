@@ -618,7 +618,12 @@
 
   //Trockson
   .trockson {
-    margin-left: 8rem;
+    margin: 0 auto;
+    width: 60%;
+  }
+
+  .trockson__top {
+    margin-top: -4.6rem;
   }
 }
 

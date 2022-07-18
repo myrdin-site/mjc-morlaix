@@ -1344,7 +1344,10 @@ label {
   .page__documents_middle {
     margin-right: 16rem; }
   .trockson {
-    margin-left: 8rem; } }
+    margin: 0 auto;
+    width: 60%; }
+  .trockson__top {
+    margin-top: -4.6rem; } }
 
 @media (min-width: 1536px) {
   .header__title {
