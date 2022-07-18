@@ -33,8 +33,8 @@
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         </div>
         {{ $image := .Resources.GetMatch .Params.cover }} {{ $image :=
-        $image.Fill "500x260" }}
-        <img src="{{ $image.RelPermalink }}" />
+        $image.Fill "500x260 center" }}
+        <img src="{{ $image.RelPermalink }}" alt=""/>
       </div>
       <div class="carousel__right">
         <div class="carousel__event">
