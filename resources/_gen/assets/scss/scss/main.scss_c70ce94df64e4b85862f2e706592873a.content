@@ -1230,7 +1230,8 @@ label {
     display: flex;
     flex-direction: row-reverse; }
   .trockson {
-    width: 900px; }
+    width: 800px;
+    margin-left: 12rem; }
   .page__trockson_content {
     padding: 0; }
   .trockson__logo,
@@ -1323,6 +1324,8 @@ label {
   .list__wrapper {
     width: 900px;
     max-width: 900px; }
+  .trockson {
+    width: 900px; }
   .trockson__parent {
     display: flex; }
   .page__documents_middle {
@@ -1339,7 +1342,9 @@ label {
     margin-top: -4rem;
     padding-bottom: 0.5rem; }
   .page__documents_middle {
-    margin-right: 16rem; } }
+    margin-right: 16rem; }
+  .trockson {
+    margin-left: 8rem; } }
 
 @media (min-width: 1536px) {
   .header__title {

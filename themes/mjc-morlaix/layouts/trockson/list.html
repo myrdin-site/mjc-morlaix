@@ -238,11 +238,11 @@
           {{ if (and (isset .Params "prix_plein") (isset .Params "prix_abonné"))
           }}
           <span class="actu__prix"
-            ><span class="actu__indice">*</span>{{ .Params.prix_plein }}€/{{
+            ><span class="actu__indice">*</span>{{ .Params.prix_plein }}€ / {{
             .Params.prix_abonné }}€</span
           >
           <span class="actu__legende"
-            >* <strong>Tarif</strong> Non adhérents / adhérents</span
+            >* Non adhérents / adhérents</span
           >
           {{ end }}
         </div>
