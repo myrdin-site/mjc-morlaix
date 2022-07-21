@@ -12,7 +12,7 @@
     </div>
     <div class="page__documents_middle">
       {{ $file := resources.Get .Params.file }}
-      <a href="{{ $file.RelPermalink }}">{{.Params.format }}</a>
+      <a href="{{ $file.RelPermalink }}">{{ .Params.format }}</a>
     </div>
     <div class="page__documents_right">
       {{ $image := resources.Get .Params.picto }}

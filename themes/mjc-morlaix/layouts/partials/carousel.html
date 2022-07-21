@@ -15,7 +15,7 @@
       <div class="carousel__title">
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       </div>
-      {{ $image := .Resources.GetMatch .Params.cover }} {{ $image := $image.Fill
+      {{ $image := resources.Get .Params.cover }} {{ $image := $image.Fill
       "300x150" }}
       <img src="{{ $image.RelPermalink }}" />
     </div>
@@ -32,7 +32,7 @@
         <div class="carousel__title">
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         </div>
-        {{ $image := .Resources.GetMatch .Params.cover }} {{ $image :=
+        {{ $image := resources.Get .Params.cover }} {{ $image :=
         $image.Fill "500x260 center" }}
         <img src="{{ $image.RelPermalink }}" alt=""/>
       </div>
