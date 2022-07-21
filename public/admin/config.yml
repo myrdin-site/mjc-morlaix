@@ -4,8 +4,8 @@ backend:
 
 locale: 'fr'
 
-media_folder: static/media
-public_folder: /media/uploads
+media_folder: assets/medias 
+public_folder: ../medias 
 
 publish_mode: editorial_workflow
 
