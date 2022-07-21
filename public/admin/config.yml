@@ -29,9 +29,6 @@ collections:
     folder: "content/actu"
     create: true
     slug: "{{slug}}"
-    path: "{{slug}}/index"
-    media_folder: "img"
-    public_folder: "img"
     extension: "md"
     fields:
       - { label: "Titre", name: "title", widget: "string" }
@@ -49,9 +46,6 @@ collections:
     folder: "content/trockson"
     create: true
     slug: "{{slug}}"
-    path: "{{slug}}/index"
-    media_folder: "img"
-    public_folder: "img"
     extension: "md"
     fields: 
       - { label: "Titre", name: "title", widget: "string" }
@@ -68,10 +62,6 @@ collections:
       preview: false
     folder: "content/agenda"
     create: true
-    slug: "{{slug}}"
-    path: "{{slug}}/index"
-    media_folder: "img"
-    public_folder: "img"
     extension: "md"
     fields: 
       - { label: "Titre", name: "title", widget: "string" }
@@ -79,6 +69,7 @@ collections:
       - { label: "Image d'accroche", name: "cover", widget: "image" }
       - { label: "Date et heure", name: "event_time", widget: "datetime", default: "", time_format: "HH:mm", picker_utc: false }
       - { label: "Lieu", name: "lieu", widget: "string" }
+      - { label: "Première partie", name: "first", widget: "string", required: false }   
       - { label: "Prix", name: "prix_plein", widget: "number", min: 1 }
       - { label: "Prix Adhérent·e", name: "prix_abonné", widget: "number", min: 1 }
       - { label: "Contenu", name: "body", widget: "markdown" }
@@ -88,33 +79,27 @@ collections:
       preview: false
     folder: "content/podcasts"
     slug: "{{slug}}"
-    path: "{{slug}}/index"
-    media_folder: "media"
-    public_folder: "media"
     extension: "md"
     create: true
     fields:
       - { label: "Titre", name: "title", widget: "string" }
-      - { label: "Pictogramme", name: "picto", widget: "image", media_folder: "img" }
+      - { label: "Pictogramme", name: "picto", widget: "image" }
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Auteur", name: "auteur", widget: "string" }
       - { label: "Date", name: "date", widget: "date" }
       - { label: "Durée", name: "durée", widget: "string" }
-      - { label: "Audio", name: "audio", widget: "file", media_folder: "audio" }
+      - { label: "Audio", name: "audio", widget: "file" }
   - name: "activites"
     label: "Activités"
     editor: 
       preview: false
     folder: "content/activites"
     slug: "{{slug}}"
-    path: "{{slug}}/index"
-    media_folder: "img"
-    public_folder: "img"
     extension: "md"
     create: true
     fields: 
       - { label: "Titre", name: "title", widget: "string" }
-      - { label: "Pictogramme", name: "picto", widget: "image", media_folder: "img" }
+      - { label: "Pictogramme", name: "picto", widget: "image" }
       - { label: "Public", name: "public", widget: "select", multiple: true, min: 1, max: 3, options: ["enfants", "adolescents", "adultes"] }
       - { label: "Animateur·ice", name: "anim", widget: "string" }
       - { label: "Prix", name: "price", widget: "string" }
@@ -127,17 +112,14 @@ collections:
       preview: false
     folder: "content/documents"
     slug: "{{slug}}"
-    path: "{{slug}}/index"
-    media_folder: "media"
-    public_folder: "media"
     extension: "md"
     create: true
     fields: 
       - { label: "Titre", name: "title", widget: "string" }
       - { label: "Format", name: "public", widget: "select", multiple: false, options: ["pdf", "word", "odt"] }
-      - { label: "Pictogramme", name: "picto", widget: "image", media_folder: "audio" }
+      - { label: "Pictogramme", name: "picto", widget: "image" }
       - { label: "Saison", name: "saison", widget: "string", required: false } 
-      - { label: "Fichier", name: "Fichier", widget: "file", media_folder: "file" }
+      - { label: "Fichier", name: "Fichier", widget: "file" }
   - name: "legals"
     label: "Mentions Légales"
     editor: 
