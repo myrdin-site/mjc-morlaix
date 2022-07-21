@@ -38,7 +38,7 @@
           </div>
         </div>
         <div class="podcast__content">
-          {{ .Content }}
+          {{ .Content | truncate 160}}
           <span class="podcast__content_timing">{{ .Params.durée }}</span>
         </div>
         <div class="podcast__player">
