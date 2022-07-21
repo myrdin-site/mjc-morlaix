@@ -116,10 +116,10 @@ collections:
     create: true
     fields: 
       - { label: "Titre", name: "title", widget: "string" }
-      - { label: "Format", name: "public", widget: "select", multiple: false, options: ["pdf", "word", "odt"] }
+      - { label: "Format", name: "format", widget: "select", multiple: false, options: ["pdf", "word", "odt"] }
       - { label: "Pictogramme", name: "picto", widget: "image" }
       - { label: "Saison", name: "saison", widget: "string", required: false } 
-      - { label: "Fichier", name: "Fichier", widget: "file" }
+      - { label: "Fichier", name: "file", widget: "file" }
   - name: "legals"
     label: "Mentions Légales"
     editor: 

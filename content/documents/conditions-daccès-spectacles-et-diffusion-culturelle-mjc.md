@@ -1,6 +1,6 @@
 ---
 title: Conditions d'accès spectacles et diffusion culturelle MJC
-public: pdf
+format: pdf
 picto: /medias/pdf.png
-Fichier: /medias/conditionsaccesspectacles.pdf
+file: /medias/conditionsaccesspectacles.pdf
 ---
