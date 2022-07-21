@@ -1,9 +1,10 @@
 ---
-title: "Cisco HERZHAFT "
+title: "Cisco HERZHAFT"
 description: Blues traditionnel et Beat Box
 cover: img/cisco-herzhaft-500px.jpg
 event_time: 2022-11-05T19:30:00.000Z
-lieu: "Auditorium - 1ere partie : Blues2men"
+lieu: "Auditorium"
+first: "Blues2men"
 prix_plein: 12
 prix_abonné: 8
 ---

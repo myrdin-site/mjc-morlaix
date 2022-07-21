@@ -566,6 +566,10 @@ input[type="range"]:focus::-moz-range-thumb {
 .agenda__left {
   overflow: hidden; }
 
+.agenda__right_firstpart {
+  font-weight: bold;
+  color: #243a4e; }
+
 /* General */
 .page__wrapper {
   margin: 6rem 0.4rem; }

@@ -41,6 +41,9 @@
       <div class="agenda__right">
         <p class="agenda__right_desc">{{ .Description }}</p>
         <p class="agenda__right_place">{{ .Params.lieu }}</p>
+	{{ if isset .Params "first" }}
+	<p class="agenda__right_firstpart">1<sup>ère</sup> partie : {{ .Params.first }}</p>
+	{{ end }}
         <p class="agenda__right_date">
           {{ .Params.event_time | time.Format ":date_medium" }} / {{
           .Params.event_time | time.Format ":time_short"}}
