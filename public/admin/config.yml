@@ -89,6 +89,7 @@ collections:
       - { label: "Date", name: "date", widget: "date" }
       - { label: "Durée", name: "durée", widget: "string" }
       - { label: "Audio", name: "audio", widget: "file" }
+      - { label: "Contenu", name: "body", widget: "markdown" }
   - name: "activites"
     label: "Activités"
     editor: 
