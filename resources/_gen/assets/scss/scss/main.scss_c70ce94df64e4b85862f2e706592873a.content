@@ -563,6 +563,9 @@ input[type="range"]:focus::-moz-range-thumb {
 .agenda__cover {
   display: none; }
 
+.agenda__left {
+  overflow: hidden; }
+
 /* General */
 .page__wrapper {
   margin: 6rem 0.4rem; }
