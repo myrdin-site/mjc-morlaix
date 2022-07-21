@@ -218,10 +218,10 @@
       <div class="actu__description trockson__description">
         {{ .Description }}
       </div>
-      {{ $image := .Resources.GetMatch .Params.cover }} {{ $image := $image.Fill
+      {{ $image := resources.Get .Params.cover }} {{ $image := $image.Fill
       "365x200" }}
       <img class="actu__cover" src="{{ $image.RelPermalink }}" />
-      {{ $imageDesktop := .Resources.GetMatch .Params.cover }} {{ $imageDesktop
+      {{ $imageDesktop := resources.Get .Params.cover }} {{ $imageDesktop
       := $imageDesktop.Fill "300x300 Smart" }}
       <img class="actu__cover_desktop" src="{{ $imageDesktop.RelPermalink }}" />
       <div class="actu__content">

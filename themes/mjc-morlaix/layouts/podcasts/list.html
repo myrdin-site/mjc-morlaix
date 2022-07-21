@@ -22,7 +22,7 @@
       <div class="podcast__item">
         <div class="podcast__item_flex">
           <div class="podcast__item_picto">
-            {{ $picto := .Resources.GetMatch .Params.picto }} {{ $picto :=
+            {{ $picto := resources.Get .Params.picto }} {{ $picto :=
             $picto.Fit "110x110" }}
             <img src="{{ $picto.RelPermalink }}" />
           </div>
@@ -70,7 +70,7 @@
                 value="0"
               />
             </div>
-            {{ $podcast := .Resources.GetMatch .Params.audio }}
+            {{ $podcast := resources.Get .Params.audio }}
             <img
               class="podcast__player_picto"
               src="/images/podcast/picto.png"

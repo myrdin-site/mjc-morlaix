@@ -11,11 +11,11 @@
       <strong>{{ .Title }}</strong> {{ .Params.saison }}
     </div>
     <div class="page__documents_middle">
-      {{ $file := .Resources.GetMatch .Params.file }}
+      {{ $file := resources.Get .Params.file }}
       <a href="{{ $file.RelPermalink }}">{{.Params.format }}</a>
     </div>
     <div class="page__documents_right">
-      {{ $image := .Resources.GetMatch .Params.picto }}
+      {{ $image := resources.Get .Params.picto }}
       <a href="{{ $file.RelPermalink }}">
         <img src="{{ $image.RelPermalink }}" alt="fichier {{ $file }}" />
       </a>
