@@ -23,6 +23,12 @@ $brown-actu: #c48a29;
   }
 }
 
+.actu__content {
+  h2 {
+    text-transform: uppercase;
+  }
+}
+
 .actu__cover {
   margin-left: -0.4rem;
   margin-right: 2rem;
@@ -240,4 +246,10 @@ $brown-actu: #c48a29;
 .agenda__right_firstpart {
   font-weight: bold;
   color: #243a4e;
+}
+
+.agenda__middle {
+  h1 {
+    text-transform: uppercase;
+  }
 }

@@ -400,6 +400,9 @@ input[type="range"]:focus::-moz-range-thumb {
     font-weight: bold;
     font-variant: small-caps; }
 
+.actu__content h2 {
+  text-transform: uppercase; }
+
 .actu__cover {
   margin-left: -0.4rem;
   margin-right: 2rem; }
@@ -569,6 +572,9 @@ input[type="range"]:focus::-moz-range-thumb {
 .agenda__right_firstpart {
   font-weight: bold;
   color: #243a4e; }
+
+.agenda__middle h1 {
+  text-transform: uppercase; }
 
 /* General */
 .page__wrapper {
