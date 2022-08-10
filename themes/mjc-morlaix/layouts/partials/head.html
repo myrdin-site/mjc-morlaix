@@ -17,8 +17,10 @@
   <link rel="preload" href="/images/button-contact-hover.png" as="image">
   <link rel="preload" href="/images/button-podcast-hover.png" as="image">
   <link rel="preload" href="/images/button-doc-hover.png" as="image">
+  <link rel="stylesheet" href="/accessconfig/css/accessconfig.min.css" type="text/css" media="screen" />
   {{ $title := print .Site.Title " | " .Title }} {{ if .IsHome }}{{ $title =
   .Site.Title }}{{ end }} {{ partial "favicon.html" . }}
   <title>{{ $title }}</title>
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <script src="/accessconfig/js/accessconfig.min.js" type="text/javascript"></script>
 </head>

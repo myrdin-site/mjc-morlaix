@@ -13,7 +13,9 @@
     <img class="actu__cover_desktop" src="{{ $imageDesktop.RelPermalink }}" />
     <div class="actu__content">
       <h2>{{ .Title }}</h2>
-      <p>{{ .Summary | truncate 160 }} [<a href="{{ .RelPermalink }}">...</a>]</p>
+      <p>
+        {{ .Summary | truncate 160 }} [<a href="{{ .RelPermalink }}">...</a>]
+      </p>
     </div>
     <div class="actu__footer">
       <div class="actu__infos">
@@ -28,9 +30,7 @@
           ><span class="actu__indice">*</span>{{ .Params.prix_plein }}€ / {{
           .Params.prix_abonné }}€</span
         >
-        <span class="actu__legende"
-          >* Non adhérents / adhérents</span
-        >
+        <span class="actu__legende">* Non adhérents / adhérents</span>
         {{ end }}
       </div>
       <div>

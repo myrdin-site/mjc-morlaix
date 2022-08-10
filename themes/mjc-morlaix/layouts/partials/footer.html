@@ -1,8 +1,11 @@
 <footer>
-  <p class="footer">
+  <div class="footer">
     {{ .Site.Copyright }} {{ $legals := .Site.GetPage "mentions-legales" }}<a
       href="{{ $legals.Permalink }}"
       >Mentions légales</a
     >
-  </p>
+    <div id="accessibility" class="accessibility">
+    <div id="accessconfig" data-accessconfig-buttonname="Paramètres d’accessibilité" data-accessconfig-params='{ "Prefix" : "a42-ac", "ContainerClass" : "","ModalCloseButton" : "","ModalTitle" : "","FormFieldset" : "","FormFieldsetLegend" : "","FormRadio" : ""}' ></div>
+    </div>
+  </div>
 </footer>

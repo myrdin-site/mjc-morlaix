@@ -18,6 +18,31 @@
   width: 1px !important;
   white-space: nowrap !important; }
 
+.accessibility {
+  width: 100%; }
+  .accessibility #a42-ac-button {
+    background-color: transparent;
+    margin: 16px 0;
+    color: #3e6b6c;
+    border: none;
+    font-size: 1rem; }
+    .accessibility #a42-ac-button:hover {
+      cursor: pointer;
+      color: #5cb0cb; }
+
+.skip {
+  position: absolute;
+  left: -10000px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden; }
+
+.skip:focus {
+  position: static;
+  width: auto;
+  height: auto; }
+
 body {
   font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
   color: #44404c;
