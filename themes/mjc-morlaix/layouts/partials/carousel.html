@@ -7,6 +7,9 @@
     <div class="carousel__slide">
       <div class="carousel__event">
         {{ .Description }}
+	<div class="carousel__event_place">
+	{{ .Params.lieu }}
+	</div>
         <div class="carousel__event_date">
           {{ .Params.event_time | time.Format ":date_medium" }}
           <span class="carousel__event_time"
@@ -45,6 +48,9 @@
           <div class="carousel__event_date">
             {{ .Params.event_time | time.Format ":date_medium" }}
           </div>
+	  <div class="carousel__event_place">
+	  {{ .Params.lieu }}
+	  </div>
           <div class="carousel__event_time">
             {{ .Params.event_time | time.Format ":time_short" }}
           </div>

@@ -152,7 +152,7 @@ a:hover {
   min-width: 230px;
   color: white;
   padding: 0.8rem;
-  background-color: #5b6121;
+  background-color: #880219;
   font-size: 1.3rem;
   font-weight: 800;
   position: relative; }
@@ -165,6 +165,9 @@ a:hover {
     .carousel__event .carousel__event_date .carousel__event_time {
       color: white;
       font-size: 2rem; }
+
+.carousel__event_place {
+  color: #dcdc24; }
 
 .carousel__title {
   font-family: Futura, Futura-Medium, "Futura Medium", "Centhury Gothic", CenthuryGothic, "Apple Gothic";
@@ -1138,6 +1141,8 @@ label {
   .carousel__event {
     height: 100%;
     width: 100%; }
+  .carousel__event_place {
+    color: white; }
   .carousel__event_desc {
     font-size: 1.5rem; }
   .carousel__event_date {
