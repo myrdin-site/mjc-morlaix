@@ -5,7 +5,7 @@ backend:
 locale: 'fr'
 
 media_folder: static/medias 
-public_folder: /medias 
+public_folder: /static/medias 
 
 publish_mode: editorial_workflow
 
