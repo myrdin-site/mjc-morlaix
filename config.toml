@@ -5,7 +5,3 @@ title = 'MJC Morlaix'
 theme = 'mjc-morlaix'
 copyright = '2022 © MJC Morlaix'
 summaryLength = '20'
-[[module.mounts]]
-  source = "medias"
-  target = "/static/medias"
-
