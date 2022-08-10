@@ -213,7 +213,7 @@
   <div class="page__wrapper trockson">
     <h1 class="trockson__title trockson__title_actu">Actu Trock'Son</h1>
     {{ $paginator := .Paginate (where .Site.RegularPages "Section" "trockson") 2
-    }} {{ range $paginator.Pages.ByDate }}
+    }} {{ range $paginator.Pages.ByParam "event_time" }}
     <div class="actu__wrapper trockson__actu_wrapper">
       <div class="actu__description trockson__description">
         {{ .Description }}
