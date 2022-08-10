@@ -1,7 +1,9 @@
 <!--Carousel Mobile-->
 <div class="carousel__mobile">
   <div class="carousel__wrapper">
-    {{ range last 5 (where .Site.RegularPages "Section" "actu") }}
+    {{ $paginatorCarou := .Paginate (where .Site.RegularPages "Section"
+    "actu" ) 5 }} {{ range ($paginatorCarou.Pages.ByParam "event_time") }}
+
     <div class="carousel__slide">
       <div class="carousel__event">
         {{ .Description }}
@@ -26,7 +28,8 @@
 <!--Carousel Desktop-->
 <div class="carousel__desktop">
   <div class="carousel__wrapper">
-    {{ range last 5 (where .Site.RegularPages "Section" "actu") }}
+    {{ range ($paginatorCarou.Pages.ByParam "event_time") }}
+
     <div class="carousel__slide carousel__flex">
       <div class="carousel__left">
         <div class="carousel__title">
