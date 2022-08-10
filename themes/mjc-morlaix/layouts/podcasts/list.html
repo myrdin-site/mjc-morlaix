@@ -3,12 +3,8 @@
   <h1 class="podcast__title">{{ .Title }}</h1>
   <div class="list__wrapper podcast__list">
     <p class="podcast__desc">
-      <span class="podcast__desc_blue"
-        >Écoutez gratuitement et à volonté</span
-      >
-      <span class="podcast__desc_dark">
-        les productions sonores de la MJC</span
-      >
+      <span class="podcast__desc_blue">Écoutez gratuitement et à volonté</span>
+      <span class="podcast__desc_dark"> les productions sonores de la MJC</span>
     </p>
     <p class="podcast__intro">
       Retrouvez en écoute libre, toutes les productions des Ateliers Radio, des
@@ -22,8 +18,8 @@
       <div class="podcast__item">
         <div class="podcast__item_flex">
           <div class="podcast__item_picto">
-            {{ $picto := resources.Get .Params.picto }} {{ $picto :=
-            $picto.Fit "110x110" }}
+            {{ $picto := resources.Get .Params.picto }} {{ $picto := $picto.Fit
+            "110x110" }}
             <img src="{{ $picto.RelPermalink }}" />
           </div>
           <div class="podcast__item_data">
@@ -38,7 +34,7 @@
           </div>
         </div>
         <div class="podcast__content">
-	  {{ .Content }}
+          {{ .Content }}
           <span class="podcast__content_timing">{{ .Params.durée }}</span>
         </div>
         <div class="podcast__player">

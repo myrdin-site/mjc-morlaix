@@ -22,18 +22,24 @@
     $time }}
     <div class="agenda__wrapper">
       <div class="agenda__left">
-	<!--Cover mobile-->
-	{{ $imageMobile := resources.Get .Params.cover }}
-	{{ $imageMobile := $imageMobile.Fill "342x342 Smart" }}
-	<img class="agenda__cover_mobile" src="{{ $imageMobile.RelPermalink }}" alt="">
-	<!-- Cover desktop -->
-        {{ $image := resources.Get .Params.cover }}
-	{{ $image := $image.Fill "300x300 Smart" }}
+        <!--Cover mobile-->
+        {{ $imageMobile := resources.Get .Params.cover }} {{ $imageMobile :=
+        $imageMobile.Fill "342x342 Smart" }}
+        <img
+          class="agenda__cover_mobile"
+          src="{{ $imageMobile.RelPermalink }}"
+          alt=""
+        />
+        <!-- Cover desktop -->
+        {{ $image := resources.Get .Params.cover }} {{ $image := $image.Fill
+        "300x300 Smart" }}
         <img class="agenda__cover" src="{{ $image.RelPermalink }}" alt="" />
       </div>
       <div class="agenda__middle">
         <h1>{{ .Title }}</h1>
-        <p>{{ .Summary | truncate 160}} [<a href="{{ .RelPermalink }}">...</a>]</p>
+        <p>
+          {{ .Summary | truncate 160}} [<a href="{{ .RelPermalink }}">...</a>]
+        </p>
         <div class="agenda__more">
           <a href="{{ .RelPermalink }}">> En savoir plus</a>
         </div>
@@ -41,23 +47,23 @@
       <div class="agenda__right">
         <p class="agenda__right_desc">{{ .Description }}</p>
         <p class="agenda__right_place">{{ .Params.lieu }}</p>
-	{{ if isset .Params "first" }}
-	<p class="agenda__right_firstpart">1<sup>ère</sup> partie : {{ .Params.first }}</p>
-	{{ end }}
+        {{ if isset .Params "first" }}
+        <p class="agenda__right_firstpart">
+          1<sup>ère</sup> partie : {{ .Params.first }}
+        </p>
+        {{ end }}
         <p class="agenda__right_date">
           {{ .Params.event_time | time.Format ":date_medium" }} / {{
           .Params.event_time | time.Format ":time_short"}}
         </p>
         <div class="agenda__footer-price">
-          {{ if (and (isset .Params "prix_plein") (isset .Params
-          "prix_abonné")) }}
+          {{ if (and (isset .Params "prix_plein") (isset .Params "prix_abonné"))
+          }}
           <span class="agenda__prix"
             ><span class="agenda__indice">*</span>{{ .Params.prix_plein }}€ / {{
             .Params.prix_abonné }}€</span
           >
-          <span class="agenda__legende"
-            >* Non adhérents / adhérents</span
-          >
+          <span class="agenda__legende">* Non adhérents / adhérents</span>
           {{ end }} {{ end }}
         </div>
       </div>
