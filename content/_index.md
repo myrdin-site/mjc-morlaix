@@ -10,6 +10,7 @@ Ces plaisirs que nous vous proposons pourraient vous paraître futiles au regard
 
 Nous les considérons au contraire comme essentiels. Nous revendiquons plus que jamais le droit à la culture, à la réflexion mutuelle, au mieux-être individuel et collectif et au bien vivre ensemble.
 
-Alors retrouvons-nous très vite à la MJC, dans cette belle maison lumineuse ! 
+Alors retrouvons-nous très vite à la MJC, dans cette belle maison lumineuse !
+
 **Bonne saison 2022/2023 à vous toutes et tous avec la MJC !**
 
