@@ -15,11 +15,13 @@
         ciné-débat, Festi 'Blues... etc
       </p>
     </div>
-    {{ $paginatorAgenda := .Paginate (where .Site.RegularPages "Section"
-    "agenda" ) 4 }} {{ range ($paginatorAgenda.Pages.ByParam "event_time") }}
+    {{ $posts := where .Site.RegularPages "Section" "agenda" }} {{ $sortedPosts
+    := $posts.ByParam "event_time" }} {{ $paginatorAgenda := .Paginate
+    $sortedPosts 4 }} {{ range $paginatorAgenda.Pages }}
     <!-- If older than today hide content -->
     {{ $time := (.Params.event_time | time.AsTime).Unix }} {{ if lt now.Unix
-      $time }}
+    $time }}
+
     <div class="agenda__wrapper">
       <div class="agenda__left">
         <!--Cover mobile-->
@@ -71,4 +73,7 @@
     {{ end }} {{ template "_internal/pagination.html" . }}
   </div>
 </div>
+<script>
+  console.log({{ $sortedPosts }});
+</script>
 {{ end }}
