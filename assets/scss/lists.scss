@@ -12,7 +12,7 @@ $brown-actu: #c48a29;
 }
 
 .actu__wrapper {
-  border: 1px solid black;
+  border: 1px solid #2e3e57;
   max-width: 365px;
   margin: 0.4rem auto;
   padding: 0.4rem;
@@ -159,7 +159,7 @@ $brown-actu: #c48a29;
 }
 
 .trockson__wrapper {
-  border: 1px solid;
+  border: 1px solid #2e3e57;
   margin: 1rem 0;
 }
 
@@ -181,6 +181,9 @@ $brown-actu: #c48a29;
 .trockson__hr {
   width: 80%;
   margin: 2rem auto;
+  background-color: #2e3e57;
+  height: 1px;
+  border: none;
 }
 
 .trockson__hours {
