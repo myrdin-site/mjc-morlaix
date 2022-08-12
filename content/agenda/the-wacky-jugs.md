@@ -7,13 +7,11 @@ lieu: Auditorium
 prix_plein: 10
 prix_abonné: 6
 ---
-![The Wacky Jugs](/medias/the-wacky-jugs-500pxpx.jpg "Crésits photo © Julien Le Vu")
+![The Wacky Jugs](/medias/the-wacky-jugs-500pxpx.jpg "Crédit photo © Julien Le Vu")
 
 **Groupe lauréat de l'International Blues Challenge 2022 à Memphis – Usa**
 
-
 L’International Blues Challenge C'est LE plus grand rassemblement de musiciens blues à travers le monde et  un tremplin mondial de groupes et d’artistes blues prêts pour la scène internationale. En 2022, + de 300 musiciens s’y affrontent sur scène, durant plusieurs jours,  et le titre remporté par The Wacky Jugs, la formation originaire de Douarnenez !
-
 
 Les Wacky Jugs fêtent en 2022 12 ans de Blues rural ! Il s’agit une fois encore de faire un hommage au Blues d’avant l’invention de la guitare électrique, aux perles rares, du Memphis Jug Band à Sleepy John Estes en passant par Skip James, Tommy Johnson ou Washboard Sam. \
 \
@@ -22,7 +20,6 @@ Des nouveautés, et de nombreux morceaux que le trio joue depuis le début, tant
 **Avec The Wacky Jugs, un vent de fraicheur souffle sur le Blues.** \
 \
 Une couleur musicale qui pourra surprendre les fans du genre et convertir les plus sceptiques.
-
 
 **Jack Titley** : Chant lead, mandoline acoustique et électrique, guitare électrique \
 **Gurvan Leray** : Harmonicas et choeurs \
