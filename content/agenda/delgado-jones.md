@@ -4,6 +4,7 @@ description: Garage rock psyche lofi
 cover: /medias/delgado-jones-500px.jpg
 event_time: 2022-09-30T18:30:00.000Z
 lieu: Auditorium
+first: The Jesus and Elvis Chainsaw Massacre
 prix_plein: 10
 prix_abonné: 6
 ---
