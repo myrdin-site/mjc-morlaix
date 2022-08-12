@@ -2,7 +2,7 @@
 title: Cisco Herzhaft
 description: Blues traditionnel et Beat Box
 cover: /medias/cisco-herzhaft-500px.jpg
-event_time: 2022-11-05T18:30:00.000Z
+event_time: 2022-11-05T20:30:00.000Z
 lieu: Auditorium
 first: Blues2men
 prix_plein: 12
