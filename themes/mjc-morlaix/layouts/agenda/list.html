@@ -19,7 +19,7 @@
     "agenda" ) 4 }} {{ range ($paginatorAgenda.Pages.ByParam "event_time") }}
     <!-- If older than today hide content -->
     {{ $time := (.Params.event_time | time.AsTime).Unix }} {{ if lt now.Unix
-    $time }}
+      $time }}
     <div class="agenda__wrapper">
       <div class="agenda__left">
         <!--Cover mobile-->
