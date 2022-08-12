@@ -22,7 +22,7 @@ Des nouveautés, et de nombreux morceaux que le trio joue depuis le début, tant
 Une couleur musicale qui pourra surprendre les fans du genre et convertir les plus sceptiques.
 
 **Jack Titley** : Chant lead, mandoline acoustique et électrique, guitare électrique \
-**Gurvan Leray** : Harmonicas et choeurs \
-**Jonathan Caserta** : Basse, contrebasse et choeurs \
-**Joseph Detailleur** : Accordéon et choeurs \
+**Gurvan Leray** : Harmonicas et chœurs \
+**Jonathan Caserta** : Basse, contrebasse et chœurs \
+**Joseph Detailleur** : Accordéon et chœurs \
 **Rowen Berrou** : Batterie , percussions et chœurs.
