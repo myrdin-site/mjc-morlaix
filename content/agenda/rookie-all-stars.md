@@ -2,7 +2,7 @@
 title: Rookie All Stars
 description: Concerts Rap, Open Mic, Fresstyles...
 cover: /medias/rookie-allstars_500px.jpg
-event_time: 2022-11-10T19:30:00.000Z
+event_time: 2022-11-10T20:30:00.000Z
 lieu: Auditorium
 prix_plein: 6
 prix_abonné: 3
