@@ -1,6 +1,6 @@
 ---
 title: Delgado Jones
-description: Garage rock psyche lofi
+description: Garage Rock Psych Lofi
 cover: /medias/delgado-jones-500px.jpg
 event_time: 2022-09-30T20:30:00.000Z
 lieu: Auditorium
