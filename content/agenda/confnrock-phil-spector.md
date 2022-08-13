@@ -9,7 +9,7 @@ prix_abonné: 1
 ---
 ![Conférence Musiques Actuelles > Phil Spector](/medias/phil-spector-500px.jpg)
 
-**Producteur (tortionnaire) de génie et démon criminel...**\
+**Producteur (tortionnaire) de génie et démon criminel...**
 
 Avec sa fameuse technique du «mur de son», PHIL SPECTOR aura régné sur les années 60 en enchaînant les tubes, de «Be My Baby» des Ronettes à «River Deep - Mountain High» d’Ike et Tina Turner. Après avoir produit «Let It Be» et plusieurs albums solos de certains des Beatles, PHIL SPECTOR a vu son étoile vaciller à mesure qu’avançaient les années 70. 
 
