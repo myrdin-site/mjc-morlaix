@@ -1161,7 +1161,8 @@ label {
     background: transparent !important;
     color: white !important;
     font-size: 3rem !important;
-    align-items: flex-start; }
+    align-items: flex-start;
+    padding-left: 1rem; }
     .carousel__title a {
       color: white; }
   .carousel__right {
