@@ -1,5 +1,5 @@
 ---
-title: langue & culture Chinoise
+title: Langue & Culture Chinoise
 picto: /medias/pictos-langues-2023.png
 public:
   - adultes
