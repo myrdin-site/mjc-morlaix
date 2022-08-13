@@ -2,7 +2,7 @@
 title: COLLEGE / CAMPUS
 description: Ciné-concert du BJUSTRÖM CINEDUO
 cover: /medias/ciné-concert-campus-keaton-buster-college_500px.jpg
-event_time: 2023-03-05T16:00:00.000Z
+event_time: 2023-03-05T17:00:00.000Z
 lieu: Auditorium
 prix_plein: 10
 prix_abonné: 6
