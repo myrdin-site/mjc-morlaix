@@ -6,7 +6,7 @@ public:
   - adultes
 anim: David MEUROU
 price: 126€ à 204€ /AN
-starting_date: 2022-08-13T18:32:20.403Z
+starting_date: 2022-09-21T14:30:20.403Z
 creneau: |-
   à partir de **12 ans** - 2 groupes
 
