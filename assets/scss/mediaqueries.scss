@@ -1,3 +1,8 @@
+@media (max-width: 375px) {
+  .page__trockson_content img {
+    max-width: 90vw;
+  }
+}
 // sm
 @media (min-width: 640px) {
   // Header
@@ -293,6 +298,10 @@
     margin-top: -0.2rem;
   }
 
+  .container__trockson {
+    margin-left: 15rem;
+  }
+
   .list__wrapper {
     width: 660px;
     max-width: 660px;
@@ -423,6 +432,10 @@
   }
   // Trockson
 
+  .trockson__title_actu {
+    margin-top: -4rem;
+  }
+
   .trockson__actu_wrapper {
     margin: 1rem 0;
   }
@@ -434,7 +447,6 @@
 
   .trockson {
     width: 800px;
-    margin-left: 12rem;
   }
 
   .page__trockson_content {
@@ -632,7 +644,10 @@
   //Trockson
   .trockson {
     margin: 0 auto;
-    width: 60%;
+  }
+
+  .container__trockson {
+    margin-left: 15rem;
   }
 
   .trockson__top {
