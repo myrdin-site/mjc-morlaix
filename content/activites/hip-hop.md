@@ -1,5 +1,5 @@
 ---
-title: HIP HOP
+title: Hip Hop
 picto: /medias/pictos-hiphop-2023.png
 public:
   - enfants
