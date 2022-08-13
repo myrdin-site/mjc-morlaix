@@ -5,8 +5,8 @@ public:
   - enfants
   - adolescents
 anim: Charles VERGNOLLE
-price: 117€ à 264€ /AN
-starting_date: 2022-09-21T13:00:39.525Z
+price: 96€ à 159€ /AN
+starting_date: 2022-09-21T14:00:39.525Z
 creneau: |-
   # MERCREDI
 
