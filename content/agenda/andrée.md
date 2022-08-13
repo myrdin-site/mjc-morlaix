@@ -2,7 +2,7 @@
 title: ANDRÉE
 description: Folk Rock Blues
 cover: /medias/andrée-500px.jpg
-event_time: 2023-03-11T19:30:00.000Z
+event_time: 2023-03-11T20:30:00.000Z
 lieu: Auditorium
 prix_plein: 10
 prix_abonné: 6
