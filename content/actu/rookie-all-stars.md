@@ -1,6 +1,6 @@
 ---
 title: Rookie All Stars
-description: Concerts Rap, Open Mic, Fresstyles...
+description: Concerts Rap, Open Mic, Freestyles...
 cover: /medias/rookie-allstars_500px.jpg
 event_time: 2022-11-10T20:30:00.000Z
 lieu: Auditorium
