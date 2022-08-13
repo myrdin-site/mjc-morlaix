@@ -1,5 +1,49 @@
 {{ define "main" }}
 <div class="list__container">
+<div class="page__wrapper trockson">
+    <h1 class="trockson__title trockson__title_actu">Actu Trock'Son</h1>
+    {{ $posts := where .Site.RegularPages "Section" "trockson" }} {{ $sortedPosts
+    := $posts.ByParam "event_time" }} {{ $paginatorAgenda := .Paginate
+    $sortedPosts 2 }} {{ range $paginatorAgenda.Pages }}
+    <div class="actu__wrapper trockson__actu_wrapper">
+      <div class="actu__description trockson__description">
+        {{ .Description }}
+      </div>
+      {{ $image := resources.Get .Params.cover }} {{ $image := $image.Fill
+      "365x200" }}
+      <img class="actu__cover" src="{{ $image.RelPermalink }}" />
+      {{ $imageDesktop := resources.Get .Params.cover }} {{ $imageDesktop :=
+      $imageDesktop.Fill "300x300 Smart" }}
+      <img class="actu__cover_desktop" src="{{ $imageDesktop.RelPermalink }}" />
+      <div class="actu__content">
+        <h2>{{ .Title }}</h2>
+        <p>
+          {{ .Summary | truncate 160 }} [<a href="{{ .RelPermalink }}">...</a>]
+        </p>
+      </div>
+      <div class="actu__footer">
+        <div class="actu__infos">
+          <span class="actu__lieu">{{ .Params.lieu }}</span>
+          {{ .Params.event_time | time.Format ":date_medium" }} {{
+          .Params.event_time | time.Format ":time_short" }}
+        </div>
+        <div class="actu__footer-price">
+          {{ if (and (isset .Params "prix_plein") (isset .Params "prix_abonné"))
+          }}
+          <span class="actu__prix"
+            ><span class="actu__indice">*</span>{{ .Params.prix_plein }}€ / {{
+            .Params.prix_abonné }}€</span
+          >
+          <span class="actu__legende">* Non adhérents / adhérents</span>
+          {{ end }}
+        </div>
+        <div>
+          <a href="{{ .RelPermalink }}">> En savoir plus</a>
+        </div>
+      </div>
+    </div>
+    {{ end }} {{ template "_internal/pagination.html" . }}
+
   <div class="page__wrapper trockson trockson__top">
     <div class="page__trockson_content">
       <h1 class="trockson__title">{{ .Title }}</h1>
@@ -210,49 +254,6 @@
       </div>
     </div>
   </div>
-  <div class="page__wrapper trockson">
-    <h1 class="trockson__title trockson__title_actu">Actu Trock'Son</h1>
-    {{ $posts := where .Site.RegularPages "Section" "trockson" }} {{ $sortedPosts
-    := $posts.ByParam "event_time" }} {{ $paginatorAgenda := .Paginate
-    $sortedPosts 4 }} {{ range $paginatorAgenda.Pages }}
-    <div class="actu__wrapper trockson__actu_wrapper">
-      <div class="actu__description trockson__description">
-        {{ .Description }}
-      </div>
-      {{ $image := resources.Get .Params.cover }} {{ $image := $image.Fill
-      "365x200" }}
-      <img class="actu__cover" src="{{ $image.RelPermalink }}" />
-      {{ $imageDesktop := resources.Get .Params.cover }} {{ $imageDesktop :=
-      $imageDesktop.Fill "300x300 Smart" }}
-      <img class="actu__cover_desktop" src="{{ $imageDesktop.RelPermalink }}" />
-      <div class="actu__content">
-        <h2>{{ .Title }}</h2>
-        <p>
-          {{ .Summary | truncate 160 }} [<a href="{{ .RelPermalink }}">...</a>]
-        </p>
-      </div>
-      <div class="actu__footer">
-        <div class="actu__infos">
-          <span class="actu__lieu">{{ .Params.lieu }}</span>
-          {{ .Params.event_time | time.Format ":date_medium" }} {{
-          .Params.event_time | time.Format ":time_short" }}
-        </div>
-        <div class="actu__footer-price">
-          {{ if (and (isset .Params "prix_plein") (isset .Params "prix_abonné"))
-          }}
-          <span class="actu__prix"
-            ><span class="actu__indice">*</span>{{ .Params.prix_plein }}€ / {{
-            .Params.prix_abonné }}€</span
-          >
-          <span class="actu__legende">* Non adhérents / adhérents</span>
-          {{ end }}
-        </div>
-        <div>
-          <a href="{{ .RelPermalink }}">> En savoir plus</a>
-        </div>
-      </div>
     </div>
-    {{ end }} {{ template "_internal/pagination.html" . }}
-  </div>
 </div>
 {{ end }}
