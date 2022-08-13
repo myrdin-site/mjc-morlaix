@@ -2,7 +2,7 @@
 title: KOMODOR
 description: Psych Rock
 cover: /medias/komodor-press-2-©-erwan-larzul-500px.jpg
-event_time: 2023-02-10T19:30:00.000Z
+event_time: 2023-02-10T20:30:00.000Z
 lieu: Auditorium
 first: The Dirty Llamas
 prix_plein: 10
