@@ -17,7 +17,5 @@ C’est aussi une année fondatrice pour le rap américain avec notamment la sor
 
 **1983 marque le début de l’ère du Home Studio et du numérique, du clavier MIDI et du format CD ...**
 
-
-
-***Avec Christophe BRAULT** DJ animateur radio, diplômé en musicologie, Conférencier Musiques Actuelles**\
+**Avec Christophe BRAULT** DJ animateur radio, diplômé en musicologie, Conférencier Musiques Actuelles*\
 Dynamique et captivant, Christophe BRAULT nous fait partager sa passion pour les Musiques Actuelles. Une formule entre conférence et performance gesticulée, parsemée d’extraits audio, d’images et d’anecdotes choisies.*
