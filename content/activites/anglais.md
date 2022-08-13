@@ -3,6 +3,7 @@ title: Anglais
 picto: /medias/pictos-langues-2023.png
 public:
   - adultes
+  - adolescents
 anim: Étiennette DESTABLE
 price: 117€ à 174€ /AN
 starting_date: 2022-09-19T16:00:39.903Z
