@@ -17,7 +17,7 @@ Soirée proposée dans le cadre de Cultures Hip Hop Festival.
 
 **4 jeunes artistes sur scène >** 
 
-**DYNJAH** (lauréat Buzz Booster BZH 2022)/ **FLIMZY FLAV** (sélection Pano Rap Contest 2022)\
+**DYNJAH** (lauréat Buzz Booster BZH 2022) / **FLIMZY FLAV** (sélection Pano Rap Contest 2022)\
 **BONNIE EKR** (lauréate Buzz Booster BZH 2021) / **DEE K** (sélection Pano Rap Contest 2023) 
 
 **+ OPEN MIC + 17h > 18h30**
