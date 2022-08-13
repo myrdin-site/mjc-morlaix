@@ -2,7 +2,7 @@
 title: Cathy Heiting Trio
 description: Jazz
 cover: /medias/cathy-heiting-07-500px.jpg
-event_time: 2022-12-04T16:00:00.000Z
+event_time: 2022-12-04T17:00:00.000Z
 lieu: Auditorium
 prix_plein: 10
 prix_abonné: 6
