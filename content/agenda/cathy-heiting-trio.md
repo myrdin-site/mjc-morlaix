@@ -9,8 +9,7 @@ prix_abonné: 6
 ---
 ![Cathy Heiting trio](/medias/cathy-heiting-07-500px.jpg)
 
-
-**Cathy Heiting, c'est le miel mélangé à du tabasco, une artiste pétrie de talent, d'humour et d'humanité.**\
+**Cathy Heiting, c'est le miel mélangé à du tabasco, une artiste pétrie de talent, d'humour et d'humanité.**
 
 On le sait, avec cette vocaliste  hors norme (opéra, jazz, ragga...) porteuse de projets très variés (Le Conte  du Petit Bois Pourri, Jazz and Wine Stories, Moving), la soirée est toujours surprenante et vibrante....
 
