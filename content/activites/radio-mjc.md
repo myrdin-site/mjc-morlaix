@@ -5,7 +5,7 @@ public:
   - adolescents
   - adultes
 anim: Stéphane LE RILLE
-price: cotisation 10€ /AN
+price: Cotisation 10€ /AN
 starting_date: 2022-09-17T08:00:38.195Z
 creneau: |-
   La radio, vous l’écoutez ? Pourquoi ne pas fabriquer votre propre émission !
