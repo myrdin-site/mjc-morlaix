@@ -9,7 +9,7 @@ prix_abonné: 6
 ---
 ![Cisco Herzhaft](/medias/cisco-herzhaft-500px.jpg "Crédits photo © Noel Doizi")
 
-**Cisco HERZHAFT c’est un blues originel, joué par le vétéran du blues en France**, Cisco Herzhaft, aux guitares, au chant et les sons modernes d’un des meilleurs BeatBoxer français, Micflow (champion du monde de beatbox en équipe) sans oublier l’harmonica flamboyant de Geneviève Dartevelle et à la contrebasse, Stéphane Bihan, et son slap endiablé.\
+**Cisco HERZHAFT c’est un blues originel, joué par le vétéran du blues en France**, Cisco Herzhaft, aux guitares, au chant et les sons modernes d’un des meilleurs BeatBoxer français, Micflow (champion du monde de beatbox en équipe) sans oublier l’harmonica flamboyant de Geneviève Dartevelle et à la contrebasse, Stéphane Bihan, et son slap endiablé.
 
 Blues originels ou compos personnelles, quelques folksongs et spirituals, ces sons traditionnels prennent une dimension aérienne et envoûtante portés par le rythme du beatbox. Et sans trahir l’esprit de cette musique qui, de tout temps, est associée aux sons de la voix....\
 [\
