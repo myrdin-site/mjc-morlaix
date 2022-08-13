@@ -88,6 +88,11 @@
 
 // lg
 @media (min-width: 1024px) {
+  // Page 
+  .page__wrapper_single h1 {
+    margin-top: 0rem;
+  }
+
   // Player
   .audio-player {
     display: block;
