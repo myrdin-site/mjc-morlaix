@@ -2,7 +2,7 @@
 title: Théo CHARAFF
 description: Concert Folk
 cover: /medias/theo-charaf_500px.jpg
-event_time: 2022-10-21T18:30:00.000Z
+event_time: 2022-10-21T20:30:00.000Z
 lieu: Auditorium
 prix_plein: 10
 prix_abonné: 6
