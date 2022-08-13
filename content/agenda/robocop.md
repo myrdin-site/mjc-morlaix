@@ -2,7 +2,7 @@
 title: ROBOCOP
 description: Ciné-concert de FRAGMENTS
 cover: /medias/ciné-concert-robocop-500px.jpg
-event_time: 2023-04-07T18:30:00.000Z
+event_time: 2023-04-07T20:30:00.000Z
 lieu: Auditorium
 prix_plein: 10
 prix_abonné: 6
