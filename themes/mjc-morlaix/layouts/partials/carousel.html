@@ -38,7 +38,7 @@
             <h1>{{ .Title }}</h1>
           </div>
           {{ $image := resources.Get .Params.cover }} {{ $image := $image.Fill
-          "500x260 center" }}
+          "500x260 top" }}
           <img src="{{ $image.RelPermalink }}" alt="" />
         </div>
         <div class="carousel__right">
