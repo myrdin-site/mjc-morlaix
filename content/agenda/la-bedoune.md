@@ -9,11 +9,11 @@ prix_abonné: 6
 ---
 ![La Bedoune](/medias/la-bedoune02-500px.jpg)
 
-**Ces deux là jouent ensemble depuis très longtemps et se sont produits un peu partout en France et même à Memphis Tennessee.**\
+**Ces deux là jouent ensemble depuis très longtemps et se sont produits un peu partout en France et même à Memphis Tennessee.**
 
-D'abord en trio, puis en quartet, c'est finalement en duo que leur musique est unique. Durant leur parcours ils ont eu de nombreuses occasions d'échanger, de jammer avec des musiciens de blues Américains. \
+D'abord en trio, puis en quartet, c'est finalement en duo que leur musique est unique. Durant leur parcours ils ont eu de nombreuses occasions d'échanger, de jammer avec des musiciens de blues Américains.
 
-Vainqueurs du Blues Challenge français en 2019, ils partent disputer l’international blues Challenge à  Memphis où ils sortent demi finalistes. En 2022, ils renouvellent l’expérience et sont de retour sur Beale street à Memphis. Ils misent sur la touche Frenchy et accèdent à la finale dans le prestigieux théâtre  de l’Orphéum chargé d’histoire et de légendes du blues…\
+Vainqueurs du Blues Challenge français en 2019, ils partent disputer l’international blues Challenge à  Memphis où ils sortent demi finalistes. En 2022, ils renouvellent l’expérience et sont de retour sur Beale street à Memphis. Ils misent sur la touche Frenchy et accèdent à la finale dans le prestigieux théâtre  de l’Orphéum chargé d’histoire et de légendes du blues…
 
 La somme de ces expériences les enrichit et les conforte dans leur légitimité.
 Cécile chante ses histoires qui sont comme autant de petits squelettes dans son sillage et sa musique est un mélange de tout ce qu'elle a entendu, appris et chanté depuis sa plus tendre enfance.
