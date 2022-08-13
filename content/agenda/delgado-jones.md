@@ -1,8 +1,8 @@
 ---
 title: Delgado Jones
-description: Garage rock psyche lofi
+description: Garage Rock Psych Lofi
 cover: /medias/delgado-jones-500px.jpg
-event_time: 2022-09-30T18:30:00.000Z
+event_time: 2022-09-30T20:30:00.000Z
 lieu: Auditorium
 first: The Jesus and Elvis Chainsaw Massacre
 prix_plein: 10

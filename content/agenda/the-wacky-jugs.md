@@ -2,7 +2,7 @@
 title: The Wacky Jugs
 description: Blues
 cover: /medias/the-wacky-jugs-500pxpx.jpg
-event_time: 2022-11-04T19:30:00.000Z
+event_time: 2022-11-04T20:30:00.000Z
 lieu: Auditorium
 prix_plein: 10
 prix_abonné: 6

@@ -2,7 +2,7 @@
 title: Les Délivrés
 description: Ciné-concert de Maxime DANGLES
 cover: /medias/ciné-concert-les-delivres-1-500px.jpg
-event_time: 2022-12-09T19:30:00.000Z
+event_time: 2022-12-09T20:30:00.000Z
 lieu: Auditorium
 prix_plein: 10
 prix_abonné: 6

@@ -2,7 +2,7 @@
 title: VIKTOR & The Haters
 description: Post Rap
 cover: /medias/vktor-and-the-haters-500px.jpg
-event_time: 2022-11-18T19:30:00.000Z
+event_time: 2022-11-18T20:30:00.000Z
 lieu: Auditorium
 prix_plein: 10
 prix_abonné: 6

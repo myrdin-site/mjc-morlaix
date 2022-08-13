@@ -7,7 +7,7 @@ lieu: Auditorium
 prix_plein: 6
 prix_abonné: 3
 ---
-![](/medias/rookie-allstars_500px.jpg "Rookie Al Stars")
+![Rookie All Stars](/medias/rookie-allstars_500px.jpg)
 
 **L’espace Musiques Actuelles Trock’son de la MJC se mobilise afin de célébrer les cultures urbaines.**
 
