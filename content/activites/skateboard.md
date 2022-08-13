@@ -1,5 +1,5 @@
 ---
-title: skateboard
+title: Skateboard
 picto: /medias/pictos-skate-2023.png
 public:
   - adolescents
