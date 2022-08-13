@@ -18,5 +18,5 @@ creneau: |-
   # MERCREDI
 
   Impro 11 ans et + > **14h00** / **15h30**
-description: Initiation et pratique du théatre.
+description: Initiation et pratique du théatre. (enfants)
 ---
