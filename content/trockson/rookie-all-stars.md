@@ -1,6 +1,6 @@
 ---
 title: Rookie All Stars
-description: Concerts Rap, Open Mic, Freestyles
+description: Concerts Rap, Open Mic, Freestyles...
 cover: /medias/rookie-allstars_500px.jpg
 event_time: 2022-11-10T19:30:00.000Z
 lieu: Auditorium
@@ -9,21 +9,21 @@ prix_abonné: 3
 ---
 ![](/medias/rookie-allstars_500px.jpg "ROOKIE ALL STARS")
 
-**L’espace Musiques Actuelles Trock’son de la MJC se mobilise afin de célébrer les cultures urbaines.** \
+**L’espace Musiques Actuelles Trock’son de la MJC se mobilise afin de célébrer les cultures urbaines.**
 
-La MJC accueille la fine fleur des jeunes talents de la scène RAP régionale émergente et prometteuse !\
+La MJC accueille la fine fleur des jeunes talents de la scène RAP régionale émergente et prometteuse !
 
 Concerts, open mic, freestyles, lives en streaming pour une soirée événement à ne pas manquer.
-Soirée proposée dans le cadre de Cultures Hip Hop Festival.\
+Soirée proposée dans le cadre de Cultures Hip Hop Festival.
 
 **4 jeunes artistes sur scène >** 
 
-**DYNJAH** (lauréat Buzz Booster BZH 2022) **/** **FLIMZY FLAV** (sélection Pano Rap Contest 2022)\
-**BONNIE EKR** (lauréate Buzz Booster BZH 2021) **/** **DEE K** (sélection Pano Rap Contest 2023)\
+**DYNJAH** (lauréat Buzz Booster BZH 2022) / **FLIMZY FLAV** (sélection Pano Rap Contest 2022)\
+**BONNIE EKR** (lauréate Buzz Booster BZH 2021) / **DEE K** (sélection Pano Rap Contest 2023)\
 \
-**+ OPEN MIC + 17h > 18h30** \
+**+ OPEN MIC + 17h > 18h30**
 
 ÉMISSION LIVE TWITCH par FINISTÈRE AMER
-Interview des artistes & guests + freestyles en direct de la MJC\
+Interview des artistes & guests + freestyles en direct de la MJC
 
 **Ouvert au public sur réservation auprès de la MJC**
