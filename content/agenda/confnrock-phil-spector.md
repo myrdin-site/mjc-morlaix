@@ -17,4 +17,8 @@ De revers musicaux en longs contentieux, il ne parviendra plus à retrouver le s
 
 **Le 2 février 2003, Phil Spector tue, chez lui, d’une balle de revolver l’actrice Lana Clarkson ...**
 
-**\*Avec Christophe BRAULT** DJ animateur radio, diplômé en musicologie, Conférencier Musiques ActuellesDynamique et captivant, Christophe BRAULT nous fait partager sa passion pour les Musiques Actuelles. Une formule entre conférence et performance gesticulée, parsemée d’extraits audio, d’images et d’anecdotes choisies.*
+
+
+***Avec Christophe BRAULT** DJ animateur radio, diplômé en musicologie, Conférencier Musiques Actuelles\
+\
+Dynamique et captivant, Christophe BRAULT nous fait partager sa passion pour les Musiques Actuelles. Une formule entre conférence et performance gesticulée, parsemée d’extraits audio, d’images et d’anecdotes choisies.**
