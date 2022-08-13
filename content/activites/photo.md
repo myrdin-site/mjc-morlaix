@@ -5,7 +5,7 @@ public:
   - adultes
 anim: Photographe professionnel
 price: 6 SÉANCES 30€
-starting_date: 2022-08-13T13:53:42.885Z
+starting_date: 2022-10-17T16:00:42.885Z
 creneau: |-
   # LUNDI
 
