@@ -11,7 +11,8 @@ starting_date: 2021-09-15T13:00:53.784Z
 creneau: |-
   # MERCREDI
 
-  Collège Saint-Joseph à Morlaix\
+  Collège Saint-Joseph à Morlaix
+
   4/5 ans > **16h30 / 17h30  -**  6/8 ans > **15h00 / 16h30**\
   9/11 ans > **17h30 / 19h30  -**  ados/adultes > **19h30 / 21h30**
 
