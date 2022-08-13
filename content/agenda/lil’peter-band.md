@@ -2,7 +2,7 @@
 title: Lil’Peter Band
 description: Blues
 cover: /medias/lil-peter-band-2-500px.jpg
-event_time: 2023-05-26T18:30:00.000Z
+event_time: 2023-05-26T20:30:00.000Z
 lieu: Auditorium
 prix_plein: 10
 prix_abonné: 6
