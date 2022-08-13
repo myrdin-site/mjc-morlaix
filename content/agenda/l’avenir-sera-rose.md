@@ -2,7 +2,7 @@
 title: L’AVENIR SERA ROSE
 description: Théatre - Cie La Barge
 cover: /medias/la-barge-l-avenir-rose-500px.jpg
-event_time: 2023-05-11T08:00:00.000Z
+event_time: 2023-05-11T12:00:00.000Z
 lieu: Auditorium
 prix_plein: 1
 prix_abonné: 1
