@@ -28,7 +28,7 @@ creneau: >-
   # MERCREDI
 
 
-  **09h00** / **10h00** > "Gym d’entretien" Yannick THOMAS < MJC - **11h00** / **12h00** > "Gymnastique douce" Renaud CUDENNEC < MJC - **17h00** / **18h00** > "Assoup. /Stretching" Yannick THOMAS < Ploujean - **18h15** / **19h15** > "Assoup. /Stretching" Yannick THOMAS < Ploujean 
+  **09h00** / **10h00** > "Gym d’entretien" Yannick THOMAS < MJC — **11h00** / **12h00** > "Gymnastique douce" Renaud CUDENNEC < MJC — **17h00** / **18h00** > "Assoup. /Stretching" Yannick THOMAS < Ploujean — **18h15** / **19h15** > "Assoup. /Stretching" Yannick THOMAS < Ploujean 
 
 
   # JEUDI
