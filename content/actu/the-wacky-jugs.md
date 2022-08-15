@@ -1,7 +1,7 @@
 ---
 title: THE WACKY JUGS
 description: Blues
-cover: /medias/the-wacky-jugs-500pxpx.jpg
+cover: /medias/the-wacky-jugs-750x500px-car.jpg
 event_time: 2022-11-04T20:30:00.000Z
 lieu: Auditorium
 prix_plein: 10
