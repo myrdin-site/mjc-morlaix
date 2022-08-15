@@ -2,7 +2,7 @@
 title: La Jeunesse Envoie Des Ondes
 picto: /medias/icone_radio2023.png
 description: Radio Fiction «post-confinement»
-auteur: Radio MJC © 2020
+auteur: "Radio MJC "
 date: 2020-07-10T12:24:00.366Z
 durée: 10 mn
 audio: /medias/radiomjcmx_10mnpostconfinement-juill20.mp3
