@@ -3,6 +3,13 @@
     max-width: 90vw;
   }
 }
+
+@media (max-width: 1279px) {
+  .trockson__text_left::after {
+    border-right: none !important;
+  }
+}
+
 // sm
 @media (min-width: 640px) {
   // Header
@@ -305,6 +312,7 @@
 
   .container__trockson {
     margin-left: 15rem;
+    margin-bottom: -4.2rem;
   }
 
   .list__wrapper {
@@ -649,6 +657,7 @@
 
   .container__trockson {
     margin: -4.6rem auto;
+    margin-bottom: 0rem;
   }
 
   .trockson__top {

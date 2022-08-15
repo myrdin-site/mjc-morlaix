@@ -700,6 +700,9 @@ input[type="range"]:focus::-moz-range-thumb {
   margin: 0;
   margin-top: -2rem; }
 
+.container__trockson {
+  margin-bottom: 0rem; }
+
 .trockson__title {
   margin-top: 6rem; }
 
@@ -1066,6 +1069,10 @@ label {
   .page__trockson_content img {
     max-width: 90vw; } }
 
+@media (max-width: 1279px) {
+  .trockson__text_left::after {
+    border-right: none !important; } }
+
 @media (min-width: 640px) {
   .header__button {
     left: 0.5%;
@@ -1223,7 +1230,8 @@ label {
     margin-right: auto;
     margin-top: -0.2rem; }
   .container__trockson {
-    margin-left: 15rem; }
+    margin-left: 15rem;
+    margin-bottom: -4.2rem; }
   .list__wrapper {
     width: 660px;
     max-width: 660px; }
@@ -1423,7 +1431,8 @@ label {
   .trockson {
     margin: 0 auto; }
   .container__trockson {
-    margin: -4.6rem auto; }
+    margin: -4.6rem auto;
+    margin-bottom: 0rem; }
   .trockson__top {
     margin-top: -4.6rem; } }
 
