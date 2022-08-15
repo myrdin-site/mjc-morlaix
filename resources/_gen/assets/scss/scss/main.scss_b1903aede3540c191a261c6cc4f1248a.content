@@ -634,7 +634,7 @@ input[type="range"]:focus::-moz-range-thumb {
 
 /* MJC */
 .page__mjc_content {
-  width: 375px;
+  width: 360px;
   margin: auto; }
   .page__mjc_content h1 {
     color: #d0ecbf;
@@ -650,7 +650,9 @@ input[type="range"]:focus::-moz-range-thumb {
 .page__mjc_ext,
 .page__mjc_img {
   max-width: 340px;
-  padding: 0.8rem 0; }
+  padding: 0.8rem 0;
+  display: block;
+  margin: auto; }
 
 .page__mjc_yellow {
   color: #d0922c; }

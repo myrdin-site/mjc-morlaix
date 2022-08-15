@@ -33,7 +33,7 @@
 /* MJC */
 
 .page__mjc_content {
-  width: 375px;
+  width: 360px;
   margin: auto;
   h1 {
     color: #d0ecbf;
@@ -54,6 +54,8 @@
 .page__mjc_img {
   max-width: 340px;
   padding: 0.8rem 0;
+  display: block;
+  margin: auto;
 }
 
 .page__mjc_yellow {
