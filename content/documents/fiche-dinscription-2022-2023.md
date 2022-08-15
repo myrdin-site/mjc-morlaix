@@ -1,5 +1,5 @@
 ---
-title: Fiche d'Inscription 2022 / 2023
+title: Fiche d'Inscription
 format: pdf
 picto: /medias/pdf.png
 saison: 2022 / 2023
