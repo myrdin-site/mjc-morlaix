@@ -659,7 +659,7 @@ input[type="range"]:focus::-moz-range-thumb {
 
 .page__mjc_wrapper {
   border: 1px solid #2e3e57;
-  padding: 1rem; }
+  padding: 0.2rem; }
 
 /* Jeunesse */
 .page__jeunesse_content h1 {
