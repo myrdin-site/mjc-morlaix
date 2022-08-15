@@ -1,5 +1,5 @@
 ---
-title: Gymnastique
+title: Gym
 picto: /medias/pictos-gym-2023.png
 public:
   - adultes
