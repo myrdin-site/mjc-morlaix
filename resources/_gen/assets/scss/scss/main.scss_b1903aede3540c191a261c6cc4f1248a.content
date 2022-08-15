@@ -1232,8 +1232,7 @@ label {
     margin-right: auto;
     margin-top: -0.2rem; }
   .container__trockson {
-    margin-left: 15rem;
-    margin-bottom: -4.2rem; }
+    margin-left: 15rem; }
   .list__wrapper {
     width: 660px;
     max-width: 660px; }
@@ -1434,7 +1433,7 @@ label {
     margin: 0 auto; }
   .container__trockson {
     margin: -4.6rem auto;
-    margin-bottom: 0rem; }
+    margin-bottom: 4.6rem; }
   .trockson__top {
     margin-top: -4.6rem; } }
 
