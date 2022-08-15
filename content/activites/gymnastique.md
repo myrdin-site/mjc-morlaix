@@ -10,7 +10,9 @@ creneau: >-
   # LUNDI
 
 
-  **09h45** / **10h45** "Gym d’entretien" Renaud CUDENNEC < MJC — **18h00** / **19h00** "Gym d’entretien" Yannick THOMAS < Zoé Puyo
+  **09h45** / **10h45** "Gym d’entretien" Renaud CUDENNEC < MJC\
+
+  **18h00** / **19h00** "Gym d’entretien" Yannick THOMAS < Zoé Puyo
 
 
   # MARDI
