@@ -538,7 +538,7 @@ input[type="range"]:focus::-moz-range-thumb {
 
 .trockson__wrapper {
   border: 1px solid #2e3e57;
-  margin: 1rem -0.5rem; }
+  margin: 1rem 0rem; }
 
 .trockson__logo,
 .trockson__photo {
@@ -661,7 +661,7 @@ input[type="range"]:focus::-moz-range-thumb {
 
 .page__mjc_wrapper {
   border: 1px solid #2e3e57;
-  padding: 0.2rem; }
+  padding: 1rem; }
 
 /* Jeunesse */
 .page__jeunesse_content h1 {
@@ -1346,7 +1346,7 @@ label {
     text-align: left;
     padding: 1rem 0.8rem; }
   .trockson__info {
-    padding: 1rem;
+    padding: 0.7rem;
     position: relative; }
   .trockson__info::after {
     content: "";
@@ -1357,7 +1357,7 @@ label {
     width: 50px;
     border-right: 1px solid #2e3e57; }
   .trockson__text_left {
-    padding: 1rem;
+    padding: 0.7rem;
     position: relative; }
   .trockson__text_left::after {
     content: "";
