@@ -389,7 +389,7 @@
   }
 
   .podcast__timeline {
-    width: 10.5rem !important;
+    width: 4.5rem !important;
   }
 
   // MJC
@@ -551,6 +551,11 @@
 
 // xl
 @media (min-width: 1280px) {
+  // Podcast 
+  .podcast__timeline {
+    width: 10.5rem !important;
+  }
+
   // Header
   .header__title {
     font-size: 2.8rem;

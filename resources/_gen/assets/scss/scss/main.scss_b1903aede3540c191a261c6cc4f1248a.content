@@ -1031,7 +1031,7 @@ label {
   background: transparent;
   border: none;
   cursor: pointer;
-  width: 3.7rem !important;
+  width: 6.7rem !important;
   padding-left: 0.3rem; }
 
 .podcast__timeline::-webkit-slider-runnable-track {
@@ -1281,7 +1281,7 @@ label {
     flex-basis: 48%;
     text-align: left; }
   .podcast__timeline {
-    width: 10.5rem !important; }
+    width: 4.5rem !important; }
   .page__mjc_content {
     width: 800px; }
     .page__mjc_content h2 {
@@ -1382,6 +1382,8 @@ label {
       bottom: 1rem; } }
 
 @media (min-width: 1280px) {
+  .podcast__timeline {
+    width: 10.5rem !important; }
   .header__title {
     font-size: 2.8rem; }
   .nav__link {
