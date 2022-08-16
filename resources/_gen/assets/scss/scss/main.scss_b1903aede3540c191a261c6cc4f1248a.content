@@ -423,7 +423,7 @@ input[type="range"]:focus::-moz-range-thumb {
 
 .actu__wrapper {
   border: 1px solid #2e3e57;
-  max-width: 365px;
+  max-width: 344px;
   margin: 0.4rem auto;
   padding: 0.4rem;
   overflow: hidden; }
@@ -714,6 +714,9 @@ input[type="range"]:focus::-moz-range-thumb {
 
 .trockson__title_actu {
   margin-top: 0rem; }
+
+.page__trockson {
+  margin-top: 12rem; }
 
 .page__trockson_content {
   padding: 0 0.5rem; }
