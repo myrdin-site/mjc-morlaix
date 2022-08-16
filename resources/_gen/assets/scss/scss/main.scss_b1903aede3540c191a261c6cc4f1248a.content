@@ -1434,7 +1434,8 @@ label {
 
 @media (min-width: 1440px) {
   .homepage__content {
-    margin: 0.8rem 21rem; }
+    margin: 0.8rem 21rem;
+    margin-bottom: 4rem; }
   .page__ij_wrapper {
     display: flex; }
   .page__ij_img {
