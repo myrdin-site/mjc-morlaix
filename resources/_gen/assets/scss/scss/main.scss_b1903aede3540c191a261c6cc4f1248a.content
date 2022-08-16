@@ -207,7 +207,7 @@ a:hover {
   background-color: white;
   color: #5cb0cb;
   z-index: 1;
-  min-height: 128px;
+  min-height: 95px;
   display: flex;
   align-items: center;
   justify-content: center; }
