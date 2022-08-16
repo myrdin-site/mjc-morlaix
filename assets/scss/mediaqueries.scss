@@ -10,6 +10,20 @@
   }
 }
 
+@media (max-width: 1023px) {
+  .actu__content {
+    padding: 1rem;
+  }
+
+  .actu__footer {
+    padding: 0rem 1rem 1rem 1rem;
+  }
+
+  .actu__infos, .actu__footer-price {
+    padding-bottom: 0.8rem;
+  }
+}
+
 // sm
 @media (min-width: 640px) {
   // Header
@@ -592,11 +606,6 @@
     }
     .actu__infos {
       font-size: 1.4rem;
-    }
-    .actu__footer {
-      a {
-        font-size: 1.2rem;
-      }
     }
     .actu__footer-price {
       margin-bottom: 1rem;

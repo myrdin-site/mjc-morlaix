@@ -457,7 +457,8 @@ input[type="range"]:focus::-moz-range-thumb {
     text-align: right; }
   .actu__wrapper h2 {
     color: #c48a29;
-    font-size: 2rem; }
+    font-size: 1.5rem;
+    padding: 0.8rem 0; }
   .actu__wrapper a {
     color: #5bab37; }
   .actu__wrapper .actu__lieu {
@@ -1076,6 +1077,14 @@ label {
   .trockson__text_left::after {
     border-right: none !important; } }
 
+@media (max-width: 1023px) {
+  .actu__content {
+    padding: 1rem; }
+  .actu__footer {
+    padding: 0rem 1rem 1rem 1rem; }
+  .actu__infos, .actu__footer-price {
+    padding-bottom: 0.8rem; } }
+
 @media (min-width: 640px) {
   .header__button {
     left: 0.5%;
@@ -1403,8 +1412,6 @@ label {
       padding: 1rem; }
     .actu__wrapper .actu__infos {
       font-size: 1.4rem; }
-    .actu__wrapper .actu__footer a {
-      font-size: 1.2rem; }
     .actu__wrapper .actu__footer-price {
       margin-bottom: 1rem; }
   .contact__column {
