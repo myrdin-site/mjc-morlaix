@@ -3,6 +3,10 @@
   <div class="carousel__wrapper">
     {{ $paginatorCarou := .Paginate (where .Site.RegularPages "Section" "actu" )
     5 }} {{ range ($paginatorCarou.Pages.ByParam "event_time") }}
+    <!-- If older than today hide content -->
+    {{ $time := (.Params.event_time | time.AsTime).Unix }} {{ if lt now.Unix
+    $time }}
+
     <a class="carousel__link" href="{{ .RelPermalink }}">
       <div class="carousel__slide">
         <div class="carousel__event">
@@ -23,7 +27,7 @@
         <img src="{{ $image.RelPermalink }}" />
       </div>
     </a>
-    {{ end }}
+    {{ end }} {{ end }}
   </div>
 </div>
 
@@ -31,6 +35,10 @@
 <div class="carousel__desktop">
   <div class="carousel__wrapper">
     {{ range ($paginatorCarou.Pages.ByParam "event_time") }}
+    <!-- If older than today hide content -->
+    {{ $time := (.Params.event_time | time.AsTime).Unix }} {{ if lt now.Unix
+    $time }}
+
     <a class="carousel__link" href="{{ .RelPermalink }}">
       <div class="carousel__slide carousel__flex">
         <div class="carousel__left">
@@ -55,6 +63,6 @@
         </div>
       </div>
     </a>
-    {{ end }}
+    {{ end }} {{ end }}
   </div>
 </div>
