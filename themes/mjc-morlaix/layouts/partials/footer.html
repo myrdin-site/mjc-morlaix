@@ -1,5 +1,15 @@
 <footer>
   <div class="footer">
+    <a href="https://twitter.com/MJC_Morlaix"
+      ><i class="fa fa-twitter" aria-hidden="true"
+        ><span class="sr-only">Twitter</span></i
+      ></a
+    >
+    <a href="https://www.instagram.com/mjcmorlaix/">
+      <i class="fa fa-instagram" aria-hidden="true"
+        ><span class="sr-only">Instagram</span></i
+      >
+    </a>
     {{ .Site.Copyright }} {{ $legals := .Site.GetPage "mentions-legales" }}<a
       href="{{ $legals.Permalink }}"
       >Mentions légales</a
