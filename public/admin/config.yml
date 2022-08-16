@@ -3,6 +3,7 @@ backend:
   branch: main
 
 locale: 'fr'
+display_url: https://mjcmorlaix.com
 
 media_folder: assets/medias 
 public_folder: /medias 
