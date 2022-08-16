@@ -414,7 +414,7 @@ input[type="range"]:focus::-moz-range-thumb {
 /* ACTU */
 .list__container {
   max-width: 365px;
-  margin: 12rem auto;
+  margin: 10rem auto;
   margin-bottom: 4rem; }
   .list__container .actu__title {
     text-transform: uppercase;

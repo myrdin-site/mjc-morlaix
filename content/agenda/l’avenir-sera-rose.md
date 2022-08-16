@@ -4,8 +4,6 @@ description: Théatre - Cie La Barge
 cover: /medias/la-barge-l-avenir-rose-500px.jpg
 event_time: 2023-05-11T10:00:00.000Z
 lieu: Auditorium
-prix_plein: ""
-prix_abonné: ""
 ---
 ![L'avenir sera rose](/medias/la-barge-l-avenir-rose-500px.jpg)
 
