@@ -185,14 +185,14 @@ a:hover {
     position: absolute;
     bottom: 0;
     padding-bottom: 0.3rem;
-    color: #dcdc24;
+    color: #fbcc23;
     font-size: 1.6rem; }
     .carousel__event .carousel__event_date .carousel__event_time {
       color: white;
       font-size: 2rem; }
 
 .carousel__event_place {
-  color: #dcdc24; }
+  color: #fbcc23; }
 
 .carousel__link {
   display: block; }
@@ -205,8 +205,7 @@ a:hover {
   font-weight: 1000;
   font-size: 1em;
   background-color: white;
-  color: #dadc3e;
-  text-shadow: -1.1px 0 black, 0 1.1px black, 1.1px 0 black, 0 -1.1px black;
+  color: #5cb0cb;
   z-index: 1;
   min-height: 128px;
   display: flex;
@@ -1193,7 +1192,6 @@ label {
   .carousel__title {
     position: absolute !important;
     background: transparent !important;
-    color: white !important;
     font-size: 1.5rem !important;
     align-items: flex-start;
     padding-left: 1rem; }
