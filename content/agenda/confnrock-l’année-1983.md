@@ -4,8 +4,9 @@ description: Conférence Musiques Actuelles par Christophe Brault
 cover: /medias/1982-blue-monday-new-order-500px.jpg
 event_time: 2023-03-28T20:00:00.000Z
 lieu: Auditorium
-prix_plein: 1
-prix_abonné: 1
+prix_libre: true
+prix_plein: ""
+prix_abonné: ""
 ---
 ![Conférence Musiques Actuelles > L'année 1983](/medias/1982-blue-monday-new-order-500px.jpg)
 
