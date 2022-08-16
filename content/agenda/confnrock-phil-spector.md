@@ -4,8 +4,9 @@ description: Conférence Musiques Actuelles par Christophe Brault
 cover: /medias/phil-spector-500px.jpg
 event_time: 2023-01-31T20:00:00.000Z
 lieu: Auditorium
-prix_plein: 1
-prix_abonné: 1
+prix_libre: true
+prix_plein: ""
+prix_abonné: ""
 ---
 ![Conférence Musiques Actuelles > Phil Spector](/medias/phil-spector-500px.jpg)
 
