@@ -25,14 +25,16 @@
         .Params.event_time | time.Format ":time_short" }}
       </div>
       <div class="actu__footer-price">
-        {{ if (and (isset .Params "prix_plein") (isset .Params "prix_abonné"))
-        }}
+        {{ if eq .Params.prix_libre true }}
+        <span class="actu__prix">Prix libre</span>
+        {{ else }} {{ if (and (isset .Params "prix_plein") (isset .Params
+        "prix_abonné")) }}
         <span class="actu__prix"
           ><span class="actu__indice">*</span>{{ .Params.prix_plein }}€ / {{
           .Params.prix_abonné }}€</span
         >
         <span class="actu__legende">* Non adhérents / adhérents</span>
-        {{ end }}
+        {{ end }} {{ end }}
       </div>
       <div>
         <a href="{{ .RelPermalink }}">> En savoir plus</a>
