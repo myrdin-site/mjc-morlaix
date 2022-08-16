@@ -1012,6 +1012,8 @@ label {
   bottom: 1rem;
   border: transparent;
   background-color: transparent; }
+  .podcast__player_button:hover {
+    cursor: pointer; }
   .podcast__player_button img {
     width: 2rem;
     height: 2rem; }

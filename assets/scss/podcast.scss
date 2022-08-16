@@ -17,6 +17,9 @@
   bottom: 1rem;
   border: transparent;
   background-color: transparent;
+  &:hover {
+    cursor: pointer;
+  }
   img {
     width: 2rem;
     height: 2rem;
