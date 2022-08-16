@@ -19,7 +19,8 @@
     padding: 0rem 1rem 1rem 1rem;
   }
 
-  .actu__infos, .actu__footer-price {
+  .actu__infos,
+  .actu__footer-price {
     padding-bottom: 0.8rem;
   }
 }
@@ -109,7 +110,7 @@
 
 // lg
 @media (min-width: 1024px) {
-  // Page 
+  // Page
   .page__wrapper_single h1 {
     margin-top: 0rem;
   }
@@ -565,7 +566,7 @@
 
 // xl
 @media (min-width: 1280px) {
-  // Podcast 
+  // Podcast
   .podcast__timeline {
     width: 10.5rem !important;
   }

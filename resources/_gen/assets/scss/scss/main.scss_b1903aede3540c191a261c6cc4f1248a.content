@@ -414,7 +414,8 @@ input[type="range"]:focus::-moz-range-thumb {
 /* ACTU */
 .list__container {
   max-width: 365px;
-  margin: 12rem auto; }
+  margin: 12rem auto;
+  margin-bottom: 4rem; }
   .list__container .actu__title {
     text-transform: uppercase;
     color: #badca5;
@@ -612,7 +613,8 @@ input[type="range"]:focus::-moz-range-thumb {
 
 /* General */
 .page__wrapper {
-  margin: 9rem 0.4rem; }
+  margin: 9rem 0.4rem;
+  margin-bottom: 4rem; }
   .page__wrapper h1 {
     font-size: 3rem; }
   .page__wrapper p {
@@ -703,7 +705,7 @@ input[type="range"]:focus::-moz-range-thumb {
   margin-top: -2rem; }
 
 .container__trockson {
-  margin-bottom: 0rem; }
+  margin-bottom: 4rem; }
 
 .trockson__title {
   margin-top: 6rem; }
@@ -1088,7 +1090,8 @@ label {
     padding: 1rem; }
   .actu__footer {
     padding: 0rem 1rem 1rem 1rem; }
-  .actu__infos, .actu__footer-price {
+  .actu__infos,
+  .actu__footer-price {
     padding-bottom: 0.8rem; } }
 
 @media (min-width: 640px) {
