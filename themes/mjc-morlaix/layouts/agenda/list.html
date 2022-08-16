@@ -59,6 +59,9 @@
           .Params.event_time | time.Format ":time_short"}}
         </p>
         <div class="agenda__footer-price">
+	  {{ if eq .Params.prix_libre true }}
+	   <span class="agenda__prix">Prix libre</span>
+	  {{ else }}
           {{ if (and (isset .Params "prix_plein") (isset .Params "prix_abonné"))
           }}
           <span class="agenda__prix"
@@ -67,6 +70,8 @@
           >
           <span class="agenda__legende">* Non adhérents / adhérents</span>
           {{ end }} {{ end }}
+	  {{ end }}
+
         </div>
       </div>
     </div>
