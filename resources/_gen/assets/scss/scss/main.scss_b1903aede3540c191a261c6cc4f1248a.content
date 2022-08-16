@@ -652,16 +652,18 @@ input[type="range"]:focus::-moz-range-thumb {
 .page__mjc_ext,
 .page__mjc_img {
   max-width: 340px;
-  padding: 0.8rem 0;
+  padding: 1rem 0;
   display: block;
   margin: auto; }
+
+.page__mjc_historic {
+  padding: 1rem; }
 
 .page__mjc_yellow {
   color: #d0922c; }
 
 .page__mjc_wrapper {
-  border: 1px solid #2e3e57;
-  padding: 1rem; }
+  border: 1px solid #2e3e57; }
 
 /* Jeunesse */
 .page__jeunesse_content h1 {
