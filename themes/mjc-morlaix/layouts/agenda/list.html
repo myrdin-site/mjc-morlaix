@@ -26,7 +26,7 @@
       <div class="agenda__left">
         <!--Cover mobile-->
         {{ $imageMobile := resources.Get .Params.cover }} {{ $imageMobile :=
-        $imageMobile.Fill "342x342 Smart" }}
+        $imageMobile.Fill "342x342 Top" }}
         <img
           class="agenda__cover_mobile"
           src="{{ $imageMobile.RelPermalink }}"
@@ -34,7 +34,7 @@
         />
         <!-- Cover desktop -->
         {{ $image := resources.Get .Params.cover }} {{ $image := $image.Fill
-        "300x300 Smart" }}
+        "300x300 Top" }}
         <img class="agenda__cover" src="{{ $image.RelPermalink }}" alt="" />
       </div>
       <div class="agenda__middle">

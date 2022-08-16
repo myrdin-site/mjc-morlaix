@@ -10,10 +10,10 @@
         {{ .Description }}
       </div>
       {{ $image := resources.Get .Params.cover }} {{ $image := $image.Fill
-      "365x200" }}
+      "365x200 Top" }}
       <img class="actu__cover" src="{{ $image.RelPermalink }}" />
       {{ $imageDesktop := resources.Get .Params.cover }} {{ $imageDesktop :=
-      $imageDesktop.Fill "300x300 Smart" }}
+      $imageDesktop.Fill "300x300 Top" }}
       <img class="actu__cover_desktop" src="{{ $imageDesktop.RelPermalink }}" />
       <div class="actu__content">
         <h2>{{ .Title }}</h2>
