@@ -537,7 +537,7 @@ input[type="range"]:focus::-moz-range-thumb {
 
 .trockson__wrapper {
   border: 1px solid #2e3e57;
-  margin: 1rem 0; }
+  margin: 1rem -1rem; }
 
 .trockson__logo,
 .trockson__photo {
