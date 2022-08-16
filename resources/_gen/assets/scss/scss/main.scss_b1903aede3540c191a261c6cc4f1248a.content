@@ -830,7 +830,9 @@ input[type="range"]:focus::-moz-range-thumb {
 .activites__left {
   background-color: #f9ac1a;
   color: white;
-  padding: 1rem; }
+  padding: 1rem;
+  position: relative;
+  min-width: 210px; }
   .activites__left h2 {
     font-size: 2rem; }
   .activites__left img {
@@ -838,7 +840,11 @@ input[type="range"]:focus::-moz-range-thumb {
   .activites__left ul {
     list-style-type: none;
     text-align: right;
-    font-size: 1.2rem; }
+    font-size: 1.2rem;
+    position: absolute;
+    margin-top: 1rem;
+    bottom: 1rem;
+    right: 1rem; }
 
 .activites__wrapper:nth-child(even) > .activites__left {
   background-color: #39667d; }

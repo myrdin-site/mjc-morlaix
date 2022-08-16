@@ -24,8 +24,7 @@
     <div class="activites__wrapper">
       <div class="activites__left">
         <h2>{{ .Title }}</h2>
-        {{ $image := resources.Get .Params.picto }} {{ $image := $image.Fill
-        "180x210" }}
+        {{ $image := resources.Get .Params.picto }}
         <img src="{{ $image.RelPermalink }}" alt="" />
         <ul>
           {{ range .Params.public }}

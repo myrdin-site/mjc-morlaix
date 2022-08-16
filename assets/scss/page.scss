@@ -291,6 +291,8 @@
   background-color: #f9ac1a;
   color: white;
   padding: 1rem;
+  position: relative;
+  min-width: 210px;
   h2 {
     font-size: 2rem;
   }
@@ -301,6 +303,10 @@
     list-style-type: none;
     text-align: right;
     font-size: 1.2rem;
+    position: absolute;
+    margin-top: 1rem;
+    bottom: 1rem;
+    right: 1rem;
   }
 }
 

@@ -1,9 +1,9 @@
 {{ define "main" }}
 <div class="list__container">
   <h1 class="actu__title">Actualités</h1>
-    {{ $posts := where .Site.RegularPages "Section" "actu" }} {{ $sortedPosts
-    := $posts.ByParam "event_time" }} {{ $paginatorAgenda := .Paginate
-    $sortedPosts 4 }} {{ range $paginatorAgenda.Pages }}
+  {{ $posts := where .Site.RegularPages "Section" "actu" }} {{ $sortedPosts :=
+  $posts.ByParam "event_time" }} {{ $paginatorAgenda := .Paginate $sortedPosts 4
+  }} {{ range $paginatorAgenda.Pages }}
   <div class="actu__wrapper">
     <div class="actu__description">{{ .Description }}</div>
     {{ $image := resources.Get .Params.cover }} {{ $image := $image.Fill
