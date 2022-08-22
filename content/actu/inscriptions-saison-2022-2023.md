@@ -1,5 +1,5 @@
 ---
-title: Inscriptions saison 2022/2023
+title: Inscriptions saison 2022/23
 description: Actualité MJC
 cover: /medias/actu-inscriptions2023.jpg
 event_time: 2022-08-29T09:00:00.000Z
