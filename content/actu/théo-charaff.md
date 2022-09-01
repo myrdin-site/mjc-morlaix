@@ -7,7 +7,7 @@ lieu: Auditorium
 prix_plein: 10
 prix_abonné: 6
 ---
-![Théo CHARAFF en concert à la MJC de Morlaix](/medias/theo-charaf_500px.jpg "Crédit Photo © Sarah Fouassier")
+![Théo CHARAFF](/medias/theo-charaf_500px.jpg "Crédit Photo © Sarah Fouassier")
 
 Si vous habitez ou êtes passé à Lyon, il vous a peut-être servi une bière. Pendant huit ans, Théo Charaf a été barman dans des salles de concerts. Mais franchement, Théo avait mieux à faire de ses dix doigts. En mai 2019, il fait son premier concert en solo, pour s’adonner à une musique qui le passionne : le folk-blues.\
 Avant, et même encore aujourd’hui, Théo jouait dans des groupes punk-rock. Il est venu au blues par le rock, la vieille histoire des racines de Led Zep ou des Stones. Mais ceux qui l’ont vu sur scène savent que cette histoire vaut la peine d’être répétée.
