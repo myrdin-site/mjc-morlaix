@@ -2,7 +2,7 @@
 <div class="carousel__mobile">
   <div class="carousel__wrapper">
     {{ $paginatorCarou := .Paginate (where .Site.RegularPages "Section" "actu" )
-    5 }} {{ range ($paginatorCarou.Pages.ByParam "event_time") }}
+    8 }} {{ range ($paginatorCarou.Pages.ByParam "event_time") }}
     <!-- If older than today hide content -->
     {{ $time := (.Params.event_time | time.AsTime).Unix }} {{ if lt now.Unix
     $time }}
@@ -35,7 +35,7 @@
 <div class="carousel__desktop">
   <div class="carousel__wrapper">
     {{ range ($paginatorCarou.Pages.ByParam "event_time") }}
-    <!-- If older than today hide content -->
+  <!-- If older than today hide content -->
     {{ $time := (.Params.event_time | time.AsTime).Unix }} {{ if lt now.Unix
     $time }}
 
