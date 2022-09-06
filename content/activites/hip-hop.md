@@ -14,9 +14,7 @@ creneau: >-
   à partir de 9 ans > **17h30** / **18h30** (avoir 9 ans dans l’année scolaire et avoir fait au moins 1 an de danse ou sport gymnique)
 
 
-  à partir de 10 ans> **18h40** / **18h40** (non débutants et jusqu’à la classe de 6e)
-
-
+  à partir de 10 ans > **18h40** / **18h40** (non débutants et jusqu’à la classe de 6e)
 
 
   # JEUDI
