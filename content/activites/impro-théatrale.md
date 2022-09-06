@@ -4,7 +4,7 @@ picto: /medias/picto-impro.png
 public:
   - adultes
 anim: "DRIM TIM "
-price: Adhésion MJC (15€) + Adhésion DRIM TIM
+price: Adhésion MJC + Adhésion DRIM TIM
 starting_date: 2022-09-06T17:03:42.175Z
 creneau: |-
   
