@@ -7,7 +7,9 @@ anim: "DRIM TIM "
 price: Adhésion MJC + Adhésion DRIM TIM
 starting_date: 2022-09-21T18:00:16.572Z
 creneau: |-
-  
+  # MERCREDI
+
+  adultes > **20h00**
 
   Renseignements > **06 30 45 16 79**
 description: La MJC accueille dans ses locaux une section de théâtre amateur
