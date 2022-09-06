@@ -1,5 +1,5 @@
 ---
-title: TaïChi Chuan [Taiji Quan]
+title: TaïChi Chuan
 picto: /medias/pictos-taichi-2023.png
 public:
   - adolescents
