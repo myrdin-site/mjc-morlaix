@@ -4,7 +4,7 @@ picto: /medias/pictos-rando.png
 public:
   - adultes
 anim: atelier auto animé
-price: Particpation 5€/AN
+price: Participation 5€/AN
 starting_date: 2022-09-15T11:30:08.698Z
 creneau: |-
   # JEUDI
