@@ -5,7 +5,7 @@ public:
   - adultes
 anim: "DRIM TIM "
 price: Adhésion MJC + Adhésion DRIM TIM
-starting_date: 2022-09-06T17:03:42.175Z
+starting_date: 2022-09-20T17:30:16.572Z
 creneau: |-
   
 
