@@ -6,9 +6,9 @@ public:
   - adolescents
 anim: "! NOUVEAU !"
 price: 117€ à 174€ /AN
-starting_date: 2022-09-19T16:15:18.870Z
+starting_date: 2022-09-20T16:15:18.870Z
 creneau: |-
-  # LUNDI
+  # MARDI
 
   A partir de 16 ans & adultes > **18h15** / **19h45**
 description: Immersion dans la culture chinoise au travers de sa langue (le
