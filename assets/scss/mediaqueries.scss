@@ -698,12 +698,14 @@
     width: 1000px;
     max-width: 1000px;
   }
+
+  //Trockson 
+  .trockson {
+    width: 1000px;
+  }
 }
 
 @media (min-width: 1900px) {
-  .trockson__title_actu {
-    margin-left: 4.5rem;
-  }
 
   .podcast__timeline {
     width: 13.5rem !important;

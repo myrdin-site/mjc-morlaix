@@ -2,7 +2,8 @@
 <div class="carousel__mobile">
   <div class="carousel__wrapper">
     {{ $paginatorCarou := .Paginate (where .Site.RegularPages "Section" "actu" )
-    8 }} {{ range ($paginatorCarou.Pages.ByParam "event_time") }}
+     }} 
+     {{ range ($paginatorCarou.Pages.ByParam "event_time") }}
     <!-- If older than today hide content -->
     {{ $time := (.Params.event_time | time.AsTime).Unix }} {{ if lt now.Unix
     $time }}
@@ -38,6 +39,8 @@
   <!-- If older than today hide content -->
     {{ $time := (.Params.event_time | time.AsTime).Unix }} {{ if lt now.Unix
     $time }}
+
+
 
     <a class="carousel__link" href="{{ .RelPermalink }}">
       <div class="carousel__slide carousel__flex">
