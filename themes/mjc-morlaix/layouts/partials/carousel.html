@@ -1,13 +1,16 @@
 <!--Carousel Mobile-->
 <div class="carousel__mobile">
   <div class="carousel__wrapper">
-    {{ $paginatorCarou := .Paginate (where .Site.RegularPages "Section" "actu" )
-     }} 
-     {{ range ($paginatorCarou.Pages.ByParam "event_time") }}
-    <!-- If older than today hide content -->
-    {{ $time := (.Params.event_time | time.AsTime).Unix }} {{ if lt now.Unix
+    {{ $p := slice }}
+      {{ range where site.RegularPages "Section" "actu" }}
+	{{ $time := (.Params.event_time | time.AsTime).Unix }} {{ if lt now.Unix
     $time }}
-
+    
+      {{ $p = $p | append . }}
+      {{ end }}
+    {{ end }}
+    {{ $p = sort $p "Params.event_time" "asc" }}
+    {{ range (.Paginate $p 7).Pages }}
     <a class="carousel__link" href="{{ .RelPermalink }}">
       <div class="carousel__slide">
         <div class="carousel__event">
@@ -28,20 +31,14 @@
         <img src="{{ $image.RelPermalink }}" />
       </div>
     </a>
-    {{ end }} {{ end }}
+    {{ end }} 
   </div>
 </div>
 
 <!--Carousel Desktop-->
 <div class="carousel__desktop">
   <div class="carousel__wrapper">
-    {{ range ($paginatorCarou.Pages.ByParam "event_time") }}
-  <!-- If older than today hide content -->
-    {{ $time := (.Params.event_time | time.AsTime).Unix }} {{ if lt now.Unix
-    $time }}
-
-
-
+    {{ range (.Paginate $p).Pages  }}
     <a class="carousel__link" href="{{ .RelPermalink }}">
       <div class="carousel__slide carousel__flex">
         <div class="carousel__left">
@@ -66,6 +63,6 @@
         </div>
       </div>
     </a>
-    {{ end }} {{ end }}
+    {{ end }}
   </div>
 </div>
