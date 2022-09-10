@@ -38,7 +38,7 @@
 <!--Carousel Desktop-->
 <div class="carousel__desktop">
   <div class="carousel__wrapper">
-    {{ range (.Paginate $p).Pages  }}
+    {{ range (.Paginate $p 7).Pages  }}
     <a class="carousel__link" href="{{ .RelPermalink }}">
       <div class="carousel__slide carousel__flex">
         <div class="carousel__left">
