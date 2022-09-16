@@ -7,7 +7,7 @@ public:
   - adultes
 anim: CIE du Cirque à Léon
 price: 117€ à 264€ /AN
-starting_date: 2021-09-15T13:00:53.784Z
+starting_date: 2022-09-21T13:00:53.784Z
 creneau: |-
   # MERCREDI
 
