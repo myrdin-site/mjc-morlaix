@@ -8,8 +8,6 @@ prix_libre: false
 ---
 ![](/medias/graff-gliss-n-zik-2021.jpg)
 
-# **Gliss'n'Zik #4**
-
 **\#** Démonstrations et ateliers d'initiation de Graff, Skate, Rollers, trottinnette, BMX...
 
 **\#** Scène musicale TROCK'SON
