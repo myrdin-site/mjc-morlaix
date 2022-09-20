@@ -43,7 +43,21 @@
         ><span class="header__title_city">Morlaix</span>
       </a>
     </h1>
-    {{ partial "header/header-nav.html" . }}
+    <!--Nav desktop-->
+    <nav class="nav__desktop">
+      <ul class="nav__menu">
+        {{ $currentPage := . }} {{ range .Site.Menus.main }}
+        <li class="nav__link">
+          <a
+            class='{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .)
+	}}nav__active{{end}}'
+            href="{{ .URL }}"
+            >{{ .Name }}</a
+          >
+        </li>
+        {{ end }}
+      </ul>
+    </nav>
   </div>
   <div class="header__player">{{ partial "header/header-player.html" . }}</div>
 </header>

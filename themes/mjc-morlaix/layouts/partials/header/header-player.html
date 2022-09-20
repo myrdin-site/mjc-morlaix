@@ -42,8 +42,8 @@
 
   <div class="icon-container">
     <img class="audio-icon" src="/images/play.png" alt="" aria-hidden="true" />
-    {{ range last 1 (where .Site.RegularPages "Section" "podcasts") }} {{ $podcast :=
-    resources.Get .Params.audio }}
+    {{ range last 1 (where .Site.RegularPages "Section" "podcasts") }} {{
+    $podcast := resources.Get .Params.audio }}
     <audio src="{{ $podcast.RelPermalink }}" id="audio1" />
     {{ end }}
   </div>

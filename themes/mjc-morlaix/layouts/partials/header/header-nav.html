@@ -23,20 +23,3 @@
     >
   </div>
 </nav>
-
-<!--Nav desktop-->
-<nav class="nav__desktop">
-  <ul class="nav__menu"
-    >
-    {{ $currentPage := . }} {{ range .Site.Menus.main }}
-    <li class="nav__link">
-      <a
-        class='{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .)
-	}}nav__active{{end}}'
-        href="{{ .URL }}"
-        >{{ .Name }}</a
-      >
-    </li>
-    {{ end }}
-  </ul>
-</nav>
