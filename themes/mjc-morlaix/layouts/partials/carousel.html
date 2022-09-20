@@ -1,16 +1,10 @@
 <!--Carousel Mobile-->
 <div class="carousel__mobile">
   <div class="carousel__wrapper">
-    {{ $p := slice }}
-      {{ range where site.RegularPages "Section" "actu" }}
-	{{ $time := (.Params.event_time | time.AsTime).Unix }} {{ if lt now.Unix
-    $time }}
-    
-      {{ $p = $p | append . }}
-      {{ end }}
-    {{ end }}
-    {{ $p = sort $p "Params.event_time" "asc" }}
-    {{ range (.Paginate $p 7).Pages }}
+    {{ $p := slice }} {{ range where site.RegularPages "Section" "actu" }} {{
+    $time := (.Params.event_time | time.AsTime).Unix }} {{ if lt now.Unix $time
+    }} {{ $p = $p | append . }} {{ end }} {{ end }} {{ $p = sort $p
+    "Params.event_time" "asc" }} {{ range (.Paginate $p 7).Pages }}
     <a class="carousel__link" href="{{ .RelPermalink }}">
       <div class="carousel__slide">
         <div class="carousel__event">
@@ -27,18 +21,21 @@
           <h1>{{ .Title }}</h1>
         </div>
         {{ $image := resources.Get .Params.cover }} {{ $image := $image.Fill
-        "300x170 Top" }}
-        <img src="{{ $image.RelPermalink }}" />
+        "300x170 Top" }} {{ $imagewebp := $image.Fill "300x170 webp Top" }}
+        <picture>
+          <source type="image/webp" srcset="{{ $imagewebp.RelPermalink }}" />
+          <img src="{{ $image.RelPermalink }}" alt="" />
+        </picture>
       </div>
     </a>
-    {{ end }} 
+    {{ end }}
   </div>
 </div>
 
 <!--Carousel Desktop-->
 <div class="carousel__desktop">
   <div class="carousel__wrapper">
-    {{ range (.Paginate $p 7).Pages  }}
+    {{ range (.Paginate $p 7).Pages }}
     <a class="carousel__link" href="{{ .RelPermalink }}">
       <div class="carousel__slide carousel__flex">
         <div class="carousel__left">
@@ -46,8 +43,14 @@
             <h1>{{ .Title }}</h1>
           </div>
           {{ $image := resources.Get .Params.cover }} {{ $image := $image.Fill
-          "500x260 top" }}
-          <img src="{{ $image.RelPermalink }}" alt="" />
+	  "500x260 Top" }} {{ $imagewebpdesktop := $image.Fill "500x260 webp Top" }}
+          <picture>
+            <source
+              type="image/webp"
+              srcset="{{ $imagewebpdesktop.RelPermalink }}"
+            />
+            <img src="{{ $image.RelPermalink }}" alt="" />
+          </picture>
         </div>
         <div class="carousel__right">
           <div class="carousel__event">
