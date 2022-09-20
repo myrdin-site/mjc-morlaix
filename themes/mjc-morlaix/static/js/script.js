@@ -4,13 +4,13 @@ let links = document.getElementsByClassName("link");
 function openNav() {
   document.getElementById("nav__menu").style.width = "200px";
   document.getElementById("nav__menu").ariaHidden = "false";
-  document.getElementById("close").ariaHidden = "false";
+  document.getElementById("close").tabIndex = "1";
 }
 
 function closeNav() {
   document.getElementById("nav__menu").style.width = 0;
   document.getElementById("nav__menu").ariaHidden = "true";
-  document.getElementById("close").ariaHidden= "true";
+  document.getElementById("close").tabIndex= "-1";
 }
 
 document.getElementById("open").addEventListener("click", openNav);
