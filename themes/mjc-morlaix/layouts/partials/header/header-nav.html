@@ -13,7 +13,7 @@
   <div class="nav__wrapper">
     <ul id="nav__menu-focus">
       {{ range .Site.Menus.main }}
-      <li class="nav__link nav__link-focus" tabindex="-1"><a href="{{ .URL }}">{{ .Name }}</a></li>
+      <li class="nav__link"><a class="nav__link-focus" href="{{ .URL }}" tabindex="-1">{{ .Name }}</a></li>
       {{ end }}
     </ul>
     <a class="nav__podcasts nav__link-focus" tabindex="-1" href="/podcasts/"
