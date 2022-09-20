@@ -378,7 +378,7 @@ input[type="range"]:focus::-moz-range-thumb {
 .sidebar__podcasts {
   display: block;
   background-image: url("/images/button-podcast.png");
-  backgroung-image: image-set(url("/images/button-podcast.webp"), url("/images/button-podcast.png"));
+  background-image: image-set(url("/images/button-podcast.webp"), url("/images/button-podcast.png"));
   background-repeat: no-repeat;
   background-size: contain;
   height: 100px;
