@@ -11,15 +11,15 @@
     ×
   </button>
   <div class="nav__wrapper">
-    <ul>
+    <ul id="nav__menu-focus">
       {{ range .Site.Menus.main }}
-      <li class="nav__link"><a href="{{ .URL }}">{{ .Name }}</a></li>
+      <li class="nav__link nav__link-focus" tabindex="-1"><a href="{{ .URL }}">{{ .Name }}</a></li>
       {{ end }}
     </ul>
-    <a class="nav__podcasts" href="/podcasts/"
+    <a class="nav__podcasts nav__link-focus" tabindex="-1" href="/podcasts/"
       ><span class="sr-only">Podcasts</span></a
     >
-    <a class="nav__documents" href="/documents/"
+    <a class="nav__documents nav__link-focus" tabindex="-1" href="/documents/"
       ><span class="sr-only">Documents</span></a
     >
   </div>
