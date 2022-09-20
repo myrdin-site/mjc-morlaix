@@ -20,7 +20,7 @@ Représentante légale : Mme Sophie DESURMONT, Présidente
 
 ### Conception du site
 
-[Myrdin Mogan](contact@myrdin.site)
+[Myrdin Mogan](https://more-coffee.net)
 
 ### Graphisme
 
