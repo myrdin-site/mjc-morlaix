@@ -44,6 +44,10 @@
 
 .header__wrapper_desktop {
   background-image: url("/images/banner.png");
+  background-image: image-set(
+    url("/images/banner.webp"),
+    url("/images/banner.png")
+    );
   background-size: cover;
   background-repeat: no-repeat;
   height: 290px;

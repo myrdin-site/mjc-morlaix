@@ -3,12 +3,16 @@
   <a href="#accessibility" class="skip">Aller aux paramètres d'accessibilité</a>
   <!--Mobile-->
   <div class="header__wrapper">
-    <img
-      class="header__banner"
-      src="/images/header-mobile.png"
-      alt=""
-      aria-hidden="true"
-    />
+    <picture>
+      <source type="image/avif" srcset="/images/header-mobile.avif" />
+      <source type="image/webp" srcset="/images/header-mobile.webp" />
+      <img
+        class="header__banner"
+        src="/images/header-mobile.png"
+        alt=""
+        aria-hidden="true"
+      />
+    </picture>
     <button
       class="header__button"
       id="open"
