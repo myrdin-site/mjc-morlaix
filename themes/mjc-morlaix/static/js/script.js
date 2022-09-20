@@ -3,10 +3,12 @@ let links = document.getElementsByClassName("link");
 
 function openNav() {
   document.getElementById("nav__menu").style.width = "200px";
+  document.getElementById("nav__menu").ariaHidden = "false";
 }
 
 function closeNav() {
   document.getElementById("nav__menu").style.width = 0;
+  document.getElementById("nav__menu").ariaHidden = "true";
 }
 
 document.getElementById("open").addEventListener("click", openNav);

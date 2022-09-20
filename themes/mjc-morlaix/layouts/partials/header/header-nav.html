@@ -1,9 +1,11 @@
 <!--Nav sidebar mobile-->
-<nav class="nav__sidebar" id="nav__menu">
+<nav class="nav__sidebar" id="nav__menu" aria-hidden="true">
   <button
     class="nav__button--close"
     id="close"
-    aria-expanded="true"
+    aria-expanded="false"
+    aria-haspopup="true"
+    aria-controls="nav__menu"
   >
     ×
   </button>
@@ -24,7 +26,8 @@
 
 <!--Nav desktop-->
 <nav class="nav__desktop">
-  <ul class="nav__menu">
+  <ul class="nav__menu"
+    >
     {{ $currentPage := . }} {{ range .Site.Menus.main }}
     <li class="nav__link">
       <a
