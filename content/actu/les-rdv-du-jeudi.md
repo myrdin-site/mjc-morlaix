@@ -2,7 +2,7 @@
 title: Les RDV du Jeudi
 description: Rencontres & échanges littéraires
 cover: /medias/guenegan-rdvjeudi.jpg
-event_time: 2022-09-08T18:00:00.000Z
+event_time: 2022-10-06T18:00:00.000Z
 lieu: Accueil MJC
 prix_libre: false
 ---
