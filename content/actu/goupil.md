@@ -1,6 +1,6 @@
 ---
 title: Goupil
-description: Concert Rock - Sortie d'album !
+description: Rock - Sortie d'album !
 cover: /medias/goupil-cover2021-500px.jpg
 event_time: 2022-10-14T20:00:00.000Z
 lieu: Auditorium
