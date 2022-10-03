@@ -15,13 +15,17 @@
         ciné-débat, Festi 'Blues... etc
       </p>
     </div>
-    {{ $posts := where .Site.RegularPages "Section" "agenda" }} {{ $sortedPosts
-    := $posts.ByParam "event_time" }} {{ $paginatorAgenda := .Paginate
-    $sortedPosts 4 }} {{ range $paginatorAgenda.Pages }}
-    <!-- If older than today hide content -->
-    {{ $time := (.Params.event_time | time.AsTime).Unix }} {{ if lt now.Unix
-    $time }}
+    
 
+    {{ $p := slice }} 
+      {{ range where site.RegularPages "Section" "agenda" }}
+      {{ $time := (.Params.event_time | time.AsTime).Unix }} 
+	{{ if lt now.Unix $time }}
+	  {{ $p = $p | append . }} 
+	{{ end }} 
+      {{ end }} 
+    {{ $p = sort $p "Params.event_time" "asc" }} 
+    {{ range (.Paginate $p 4).Pages }}
     <div class="agenda__wrapper">
       <div class="agenda__left">
         <!--Cover mobile-->
@@ -67,11 +71,12 @@
             .Params.prix_abonné }}€</span
           >
           <span class="agenda__legende">* Non adhérents / adhérents</span>
-          {{ end }} {{ end }} {{ end }}
+	  {{ end }} {{ end }} 
         </div>
       </div>
     </div>
-    {{ end }} {{ template "_internal/pagination.html" . }}
+    {{ end }}
+    {{ template "_internal/pagination.html" . }}
   </div>
 </div>
 {{ end }}
