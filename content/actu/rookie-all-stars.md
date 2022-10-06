@@ -11,7 +11,7 @@ prix_abonné: 3
 
 **L’espace Musiques Actuelles Trock’son de la MJC se mobilise afin de célébrer les cultures urbaines.**
 
-La MJC accueille la fine fleur des jeunes talents de la scène RAP régionale émergente et prometteuse !
+La MJC accueille la fine fleur des jeunes talents de la scène RAP régionale émergente et prometteuse !\
 Concerts, open mic, freestyles, lives en streaming pour une soirée événement à ne pas manquer.\
 Soirée proposée dans le cadre de Cultures Hip Hop Festival.
 
