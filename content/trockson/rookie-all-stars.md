@@ -1,5 +1,5 @@
 ---
-title: Rookie All Star
+title: ROOKIE ALL STAR
 description: Concerts Rap, Open Mic, Freestyles...
 cover: /medias/rookieallstar-visu2.jpg
 event_time: 2022-11-10T20:30:00.000Z
