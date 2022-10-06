@@ -1,13 +1,13 @@
 ---
 title: Rookie All Star
 description: Concerts Rap, Open Mic, Freestyles...
-cover: /medias/rookie-allstars_500px.jpg
+cover: /medias/rookieallstar-visu2.jpg
 event_time: 2022-11-10T20:30:00.000Z
 lieu: Auditorium
 prix_plein: 6
 prix_abonné: 3
 ---
-![](/medias/rookie-allstars_500px.jpg "ROOKIE ALL STAR")
+![](/medias/rookieallstar-visu2.jpg "ROOKIE ALL STAR")
 
 **L’espace Musiques Actuelles Trock’son de la MJC se mobilise afin de célébrer les cultures urbaines.**
 
