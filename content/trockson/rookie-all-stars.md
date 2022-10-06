@@ -20,10 +20,9 @@ Soirée proposée dans le cadre de Cultures Hip Hop Festival.
 
 **DYNJAH** (lauréat Buzz Booster BZH 2022) / **FLIMZY FLAV** (sélection Pano Rap Contest 2022)\
 **BONNIE EKR** (lauréate Buzz Booster BZH 2021) / **DEE K** (sélection Pano Rap Contest 2023)\
-\
-**+ OPEN MIC + 17h > 18h30**
+**+ OPEN MIC** 
 
-ÉMISSION LIVE TWITCH par FINISTÈRE AMER
+**+ 17h > 18h30 >** ÉMISSION LIVE TWITCH par FINISTÈRE AMER
 Interview des artistes & guests + freestyles en direct de la MJC
 
 **Ouvert au public sur réservation auprès de la MJC**
