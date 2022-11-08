@@ -23,3 +23,5 @@ Un projet rejoint en studio par le rappeur/beatmaker Ossama, les guitaristes Yan
 <http://www.longueurdondes.com/2019/07/01/viktor-the-haters/>
 
 [https://www.tsugi.fr/exclu-nihilisme-punk-et-rap-qui-tache-viktor-the-haters-sort-son-premier-album](https://www.tsugi.fr/exclu-nihilisme-punk-et-rap-qui-tache-viktor-the-haters-sort-son-premier-album/)
+
+**Auditorium 18 nov. 2022 20:30**  -  \*10€ / 6€  \*Non adhérents / adhérents
