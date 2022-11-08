@@ -13,4 +13,4 @@ prix_libre: true
 
 **Avec Christophe BRAULT** DJ animateur radio, diplômé en musicologie, Conférencier Musiques ActuellesDynamique et captivant, Christophe BRAULT nous fait partager sa passion pour les Musiques Actuelles. Une formule entre conférence et performance gesticulée, parsemée d’extraits audio, d’images et d’anecdotes choisies.
 
-**Entrée Prix libre - 29 novembre 2022 - 20h00**
+**Auditorium 29 nov. 2022 20:00** - Prix libre
