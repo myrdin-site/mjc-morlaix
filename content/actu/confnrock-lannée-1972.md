@@ -1,6 +1,6 @@
 ---
 title: Conf'n'Rock > l'année 1972
-description: Conférence Musiques Actuelles par Christophe Brault
+description: Conférence par Christophe Brault
 cover: /medias/1972-the-rise-and-fall-of-ziggy-stardust-500px.jpg
 event_time: 2022-11-29T20:00:00.000Z
 lieu: Auditorium
