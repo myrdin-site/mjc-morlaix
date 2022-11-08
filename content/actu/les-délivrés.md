@@ -22,3 +22,5 @@ Artiste reconnu de la scène electro techno internationale, Maxime Dangles signe
 **Création 2021.**  \
 Production scénique > [Astropolis ](http://astropolis.org/booking/) en coproduction avec La Carène \
 Un film produit par Mille Sabords > <https://www.lastationservice.org/Les-Delivres.html>
+
+**Auditorium 9 déc. 2022 20:30**  -  \*10€ / 6€  \*Non adhérents / adhérents
