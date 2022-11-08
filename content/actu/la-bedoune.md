@@ -21,3 +21,5 @@ La somme de ces expériences les enrichit et les conforte dans leur légitimité
 Elle joue de la basse, et Greg de la guitare, ils jouent de la grosse caisse et de la caisse claire avec leurs pieds. **Dans un pot, ils mettent des petits morceaux d’âme, de vie, de joie et de colère aussi, offrant à leur public une mixture très spéciale : leur “Frenchy blues”.**
 
 <https://www.labedoune.fr>
+
+**Auditorium 27 janv. 2023 20:30** - \*10€ / 6€  \*Non adhérents / adhérents
