@@ -1,6 +1,6 @@
 ---
 title: Conf'n'Rock > Phil Spector
-description: Conférence Musiques Actuelles par Christophe Brault
+description: Conférence par Christophe Brault
 cover: /medias/phil-spector-500px.jpg
 event_time: 2023-01-31T20:00:00.000Z
 lieu: Auditorium
