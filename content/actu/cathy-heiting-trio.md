@@ -25,3 +25,5 @@ On le sait, avec cette vocaliste hors norme qui porte des projets très variés,
 **Sylvain Terminiello** : contrebasse
 
 <https://www.cathyheiting.com>
+
+**Auditorium 4 déc. 2022 17:00** / \*10€ / 6€  \*Non adhérents / adhérents
