@@ -24,3 +24,5 @@ Soirée proposée dans le cadre de Cultures Hip Hop Festival.
 Interview des artistes & guests + freestyles en direct de la MJC
 
 **Ouvert au public sur réservation auprès de la MJC**
+
+**Auditorium 10 nov. 2022** - \*6€ / 3€  \*Tarif plein / Tarif réduit
