@@ -20,3 +20,5 @@ Buster Keaton, alias Ronald, est un brillant élève très apprécié de ses pro
 Il s’essaye ainsi aux diverses disciplines de l’athlétisme, au base-ball, à l’aviron, mais ses efforts sont vains ! Il est sur le point de renoncer lorsqu’il reçoit un appel au secours de son amie, séquestrée par un étudiant jaloux. N’écoutant que son courage, Ronald se lance au secours de la jeune fille. Courant, sautant, véritable sportif accompli, il parvient à la sauver et par la même occasion à faire gagner son université dans une course d’aviron effrénée.
 
 **Film restauré – DCP – (tout public ; à voir en famille à partir de 8 ans)**
+
+**5 mars 2023 - 17h -** \*10€ / 6€ (\*non adhérents / adhérents)
