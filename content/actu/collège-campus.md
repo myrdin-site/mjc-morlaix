@@ -1,5 +1,5 @@
 ---
-title: Collège/Campus
+title: College/Campus
 description: Ciné-concert du BJUSTRÖM CINEDUO
 cover: /medias/ciné-concert-campus-keaton-buster-college_500px.jpg
 event_time: 2023-03-05T17:00:00.000Z
@@ -8,7 +8,7 @@ prix_libre: false
 prix_plein: 10
 prix_abonné: 6
 ---
-![Ciné-concert du BJUSTRÖM CINEDUO](/medias/ciné-concert-campus-keaton-buster-college_500px.jpg "Collège / Campus")
+![Ciné-concert du BJUSTRÖM CINEDUO](/medias/ciné-concert-campus-keaton-buster-college_500px.jpg "College / Campus")
 
 **Film de Buster Keaton (U.S.A., 1927) + 1 court métrage - Musique originale de Christofer BJURSTRÖM**
 
