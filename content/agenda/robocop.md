@@ -1,13 +1,13 @@
 ---
 title: ROBOCOP
 description: Ciné-concert de FRAGMENTS
-cover: /medias/ciné-concert-robocop-500px.jpg
+cover: /medias/robocop-noir-jan23-500px.jpg
 event_time: 2023-04-07T20:30:00.000Z
 lieu: Auditorium
 prix_plein: 10
 prix_abonné: 6
 ---
-![ROBOCOP](/medias/ciné-concert-robocop-500px.jpg)
+![ROBOCOP](/medias/robocop-blanc-jan23-500px.jpg)
 
 **Film de Paul Verhoeven (USA, 1987, 102mn)**
 
