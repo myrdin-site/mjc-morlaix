@@ -8,7 +8,7 @@ prix_libre: false
 ---
 ![ Programme d'activités des vacances de février à la MJC](/medias/vacscolaire-fev2023.jpg " Programme d'activités des vacances de février à la MJC")
 
-# **Programmes des activités**
+# **Programme des activités**
 
  **des vacances de février 2023 pour les 8/15 ans à la MJC**
 
