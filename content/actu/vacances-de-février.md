@@ -8,7 +8,7 @@ prix_libre: false
 ---
 ![ Programme d'activités des vacances de février à la MJC](/medias/vacscolaire-fev2023.jpg " Programme d'activités des vacances de février à la MJC")
 
-Programmes des activités des vacances scolaires d’hiver 2023 pour les 8/15 ans à la MJC de Morlaix
+**Programmes des activités des vacances scolaires d’hiver 2023 pour les 8/15 ans à la MJC de Morlaix**
 
 **ARTS PLASTIQUES pour les 8-12 ans - avec Charles Vergnolle (La Raviverie)**
 Atelier de fabrication d'objets "prototypes" sur le thème de l'imagination du futur, en  carton et avec des matériaux de récupération. Matériel fourni.\
@@ -29,12 +29,11 @@ Stage de 2 après-midi : **jeudi 16 et vendredi 17 février de 14h à 17h** (2x3
 **LES SCIENCES ET TECHNIQUES EN S'AMUSANT avec les PETITS DÉBROUILLARDS pour les 8-12 ans**
 Deux stages sont proposés :
 
-1. **AU CŒUR DE LA LUMIÈRE** > les ombres et la lumière, les images et leur perception, à travers divers expériences.
-   **Lundi 20 et mardi 21 février de 14h à 16h30.**
-2. **LES SUPER-POUVOIRS DU CORPS HUMAINS** > l’organisme humain est une machine incroyable. Et si l’être humain avait plus de cinq sens ?
-   **Jeudi 22 et vendredi 23 février de 14h à 16h30**
-   \
-   **Tarif par stage : 25 €** les deux après-midi
+**AU CŒUR DE LA LUMIÈRE** > les ombres et la lumière, les images et leur perception, à travers divers expériences.  **Lundi 20 et mardi 21 février de 14h à 16h30.**
+
+**LES SUPER-POUVOIRS DU CORPS HUMAINS** > l’organisme humain est une machine incroyable. Et si l’être humain avait plus de cinq sens ?  **Jeudi 22 et vendredi 23 février de 14h à 16h30**
+\
+**Tarif par stage : 25 €** les deux après-midi
 
 
 
@@ -47,6 +46,7 @@ RAP, écriture, découverte et enregistrement. Écoute de titres Rap puis échan
 
 
 **Pour s'inscrire :** à l'accueil de la MJC, du lundi au vendredi de 10h à 12h et de 14h à 18h30.
+
 Renseignements par téléphone : **02 98 88 09 94** ou par mail** [contact@mjcmorlaix.com
 ](https://www.mjcmorlaix.com/contact/)**\
 Le règlement est demandé à l'inscription.
