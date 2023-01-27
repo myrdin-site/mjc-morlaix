@@ -48,3 +48,5 @@ Renseignements par téléphone : **02 98 88 09 94** ou par mail **contact@mjcmor
 Le règlement est demandé à l'inscription.
 **Il est nécessaire d'être adhérent à la MJC, avant de participer aux activités de la MJC.**
 (Adhésions : moins de 25 ans  > 10€ ; 25 ans et plus > 15 € ; membre supplémentaire issu d'une même famille > 5€)
+
+Ce programme est [téléchargeable en PDF sur notre espace "docs"](https://www.mjcmorlaix.com/documents/)
