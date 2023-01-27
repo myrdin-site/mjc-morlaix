@@ -8,7 +8,7 @@ prix_libre: false
 prix_plein: 10
 prix_abonné: 6
 ---
-![ROBOCOP](/medias/ciné-concert-robocop-500px.jpg "Ciné-concert de FRAGMENTS")
+![ROBOCOP](/medias/robocop-blanc-jan23-500px.jpg "Ciné-concert de FRAGMENTS")
 
 **Film de Paul Verhoeven (USA, 1987, 102mn)**
 
