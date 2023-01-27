@@ -37,6 +37,8 @@ RAP, écriture, découverte et enregistrement. Écoute de titres Rap puis échan
 **Mercredi 22 et jeudi 23 février de 14h à 17h** (2x3 heures)
 **Tarif du stage : 15 €** les deux après-midi
 
+
+
 **Pour s'inscrire :** à l'accueil de la MJC, du lundi au vendredi de 10h à 12h et de 14h à 18h30.
 
 Renseignements par téléphone : **02 98 88 09 94** ou par mail** [contact@mjcmorlaix.com
