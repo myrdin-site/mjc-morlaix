@@ -8,7 +8,7 @@ prix_libre: false
 prix_plein: 10
 prix_abonné: 6
 ---
-![La Bedoune](/medias/la-bedoune03-500px.jpg)
+![La Bedoune](/medias/la-bedoune03-500px.jpg "La Bedoune Blues")
 
 **Ces deux là jouent ensemble depuis très longtemps et se sont produits un peu partout en France et même à Memphis Tennessee.**
 
