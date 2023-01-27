@@ -29,4 +29,6 @@ Believe It (single et clip) <https://youtu.be/vhFeRC4APEU>
 
 **1ère partie :** **The Dirty Llamas** -Trio Stoner Rock
 
-**10 février 2023 - 20h30**
+
+
+**10 février 2023 - 20h30   -**  \*10€ / 6€ (\*non adhérents / adhérents)
