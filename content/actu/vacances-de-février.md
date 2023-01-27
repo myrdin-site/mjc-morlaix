@@ -8,8 +8,11 @@ prix_libre: false
 ---
 ![ Programme d'activités des vacances de février à la MJC](/medias/vacscolaire-fev2023.jpg " Programme d'activités des vacances de février à la MJC")
 
-# **Programmes des activités des vacances de février 2023 pour les 8/15 ans à la MJC**
+# **Programmes des activités**
 
+ **des vacances de février 2023 pour les 8/15 ans à la MJC**
+
+\
 **ARTS PLASTIQUES pour les 8-12 ans - avec Charles Vergnolle (La Raviverie)**\
 Atelier de fabrication d'objets "prototypes" sur le thème de l'imagination du futur, en  carton et avec des matériaux de récupération. Matériel fourni.\
 **Mardi 14 et mercredi 15 février de 14h à 16h** (2x2 heures) - **Tarif du stage : 15 €** les deux après-midi
