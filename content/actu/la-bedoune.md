@@ -1,14 +1,14 @@
 ---
 title: LA BEDOUNE
 description: Blues
-cover: /medias/la-bedoune02-500px.jpg
+cover: /medias/la-bedoune03-500px.jpg
 event_time: 2023-01-27T20:30:00.000Z
 lieu: Auditorium
 prix_libre: false
 prix_plein: 10
 prix_abonné: 6
 ---
-![La Bedoune](/medias/la-bedoune02-500px.jpg)
+![La Bedoune](/medias/la-bedoune03-500px.jpg)
 
 **Ces deux là jouent ensemble depuis très longtemps et se sont produits un peu partout en France et même à Memphis Tennessee.**
 
@@ -22,4 +22,4 @@ Elle joue de la basse, et Greg de la guitare, ils jouent de la grosse caisse et 
 
 <https://www.labedoune.fr>
 
-**Auditorium 27 janv. 2023 20:30** - \*10€ / 6€  \*Non adhérents / adhérents
+**Auditorium 27 janv. 2023 20:30** - **COMPLET**
