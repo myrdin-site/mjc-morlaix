@@ -27,3 +27,5 @@ Fragments, par l’emploi de timbres et textures électroniques, développe un t
 https://www.lastationservice.org/RoboCop.html](https://www.lastationservice.org/RoboCop.html)
 
 <https://www.youtube.com/user/Frgmnts>
+
+**Vendredi 7 avril** 2023 - **20h30** - **\*10€ / 6€**  **\***Non adhérents / adhérents
