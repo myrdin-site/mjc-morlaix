@@ -18,14 +18,14 @@ Le public adhère en un instant à son univers ancré dans l’éclectisme assum
 C’est pour chacun de nous que Cathy évoque avec une générosité et une musicalité contagieuse les moments importants de la vie, plongeon dans nos failles ou partage de joie volcanique. Rajoutons une bonne dose d’humour, des révélations de taille sur Bob Marley, Duke Ellington…, une touche de Pop/Rn’b…\
 *“et la beauté de sa voix d’opéra qui arrive toujours là ou on ne l’attend pas pour emporter définitivement un petit bout de l’âme du spectateur…consentant!» E.Barret/La Provence*
 
-**Cathy Heiting** : voix, compositions **Wim Welker** : guitares **Sylvain Terminiello** : contrebasse
+**Cathy Heiting**, voix et composition\
+**Renaud Matchoulian**, guitare et composition\
+Sylvain Terminiello, contrebasse
 
 **La Presse a dit :**  “Peu de personnes se voient ainsi capables de passer aussi bien, aussi naturellement, du jazz à l’opéra. Et cette chanteuse généreuse se donne, sans aucune différence, entre musique et amour pour son public. » **Ventilo .**
 
 “Un concert de Cathy Heiting, c’est toujours plus qu’un spectacle ! » **Zibeline.**
 
 “Quelle est la recette de Cathy Heiting pour dégager une telle force, une telle émotion ? » **La Provence.**
-
-
 
 **17 mars 2023 - 20h30 -** \*10€ / 6€ (\*non adhérents / adhérents)
