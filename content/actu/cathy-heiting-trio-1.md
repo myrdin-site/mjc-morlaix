@@ -1,14 +1,14 @@
 ---
 title: Cathy Heiting Trio
 description: Jazz
-cover: /medias/katyheiting-500pix.jpg
+cover: /medias/cathyheiting-500px.jpg
 event_time: 2023-03-17T20:30:00.000Z
 lieu: Auditorium
 prix_libre: false
 prix_plein: 10
 prix_abonné: 6
 ---
-![Cathy Heiting Trio](/medias/katyheiting-500pix.jpg)
+![Cathy Heiting Trio](/medias/cathyheiting-500px.jpg)
 
 **Cathy Heiting, c’est le miel mélangé à du tabasco, une artiste pétrie de talent, d’humour et d’humanité.**
 
