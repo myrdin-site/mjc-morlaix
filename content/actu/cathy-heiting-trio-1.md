@@ -1,14 +1,14 @@
 ---
 title: Cathy Heiting Trio
 description: Jazz
-cover: /medias/cathy-heiting-07-500px.jpg
+cover: /medias/katyheiting-500pix.jpg
 event_time: 2023-03-17T20:30:00.000Z
 lieu: Auditorium
 prix_libre: false
 prix_plein: 10
 prix_abonné: 6
 ---
-![Cathy Heiting Trio](/medias/cathy-heiting-07-500px.jpg)
+![Cathy Heiting Trio](/medias/katyheiting-500pix.jpg)
 
 **Cathy Heiting, c’est le miel mélangé à du tabasco, une artiste pétrie de talent, d’humour et d’humanité.**
 
@@ -20,7 +20,7 @@ C’est pour chacun de nous que Cathy évoque avec une générosité et une musi
 
 **Cathy Heiting**, voix et composition\
 **Renaud Matchoulian**, guitare et composition\
-Sylvain Terminiello, contrebasse
+**Sylvain Terminiello**, contrebasse
 
 **La Presse a dit :**  “Peu de personnes se voient ainsi capables de passer aussi bien, aussi naturellement, du jazz à l’opéra. Et cette chanteuse généreuse se donne, sans aucune différence, entre musique et amour pour son public. » **Ventilo .**
 
