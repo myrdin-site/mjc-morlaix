@@ -8,10 +8,10 @@
     <div class="actu__description">{{ .Description }}</div>
     {{ $image := resources.Get .Params.cover }} {{ $image := $image.Fill
     "365x200 Top" }}
-    <img class="actu__cover" src="{{ $image.RelPermalink }}" />
+    <img class="actu__cover" src="{{ $image.RelPermalink }}" alt=""/>
     {{ $imageDesktop := resources.Get .Params.cover }} {{ $imageDesktop :=
     $imageDesktop.Fill "300x300 Top" }}
-    <img class="actu__cover_desktop" src="{{ $imageDesktop.RelPermalink }}" />
+    <img class="actu__cover_desktop" src="{{ $imageDesktop.RelPermalink }}" alt=""/>
     <div class="actu__content">
       <h2>{{ .Title }}</h2>
       <p>
