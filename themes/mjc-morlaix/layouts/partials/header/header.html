@@ -17,9 +17,11 @@
       class="header__button"
       id="open"
       aria-controls="nav__menu"
-      aria-expanded="true"
+      aria-expanded="false"
     >
-      ☰
+
+    <span aria-hidden="true">☰</span>
+    <span class="sr-only">Ouvrir menu</span>
     </button>
     <h1 class="header__title">
       <a href="{{ .Site.BaseURL }}"

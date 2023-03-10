@@ -9,7 +9,7 @@
 }
 
 #nav__menu {
-  width: 0;
+  width: 200px;
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -18,7 +18,7 @@
   position: fixed;
   top: 0;
   background-color: #1b3f47;
-  transition: width 0.2s;
+  display: none;
 }
 
 .nav__wrapper {

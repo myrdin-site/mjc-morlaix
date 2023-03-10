@@ -1,30 +1,23 @@
 // Menu
 let links = document.getElementsByClassName("link");
+let close = document.getElementById("close");
+let open = document.getElementById("open");
 
 function openNav() {
-  document.getElementById("nav__menu").style.width = "200px";
-  document.getElementById("nav__menu").ariaHidden = "false";
-  document.getElementById("close").tabIndex = "1";
-  document.querySelectorAll(".nav__link-focus")
-    .forEach(elem => {
-      elem.setAttribute("tabindex", "1")
-    })
+  document.getElementById("nav__menu").style.display = "block";
+  open.setAttribute("aria-expanded", true);
+  close.focus();
 }
 
 function closeNav() {
-  document.getElementById("nav__menu").style.width = 0;
-  document.getElementById("nav__menu").ariaHidden = "true";
-  document.getElementById("close").tabIndex= "-1";
-  document.querySelectorAll(".nav__link-focus")
-    .forEach(elem => {
-      elem.setAttribute("tabindex", "-1")
-    })
-
+  document.getElementById("nav__menu").style.display = "none";
+  open.setAttribute("aria-expanded", false);
+  open.focus();
 }
 
-document.getElementById("open").addEventListener("click", openNav);
+open.addEventListener("click", openNav);
 
-document.getElementById("close").addEventListener("click", closeNav);
+close.addEventListener("click", closeNav);
 
 for (var j = 0; j < links.length; j++) {
   links[j].addEventListener("click", function () {

@@ -114,7 +114,7 @@ a:hover {
   font-size: 2.5rem; }
 
 #nav__menu {
-  width: 0;
+  width: 200px;
   height: 100vh;
   display: flex;
   flex-direction: column;
@@ -123,7 +123,7 @@ a:hover {
   position: fixed;
   top: 0;
   background-color: #1b3f47;
-  transition: width 0.2s; }
+  display: none; }
 
 .nav__wrapper {
   padding-top: 3.2rem;
@@ -1304,7 +1304,8 @@ label {
   .contact__map {
     margin-top: 10rem; }
   .list__podcast {
-    margin-top: -4.6rem; }
+    margin-top: -4.6rem;
+    margin-left: 15rem; }
   .podcast__list {
     text-align: center; }
   .podcast__item_flex {
