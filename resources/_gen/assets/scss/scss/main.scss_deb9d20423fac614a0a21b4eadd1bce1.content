@@ -1273,6 +1273,8 @@ label {
   .list__wrapper {
     width: 660px;
     max-width: 660px; }
+  .actu__title {
+    margin-left: 13rem; }
   .page__actu_content h1 {
     padding: 0.8rem 0; }
   .actu__cover {
