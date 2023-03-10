@@ -107,7 +107,7 @@ const soundButton = document.querySelector(".sound-button"),
 function toggleSound() {
   audio.muted = !audio.muted;
   soundButton.innerHTML = audio.muted ? muteIcon : soundIcon;
-  soundButton.ariaLabel = audio.muted ? "Muted" : "Unmuted";
+  soundButton.ariaLabel = audio.muted ? "En sourdine" : "Non en sourdine";
 }
 
 soundButton.addEventListener("click", toggleSound);
