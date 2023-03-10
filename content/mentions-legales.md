@@ -20,7 +20,7 @@ Représentante légale : Mme Sophie DESURMONT, Présidente
 
 ### Conception du site
 
-[Myrdin Mogan](https://more-coffee.net)
+[Clic2000](https://clic2000.fr)
 
 ### Graphisme
 
