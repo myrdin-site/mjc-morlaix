@@ -166,7 +166,7 @@ a:hover {
   color: white; }
 
 .carousel__mobile {
-  margin-top: 4rem; }
+  margin-top: 12rem; }
 
 .carousel__wrapper {
   max-width: 300px;
