@@ -1465,7 +1465,8 @@ label {
     width: 30vw; }
   .actu__title {
     margin-top: -4rem;
-    padding-bottom: 0.5rem; }
+    padding-bottom: 0.5rem;
+    margin-left: 19rem; }
   .page__documents_middle {
     margin-right: 16rem; }
   .trockson {
@@ -1491,6 +1492,8 @@ label {
     width: 1000px; } }
 
 @media (min-width: 1900px) {
+  .actu__title {
+    margin-left: 29rem; }
   .podcast__timeline {
     width: 13.5rem !important; }
   .page__documents_middle {
