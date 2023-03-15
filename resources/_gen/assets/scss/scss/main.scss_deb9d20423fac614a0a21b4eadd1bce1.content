@@ -1265,7 +1265,7 @@ label {
     margin-bottom: 6rem; }
   .list__container {
     max-width: 700px;
-    margin-left: auto;
+    margin-left: 19rem;
     margin-right: auto;
     margin-top: -0.2rem; }
   .container__trockson {
