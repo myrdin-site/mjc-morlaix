@@ -318,7 +318,7 @@
 
   // List
   .list__container {
-    max-width: 100%;
+    max-width: 700px;
     margin-left: auto;
     margin-right: auto;
     margin-top: -0.2rem;
@@ -334,9 +334,6 @@
   }
 
   // Actu List
-  .actu__title {
-    margin-left: 13rem;
-  }
 
   .page__actu_content h1 {
     padding: 0.8rem 0;
@@ -663,7 +660,6 @@
   .actu__title {
     margin-top: -4rem;
     padding-bottom: 0.5rem;
-    margin-left: 19rem;
   }
   // Documents
   .page__documents_middle {
@@ -712,9 +708,6 @@
 }
 
 @media (min-width: 1900px) {
-  .actu__title {
-    margin-left: 29rem;
-  }
   .podcast__timeline {
     width: 13.5rem !important;
   }

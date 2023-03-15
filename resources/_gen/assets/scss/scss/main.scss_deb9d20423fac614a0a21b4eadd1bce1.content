@@ -1264,7 +1264,7 @@ label {
     margin-top: -4.6rem;
     margin-bottom: 6rem; }
   .list__container {
-    max-width: 100%;
+    max-width: 700px;
     margin-left: auto;
     margin-right: auto;
     margin-top: -0.2rem; }
@@ -1273,8 +1273,6 @@ label {
   .list__wrapper {
     width: 660px;
     max-width: 660px; }
-  .actu__title {
-    margin-left: 13rem; }
   .page__actu_content h1 {
     padding: 0.8rem 0; }
   .actu__cover {
@@ -1467,8 +1465,7 @@ label {
     width: 30vw; }
   .actu__title {
     margin-top: -4rem;
-    padding-bottom: 0.5rem;
-    margin-left: 19rem; }
+    padding-bottom: 0.5rem; }
   .page__documents_middle {
     margin-right: 16rem; }
   .trockson {
@@ -1494,8 +1491,6 @@ label {
     width: 1000px; } }
 
 @media (min-width: 1900px) {
-  .actu__title {
-    margin-left: 29rem; }
   .podcast__timeline {
     width: 13.5rem !important; }
   .page__documents_middle {
