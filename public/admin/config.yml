@@ -137,3 +137,15 @@ collections:
         fields: 
           - { label: "Titre", name: "title", widget: "string" }
           - { label: "Contenu", name: "body", widget: "markdown" }
+  - name: "sitemap"
+    label: "Plan du site"
+    editor:
+       preview: false
+    files:
+      - name: "sitemap"
+        label: "Plan du site"
+        file: "content/plan-du-site.md"
+        create: false
+        fields: 
+          - { label: "Titre", name: "title", widget: "string" }
+          - { label: "Contenu", name: "body", widget: "markdown" }         
