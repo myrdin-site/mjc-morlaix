@@ -19,9 +19,8 @@
       aria-controls="nav__menu"
       aria-expanded="false"
     >
-
-    <span aria-hidden="true">☰</span>
-    <span class="sr-only">Ouvrir menu</span>
+      <span aria-hidden="true">☰</span>
+      <span class="sr-only">Ouvrir menu</span>
     </button>
     <h1 class="header__title">
       <a href="{{ .Site.BaseURL }}"
@@ -53,6 +52,9 @@
           <a
             class='{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .)
 	}}nav__active{{end}}'
+	    {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .)
+	}}aria-current="page"{{end}}
+
             href="{{ .URL }}"
             >{{ .Name }}</a
           >

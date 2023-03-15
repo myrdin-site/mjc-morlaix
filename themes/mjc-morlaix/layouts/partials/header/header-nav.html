@@ -1,17 +1,15 @@
 <!--Nav sidebar mobile-->
 <nav class="nav__sidebar" id="nav__menu" role="navigation">
-  <button
-    class="nav__button--close"
-    id="close"
-    aria-controls="nav__menu"
-  >
-  <span aria-hidden="true">×</span>
-  <span class="sr-only">Fermer menu</span>
+  <button class="nav__button--close" id="close" aria-controls="nav__menu">
+    <span aria-hidden="true">×</span>
+    <span class="sr-only">Fermer menu</span>
   </button>
   <div class="nav__wrapper">
     <ul id="nav__menu-focus">
       {{ range .Site.Menus.main }}
-      <li class="nav__link"><a class="nav__link-focus" href="{{ .URL }}">{{ .Name }}</a></li>
+      <li class="nav__link">
+        <a class="nav__link-focus" href="{{ .URL }}">{{ .Name }}</a>
+      </li>
       {{ end }}
     </ul>
     <a class="nav__podcasts nav__link-focus" href="/podcasts/"
