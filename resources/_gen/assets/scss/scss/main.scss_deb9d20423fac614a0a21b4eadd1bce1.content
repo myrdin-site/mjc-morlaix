@@ -1471,7 +1471,7 @@ label {
   .trockson {
     margin: 0 auto; }
   .container__trockson {
-    margin: -4.6rem auto;
+    margin: -4.6rem 19rem;
     margin-bottom: 4.6rem; }
   .trockson__top {
     margin-top: -4.6rem; } }
