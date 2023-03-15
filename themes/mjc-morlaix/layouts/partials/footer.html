@@ -77,10 +77,10 @@
       </svg>
       <span class="sr-only">Instagram</span>
     </a>
-    {{ .Site.Copyright }} {{ $legals := .Site.GetPage "mentions-legales" }}<a
+    {{ .Site.Copyright }} - {{ $legals := .Site.GetPage "mentions-legales" }}<a
       href="{{ $legals.Permalink }}"
       >Mentions légales</a
-    >
+    > - {{$sitemap := .Site.GetPage "plan-du-site" }}<a href="{{ $sitemap.Permalink }}">Plan du site</a>
     <div id="accessibility" class="accessibility">
       <div
         id="accessconfig"
