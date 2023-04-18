@@ -42,6 +42,8 @@ Comment se forment-ils ? Pourquoi crachent-ils de la lave ? Explosifs, effusifs,
 Jeudi 27 et vendredi 28 avril de 14h à 16h30.\
 **Tarif par stage : 20 € les deux après-midi**
 
+**Vous pouvez télécharger le programme [ICI](https://www.mjcmorlaix.com/documents/page/2/)**
+
 Pour s'inscrire : à l'accueil de la MJC, du lundi au vendredi de 10h à 12h et de 14h à 18h30.
 
 **Renseignements par téléphone : 02 98 88 09 94 ou par mail contact@mjcmorlaix.com**
