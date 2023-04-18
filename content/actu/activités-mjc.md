@@ -1,5 +1,5 @@
 ---
-title: Activités MJC
+title: MJC
 description: Programme Stages vacances de printemps
 cover: /medias/vacscolaire-avril2023.jpg
 event_time: 2023-04-20T14:00:12.326Z
