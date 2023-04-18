@@ -1,5 +1,5 @@
 ---
-title: Activités MJC
+title: MJC
 description: Programme Stages vacances de printemps
 cover: /medias/vacscolaire-avril2023.jpg
 event_time: 2023-04-20T14:00:12.326Z
@@ -8,9 +8,11 @@ prix_libre: false
 ---
 ![](/medias/vacscolaire-avril2023.jpg)
 
-**Programmes des stages pour les 8/17 ans à la MJC de Morlaix Vacances scolaires de printemps 2023**
+**Programmes des stages pour les 8/17 ans** \
+**à la MJC de Morlaix Vacances scolaires de printemps 2023**
 
-La MJC encourage la pratique d’activités éducatives, artistiques et culturelles pour les enfants te les adolescents du territoire. Le maître mot est la découverte !
+La MJC encourage la pratique d’activités éducatives, artistiques et culturelles pour les enfants te les adolescents du territoire.\
+Le maître mot est la découverte !
 
 Sciences et techniques, arts plastiques et théâtre d’impro seront au programme des vacances d’avril !
 
@@ -49,8 +51,6 @@ Pour s'inscrire : à l'accueil de la MJC, du lundi au vendredi de 10h à 12h et 
 **Renseignements par téléphone : 02 98 88 09 94 ou par mail contact@mjcmorlaix.com**
 
 Le règlement est demandé à l'inscription.
-
-
 
 *Il est nécessaire d'être adhérent avant de participer aux activités de la MJC.*
 
