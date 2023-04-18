@@ -9,8 +9,6 @@ prix_plein: 10
 ---
 ![Le Binologue des Hasards](/medias/binologue-webmjc-750x500pix.jpg)
 
-
-
 Le binologue des hasards est un dialogue improvisé entre la musique et la peinture. Une performance 
 enrichie et rythmée par différents modes artistiques du spectacle vivant. Une balade imaginaire dans une bulle temporelle à la chronologie aléatoire. Un moment unique et singulier.
 
@@ -25,8 +23,9 @@ selon les conditions de diffusion et du lieu.
 **Paul Goillot** : Guembri, chant, ney, piano, programmation.
 **Stéphane Le Rille** : Peinture, poésie.
 
-**Samedi 13 mai - 18h - Auditorium MJC**
-Participation aux frais **10€** - Réservations au **02 98 88 09 94**
+
+
+**Samedi 13 mai - 18h - Auditorium MJC -** Participation aux frais **10€** - Réservations au **02 98 88 09 94**
 
 
 
