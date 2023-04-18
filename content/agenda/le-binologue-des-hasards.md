@@ -4,8 +4,9 @@ description: Spectacle
 cover: /medias/binologue-agendamjc-r-750x500pix.jpg
 event_time: 2023-05-13T18:00:21.715Z
 lieu: Auditorium
+first: Participation aux Frais 10€
 prix_libre: false
-prix_plein: 10
+prix_plein: ""
 ---
 ![Le Binologue des Hasards](/medias/binologue-webmjc-750x500pix.jpg)
 
