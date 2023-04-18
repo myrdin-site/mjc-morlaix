@@ -1,14 +1,14 @@
 ---
 title: Le Binologue des Hasards
 description: Spectacle
-cover: /medias/binologue-actusmjc-y-750x500pix.jpg
+cover: /medias/binologue-agendamjc-750x500pix.jpg
 event_time: 2023-05-13T18:00:00.000Z
 lieu: Auditorium
 prix_libre: false
 prix_plein: 10
 prix_abonné: 10
 ---
-![Le Binologue des Hasards](/medias/binologue-webmjc-750x500pix.jpg)
+![Le Binologue des Hasards](/medias/binologue-webmjc-y-750x500pix.jpg)
 
 Le binologue des hasards est un dialogue improvisé entre la musique et la peinture. Une performance 
 enrichie et rythmée par différents modes artistiques du spectacle vivant. Une balade imaginaire dans une bulle temporelle à la chronologie aléatoire. Un moment unique et singulier.
