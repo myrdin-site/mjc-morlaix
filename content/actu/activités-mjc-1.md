@@ -21,6 +21,7 @@ Vous aurez la possibilité de vous inscrire à deux cours dès cette fin d'anné
 \
 Tarif pour un cours hebdomadaire : 93 € (+ adhésion MJC : 15 €) / Deuxième cours hebdo : 12 €\
 \
-Vous pouvez [télécharger](https://www.mjcmorlaix.com/documents/) la fiche d'inscription et la pré-remplir. Des fiches imprimées seront également à votre disposition à la MJC.\
+Vous pouvez télécharger la fiche d'inscription ([rubrique DOCS](https://www.mjcmorlaix.com/documents/)) et la pré-remplir. \
+Des fiches imprimées seront également à votre disposition à la MJC.\
 \
 **Au plaisir de vous retrouver à la MJC.**
