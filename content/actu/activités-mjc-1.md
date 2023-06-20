@@ -2,7 +2,7 @@
 title: Activités MJC
 description: 2 journées d'inscription aux ATELIERS GYM
 cover: /medias/visuelencart-inscription-gym-mjc.jpg
-event_time: 2023-06-19T10:00:40.217Z
+event_time: 2023-06-22T10:00:40.217Z
 lieu: MJC
 prix_libre: false
 ---
