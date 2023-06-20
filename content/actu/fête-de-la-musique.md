@@ -6,6 +6,8 @@ event_time: 2023-06-21T18:00:00.000Z
 lieu: Place des Jacobins
 prix_libre: false
 ---
+![](/medias/fetedelamusique01.jpg)
+
 **Retrouvez les artistes et musiciens de la MJC et du dispositif TROCK'SON sur scéne !** 
 
 **18h30** > La chorale des enfants du **Pop Music Club** (Chants) 
