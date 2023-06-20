@@ -3,7 +3,7 @@ title: Fête de la Musique
 description: Scéne MJC / Trock'Son
 cover: /medias/fetedelamusique01.jpg
 event_time: 2023-06-21T18:00:00.000Z
-lieu: Place des Jacobins - MX
+lieu: Place des Jacobins
 prix_libre: false
 ---
 **Retrouvez les artistes et musiciens de la MJC et du dispositif TROCK'SON sur scéne !** 
