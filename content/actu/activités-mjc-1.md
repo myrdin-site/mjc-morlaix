@@ -1,26 +1,19 @@
 ---
-title: Activités MJC
-description: 2 journées d'inscription aux ATELIERS GYM
-cover: /medias/visuelencart-inscription-gym-mjc.jpg
-event_time: 2023-06-22T10:00:40.217Z
+title: Mise à Jour site MJC
+description: Préparation du programme de la saison 2023/2024
+cover: /medias/visuel-update.png
+event_time: 2023-08-15T14:00:40.217Z
 lieu: MJC
 prix_libre: false
 ---
-![2 journées d'inscription aux ATELIERS GYM](/medias/visuelencart-inscription-gym-mjc.jpg "Activités MJC")
+![Mise à jour du Programme de la saison 2023 / 2024](/medias/visuel-update.png "Saison 2023 / 2024 MJC")
 
-**2 journées pour VOUS INSCRIRE aux ATELIERS GYMNASTIQUES de la MJC :**\
-\
-**Lundi 19** et **Jeudi 22 juin 2023** de **10h à 12h** et de **14h à 18h**\
-\
-\
-La MJC vous offre la possibilité de vous inscrire aux activités GYM pour la prochaine saison dès cette fin d'année scolaire.\
-\
-Vous trouverez les jours et horaires d'activité, au dos de la fiche d'inscription téléchargeable.\
-\
-Vous aurez la possibilité de vous inscrire à deux cours dès cette fin d'année.\
-\
-Tarif pour un cours hebdomadaire : 93 € (+ adhésion MJC : 15 €) / Deuxième cours hebdo : 12 €\
-\
+**Mise en ligne du nouveau programme de la saison le 15 août 2023 !**
+
+Merci pour votre compréhension et votre patience.
+
+**à trés bientôt, l’équipe MJC**
+
 Vous pouvez télécharger la fiche d'inscription ([rubrique DOCS](https://www.mjcmorlaix.com/documents/)) et la pré-remplir. \
 Des fiches imprimées seront également à votre disposition à la MJC.\
 \
