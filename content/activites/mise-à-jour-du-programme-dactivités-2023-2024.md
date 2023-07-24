@@ -1,9 +1,10 @@
 ---
 title: Mise à Jour du Programme d'activités 2023/2024
-picto: /medias/logo-mjc-bleu2.png
+picto: /medias/logo-mjc-blanc.png
 public:
   - enfants
   - adolescents
+  - adultes
 anim: MJC Morlaix
 price: Information
 starting_date: 2023-07-24T11:57:37.690Z
