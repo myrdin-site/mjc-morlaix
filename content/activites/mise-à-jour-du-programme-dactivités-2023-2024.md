@@ -7,7 +7,7 @@ public:
   - adultes
 anim: MJC Morlaix
 price: Information
-starting_date: 2023-07-24T11:57:37.690Z
+starting_date: 2023-09-15T12:00:01.679Z
 creneau: >-
   **Nous mettons actuellement le programme des activités pour la saison 2023 /
   2024.**
