@@ -8,11 +8,11 @@ prix_libre: false
 ---
 ![Mise à Jour site MJC](/medias/visuel-update.png "Préparation du programme de la saison 2023/2024")
 
-**Mise en ligne du nouveau programme de la saison le 15 août 2023 !**
+**Mise en ligne du nouveau programme culturel de la saison le 15 août 2023 !**
 
 Merci pour votre compréhension et votre patience.
 
-**à trés bientôt, l’équipe MJC**
+**à très bientôt, l’équipe MJC**
 
 Vous pouvez télécharger la fiche d’inscription ([rubrique DOCS](https://www.mjcmorlaix.com/documents/)) et la pré-remplir.\
 Des fiches imprimées seront également à votre disposition à la MJC.\
