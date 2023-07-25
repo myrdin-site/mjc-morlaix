@@ -1,5 +1,5 @@
 ---
-title: Préparation du programme de la saison 2023/2024
+title: Saison Culturelle 2023/2024
 ---
 **Mise en ligne du nouveau programme de la saison le 15 août 2023 !**
 
