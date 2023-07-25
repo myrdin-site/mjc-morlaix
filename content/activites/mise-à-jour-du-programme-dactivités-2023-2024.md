@@ -16,9 +16,9 @@ creneau: >-
   Mise en ligne du nouveau programme le 15 août 2023 !
 
 
-  Merci pour votre compréhension et votre patience.
+  Vous pouvez dès à présent, vous renseigner sur les ateliers et les activités en appelant la MJC au 02 98 88 09 94.
 
 
-  **à trés bientôt, l'équipe MJC**
+  **À trés bientôt, l'équipe MJC.**
 description: Actualités MJC
 ---
