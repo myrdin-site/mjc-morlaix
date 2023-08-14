@@ -1321,7 +1321,7 @@ label {
   .podcast__timeline {
     width: 4.5rem !important; }
   .page__mjc_content {
-    width: 800px; }
+    width: 1127px; }
     .page__mjc_content h2 {
       padding: 1.6rem 0; }
   .page__mjc_wrapper {
