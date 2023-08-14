@@ -58,8 +58,7 @@ a:hover {
 
 /* Header */
 .header__wrapper {
-  position: relative;
-  background-color: #1b3f47; }
+  position: relative; }
 
 .header__banner {
   width: 100vw;
@@ -81,7 +80,7 @@ a:hover {
   padding-bottom: 0.8rem; }
 
 .header__title_white {
-  color: white; }
+  color: #889b2f; }
 
 .header__title_light {
   font-weight: 100; }
@@ -1168,6 +1167,8 @@ label {
     display: none; }
   .header__wrapper_desktop {
     padding-left: 23rem; }
+  .header__title_white {
+    color: white; }
   #nav__menu {
     display: none; }
   .header__title {
