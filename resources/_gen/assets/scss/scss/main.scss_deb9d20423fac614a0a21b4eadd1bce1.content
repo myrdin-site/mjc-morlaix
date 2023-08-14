@@ -654,14 +654,14 @@ input[type="range"]:focus::-moz-range-thumb {
   width: 360px;
   margin: auto; }
   .page__mjc_content h1 {
-    color: #d0ecbf;
+    color: #488094;
     text-transform: uppercase;
     padding: 0.8rem 0; }
   .page__mjc_content h2 {
-    color: #6ab535;
+    color: #26535f;
     padding: 0.6rem 0; }
   .page__mjc_content h3 {
-    color: #d0922c;
+    color: #6AB535;
     padding: 0.4rem 0; }
 
 .page__mjc_ext,
@@ -682,16 +682,16 @@ input[type="range"]:focus::-moz-range-thumb {
 
 /* Jeunesse */
 .page__jeunesse_content h1 {
-  color: #a8a4cb;
+  color: #9EB812;
   text-transform: uppercase;
   padding: 0.8rem 0; }
 
 .page__jeunesse_content h2 {
-  color: #90a4cb;
+  color: #C1E634;
   padding: 0.6rem 0; }
 
 .page__jeunesse_content h3 {
-  color: #ec976b;
+  color: #539550;
   padding: 0.4rem 0; }
 
 .page__jeunesse_content ul {
@@ -704,16 +704,16 @@ input[type="range"]:focus::-moz-range-thumb {
 
 /* Contact */
 .page__contact_content h1 {
-  color: #e1dbc1;
+  color: #165746;
   text-transform: uppercase;
   padding: 0.8rem 0; }
 
 .page__contact_content h2 {
-  color: #cec495;
+  color: #53AE67;
   padding: 0.6rem 0; }
 
 .page__contact_content h3 {
-  color: #23a368;
+  color: #488094;
   padding: 0.4rem 0; }
 
 /* TrockSon */
@@ -815,16 +815,16 @@ input[type="range"]:focus::-moz-range-thumb {
 
 /* Actu */
 .page__actu_content h1 {
-  color: #badca5;
+  color: #c46832;
   text-transform: uppercase;
   padding: 3.8rem 0; }
 
 .page__actu_content h2 {
-  color: #82c345;
+  color: #B80000;
   padding: 0.6rem 0; }
 
 .page__actu_content h3 {
-  color: #ec976b;
+  color: #488094;
   padding: 0.4rem 0; }
 
 /* Activités */
