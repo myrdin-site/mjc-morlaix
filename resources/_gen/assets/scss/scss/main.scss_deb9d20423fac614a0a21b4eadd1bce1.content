@@ -429,7 +429,7 @@ input[type="range"]:focus::-moz-range-thumb {
   margin-bottom: 4rem; }
   .list__container .actu__title {
     text-transform: uppercase;
-    color: #badca5;
+    color: #c46832;
     font-size: 3rem; }
 
 .actu__wrapper {
