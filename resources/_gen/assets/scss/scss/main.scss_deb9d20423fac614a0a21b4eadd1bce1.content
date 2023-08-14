@@ -1202,7 +1202,7 @@ label {
   .nav__link:nth-child(5) .nav__active {
     color: #C1E634; }
   .nav__link:nth-child(6) .nav__active {
-    color: #ea5b0c; }
+    color: #FFFCF8; }
   .nav__link:nth-child(7) .nav__active {
     color: #165746; }
   .nav__link:hover:nth-child(1) a {
@@ -1216,7 +1216,7 @@ label {
   .nav__link:hover:nth-child(5) a {
     color: #C1E634; }
   .nav__link:hover:nth-child(6) a {
-    color: #ea5b0c; }
+    color: #FFFCF8; }
   .nav__link:hover:nth-child(7) a {
     color: #165746; }
   .nav__link::after {
