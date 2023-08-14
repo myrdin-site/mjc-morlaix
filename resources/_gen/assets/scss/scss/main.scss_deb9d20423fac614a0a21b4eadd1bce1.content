@@ -1503,6 +1503,8 @@ label {
   .podcast__timeline {
     width: 13.5rem !important; }
   .page__documents_middle {
-    margin-right: 35rem; } }
+    margin-right: 35rem; }
+  .list__container {
+    margin-left: 25rem; } }
 
 /*# sourceMappingURL=main.css.map */
