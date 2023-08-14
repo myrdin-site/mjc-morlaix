@@ -701,6 +701,15 @@ input[type="range"]:focus::-moz-range-thumb {
   max-width: 95vw;
   padding: 0.8rem 0; }
 
+.hr__ij {
+  margin: 2rem; }
+
+.page__ij_socials {
+  text-align: center; }
+  .page__ij_socials img {
+    width: 20px;
+    height: auto; }
+
 /* Contact */
 .page__contact_content h1 {
   color: #165746;
@@ -1343,7 +1352,6 @@ label {
     max-width: 11vw;
     padding: 0rem 1rem 1rem 1rem; }
   .page__ij_imgdesktop {
-    float: right;
     width: 27vw;
     padding-left: 1rem;
     padding-bottom: 1rem;
