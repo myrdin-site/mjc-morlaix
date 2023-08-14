@@ -87,7 +87,7 @@ a:hover {
   font-weight: 100; }
 
 .header__title_city {
-  color: #5cb0cb; }
+  color: #26535f; }
 
 /* Header Desktop */
 .header__wrapper_desktop {
