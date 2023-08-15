@@ -8,7 +8,7 @@ anim: David MEUROU
 price: 96€ à 160€ /an
 starting_date: 2023-09-20T12:00:27.740Z
 creneau: >-
-  Apprentissage et acquisition des techniques de base du skate et/ou
+  **Apprentissage et acquisition des techniques de base du skate** et/ou
   perfectionnement à la pratique en skate-parks. Atelier animé par un
   professionnel, titulaire d’un brevet d’Initiateur fédéral pour une pratique du
   skate en toute sécurité. \
