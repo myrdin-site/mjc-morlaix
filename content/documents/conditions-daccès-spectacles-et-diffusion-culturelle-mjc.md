@@ -1,6 +1,7 @@
 ---
-title: Conditions d'accès spectacles et diffusion culturelle MJC
+title: Conditions d'accès à la diffusion culturelle de la MJC
 format: pdf
 picto: /medias/pdf.png
-file: /medias/conditions-acces-2023.pdf
+saison: Saison 2023/2024
+file: /medias/conditions-accces-mjc2024.pdf
 ---
