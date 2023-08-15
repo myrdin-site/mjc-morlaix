@@ -8,7 +8,7 @@ prix_libre: false
 ---
 ![Mise à jour du Programme de la saison 2023 / 2024](/medias/visuel-update.png "Saison 2023 / 2024 MJC")
 
-**Mise en ligne du nouveau programme de la saison le 15 août 2023 !**
+**Mise en ligne du nouveau programme de la saison le 16 août 2023 !**
 
 Merci pour votre compréhension et votre patience.
 
