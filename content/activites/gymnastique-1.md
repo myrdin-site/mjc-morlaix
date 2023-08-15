@@ -18,7 +18,6 @@ creneau: >-
 
   18h00/19h00 > **Gym d’entretien** Yannick THOMAS - Zoé Puyo
 
-  \
 
   **MARDI** \
 
@@ -30,7 +29,7 @@ creneau: >-
 
   16h15/17h15 > **Assoup. /Stretching** Yannick THOMAS - MJC 
 
-  \
+
 
   **MERCREDI** \
 
@@ -42,7 +41,7 @@ creneau: >-
 
   18h15/19h15 > **Assoup. /Stretching** Yannick THOMAS - Ploujean 
 
-  \
+
 
   **JEUDI** \
 
@@ -52,7 +51,7 @@ creneau: >-
 
   18h15/19h15 > **Renfo. musculaire** Renaud CUDENNEC - Zoé Puyo
 
-  \
+
 
   **VENDREDI** \
 
@@ -60,7 +59,7 @@ creneau: >-
 
   15h15/16h15 > **Assoup./Stretching** Yannick THOMAS - MJC
 
-  \
+
 
   **SAMEDI** \
 
