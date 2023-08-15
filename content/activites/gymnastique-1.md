@@ -14,7 +14,7 @@ creneau: >-
 
   **LUNDI** \
 
-  09h45/10h45 > **Gym d’entretien** Renaud CUDENNEC - MJC
+  09h45/10h45 > **Gym d’entretien** Renaud CUDENNEC - MJC\
 
   18h00/19h00 > **Gym d’entretien** Yannick THOMAS - Zoé Puyo
 
@@ -22,9 +22,9 @@ creneau: >-
 
   **MARDI** \
 
-  09h10/10h10 > **Gym dynamique +** Nathalie KOWALCZYK - Zoé Puyo
+  09h10/10h10 > **Gym dynamique +** Nathalie KOWALCZYK - Zoé Puyo\
 
-  12h15/13h15 > **Pilates** Bernard CHOQUER - MJC
+  12h15/13h15 > **Pilates** Bernard CHOQUER - MJC\
 
   15h15/16h15 > **Assoup. /Stretching** Yannick THOMAS - MJC\
 
