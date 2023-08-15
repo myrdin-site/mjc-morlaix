@@ -2,7 +2,7 @@
 title: Mise à Jour site MJC
 description: Pogramme culturel > Saison 2023/2024
 cover: /medias/visuel-update.png
-event_time: 2023-08-15T14:00:00.000Z
+event_time: 2023-08-16T20:00:00.000Z
 lieu: MJC
 prix_libre: false
 ---
