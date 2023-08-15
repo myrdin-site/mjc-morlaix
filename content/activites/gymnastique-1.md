@@ -26,7 +26,9 @@ creneau: >-
 
   12h15/13h15 > **Pilates** Bernard CHOQUER - MJC
 
-  15h15/16h15 > **Assoup. /Stretching** Yannick THOMAS - MJC 16h15/17h15 > **Assoup. /Stretching** Yannick THOMAS - MJC 
+  15h15/16h15 > **Assoup. /Stretching** Yannick THOMAS - MJC\
+
+  16h15/17h15 > **Assoup. /Stretching** Yannick THOMAS - MJC 
 
   \
 
