@@ -2,7 +2,7 @@
 title: Mise à Jour site MJC
 description: Préparation du programme de la saison 2023/2024
 cover: /medias/visuel-update.png
-event_time: 2023-08-15T14:00:40.217Z
+event_time: 2023-08-16T20:00:40.217Z
 lieu: MJC
 prix_libre: false
 ---
