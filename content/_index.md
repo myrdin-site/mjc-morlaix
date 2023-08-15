@@ -1,8 +1,12 @@
 ---
-title: Saison 2023/2024
+title: BIENVENUE !
 ---
-**Mise en ligne du nouveau programme de la saison le 15 août 2023 !**
+**Nous sommes heureux de vous présenter notre nouveau programme culturel** dense et varié, pour les enfants, les jeunes et les adultes.
 
-Merci pour votre compréhension et votre patience.
+Vous y trouverez de nombreuses propositions d’activités, pour toutes et tous, avec quelques nouveautés : atelier arts plastiques adultes, atelier de fabrication de mobilier en carton, du théâtre d’impro pour les adultes, une reprise des ateliers espagnol.
 
-**à très bientôt, l’équipe MJC**
+Treize dates de concerts et spectacles vous attendent cette saison dans notre petit écrin d’expression artistique et citoyenne, espace central de toutes les cultures qui se vivent à la MJC : l’auditorium.
+
+Dans le contexte sociétal préoccupant actuel, à l’heure où l’intolérance est souvent de mise, nous tenons avec cette programmation à réaffirmer nos valeurs humanistes, d’ouverture aux Mondes et aux cultures et à les partager avec vous.
+
+**Belle saison à toutes et tous avec la MJC !**
