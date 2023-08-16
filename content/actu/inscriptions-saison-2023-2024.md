@@ -1,5 +1,5 @@
 ---
-title: Inscriptions Saison 2023 / 2024
+title: Inscription MJC saison 2023 / 2024
 description: MJC
 cover: /medias/visuel2024_web-750x500px.jpg
 event_time: 2023-08-21T10:00:00.000Z
