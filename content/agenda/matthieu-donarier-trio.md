@@ -21,4 +21,4 @@ Formé avec le guitariste Manu Codjia et le batteur Joe Quitzke, il a marqué le
 
 <https://youtu.be/jYiFgbelLYY>
 
-**Vendredi 6 octobre - 20h30** - \*10€ / 6€ \* Non adhérents / adhérents
+**Vendredi 6 octobre - 20h30** - \*10€ / 6€  \*Non adhérents / adhérents
