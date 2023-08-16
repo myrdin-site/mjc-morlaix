@@ -1,6 +1,6 @@
 ---
 title: Julianne Joe
-description: Soirée FESTI'BLUES
+description: Soirée FESTI'BLUES [2 concerts]
 cover: /medias/03.-julianne-750x500px.png
 event_time: 2023-11-04T20:00:00.000Z
 lieu: Auditorium
