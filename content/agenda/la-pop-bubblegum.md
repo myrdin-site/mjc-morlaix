@@ -16,4 +16,4 @@ Avec Christophe BRAULT DJ animateur radio, diplômé en musicologie, Conférenci
 
 **Si vers 1970, la mode change, c’est l’Europe qui prend le relais via le British Bubblegum (Middle Of The Road)** et bientôt le Glam-rock (Sweet). Si le Disco éteint le mouvement, il renaît à travers la génération Punk (Ramones) et New Wave (Blondie) et se renouvelle sans cesse depuis cette époque.
 
-**Vendredi 7 novembre 20h15**  -  Entrée Prix Libre  -  **Durée 2h**
+**Mardi 7 novembre 20h15**  -  Entrée Prix Libre  -  **Durée 2h**
