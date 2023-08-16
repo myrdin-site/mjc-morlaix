@@ -2,7 +2,7 @@
 title: le glam rock
 description: conf’n’rock
 cover: /medias/cr-new-york-dolls-500x500px.png
-event_time: 2023-08-30T20:15:00.000Z
+event_time: 2024-01-30T20:15:00.000Z
 lieu: Auditorium
 prix_libre: true
 ---
