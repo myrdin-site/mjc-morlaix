@@ -1,6 +1,6 @@
 ---
 title: La Pop Bubblegum
-description: conf’n’rock
+description: Conf’n’Rock
 cover: /medias/cr-pop-bubblegum-the-archies-750px.png
 event_time: 2023-11-07T20:15:00.000Z
 lieu: Auditorium
