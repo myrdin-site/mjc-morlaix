@@ -1,6 +1,6 @@
 ---
 title: VINCENT BUCHER TRIO
-description: Soirée FESTI'BLUES
+description: Soirée FESTI'BLUES [2 concerts]
 cover: /medias/03.-bucher-750x500px.png
 event_time: 2023-11-04T20:00:00.000Z
 lieu: Auditorium
