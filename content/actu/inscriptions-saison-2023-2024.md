@@ -8,7 +8,7 @@ prix_libre: false
 ---
 ![Inscriptions Saison 2023 / 2024](/medias/visuel2024_web-750x500px.jpg "MJC Morlaix")
 
-**Inscriptions à partir du mercredi 30 août à 10h.**
+**Inscription à la MJC,  à partir du lundi 21 août.**
 
 Vous pouvez télécharger la fiche d’inscription ([rubrique DOCS](https://www.mjcmorlaix.com/documents/)) et la pré-remplir.\
 Des fiches imprimées seront également à votre disposition à la MJC.
