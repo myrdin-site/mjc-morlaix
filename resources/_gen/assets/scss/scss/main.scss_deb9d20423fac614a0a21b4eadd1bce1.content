@@ -989,7 +989,8 @@ input[type="range"]:focus::-moz-range-thumb {
 .contact__header {
   position: absolute;
   text-align: center;
-  top: 2rem; }
+  top: 2rem;
+  margin: 0 1rem; }
 
 .contact__column {
   margin: 1.2rem;
@@ -998,7 +999,7 @@ input[type="range"]:focus::-moz-range-thumb {
     width: 100%; }
 
 .contact__map {
-  margin-top: 10rem; }
+  margin-top: 2rem; }
 
 .contact__address {
   font-size: 1.3rem;
@@ -1139,7 +1140,7 @@ label {
   .header__button {
     top: -4.5%; }
   .contact__column {
-    margin-top: 10rem; }
+    margin-top: 14rem; }
   .page__ij_wrapper1 {
     display: flex; }
   .page__ij_logo {
@@ -1311,7 +1312,7 @@ label {
   .contact__column {
     margin-top: 1rem; }
   .contact__map {
-    margin-top: 10rem; }
+    margin-top: 14rem; }
   .list__podcast {
     margin-top: -4.6rem;
     margin-left: 19rem; }
@@ -1453,7 +1454,7 @@ label {
     .actu__wrapper .actu__footer-price {
       margin-bottom: 1rem; }
   .contact__column {
-    margin-top: 10rem; }
+    margin-top: 14rem; }
   .list__wrapper {
     width: 900px;
     max-width: 900px; }
