@@ -876,7 +876,7 @@ input[type="range"]:focus::-moz-range-thumb {
     right: 1rem; }
 
 .activites__wrapper:nth-child(even) > .activites__left {
-  background-color: #39667d; }
+  background-color: #3e676c; }
 
 .activites__right {
   padding: 1rem; }
