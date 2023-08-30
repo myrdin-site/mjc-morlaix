@@ -20,4 +20,6 @@ Matthieu Donarier est l’un des saxophonistes et clarinettistes les plus envue 
 
 <https://youtu.be/jYiFgbelLYY>
 
-**Vendredi 6 octobre - 20h30** - \*10€ / 6€ \*Non adhérents / adhérents
+<https://www.plages-magnetiques.org/atlantique-jazz-festival-bretagne/>
+
+**Samedi 7 octobre - 20h30** - \*10€ / 6€ \*Non adhérents / adhérents
