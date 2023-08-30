@@ -2,7 +2,7 @@
 title: Matthieu Donarier Trio
 description: Jazz
 cover: /medias/02.-donarier_trio-750x500px.png
-event_time: 2023-10-06T20:30:00.000Z
+event_time: 2023-10-07T20:30:00.000Z
 lieu: Auditorium
 prix_libre: false
 prix_plein: 10
