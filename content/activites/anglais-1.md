@@ -4,7 +4,7 @@ picto: /medias/langues.png
 public:
   - adolescents
   - adultes
-anim: "Mathilde Rojinsky-Sadot "
+anim: "Mathilde ROJINSKI-SADOT "
 price: 117€ à 176€ /an
 starting_date: 2023-09-19T16:00:22.532Z
 creneau: >-
