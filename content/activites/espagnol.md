@@ -4,7 +4,7 @@ picto: /medias/langues.png
 public:
   - adolescents
   - adultes
-anim: " Leticia Labbe"
+anim: " Leticia LABBE"
 price: 117€ à 176€ /an
 starting_date: 2023-09-21T16:15:16.116Z
 creneau: >-
