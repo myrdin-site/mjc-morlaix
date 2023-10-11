@@ -30,7 +30,6 @@ creneau: >-
   16h15/17h15 > **Assoup. /Stretching** Yannick THOMAS - MJC 
 
 
-
   **MERCREDI** \
 
   09h00/10h00 > **Gym d’entretien** Yannick THOMAS - MJC\
@@ -42,7 +41,6 @@ creneau: >-
   18h15/19h15 > **Assoup. /Stretching** Yannick THOMAS - Ploujean 
 
 
-
   **JEUDI** \
 
   09h00/10h00 > **Gym d’entretien** Yannick THOMAS - Zoé Puyo \
@@ -52,7 +50,6 @@ creneau: >-
   18h15/19h15 > **Renfo. musculaire** Renaud CUDENNEC - Zoé Puyo
 
 
-
   **VENDREDI** \
 
   09h00/10h00 > **Gym d’entretien** Yannick THOMAS - MJC \
@@ -60,19 +57,18 @@ creneau: >-
   15h15/16h15 > **Assoup./Stretching** Yannick THOMAS - MJC
 
 
-
   **SAMEDI** \
 
   09H30/10H30 > **Pilates** Bernard CHOQUER - MJC
 
 
+  Votre cotisation couvre un cours hebdomadaire. Possibilité de bénéficier d’un second cours (nombre de places limité) pour 12€ supplémentaires. (renseignements auprès de la MJC)
+
+
   **NOUVEAU !**\
 
-  **S’INITIER AU RUNNING** : Le sport accessible à tous ! Des conseils, des apports techniques et les encouragements d’une coach sportive pour débuter et apprendre à courir. Une activité santé pour les débutants et pour avancer à votre rythme.\
+  **YOGA** : Exercices en mouvements, postures, respiration.\
 
-  LUNDI : **12h15 / 13h15 -** Nathalie KOWALCZYK - à partir du **Lundi 18 sept 2023.**
-
-
-  Votre cotisation couvre un cours hebdomadaire. Possibilité de bénéficier d’un second cours (nombre de places limité) pour 12€ supplémentaires. (renseignements auprès de la MJC)
+  LUNDI : **10h30 / 11h30 -** Nathalie KOWALCZYK - Tarifs : 96€ à 160€ /an
 description: Gymnastique
 ---
