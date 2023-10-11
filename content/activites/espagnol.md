@@ -4,7 +4,7 @@ picto: /medias/langues.png
 public:
   - adolescents
   - adultes
-anim: Veronica GOMEZ TOMAS
+anim: " Leticia Labbe"
 price: 117€ à 176€ /an
 starting_date: 2023-09-21T16:15:16.116Z
 creneau: >-
