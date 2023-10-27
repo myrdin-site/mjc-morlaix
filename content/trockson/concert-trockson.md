@@ -3,7 +3,7 @@ title: Concert TROCK'SON
 description: Rap / Rock
 cover: /medias/trockson271023.jpg
 event_time: 2023-10-27T18:30:11.308Z
-lieu: Auditoruim
+lieu: Auditorium
 prix_libre: false
 ---
 **Le concert du Trock'Son sera pour vous l'occasion de découvrir ou de retrouver vos groupes locaux** dans une prestation dans la tradition de ce qui se fait au Trock'Son depuis 1986 à Morlaix !
