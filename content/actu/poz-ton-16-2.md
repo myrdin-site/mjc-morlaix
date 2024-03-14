@@ -1,7 +1,7 @@
 ---
 title: "POZ TON 16 #2"
 description: " OpenMic MJC/Trock'Son "
-cover: /medias/pozton16-2-openmic2024-encart.jpg
+cover: /medias/pozton16-2-openmic2024-encartactu.jpg
 event_time: 2024-03-15T18:30:00.000Z
 lieu: Auditorium
 prix_libre: false
