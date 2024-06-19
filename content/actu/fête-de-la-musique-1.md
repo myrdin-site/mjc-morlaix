@@ -1,6 +1,6 @@
 ---
 title: Fête de la Musique
-description: Concerts gratuits
+description: Concerts
 cover: /medias/fdm-encart-web-mx2024.jpg
 event_time: 2024-06-21T18:00:00.000Z
 lieu: Place des Jacobins
@@ -12,25 +12,25 @@ FÊTE DE LA MUSIQUE 2024 - Plateau MJC / Trock'Son
 
 Retrouvez  et découvrez en Live un panel de nos adhérents/musiciens TROCK'SON ou diversité des styles se mêlent à l'émergence des jeunes artistes et l'énergie des formations plus "rodées"... Bref quelques heures de découvertes musicales aux univers singuliers... !! Welcome !!
 
-18h15 > **Jam Trock'Son** avec Brice/Guéna/Alan/Chiaka \[Samouka Rap]\
+18h15 > **Jam Trock'Son** \[IMPRO]
 
-19h00 > **Naël et Matto** \[Rap]\
+19h00 > **Naël et Matto** \[Rap]
 
-19h45 > **Sophia et Jyria** \[Rap]\
+19h45 > **Sophia et Jyria** \[Rap]
 
-20h00 > **Pauvre(s)** \[Pop Rock]\
+20h00 > **Pauvre(s)** \[Pop Rock]
 
-20h45 > **Sophia et Jyria** \[Rap]\
+20h45 > **Sophia et Jyria** \[Rap]
 
-21h00 > **Echo** \[Rock-Funk-Soul]\
+21h00 > **Echo** \[Rock-Funk-Soul]
 
-21h45 > **Lohann** \[Slam]\
+21h45 > **Lohann** \[Slam]
 
-22h00 > **Floor is Lava** \[Punk'N'Roll]\
+22h00 > **Floor is Lava** \[Punk'N'Roll]
 
-22h45 > **Lohann** \[Slam]\
+22h45 > **Lohann** \[Slam]
 
-23h00 > **Chignole** \[Indie Rock]\
+23h00 > **Chignole** \[Indie Rock]
 
 23h45 > **Hendrix Chuppa Club** \[Punk Rock Déjanté]
 
