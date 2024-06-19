@@ -8,7 +8,7 @@ prix_libre: false
 ---
 ![Fête de la musique - MJC Morlaix / Trock'Son](/medias/fdm-encart-page-mx2024.jpg "Fête de la musique - MJC Morlaix / Trock'Son")
 
-FÊTE DE LA MUSIQUE 2024 - Plateau MJC / Trock'Son
+**FÊTE DE LA MUSIQUE 2024** - Plateau MJC / Trock'Son
 
 Retrouvez  et découvrez en Live un panel de nos adhérents/musiciens TROCK'SON ou diversité des styles se mêlent à l'émergence des jeunes artistes et l'énergie des formations plus "rodées"... Bref quelques heures de découvertes musicales aux univers singuliers... !! Welcome !!
 
