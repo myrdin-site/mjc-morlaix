@@ -2,7 +2,7 @@
 title: Up Cycling
 description: Atelier
 cover: /medias/upcycling-encatr-750x500.jpg
-event_time: 2024-05-26T14:30:00.000Z
+event_time: 2024-06-26T14:30:00.000Z
 lieu: Auditorium - MJC
 prix_libre: false
 ---
