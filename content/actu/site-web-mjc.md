@@ -2,7 +2,7 @@
 title: "Site Web MJC "
 description: Mise à Jour
 cover: /medias/visuel-update.png
-event_time: 2024-06-26T15:30:12.244Z
+event_time: 2024-07-01T09:30:12.244Z
 lieu: MJC
 prix_libre: false
 ---
