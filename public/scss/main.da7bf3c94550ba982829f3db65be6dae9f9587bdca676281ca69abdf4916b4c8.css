@@ -414,7 +414,7 @@ input[type="range"]:focus::-moz-range-thumb {
 
 .homepage__title {
   text-transform: uppercase;
-  color: #31678E;
+  color: #f2a699;
   font-weight: 800;
   margin-bottom: 0.8rem; }
 
@@ -537,13 +537,13 @@ input[type="range"]:focus::-moz-range-thumb {
   text-transform: uppercase; }
 
 .trockson__h2 {
-  color: #6A2473;
+  color: #ea5b0c;
   text-align: center;
   padding: 1rem; }
 
 .trockson__h3,
 .trockson__blue {
-  color: #31678E;
+  color: #7b9aaf;
   text-align: center;
   padding: 0.8rem; }
 
@@ -598,7 +598,7 @@ input[type="range"]:focus::-moz-range-thumb {
   max-width: 300px; }
 
 .trockson__description {
-  background-color: #444070 !important; }
+  background-color: #7b9aaf !important; }
 
 .trockson__actu_wrapper a {
   color: #7b9aaf !important; }
@@ -607,7 +607,7 @@ input[type="range"]:focus::-moz-range-thumb {
 .trockson__actu_wrapper .actu__lieu,
 .trockson__actu_wrapper .actu__legende,
 .trockson__actu_wrapper .actu__indice {
-  color: #31678E; }
+  color: #ea5b0c; }
 
 .agenda__cover {
   display: none; }
@@ -743,12 +743,12 @@ input[type="range"]:focus::-moz-range-thumb {
 .page__trockson_content {
   padding: 0 0.5rem; }
   .page__trockson_content h1 {
-    color: #9E70A4;
+    color: #f4ad85;
     text-transform: uppercase; }
   .page__trockson_content h2 {
-    color: #6A2473; }
+    color: #ea5b0c; }
   .page__trockson_content h3 {
-    color: #31678E; }
+    color: #7b9aaf; }
 
 /* Agenda */
 .page__agenda_content {
@@ -1223,7 +1223,7 @@ label {
   .nav__link::after {
     content: "|";
     font-weight: 700;
-    color: #00d1ff;
+    color: #26535f;
     padding: 0 0.4rem; }
   .nav__link:last-child::after {
     content: none; }

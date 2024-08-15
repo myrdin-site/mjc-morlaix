@@ -44,7 +44,7 @@
   width: 360px;
   margin: auto;
   h1 {
-    color: #488094;
+    color: #31678E;
     text-transform: uppercase;
     padding: 0.8rem 0;
   }
@@ -53,7 +53,7 @@
     padding: 0.6rem 0;
   }
   h3 {
-    color: #6AB535;
+    color: #31678E;
     padding: 0.4rem 0;
   }
 }
@@ -82,16 +82,16 @@
 
 .page__jeunesse_content {
   h1 {
-    color: #9EB812;
+    color: #73B78E;
     text-transform: uppercase;
     padding: 0.8rem 0;
   }
   h2 {
-    color: #C1E634;
+    color: #007B32;
     padding: 0.6rem 0;
   }
   h3 {
-    color: #539550;
+    color: #31678E;
     padding: 0.4rem 0;
   }
   ul {
@@ -160,14 +160,14 @@
   padding: 0 0.5rem;
 
   h1 {
-    color: #f4ad85;
+    color: #9E70A4;
     text-transform: uppercase;
   }
   h2 {
-    color: #ea5b0c;
+    color: #6A2473;
   }
   h3 {
-    color: #7b9aaf;
+    color: #31678E;
   }
 }
 
@@ -176,16 +176,16 @@
 .page__agenda_content {
   padding: 0 0.5rem;
   h1 {
-    color: #fcdd9b;
+    color: #ED7D35;
     text-transform: uppercase;
     padding: 0.8rem 0;
   }
   h2 {
-    color: #f8ad13;
+    color: #E85D03;
     padding: 0.6rem 0;
   }
   h3 {
-    color: #6299de;
+    color: #31678E;
     padding: 0.4rem 0;
   }
 }
@@ -231,7 +231,7 @@
 }
 
 .agenda__right {
-  background-color: #fba303;
+  background-color: #E85D03;
   padding: 1rem;
   .agenda__right_desc {
     color: #243a4e;
@@ -268,7 +268,7 @@
 
 .page__actu_content {
   h1 {
-    color: #c46832;
+    color: #DB7F7F;
     text-transform: uppercase;
     padding: 3.8rem 0;
   }
@@ -277,7 +277,7 @@
     padding: 0.6rem 0;
   }
   h3 {
-    color: #488094;
+    color: #31678E;
     padding: 0.4rem 0;
   }
 }
@@ -287,16 +287,16 @@
 .page__activites_content {
   padding: 0 0.5rem;
   h1 {
-    color: #aad3f4;
+    color: #EF6C6A;
     text-transform: uppercase;
     padding: 0.8rem 0;
   }
   h2 {
-    color: #2c7ea2;
+    color: #EF0079;
     padding: 0.6rem 0;
   }
   h3 {
-    color: #d0922c;
+    color: #31678E;
     padding: 0.4rem 0;
   }
 }
@@ -313,7 +313,7 @@
 }
 
 .activites__left {
-  background-color: #f9ac1a;
+  background-color: #F8AD13;
   color: white;
   padding: 1rem;
   position: relative;
@@ -336,7 +336,7 @@
 }
 
 .activites__wrapper:nth-child(even) > .activites__left {
-  background-color: #3e676c;
+  background-color: #488094;
 }
 
 .activites__right {

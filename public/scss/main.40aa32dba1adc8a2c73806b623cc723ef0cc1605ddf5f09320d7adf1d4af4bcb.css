@@ -414,7 +414,7 @@ input[type="range"]:focus::-moz-range-thumb {
 
 .homepage__title {
   text-transform: uppercase;
-  color: #31678E;
+  color: #f2a699;
   font-weight: 800;
   margin-bottom: 0.8rem; }
 
@@ -607,7 +607,7 @@ input[type="range"]:focus::-moz-range-thumb {
 .trockson__actu_wrapper .actu__lieu,
 .trockson__actu_wrapper .actu__legende,
 .trockson__actu_wrapper .actu__indice {
-  color: #31678E; }
+  color: #ea5b0c; }
 
 .agenda__cover {
   display: none; }
@@ -1223,7 +1223,7 @@ label {
   .nav__link::after {
     content: "|";
     font-weight: 700;
-    color: #00d1ff;
+    color: #26535f;
     padding: 0 0.4rem; }
   .nav__link:last-child::after {
     content: none; }
