@@ -56,7 +56,7 @@ a {
 a:hover {
   color: #5cb0cb; }
 
-main a {
+main > a {
   text-decoration: underline; }
 
 /* Header */

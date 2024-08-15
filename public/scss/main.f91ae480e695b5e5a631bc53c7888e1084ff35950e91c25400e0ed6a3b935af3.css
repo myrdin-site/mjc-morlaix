@@ -51,13 +51,11 @@ body {
   flex-direction: column; }
 
 a {
-  color: #3e6b6c; }
+  color: #3e6b6c;
+  text-decoration: underline; }
 
 a:hover {
   color: #5cb0cb; }
-
-main a {
-  text-decoration: underline; }
 
 /* Header */
 .header__wrapper {
