@@ -2,19 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agenda on MJC Morlaix</title>
-    <link>https://thriving-pony-43b8ee.netlify.app/agenda/</link>
+    <link>http://localhost:1313/agenda/</link>
     <description>Recent content in Agenda on MJC Morlaix</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>2022 © MJC Morlaix</copyright><atom:link href="https://thriving-pony-43b8ee.netlify.app/agenda/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2022 - 2023 © MJC Morlaix</copyright>
+    <atom:link href="http://localhost:1313/agenda/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Echo</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/agenda/echo/</link>
+      <title>Programme Juillet 2024</title>
+      <link>http://localhost:1313/agenda/programme-juillet-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/agenda/echo/</guid>
-      <description>Ce combo morlaisien et mere du dispositif trock&amp;rsquo;son de la MJC, développe une énergie singulière en fusionnant avec groove leurs compositions.</description>
+      <guid>http://localhost:1313/agenda/programme-juillet-2024/</guid>
+      <description>La MJC propose différents stages et animations durant le mois de juillet. Découvertes culturelles, scientifiques, sportives et convivialité seront au rendez-vous !</description>
     </item>
-    
+    <item>
+      <title>Up Cycling</title>
+      <link>http://localhost:1313/agenda/up-cycling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/agenda/up-cycling/</guid>
+      <description>Mercredi 26 juin de 14h30 à 17h30&#xA;La MJC accueillera l’association Scient pour un atelier de : • réparation et customisation de chaussures</description>
+    </item>
   </channel>
 </rss>

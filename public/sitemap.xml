@@ -2,62 +2,116 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/la-mjc/</loc>
+    <loc>http://localhost:1313/la-mjc/</loc>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/activites/</loc>
+    <loc>http://localhost:1313/activites/</loc>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/agenda/</loc>
+    <loc>http://localhost:1313/agenda/</loc>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/actu/</loc>
+    <loc>http://localhost:1313/actu/</loc>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/infos-jeunesse/</loc>
+    <loc>http://localhost:1313/infos-jeunesse/</loc>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/trockson/</loc>
+    <loc>http://localhost:1313/trockson/</loc>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/podcasts/open-mic-jeunes-talents/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2022-04-30T11:19:42+00:00</lastmod>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/podcasts/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/podcasts/les-chroniques-de-lauditorium/</loc>
+    <lastmod>2022-04-30T11:19:42+00:00</lastmod>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/</loc>
-    <lastmod>2021-10-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/podcasts/</loc>
+    <lastmod>2022-04-30T11:19:42+00:00</lastmod>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/podcasts/la-jeunesse-envoie-des-ondes/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/podcasts/la-jeunesse-envoie-des-ondes/</loc>
+    <lastmod>2020-07-10T12:24:00+00:00</lastmod>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/podcasts/love-and-pop/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/podcasts/ad-lib-3/</loc>
+    <lastmod>2019-12-21T14:27:25+00:00</lastmod>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/podcasts/festival-des-solidarit%C3%A9s/</loc>
-    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/podcasts/la-jeunesse-envoie-des-ondes-1/</loc>
+    <lastmod>2019-07-20T13:00:53+00:00</lastmod>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/activites/anglais/</loc>
+    <loc>http://localhost:1313/podcasts/love-and-pop/</loc>
+    <lastmod>2019-01-05T13:39:42+00:00</lastmod>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/activites/arts-plastiques/</loc>
+    <loc>http://localhost:1313/podcasts/radiophonie/</loc>
+    <lastmod>2018-12-15T13:33:57+00:00</lastmod>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/categories/</loc>
+    <loc>http://localhost:1313/plan-du-site/</loc>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/actu/concert-test/</loc>
+    <loc>http://localhost:1313/activites/anglais-1/</loc>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/trockson/concert-rap/</loc>
+    <loc>http://localhost:1313/activites/arts-plastiques-1/</loc>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/documents/conditions-acces/</loc>
+    <loc>http://localhost:1313/activites/atelier-cartonnage/</loc>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/documents/conditions-inscription/</loc>
+    <loc>http://localhost:1313/activites/atelier-peinture-dessin/</loc>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/actu/concert-blue-rock/</loc>
+    <loc>http://localhost:1313/activites/atelier-photo/</loc>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/documents/</loc>
+    <loc>http://localhost:1313/activites/balade-loisirs/</loc>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/agenda/echo/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/mentions-legales/</loc>
+    <loc>http://localhost:1313/activites/chinois/</loc>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/tags/</loc>
+    <loc>http://localhost:1313/documents/conditions-dacc%C3%A8s-spectacles-et-diffusion-culturelle-mjc/</loc>
   </url><url>
-    <loc>https://thriving-pony-43b8ee.netlify.app/actu/vive-le-sport/</loc>
+    <loc>http://localhost:1313/documents/conditions-dinscription/</loc>
+  </url><url>
+    <loc>http://localhost:1313/activites/couture-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/documents/</loc>
+  </url><url>
+    <loc>http://localhost:1313/activites/%C3%A9cole-de-cirque-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/activites/espagnol/</loc>
+  </url><url>
+    <loc>http://localhost:1313/trockson/f%C3%AAte-de-la-musique-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/documents/fiche-dinscription/</loc>
+  </url><url>
+    <loc>http://localhost:1313/activites/gymnastique-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/activites/hip-hop-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/mentions-legales/</loc>
+  </url><url>
+    <loc>http://localhost:1313/activites/pop-music-club-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/activites/postural-ball-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/actu/programme-juillet-2024/</loc>
+  </url><url>
+    <loc>http://localhost:1313/agenda/programme-juillet-2024/</loc>
+  </url><url>
+    <loc>http://localhost:1313/documents/programme-officiel-mjc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/actu/site-web-mjc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/activites/skateboard-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/activites/ta%C3%AFchi-chuan/</loc>
+  </url><url>
+    <loc>http://localhost:1313/documents/tarifs-adh%C3%A9sion-mjc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/documents/tarifs-des-activit%C3%A9s/</loc>
+  </url><url>
+    <loc>http://localhost:1313/activites/th%C3%A9%C3%A2tre-3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/activites/th%C3%A9%C3%A2tre-4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/activites/th%C3%A9%C3%A2tre-5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/activites/th%C3%A9%C3%A2tre-dimpro/</loc>
+  </url><url>
+    <loc>http://localhost:1313/actu/up-cycling/</loc>
+  </url><url>
+    <loc>http://localhost:1313/agenda/up-cycling/</loc>
   </url>
 </urlset>

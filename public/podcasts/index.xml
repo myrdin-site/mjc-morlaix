@@ -2,47 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Podcast&#39;s on MJC Morlaix</title>
-    <link>https://thriving-pony-43b8ee.netlify.app/podcasts/</link>
+    <link>http://localhost:1313/podcasts/</link>
     <description>Recent content in Podcast&#39;s on MJC Morlaix</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>2022 © MJC Morlaix</copyright>
-    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://thriving-pony-43b8ee.netlify.app/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2022 - 2023 © MJC Morlaix</copyright>
+    <lastBuildDate>Sat, 30 Apr 2022 11:19:42 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/podcasts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>OPEN MIC - Jeunes Talents</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/podcasts/open-mic-jeunes-talents/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/podcasts/open-mic-jeunes-talents/</guid>
-      <description>Retour sur la soirée RAP «Open MIC» qui à eu lieu à l’auditorium de la MJC en 2021. L’occasion de découvrir plusieurs artistes en devenir au sein du programme Trock’Son ou non, et de leur offrir pour certains leur première scène, et d’autres la possibilité de présenter leur projet&amp;hellip;</description>
+      <title>Les Chroniques de l&#39;Auditorium</title>
+      <link>http://localhost:1313/podcasts/les-chroniques-de-lauditorium/</link>
+      <pubDate>Sat, 30 Apr 2022 11:19:42 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/les-chroniques-de-lauditorium/</guid>
+      <description>Retour sur l&amp;rsquo;aprés-midi jeux du monde, qui à eu lieu à la MJC de Morlaix le 30 avril 2022, dans le cadre du Festival &amp;quot; On part à l&amp;rsquo;aventure&amp;quot;&amp;hellip;</description>
     </item>
-    
     <item>
-      <title>La Jeunesse Envoie des Des Ondes</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/podcasts/la-jeunesse-envoie-des-ondes/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/podcasts/la-jeunesse-envoie-des-ondes/</guid>
-      <description>L’émission «La Jeunesse Envoie Des Ondes» propose une création sonore globale (musique, bruitage, voix , écriture, captation et montage), sous forme de radio fiction sur le thème de la pandémie en cours&amp;hellip; À une exception près : ce n’est pas le covid qui nous contamine dans cet épisode, mais bien le bonheur et la joie de vivre&amp;hellip;</description>
+      <title>La Jeunesse Envoie Des Ondes</title>
+      <link>http://localhost:1313/podcasts/la-jeunesse-envoie-des-ondes/</link>
+      <pubDate>Fri, 10 Jul 2020 12:24:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/la-jeunesse-envoie-des-ondes/</guid>
+      <description>L’émission «La Jeunesse Envoie Des Ondes» propose une création sonore globale (musique, bruitage, voix , écriture, captation et montage), sous forme de radio fiction sur le thème de la pandémie en cours&amp;hellip;</description>
     </item>
-    
+    <item>
+      <title>AD Lib #3</title>
+      <link>http://localhost:1313/podcasts/ad-lib-3/</link>
+      <pubDate>Sat, 21 Dec 2019 14:27:25 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/ad-lib-3/</guid>
+      <description>Ad Lib #3 - une émission 100% live, en prise &amp;ldquo;sèche&amp;rdquo;, où nos chroniqueurs lisent des textes d&amp;rsquo;auteurs choisis par leurs soins, ou des textes écrits par eux-même, le tout porté par les improvisations des musiciens invités à cette occasion.</description>
+    </item>
+    <item>
+      <title>La Jeunesse Envoie Des Ondes</title>
+      <link>http://localhost:1313/podcasts/la-jeunesse-envoie-des-ondes-1/</link>
+      <pubDate>Sat, 20 Jul 2019 13:00:53 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/la-jeunesse-envoie-des-ondes-1/</guid>
+      <description>L’émission «La Jeunesse Envoie Des Ondes» propose 2 créations sonore globale (musique, bruitage, voix et interprétation, écriture, captation et montage) sous forme d&amp;rsquo;une radio fiction &amp;ldquo;Tellement Fake&amp;rdquo; et d&amp;rsquo;une nouvelle création musicale et littéraire&amp;hellip; improvisée et nomade &amp;ldquo;Ad Lib&amp;rdquo;.</description>
+    </item>
     <item>
       <title>Love And Pop</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/podcasts/love-and-pop/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/podcasts/love-and-pop/</guid>
+      <link>http://localhost:1313/podcasts/love-and-pop/</link>
+      <pubDate>Sat, 05 Jan 2019 13:39:42 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/love-and-pop/</guid>
       <description>L’émission mensuelle «Love And Pop» balaye, par l’intermédiaire des chroniqueurs des ateliers radio, les tendances et les émergences de la «pop culture» qui les ont interpellés ou intéressés&amp;hellip;</description>
     </item>
-    
     <item>
-      <title>Radiophonie</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/podcasts/festival-des-solidarit%C3%A9s/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/podcasts/festival-des-solidarit%C3%A9s/</guid>
-      <description>L’émission RADIOPHONIE revient sur le Festival des solidarités qui à eu lieu à l’auditorium de la MJC en 2018. Toute l’équipe de Radio MJC, se sont atablés pour interviewer les différents représentants de associations du territoire sur leurs projets d’actions quotidiens et futurs&amp;hellip;</description>
+      <title>RADIOPHONIE</title>
+      <link>http://localhost:1313/podcasts/radiophonie/</link>
+      <pubDate>Sat, 15 Dec 2018 13:33:57 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/radiophonie/</guid>
+      <description>L’émission RADIOPHONIE revient sur le Festival des solidarités qui à eu lieu à l’auditorium de la MJC en 2018.&#xA;Toute l’équipe de Radio MJC, se sont attablés pour interviewer les différents représentants de associations du territoire sur leurs projets d’actions quotidiens et futurs&amp;hellip;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,7 +1,9 @@
 <!DOCTYPE html>
-<html lang="fr"><head>
+<html lang="fr"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="La Maison des Jeunes et de la Culture de Morlaix, association agréée
+	      jeunesse et éducation populaire, propose spectacles et activités culturelles" />
   <link rel="stylesheet" type="text/css" href="/slick/slick.min.css" />
   <link
     rel="stylesheet"
@@ -11,8 +13,17 @@
    
   <link
     rel="stylesheet"
-    href="https://thriving-pony-43b8ee.netlify.app/scss/main.df0509d00578473efa6af7d16cdb798200273dc0b0fb7ea22f9e95e590a55ad0.css"
-    integrity="sha256-3wUJ0AV4Rz76avfRbNt5ggAnPcCw&#43;36iL56V5ZClWtA="
+    href="http://localhost:1313/scss/main.64dd8fdde20391fbfbf282d8ece0cb148a76fa1bddefab909faaf2b8b9186510.css"
+    integrity="sha256-ZN2P3eIDkfv78oLY7ODLFIp2&#43;hvd76uQn6ryuLkYZRA="
+  />
+  <link rel="preload" href="/images/button-contact-hover.webp" as="image" />
+  <link rel="preload" href="/images/button-podcast-hover.webp" as="image" />
+  <link rel="preload" href="/images/button-doc-hover.webp" as="image" />
+  <link
+    rel="stylesheet"
+    href="/accessconfig/css/accessconfig.min.css"
+    type="text/css"
+    media="screen"
   />
     <link
   rel="apple-touch-icon"
@@ -33,29 +44,39 @@
 />
 <link rel="manifest" href="/favicon/site.webmanifest" />
 
-  <title>MJC Morlaix | La MJC</title>
+  <title>La MJC | MJC Morlaix</title>
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <script
+    src="/accessconfig/js/accessconfig.min.js"
+    type="text/javascript"
+  ></script>
 </head>
-<body><header>
+<body><header role="banner">
+  <a href="#main" class="skip">Aller au contenu</a>
+  <a href="#accessibility" class="skip">Aller aux paramètres d'accessibilité</a>
   
   <div class="header__wrapper">
-    
-    <img
-      class="header__banner"
-      src="/images/yeux.jpg"
-      alt=""
-      aria-hidden="true"
-    />
+    <picture>
+      <source type="image/avif" srcset="/images/header-mobile.avif" />
+      <source type="image/webp" srcset="/images/header-mobile.webp" />
+      <img
+        class="header__banner"
+        src="/images/header-mobile.png"
+        alt=""
+        aria-hidden="true"
+      />
+    </picture>
     <button
       class="header__button"
       id="open"
       aria-controls="nav__menu"
       aria-expanded="false"
     >
-      ☰
+      <span aria-hidden="true">☰</span>
+      <span class="sr-only">Ouvrir menu</span>
     </button>
     <h1 class="header__title">
-      <a href="https://thriving-pony-43b8ee.netlify.app"
+      <a href="http://localhost:1313/"
         ><span class="header__title_white"
           >Maison <span class="header__title_light">des</span> Jeunes
           <span class="header__title_light">et de la</span>
@@ -64,110 +85,57 @@
       >
     </h1>
     
-<nav class="nav__sidebar" id="nav__menu">
-  <button
-    class="nav__button--close"
-    id="close"
-    aria-controls="nav__menu"
-    aria-expanded="true"
-  >
-    ×
+<nav class="nav__sidebar" id="nav__menu" role="navigation">
+  <button class="nav__button--close" id="close" aria-controls="nav__menu">
+    <span aria-hidden="true">×</span>
+    <span class="sr-only">Fermer menu</span>
   </button>
   <div class="nav__wrapper">
-    <ul>
+    <ul id="nav__menu-focus">
       
-      <li class="nav__link"><a href="/la-mjc/">La MJC</a></li>
+      <li class="nav__link">
+        <a class="nav__link-focus" href="/la-mjc/">La MJC</a>
+      </li>
       
-      <li class="nav__link"><a href="/activites/">Activités</a></li>
+      <li class="nav__link">
+        <a class="nav__link-focus" href="/activites/">Activités</a>
+      </li>
       
-      <li class="nav__link"><a href="/agenda/">Agenda</a></li>
+      <li class="nav__link">
+        <a class="nav__link-focus" href="/agenda/">Agenda</a>
+      </li>
       
-      <li class="nav__link"><a href="/actu/">Actualités</a></li>
+      <li class="nav__link">
+        <a class="nav__link-focus" href="/actu/">Actualités</a>
+      </li>
       
-      <li class="nav__link"><a href="/infos-jeunesse/">Informations Jeunesse</a></li>
+      <li class="nav__link">
+        <a class="nav__link-focus" href="/infos-jeunesse/">Information Jeunesse</a>
+      </li>
       
-      <li class="nav__link"><a href="/trockson/">Trock&#39;Son</a></li>
+      <li class="nav__link">
+        <a class="nav__link-focus" href="/trockson/">Trock&#39;Son</a>
+      </li>
       
-      <li class="nav__link"><a href="/contact/">Contact</a></li>
+      <li class="nav__link">
+        <a class="nav__link-focus" href="/contact/">Contact</a>
+      </li>
       
     </ul>
-    <a class="nav__podcasts" href="/podcasts/"
+    <a class="nav__podcasts nav__link-focus" href="/podcasts/"
       ><span class="sr-only">Podcasts</span></a
     >
-    <a class="nav__documents" href="/documents/"
+    <a class="nav__documents nav__link-focus" href="/documents/"
       ><span class="sr-only">Documents</span></a
     >
   </div>
-</nav>
-
-
-<nav class="nav__desktop">
-  <ul class="nav__menu">
-     
-    <li class="nav__link">
-      <a
-        class='nav__active'
-        href="/la-mjc/"
-        >La MJC</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class=''
-        href="/activites/"
-        >Activités</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class=''
-        href="/agenda/"
-        >Agenda</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class=''
-        href="/actu/"
-        >Actualités</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class=''
-        href="/infos-jeunesse/"
-        >Informations Jeunesse</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class=''
-        href="/trockson/"
-        >Trock&#39;Son</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class=''
-        href="/contact/"
-        >Contact</a
-      >
-    </li>
-    
-  </ul>
 </nav>
 
   </div>
   
   <div class="header__wrapper_desktop">
     <h1 class="header__title">
-      <a href="https://thriving-pony-43b8ee.netlify.app">
+      <a href="http://localhost:1313/">
         <span class="header__title_white"
           >Maison <span class="header__title_light">des</span> Jeunes
           <span class="header__title_light">et de la</span>
@@ -176,105 +144,81 @@
       </a>
     </h1>
     
-<nav class="nav__sidebar" id="nav__menu">
-  <button
-    class="nav__button--close"
-    id="close"
-    aria-controls="nav__menu"
-    aria-expanded="true"
-  >
-    ×
-  </button>
-  <div class="nav__wrapper">
-    <ul>
-      
-      <li class="nav__link"><a href="/la-mjc/">La MJC</a></li>
-      
-      <li class="nav__link"><a href="/activites/">Activités</a></li>
-      
-      <li class="nav__link"><a href="/agenda/">Agenda</a></li>
-      
-      <li class="nav__link"><a href="/actu/">Actualités</a></li>
-      
-      <li class="nav__link"><a href="/infos-jeunesse/">Informations Jeunesse</a></li>
-      
-      <li class="nav__link"><a href="/trockson/">Trock&#39;Son</a></li>
-      
-      <li class="nav__link"><a href="/contact/">Contact</a></li>
-      
-    </ul>
-    <a class="nav__podcasts" href="/podcasts/"
-      ><span class="sr-only">Podcasts</span></a
-    >
-    <a class="nav__documents" href="/documents/"
-      ><span class="sr-only">Documents</span></a
-    >
-  </div>
-</nav>
+    <nav role="navigation" class="nav__desktop">
+      <ul class="nav__menu">
+         
+        <li class="nav__link">
+          <a
+            class='nav__active'
+	    aria-current="page"
 
+            href="/la-mjc/"
+            >La MJC</a
+          >
+        </li>
+        
+        <li class="nav__link">
+          <a
+            class=''
+	    
 
-<nav class="nav__desktop">
-  <ul class="nav__menu">
-     
-    <li class="nav__link">
-      <a
-        class='nav__active'
-        href="/la-mjc/"
-        >La MJC</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class=''
-        href="/activites/"
-        >Activités</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class=''
-        href="/agenda/"
-        >Agenda</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class=''
-        href="/actu/"
-        >Actualités</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class=''
-        href="/infos-jeunesse/"
-        >Informations Jeunesse</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class=''
-        href="/trockson/"
-        >Trock&#39;Son</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class=''
-        href="/contact/"
-        >Contact</a
-      >
-    </li>
-    
-  </ul>
-</nav>
+            href="/activites/"
+            >Activités</a
+          >
+        </li>
+        
+        <li class="nav__link">
+          <a
+            class=''
+	    
 
+            href="/agenda/"
+            >Agenda</a
+          >
+        </li>
+        
+        <li class="nav__link">
+          <a
+            class=''
+	    
+
+            href="/actu/"
+            >Actualités</a
+          >
+        </li>
+        
+        <li class="nav__link">
+          <a
+            class=''
+	    
+
+            href="/infos-jeunesse/"
+            >Information Jeunesse</a
+          >
+        </li>
+        
+        <li class="nav__link">
+          <a
+            class=''
+	    
+
+            href="/trockson/"
+            >Trock&#39;Son</a
+          >
+        </li>
+        
+        <li class="nav__link">
+          <a
+            class=''
+	    
+
+            href="/contact/"
+            >Contact</a
+          >
+        </li>
+        
+      </ul>
+    </nav>
   </div>
   <div class="header__player"><div class="audio-player" aria-label="Audio Player" role="region">
   <div class="controls">
@@ -284,7 +228,7 @@
           <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 20 20"
-            fill="#3D3132"
+            fill="#1b3f47"
           >
             <path
               fill-rule="evenodd"
@@ -302,7 +246,7 @@
           aria-label="timeline"
         />
       </div>
-      <button class="sound-button" aria-label="Unmuted" aria-controls="audio1">
+      <button class="sound-button" aria-label="Non en sourdine">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 20 20"
@@ -321,93 +265,55 @@
   <div class="icon-container">
     <img class="audio-icon" src="/images/play.png" alt="" aria-hidden="true" />
      
-    <audio src="/podcasts/open-mic-jeunes-talents/audio/audio.mp3" id="audio1" />
-     
-    <audio src="/podcasts/la-jeunesse-envoie-des-ondes/audio/audio.mp3" id="audio1" />
-     
-    <audio src="/podcasts/love-and-pop/audio/Kalimba.mp3" id="audio1" />
-     
-    <audio src="/podcasts/festival-des-solidarit%C3%A9s/audio/audio.mp3" id="audio1" />
+    <audio src="/medias/radiophonie-festsolidarite-dec18_master.mp3" id="audio1" />
     
   </div>
 </div>
 </div>
 </header>
-
+<main id="main" role="main">
 <div class="page__wrapper">
   <div class="page__mjc_content">
     <h1>La MJC</h1>
-    <div class="page__mjc_wrapper">
-      <div class="page__mjc_historic">
-        <h2>Un peu d'histoire</h2>
-        <p>
-          Créée en février <strong>1959</strong>, la MJC est d’abord implantée
-          dans l’espace Philippot rue Ange de Guernisac (centre-ville).
-        </p>
-        <br />
-        <p>
-          La MJC est d’abord dirigée par Monique Jerphanion, de
-          <strong>1960 à 1963</strong>.
-        </p>
-        <br />
-        <p>
-          En <strong>1964</strong> la MJC intègre les locaux de la place du
-          Dossen (un ancien hôtel/dancing dénommé La Renaissance).
-        </p>
-        <br />
-        <p>
-          En <strong>1969</strong> arrive Claude Bonnard qui y sera directeur
-          jusqu’en 2007.
-        </p>
-        <br />
-        <p>En <strong>1972</strong> est créé un poste de secrétaire.</p>
-        <br />
-        <p>
-          En <strong>1974</strong>  la MJC lance la programmation culturelle.
-        </p>
-        <br />
-        <p>En <strong>1976</strong> est créé un poste d’animateur.</p>
-        <br />
-        <p>
-          En <strong>1981</strong> c’est la création du Point Information
-          Jeunesse (PIJ).
-        </p>
-        <br />
-        <p>
-          En <strong>1983</strong> se crée une seconde MJC à Morlaix : c’est la
-          MPT du Plateau qui intégrera un cinéma (La Salamandre).
-        </p>
-        <br />
-        <p>
-          <strong>1986</strong> : création du local de répétition Trock’son
-          (dans l’ancien local de sérigraphie)
-        </p>
-        <br />
-        <p>
-          <strong>1989 à 91</strong> : procédure de fermeture de la MJC du
-          Plateau
-        </p>
-        <br />
-        <p>
-          <strong>1997-98</strong> : Travaux de mise aux normes incendie du
-          bâtiment de la MJC
-        </p>
-        <br />
-        <p>
-          De <strong>2007 à 2014</strong>, Anne-Marie Noret est à la direction
-          de la MJC.
-        </p>
-        <br />
-        <p>En mai <strong>2014</strong>, Eric Even lui succède.</p>
-      </div>
-      <div>
-        <img
-          class="page__mjc_ext"
-          src="/images/mjc/mjc.jpg"
-          alt="MJC Maison des Jeunes et de la Culture"
-        />
-      </div>
-    </div>
+    <h2>La mission de la MJC</h2>
+    <p>
+      <strong>Riche de son histoire sur plus de 60 années d’existence</strong>,
+      la Maison des Jeunes et de la Culture de Morlaix existe pour, avec et par
+      ses adhérents.
+    </p>
+    <p>
+      Elle pose et promeut la valeur de l’engagement comme un indispensable à la
+      vie en société. Elle la travaille à travers ses démarches éducatives et
+      pédagogiques.
+    </p>
+    <p>
+      Humaniste, ouverte à Toutes et tous, elle réaffirme sa volonté de
+      transversalité entre les pratiques et les personnes, de croisements des
+      générations et de toutes les cultures.
+    </p>
+    <p>
+      Elle apporte de la vie, de l’envie, du désir, de la bienveillance, de
+      l’échange, de la rencontre, de l’ouverture culturelle…
+    </p>
+    <p>
+      La notion de culture fait forcément référence au passé (comme somme
+      d’accumulation de productions et connaissances pour enrichir, inspirer ce
+      qui se vit au présent qui lui-même construit notre futur).
+    </p>
+    <br />
+    <p>
+      <strong
+        >Pour cela et pour son attention particulière portée à la
+        jeunesse</strong
+      >, la MJC de Morlaix est par essence un creuset intergénérationnel. Elle
+      se veut être un vecteur permettant la construction et la transmission de
+      savoirs, savoirs-être et savoirs-faire.
+    </p>
+    <p>
+      Elle favorise la curiosité, le respect de l’autre, l’engagement citoyen,
+      le développement de chacun, des valeurs fondamentales qui devraient être
+      d’avantage mises en valeur par notre modèle de société.
+    </p>
     <h2>
       À la MJC, <span class="page__mjc_yellow">qu’est-ce qu’on y fait ?</span>
     </h2>
@@ -449,49 +355,70 @@
         </p>
       </div>
     </div>
-    <h2>La mission de la MJC</h2>
-    <p>
-      <strong>Riche de son histoire sur plus de 60 années d’existence</strong>,
-      la Maison des Jeunes et de la Culture de Morlaix existe pour, avec et par
-      ses adhérents.
-    </p>
-    <p>
-      Elle pose et promeut la valeur de l’engagement comme un indispensable à la
-      vie en société. Elle la travaille à travers ses démarches éducatives et
-      pédagogiques.
-    </p>
-    <p>
-      Humaniste, ouverte à Toutes et tous, elle réaffirme sa volonté de
-      transversalité entre les pratiques et les personnes, de croisements des
-      générations et de toutes les cultures.
-    </p>
-    <p>
-      Elle apporte de la vie, de l’envie, du désir, de la bienveillance, de
-      l’échange, de la rencontre, de l’ouverture culturelle…
-    </p>
-    <p>
-      La notion de culture fait forcément référence au passé (comme somme
-      d’accumulation de productions et connaissances pour enrichir, inspirer ce
-      qui se vit au présent qui lui-même construit notre futur).
-    </p>
-    <br />
-    <p>
-      <strong
-        >Pour cela et pour son attention particulière portée à la
-        jeunesse</strong
-      >, la MJC de Morlaix est par essence un creuset intergénérationnel. Elle
-      se veut être un vecteur permettant la construction et la transmission de
-      savoirs, savoirs-être et savoirs-faire.
-    </p>
-    <p>
-      Elle favorise la curiosité, le respect de l’autre, l’engagement citoyen,
-      le développement de chacun, des valeurs fondamentales qui devraient être
-      d’avantage mises en valeur par notre modèle de société.
-    </p>
+    <div class="page__mjc_wrapper">
+      <div class="page__mjc_historic">
+        <h2>Un peu d'histoire</h2>
+        <p>
+          Créée en février <strong>1959</strong>, la MJC est d’abord implantée
+          dans l’espace Philippot rue Ange de Guernisac (centre-ville).
+        </p>
+        <p>
+          La MJC est d’abord dirigée par Monique Jerphanion, de
+          <strong>1960 à 1963</strong>.
+        </p>
+        <p>
+          En <strong>1964</strong> la MJC intègre les locaux de la place du
+          Dossen (un ancien hôtel/dancing dénommé La Renaissance).
+        </p>
+        <p>
+          En <strong>1969</strong> arrive Claude Bonnard qui y sera directeur
+          jusqu’en 2007.
+        </p>
+        <p>En <strong>1972</strong> est créé un poste de secrétaire.</p>
+        <p>
+          En <strong>1974</strong>  la MJC lance la programmation culturelle.
+        </p>
+        <p>En <strong>1976</strong> est créé un poste d’animateur.</p>
+        <p>
+          En <strong>1981</strong> c’est la création du Point Information
+          Jeunesse (PIJ).
+        </p>
+        <p>
+          En <strong>1983</strong> se crée une seconde MJC à Morlaix : c’est la
+          MPT du Plateau qui intégrera un cinéma (La Salamandre).
+        </p>
+        <p>
+          <strong>1986</strong> : création du local de répétition Trock’son
+          (dans l’ancien local de sérigraphie)
+        </p>
+        <p>
+          <strong>1989 à 91</strong> : procédure de fermeture de la MJC du
+          Plateau
+        </p>
+        <p>
+          <strong>1997-98</strong> : Travaux de mise aux normes incendie du
+          bâtiment de la MJC
+        </p>
+        <p>
+          De <strong>2007 à 2014</strong>, Anne-Marie Noret est à la direction
+          de la MJC.
+        </p>
+        <p>En mai <strong>2014</strong>, Eric Even lui succède.</p>
+      </div>
+      <div>
+        <img
+          class="page__mjc_ext"
+          src="/images/mjc/mjc.jpg"
+          alt="MJC Maison des Jeunes et de la Culture"
+        />
+      </div>
+    </div>
   </div>
 </div>
-<aside class="sidebar">
-  <a href="/documents" class='sidebar__documents'
+<div class="sidebar">
+  <a
+    href="/documents"
+    class='sidebar__documents'
     ><span class="sr-only">Documents</span></a
   >
   <a
@@ -499,23 +426,113 @@
     class='sidebar__podcasts'
     ><span class="sr-only">Podcasts</span></a
   >
-  <a href="/contact" class='sidebar__contacts'
+  <a
+    href="/contact"
+    class='sidebar__contacts'
     ><span class="sr-only">Contacts</span></a
   >
+  <picture>
+            <source type="image/avif" srcset="/images/logos-partenaires.avif" />
+            <source type="image/webp" srcset="/images/logos-partenaires.webp" />
   <img
     class="sidebar__partenaires"
     src="/images/logos-partenaires.png"
     alt="Morlaix Communauté, Fédération régionale MJC, Ville de Morlaix,
   Département Finistère, Préfecture du Finistère, FONJEP, Caf du Finistère"
   />
-</aside>
-<footer>
-  <p class="footer">
-    2022 © MJC Morlaix <a
-      href="https://thriving-pony-43b8ee.netlify.app/mentions-legales/"
+  </picture>
+</div>
+</main><footer role="contentinfo">
+  <div class="footer">
+    <a href="https://twitter.com/MJC_Morlaix"
+      ><svg
+        class="footer__icon"
+	aria-hidden="true"
+        fill="#3e6b6c"
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 512 512"
+      >
+        
+        <path
+          d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"
+        />
+      </svg>
+      <span class="sr-only">Twitter</span>
+    </a>
+
+    <a href="https://www.instagram.com/mjcmorlaix/">
+      <svg
+        class="footer__icon"
+	aria-hidden="true"
+        fill="#3e6b6c"
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 448 512"
+      >
+        
+        <path
+          d="M224.1 141c-63.6
+											 0-114.9 51.3-114.9
+											 114.9s51.3 114.9
+											 114.9 114.9S339 319.5
+											 339 255.9 287.7 141
+											 224.1 141zm0
+											 189.6c-41.1
+											 0-74.7-33.5-74.7-74.7s33.5-74.7
+											 74.7-74.7 74.7 33.5
+											 74.7 74.7-33.6
+											 74.7-74.7
+											 74.7zm146.4-194.3c0
+											 14.9-12 26.8-26.8
+											 26.8-14.9
+											 0-26.8-12-26.8-26.8s12-26.8
+											 26.8-26.8 26.8 12
+											 26.8 26.8zm76.1
+											 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9
+											 0-35.8 1.7-67.6
+											 9.9-93.9 36.1s-34.4
+											 58-36.2 93.9c-2.1
+											 37-2.1 147.9 0 184.9
+											 1.7 35.9 9.9 67.7
+											 36.2 93.9s58 34.4
+											 93.9 36.2c37 2.1
+											 147.9 2.1 184.9 0
+											 35.9-1.7 67.7-9.9
+											 93.9-36.2 26.2-26.2
+											 34.4-58 36.2-93.9
+											 2.1-37 2.1-147.8
+											 0-184.8zM398.8
+											 388c-7.8 19.6-22.9
+											 34.7-42.6 42.6-29.5
+											 11.7-99.5 9-132.1
+											 9s-102.7
+											 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7
+											 9-132.1c7.8-19.6
+											 22.9-34.7 42.6-42.6
+											 29.5-11.7 99.5-9
+											 132.1-9s102.7-2.6
+											 132.1 9c19.6 7.8 34.7
+											 22.9 42.6 42.6 11.7
+											 29.5 9 99.5 9
+											 132.1s2.7 102.7-9
+											 132.1z"
+        />
+      </svg>
+      <span class="sr-only">Instagram</span>
+    </a>
+    2022 - 2023 © MJC Morlaix - <a
+      href="http://localhost:1313/mentions-legales/"
       >Mentions légales</a
-    >
-  </p>
+    > - <a href="http://localhost:1313/plan-du-site/">Plan du site</a>
+    <div id="accessibility" class="accessibility">
+      <div
+        id="accessconfig"
+        data-accessconfig-buttonname="Paramètres d’accessibilité"
+        data-accessconfig-params='{ "Prefix" : "a42-ac", "ContainerClass" : "","ModalCloseButton" :
+      "","ModalTitle" : "","FormFieldset" : "","FormFieldsetLegend" : "","FormRadio" : "", "ImageReplacement":
+    false}'
+      ></div>
+    </div>
+  </div>
 </footer>
 <script type="text/javascript" src="/jquery/jquery-3.6.0.min.js"></script>
 <script type="text/javascript" src="/slick/slick.min.js"></script>

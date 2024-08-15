@@ -1,7 +1,9 @@
 <!DOCTYPE html>
-<html lang="fr"><head>
+<html lang="fr"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="La Maison des Jeunes et de la Culture de Morlaix, association agréée
+	      jeunesse et éducation populaire, propose spectacles et activités culturelles" />
   <link rel="stylesheet" type="text/css" href="/slick/slick.min.css" />
   <link
     rel="stylesheet"
@@ -11,8 +13,17 @@
    
   <link
     rel="stylesheet"
-    href="https://thriving-pony-43b8ee.netlify.app/scss/main.df0509d00578473efa6af7d16cdb798200273dc0b0fb7ea22f9e95e590a55ad0.css"
-    integrity="sha256-3wUJ0AV4Rz76avfRbNt5ggAnPcCw&#43;36iL56V5ZClWtA="
+    href="http://localhost:1313/scss/main.64dd8fdde20391fbfbf282d8ece0cb148a76fa1bddefab909faaf2b8b9186510.css"
+    integrity="sha256-ZN2P3eIDkfv78oLY7ODLFIp2&#43;hvd76uQn6ryuLkYZRA="
+  />
+  <link rel="preload" href="/images/button-contact-hover.webp" as="image" />
+  <link rel="preload" href="/images/button-podcast-hover.webp" as="image" />
+  <link rel="preload" href="/images/button-doc-hover.webp" as="image" />
+  <link
+    rel="stylesheet"
+    href="/accessconfig/css/accessconfig.min.css"
+    type="text/css"
+    media="screen"
   />
     <link
   rel="apple-touch-icon"
@@ -33,29 +44,39 @@
 />
 <link rel="manifest" href="/favicon/site.webmanifest" />
 
-  <title>MJC Morlaix | Trock&#39;Son</title>
+  <title>Trock&#39;Son | MJC Morlaix</title>
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <script
+    src="/accessconfig/js/accessconfig.min.js"
+    type="text/javascript"
+  ></script>
 </head>
-<body><header>
+<body><header role="banner">
+  <a href="#main" class="skip">Aller au contenu</a>
+  <a href="#accessibility" class="skip">Aller aux paramètres d'accessibilité</a>
   
   <div class="header__wrapper">
-    
-    <img
-      class="header__banner"
-      src="/images/yeux.jpg"
-      alt=""
-      aria-hidden="true"
-    />
+    <picture>
+      <source type="image/avif" srcset="/images/header-mobile.avif" />
+      <source type="image/webp" srcset="/images/header-mobile.webp" />
+      <img
+        class="header__banner"
+        src="/images/header-mobile.png"
+        alt=""
+        aria-hidden="true"
+      />
+    </picture>
     <button
       class="header__button"
       id="open"
       aria-controls="nav__menu"
       aria-expanded="false"
     >
-      ☰
+      <span aria-hidden="true">☰</span>
+      <span class="sr-only">Ouvrir menu</span>
     </button>
     <h1 class="header__title">
-      <a href="https://thriving-pony-43b8ee.netlify.app"
+      <a href="http://localhost:1313/"
         ><span class="header__title_white"
           >Maison <span class="header__title_light">des</span> Jeunes
           <span class="header__title_light">et de la</span>
@@ -64,110 +85,57 @@
       >
     </h1>
     
-<nav class="nav__sidebar" id="nav__menu">
-  <button
-    class="nav__button--close"
-    id="close"
-    aria-controls="nav__menu"
-    aria-expanded="true"
-  >
-    ×
+<nav class="nav__sidebar" id="nav__menu" role="navigation">
+  <button class="nav__button--close" id="close" aria-controls="nav__menu">
+    <span aria-hidden="true">×</span>
+    <span class="sr-only">Fermer menu</span>
   </button>
   <div class="nav__wrapper">
-    <ul>
+    <ul id="nav__menu-focus">
       
-      <li class="nav__link"><a href="/la-mjc/">La MJC</a></li>
+      <li class="nav__link">
+        <a class="nav__link-focus" href="/la-mjc/">La MJC</a>
+      </li>
       
-      <li class="nav__link"><a href="/activites/">Activités</a></li>
+      <li class="nav__link">
+        <a class="nav__link-focus" href="/activites/">Activités</a>
+      </li>
       
-      <li class="nav__link"><a href="/agenda/">Agenda</a></li>
+      <li class="nav__link">
+        <a class="nav__link-focus" href="/agenda/">Agenda</a>
+      </li>
       
-      <li class="nav__link"><a href="/actu/">Actualités</a></li>
+      <li class="nav__link">
+        <a class="nav__link-focus" href="/actu/">Actualités</a>
+      </li>
       
-      <li class="nav__link"><a href="/infos-jeunesse/">Informations Jeunesse</a></li>
+      <li class="nav__link">
+        <a class="nav__link-focus" href="/infos-jeunesse/">Information Jeunesse</a>
+      </li>
       
-      <li class="nav__link"><a href="/trockson/">Trock&#39;Son</a></li>
+      <li class="nav__link">
+        <a class="nav__link-focus" href="/trockson/">Trock&#39;Son</a>
+      </li>
       
-      <li class="nav__link"><a href="/contact/">Contact</a></li>
+      <li class="nav__link">
+        <a class="nav__link-focus" href="/contact/">Contact</a>
+      </li>
       
     </ul>
-    <a class="nav__podcasts" href="/podcasts/"
+    <a class="nav__podcasts nav__link-focus" href="/podcasts/"
       ><span class="sr-only">Podcasts</span></a
     >
-    <a class="nav__documents" href="/documents/"
+    <a class="nav__documents nav__link-focus" href="/documents/"
       ><span class="sr-only">Documents</span></a
     >
   </div>
-</nav>
-
-
-<nav class="nav__desktop">
-  <ul class="nav__menu">
-     
-    <li class="nav__link">
-      <a
-        class=''
-        href="/la-mjc/"
-        >La MJC</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class=''
-        href="/activites/"
-        >Activités</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class=''
-        href="/agenda/"
-        >Agenda</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class=''
-        href="/actu/"
-        >Actualités</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class=''
-        href="/infos-jeunesse/"
-        >Informations Jeunesse</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class='nav__active'
-        href="/trockson/"
-        >Trock&#39;Son</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class=''
-        href="/contact/"
-        >Contact</a
-      >
-    </li>
-    
-  </ul>
 </nav>
 
   </div>
   
   <div class="header__wrapper_desktop">
     <h1 class="header__title">
-      <a href="https://thriving-pony-43b8ee.netlify.app">
+      <a href="http://localhost:1313/">
         <span class="header__title_white"
           >Maison <span class="header__title_light">des</span> Jeunes
           <span class="header__title_light">et de la</span>
@@ -176,105 +144,81 @@
       </a>
     </h1>
     
-<nav class="nav__sidebar" id="nav__menu">
-  <button
-    class="nav__button--close"
-    id="close"
-    aria-controls="nav__menu"
-    aria-expanded="true"
-  >
-    ×
-  </button>
-  <div class="nav__wrapper">
-    <ul>
-      
-      <li class="nav__link"><a href="/la-mjc/">La MJC</a></li>
-      
-      <li class="nav__link"><a href="/activites/">Activités</a></li>
-      
-      <li class="nav__link"><a href="/agenda/">Agenda</a></li>
-      
-      <li class="nav__link"><a href="/actu/">Actualités</a></li>
-      
-      <li class="nav__link"><a href="/infos-jeunesse/">Informations Jeunesse</a></li>
-      
-      <li class="nav__link"><a href="/trockson/">Trock&#39;Son</a></li>
-      
-      <li class="nav__link"><a href="/contact/">Contact</a></li>
-      
-    </ul>
-    <a class="nav__podcasts" href="/podcasts/"
-      ><span class="sr-only">Podcasts</span></a
-    >
-    <a class="nav__documents" href="/documents/"
-      ><span class="sr-only">Documents</span></a
-    >
-  </div>
-</nav>
+    <nav role="navigation" class="nav__desktop">
+      <ul class="nav__menu">
+         
+        <li class="nav__link">
+          <a
+            class=''
+	    
 
+            href="/la-mjc/"
+            >La MJC</a
+          >
+        </li>
+        
+        <li class="nav__link">
+          <a
+            class=''
+	    
 
-<nav class="nav__desktop">
-  <ul class="nav__menu">
-     
-    <li class="nav__link">
-      <a
-        class=''
-        href="/la-mjc/"
-        >La MJC</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class=''
-        href="/activites/"
-        >Activités</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class=''
-        href="/agenda/"
-        >Agenda</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class=''
-        href="/actu/"
-        >Actualités</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class=''
-        href="/infos-jeunesse/"
-        >Informations Jeunesse</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class='nav__active'
-        href="/trockson/"
-        >Trock&#39;Son</a
-      >
-    </li>
-    
-    <li class="nav__link">
-      <a
-        class=''
-        href="/contact/"
-        >Contact</a
-      >
-    </li>
-    
-  </ul>
-</nav>
+            href="/activites/"
+            >Activités</a
+          >
+        </li>
+        
+        <li class="nav__link">
+          <a
+            class=''
+	    
 
+            href="/agenda/"
+            >Agenda</a
+          >
+        </li>
+        
+        <li class="nav__link">
+          <a
+            class=''
+	    
+
+            href="/actu/"
+            >Actualités</a
+          >
+        </li>
+        
+        <li class="nav__link">
+          <a
+            class=''
+	    
+
+            href="/infos-jeunesse/"
+            >Information Jeunesse</a
+          >
+        </li>
+        
+        <li class="nav__link">
+          <a
+            class='nav__active'
+	    aria-current="page"
+
+            href="/trockson/"
+            >Trock&#39;Son</a
+          >
+        </li>
+        
+        <li class="nav__link">
+          <a
+            class=''
+	    
+
+            href="/contact/"
+            >Contact</a
+          >
+        </li>
+        
+      </ul>
+    </nav>
   </div>
   <div class="header__player"><div class="audio-player" aria-label="Audio Player" role="region">
   <div class="controls">
@@ -284,7 +228,7 @@
           <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 20 20"
-            fill="#3D3132"
+            fill="#1b3f47"
           >
             <path
               fill-rule="evenodd"
@@ -302,7 +246,7 @@
           aria-label="timeline"
         />
       </div>
-      <button class="sound-button" aria-label="Unmuted" aria-controls="audio1">
+      <button class="sound-button" aria-label="Non en sourdine">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 20 20"
@@ -321,271 +265,262 @@
   <div class="icon-container">
     <img class="audio-icon" src="/images/play.png" alt="" aria-hidden="true" />
      
-    <audio src="/podcasts/open-mic-jeunes-talents/audio/audio.mp3" id="audio1" />
-     
-    <audio src="/podcasts/la-jeunesse-envoie-des-ondes/audio/audio.mp3" id="audio1" />
-     
-    <audio src="/podcasts/love-and-pop/audio/Kalimba.mp3" id="audio1" />
-     
-    <audio src="/podcasts/festival-des-solidarit%C3%A9s/audio/audio.mp3" id="audio1" />
+    <audio src="/medias/radiophonie-festsolidarite-dec18_master.mp3" id="audio1" />
     
   </div>
 </div>
 </div>
 </header>
-
-<div class="list__container">
+<main id="main" role="main">
+<div class="list__container container__trockson">
   <div class="page__wrapper trockson">
-    <div class="page__trockson_content">
-      <h1 class="trockson__title">Trock&#39;Son</h1>
-      <div class="trockson__wrapper">
-        <div>
-          <div class="trockson__box">
-            <img
-              class="trockson__logo"
-              src="/images/trockson/trockson-logo.png"
-              alt="Trock'son MJC Morlaix Musiques Actuelles"
-            />
-          </div>
-          <hr class="trockson__hr" />
-          <p class="trockson__hours">
-            lundi au vendredi
-            <br />
-            10h-12h / 14h-18h
-            <br />
-            samedi
-            <br />
-            10h-12h / 14h-17h30
-          </p>
-          <div class="trockson__social">
-            <a href="https://www.facebook.com/trock.son">
-              <img
-                class="trockson__social_icon"
-                src="/images/trockson/facebook.png"
-                alt="Facebook Trockson"
-              />
-            </a>
-            <a href="https://twitter.com/MJC_Morlaix">
-              <img
-                class="trockson__social_icon"
-                src="/images/trockson/twitter.png"
-                alt="Twitter MJC"
-              />
-            </a>
-            <a href="https://www.instagram.com/mjcmorlaix/">
-              <img
-                class="trockson__social_icon"
-                src="/images/trockson/instagram.png"
-                alt="Instagram Trockson"
-              />
-            </a>
-          </div>
-          <hr class="trockson__hr trockson__hr_mobile" />
-        </div>
-        <div class="trockson__info">
-          <h2 class="trockson__h2">
-            Trock’son…
-            <span class="trockson__blue">36 années « passion musique »</span>
-          </h2>
-          <p class="trockson__text">
-            <strong
-              >Des studios de répétition et de création musicale ouvert à
-              tous</strong
-            >
-            à partir de 14 ans, mais aussi un centre de ressources et des
-            conseils pour développer son projet artistique en lien avec les
-            Musiques Actuelles, Urbaines et Amplifiées !
-          </p>
-          <h3 class="trockson__h3">
-            Trock’Son accueille et accompagne les musiciens amateurs dans le
-            développement de leurs projets :
-          </h3>
-          <ul class="trockson__text">
-            <li>
-              Local de répétition équipé (sonorisation, amplis, batterie).
-            </li>
-            <li>Local MAO avec station d’enregistrement.</li>
-            <li>
-              Stages techniques (enregistrement, mixage, sonorisation,
-              chant...).
-            </li>
-            <li>Enregistreur portable numérique Zoom H4.</li>
-            <li>Organisation de concerts, rencontres artistiques.</li>
-          </ul>
-          <br />
-          <p class="trockson__text">
-            Votre parcours musical en solo ou en groupe : venez échanger avec
-            nous sur vos besoins et vos envies.
-          </p>
-          <div>
-            <img
-              class="trockson__photo_desktop"
-              src="/images/trockson/trockson-ewan.jpg"
-              alt=""
-            />
-          </div>
-          <br />
-          <p class="trockson__text">
-            Le dispositif Trock’son vise le développement des pratiques
-            musicales sur le territoire de Morlaix Communauté, tant dans le
-            domaine de l’accompagnement et de la formation des adhérents que
-            dans le domaine de la création et de la diffusion de ces pratiques.
-            A travers les actions mises en place et l’animation du dispositif,
-            il s’agit avant tout de favoriser l’épanouissement de chacun,
-            l’acquisition de compétences, le développement d’une autonomie
-            responsable et citoyenne.
-          </p>
-          <br />
-          <p class="trockson__text">
-            En plaçant les usagers dans une posture participative, en leur
-            permettant d’être acteurs de leurs pratiques, les principaux
-            objectifs visés par la MJC sont bien la valorisation des individus,
-            leur responsabilisation, à travers une posture pédagogique liée aux
-            valeurs de l’éducation permanente.
-          </p>
-          <br />
-          <p class="trockson__text">
-            C’est donc en miroir avec la mission première de la MJC que l’espace
-            Musiques Actuelles accompagne les jeunes dans un esprit de
-            construction collective, à travers l’action, l’imaginaire, le
-            plaisir, le vécu propre à chacun.
-          </p>
-          <div>
-            <img
-              class="trockson__photo"
-              src="/images/trockson/trockson-ewan.jpg"
-              alt=""
-            />
-          </div>
-        </div>
-      </div>
-      <div class="trockson__wrapper">
-        <div class="trockson__parent">
-          <div class="trockson__text_left">
-            <h3 class="trockson__h3">
-              Trock’Son: un lieu de rencontres, d’échanges, de diversités
-            </h3>
-            <p class="trockson__text">
-              <strong
-                >Le dispositif Trock'son est un espace Musiques
-                Actuelles</strong
-              >
-              accueillant la diversité musicale des différents adhérents, qu'ils
-              soient novices ou confirmés. Cet espace de création et
-              d’expérimentation a vu le jour en 1986, à l’initiative de jeunes
-              du territoire et de l’équipe de la MJC d’alors. Depuis, Trock’Son
-              s’est forgé une identité certaine, participant à l’animation du
-              territoire, aux brassages des identités et des publics.
-            </p>
-            <br />
-            <p class="trockson__text">
-              Le projet d’animation du dispositif met en avant son caractère
-              intergénérationnel et ouvert à toutes les esthétiques (métal, rock
-              garage, rock celtique, pop, variété française, rap, jazz, punk…)
-              avec une volonté de confronter les générations, les pratiques, les
-              expériences.
-            </p>
-            <br />
-            <p class="trockson__text">
-              Trock’Son rassemble les musiciens de Morlaix Communauté de 14 à 77
-              ans (et plus si affinité). Les activités, animations, projets
-              socioculturels mis en œuvre ont à cœur de s’adresser à l’ensemble
-              de ces publics et de leur permettre de se rencontrer, d’échanger,
-              de faire ensemble.
-            </p>
-            <h3 class="trockson__h3">
-              Trock’Son : un couteau suisse couleur « Educ Pop’ »
-            </h3>
-            <p class="trockson__text">
-              <strong>Comme dans une grande boite à outils</strong>, Trock’son
-              soutient autour du studio de répétition, un espace de création,
-              d’information, de formation et d’expression des jeunes - et des
-              moins jeunes - dans une perspective d’éducation populaire.
-            </p>
-            <p class="trockson__text">
-              L’espace Trock’son, ainsi investi, peut créer les conditions d’une
-              dynamique collective jeunesse « positive » sur le territoire de
-              Morlaix Communauté, reflétant la richesse et les diversités des
-              pratiques.
-            </p>
-            <br />
-            <p class="trockson__text">
-              <strong>Le public</strong> : musiciens débutants ou confirmés,
-              jeunes et adultes, à partir de 14 ans.
-            </p>
-            <p class="trockson__text">
-              <strong>Conditions</strong> : être adhérent à la MJC et cotisation
-              Trock’son à jour (<strong>15 €</strong>) pour l’année.
-            </p>
-          </div>
-          <div class="trockson__imgs">
-            <div class="trockson__img_1">
-              <img
-                class="trockson__img"
-                src="/images/trockson/trockson-groupe.jpg"
-                alt=""
-              />
-            </div>
-            <div class="trockson__img_2">
-              <img
-                class="trockson__img"
-                src="/images/trockson/trockson-uglyboi.jpg"
-                alt=""
-              />
-            </div>
-            <div class="trockson__img_3">
-              <img
-                class="trockson__img"
-                src="/images/trockson/trockson-concert.jpg"
-                alt=""
-              />
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="page__wrapper">
     <h1 class="trockson__title trockson__title_actu">Actu Trock'Son</h1>
-     
+       
     <div class="actu__wrapper trockson__actu_wrapper">
       <div class="actu__description trockson__description">
-        Ceci est un test
+        Concerts
       </div>
        
-      <img class="actu__cover" src="/trockson/concert-rap/img/cover_hud7f5417a62503b7b9906911dbc504cbb_348966_365x200_fill_q75_box_smart1.jpg" />
+      <img class="actu__cover" src="/medias/fdm-encart-web-mx2024_hu4f8801bc77e441161bae52e77fd532fe_439329_365x200_fill_q75_box_top.jpg" />
        
-      <img class="actu__cover_desktop" src="/trockson/concert-rap/img/cover_hud7f5417a62503b7b9906911dbc504cbb_348966_300x300_fill_q75_box_smart1.jpg" />
+      <img class="actu__cover_desktop" src="/medias/fdm-encart-web-mx2024_hu4f8801bc77e441161bae52e77fd532fe_439329_300x300_fill_q75_box_top.jpg" />
       <div class="actu__content">
-        <h2>Concert Rap</h2>
-        <p>Amet repudiandae tenetur tempora architecto earum, officia? Maxime adipisci minima non nisi reprehenderit error. Delectus nemo unde culpa eveniet voluptates Ipsum quisquam consequuntur doloremque vero at, perspiciatis suscipit assumenda molestias? [<a href="/trockson/concert-rap/">...</a>]</p>
+        <h2>Fête de la Musique</h2>
+        <p>
+          FÊTE DE LA MUSIQUE 2024 - Plateau MJC / Trock’Son
+Retrouvez et découvrez en Live un panel de nos adhérents/musiciens TROCK’SON ou diversité des styles se mêlent … [<a href="/trockson/f%C3%AAte-de-la-musique-1/">...</a>]
+        </p>
       </div>
       <div class="actu__footer">
         <div class="actu__infos">
-          <span class="actu__lieu">Auditorium</span>
-	12 septembre 2022 00:00
-
+          <span class="actu__lieu">Place des Jacobins</span>
+          21 juin 2024 18:00
         </div>
         <div class="actu__footer-price">
-          
-          <span class="actu__prix"
-            ><span class="actu__indice">*</span>10€/6€</span
-          >
-          <span class="actu__legende"
-            >* <strong>Tarif</strong> Non adhérents / adhérents</span
-          >
-          
+            
         </div>
         <div>
-          <a href="/trockson/concert-rap/">> En savoir plus</a>
+          <a href="/trockson/f%C3%AAte-de-la-musique-1/">> En savoir plus</a>
         </div>
       </div>
     </div>
      
+
+    <div class="page__wrapper trockson trockson__top">
+      <div class="page__trockson_content">
+        <h1 class="trockson__title">Trock&#39;Son</h1>
+        <div class="trockson__wrapper">
+          <div>
+            <div class="trockson__box">
+              <img
+                class="trockson__logo"
+                src="/images/trockson/trockson-logo.png"
+                alt="Trock'son MJC Morlaix Musiques Actuelles"
+              />
+            </div>
+            <hr class="trockson__hr" />
+            <p class="trockson__hours">
+              lundi au vendredi
+              <br />
+              10h-12h / 14h-18h
+              <br />
+              samedi
+              <br />
+              10h-12h / 14h-17h30
+            </p>
+            <div class="trockson__social">
+              <a href="https://www.facebook.com/trock.son">
+                <img
+                  class="trockson__social_icon"
+                  src="/images/trockson/facebook.png"
+                  alt="Facebook Trockson"
+                />
+              </a>
+              <a href="https://twitter.com/MJC_Morlaix">
+                <img
+                  class="trockson__social_icon"
+                  src="/images/trockson/twitter.png"
+                  alt="Twitter MJC"
+                />
+              </a>
+              <a href="https://www.instagram.com/mjcmorlaix/">
+                <img
+                  class="trockson__social_icon"
+                  src="/images/trockson/instagram.png"
+                  alt="Instagram Trockson"
+                />
+              </a>
+            </div>
+            <hr role="presentation" class="trockson__hr trockson__hr_mobile" />
+	    <div class="trockson__box">
+              <img
+                class="trockson__img"
+                src="/images/trockson/trockson-patchwork-1.png"
+                alt=""
+              />
+            </div>
+          </div>
+          <div class="trockson__info">
+            <h2 class="trockson__h2">
+              Trock’son…
+              <span class="trockson__blue">36 années « passion musique »</span>
+            </h2>
+	    <p class="trockson__text"><strong>Bienvenue dans notre univers vibrant, conçu pour les amateurs et
+	      pratiquants des musiques actuelles.</strong> Trock’Son c’est un lieu où la créativité prend vie et les talents s’épanouissent.</p>
+	    <p class="trockson__text">Notre local de répétition amplifié est le terrain de jeu idéal pour exprimer toute votre
+	    énergie musicale.</p>
+	    <h3 class="trockson__h3">Un lieu ressource</h3>
+	    <p class="trockson__text">
+	      <strong>Accompagnés par l’animateur de musiques actuelles de la MJC, vous bénéficierez d’un
+		 suivi personnalisé, de la naissance de votre projet jusqu’à sa concrétisation sur
+		scène.</strong> (initiations techniques, conseils méthodologiques, réseaux, organisation de concerts, etc. ...)
+	    </p>
+	    <br>
+	    <p class="trockson__text">
+	     <strong>Dans cet environnement propice à la création, vous pourrez forger et développer votre
+	       identité artistique grâce à une structure dédiée comprenant :</strong>
+	    </p>
+	  <br>
+	    <ul class="trockson__text">
+	      <li><strong>Un local de répétition</strong> équipé et spacieux 
+		(batterie, amplis, sonorisation…)</li>
+	      <li><strong>Une salle de M.A.O</strong> (Musique Assistée par Ordinateur)
+		conçue pour la prise de son et la réalisation de maquettes.</li>
+	      <li><strong>Un auditorium</strong> qui vous ouvrira ses portes pour que vous 	puissiez réaliser et partager
+		vos prestations sur scène dans des conditions de diffusion professionnelles.</li>
+	    </ul>
+	    <br>
+	    <p class="trockson__text">
+	    Pour un RDV découverte du dispositif ou pour exposer votre projet musical, n’hésitez pas à contacter l’animateur.
+	    </p>
+            <br />
+            <p class="trockson__text">
+              Le dispositif Trock’son vise le développement des pratiques
+              musicales sur le territoire de Morlaix Communauté, tant dans le
+              domaine de l’accompagnement et de la formation des adhérents que
+              dans le domaine de la création et de la diffusion de ces
+              pratiques. A travers les actions mises en place et l’animation du
+              dispositif, il s’agit avant tout de favoriser l’épanouissement de
+              chacun, l’acquisition de compétences, le développement d’une
+              autonomie responsable et citoyenne.
+            </p>
+            <br />
+            <p class="trockson__text">
+              En plaçant les usagers dans une posture participative, en leur
+              permettant d’être acteurs de leurs pratiques, les principaux
+              objectifs visés par la MJC sont bien la valorisation des
+              individus, leur responsabilisation, à travers une posture
+              pédagogique liée aux valeurs de l’éducation permanente.
+            </p>
+            <br />
+            <p class="trockson__text">
+              C’est donc en miroir avec la mission première de la MJC que
+              l’espace Musiques Actuelles accompagne les jeunes dans un esprit
+              de construction collective, à travers l’action, l’imaginaire, le
+              plaisir, le vécu propre à chacun.
+            </p>
+            <div>
+            </div>
+          </div>
+        </div>
+        <div class="trockson__wrapper">
+          <div class="trockson__parent">
+            <div class="trockson__text_left">
+              <h3 class="trockson__h3">
+                Trock’Son: un lieu de rencontres, d’échanges, de diversités
+              </h3>
+              <p class="trockson__text">
+                <strong
+                  >Le dispositif Trock'son est un espace Musiques
+                  Actuelles</strong
+                >
+                accueillant la diversité musicale des différents adhérents,
+                qu'ils soient novices ou confirmés. Cet espace de création et
+                d’expérimentation a vu le jour en 1986, à l’initiative de jeunes
+                du territoire et de l’équipe de la MJC d’alors. Depuis,
+                Trock’Son s’est forgé une identité certaine, participant à
+                l’animation du territoire, aux brassages des identités et des
+                publics.
+              </p>
+              <br />
+              <p class="trockson__text">
+                Le projet d’animation du dispositif met en avant son caractère
+                intergénérationnel et ouvert à toutes les esthétiques (métal,
+                rock garage, rock celtique, pop, variété française, rap, jazz,
+                punk…) avec une volonté de confronter les générations, les
+                pratiques, les expériences.
+              </p>
+              <br />
+              <p class="trockson__text">
+                Trock’Son rassemble les musiciens de Morlaix Communauté de 14 à
+                77 ans (et plus si affinité). Les activités, animations, projets
+                socioculturels mis en œuvre ont à cœur de s’adresser à
+                l’ensemble de ces publics et de leur permettre de se rencontrer,
+                d’échanger, de faire ensemble.
+              </p>
+              <h3 class="trockson__h3">
+                Trock’Son : un couteau suisse couleur « Educ Pop’ »
+              </h3>
+              <p class="trockson__text">
+                <strong>Comme dans une grande boite à outils</strong>, Trock’son
+                soutient autour du studio de répétition, un espace de création,
+                d’information, de formation et d’expression des jeunes - et des
+                moins jeunes - dans une perspective d’éducation populaire.
+              </p>
+              <p class="trockson__text">
+                L’espace Trock’son, ainsi investi, peut créer les conditions
+                d’une dynamique collective jeunesse « positive » sur le
+                territoire de Morlaix Communauté, reflétant la richesse et les
+                diversités des pratiques.
+              </p>
+              <br />
+              <p class="trockson__text">
+		<strong>Ouvert sur réservation, toute la semaine</strong>
+		<br>
+		<strong>10h/19h</strong> pour les mineurs <strong>10h/22h</strong> pour les majeurs.
+              </p>
+              <p class="trockson__text">
+		<strong>Conditions d'accès/an</strong>
+		<br>
+		<strong>Adhésion MJC 10 €</strong> - 25 ans  / <strong>15 €</strong> + 25 ans + <strong>Cotisation Trock’Son > 15 €</strong>
+              </p>
+	      <br>
+	      <p class="trockson__text">À partir de 14 ans. autorisation parentale nécessaire pour les
+	      mineurs.</p>
+            </div>
+            <div class="trockson__imgs">
+              <div class="trockson__img_1">
+                <img
+                  class="trockson__img"
+                  src="/images/trockson/trockson-groupe.jpg"
+                  alt=""
+                />
+              </div>
+              <div class="trockson__img_2">
+                <img
+                  class="trockson__img"
+                  src="/images/trockson/trockson-patchwork.png"
+                  alt=""
+                />
+              </div>
+              <div class="trockson__img_3">
+                <img
+                  class="trockson__img"
+                  src="/images/trockson/trockson-concert.jpg"
+                  alt=""
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
-<aside class="sidebar">
-  <a href="/documents" class='sidebar__documents'
+<div class="sidebar">
+  <a
+    href="/documents"
+    class='sidebar__documents'
     ><span class="sr-only">Documents</span></a
   >
   <a
@@ -593,23 +528,113 @@
     class='sidebar__podcasts'
     ><span class="sr-only">Podcasts</span></a
   >
-  <a href="/contact" class='sidebar__contacts'
+  <a
+    href="/contact"
+    class='sidebar__contacts'
     ><span class="sr-only">Contacts</span></a
   >
+  <picture>
+            <source type="image/avif" srcset="/images/logos-partenaires.avif" />
+            <source type="image/webp" srcset="/images/logos-partenaires.webp" />
   <img
     class="sidebar__partenaires"
     src="/images/logos-partenaires.png"
     alt="Morlaix Communauté, Fédération régionale MJC, Ville de Morlaix,
   Département Finistère, Préfecture du Finistère, FONJEP, Caf du Finistère"
   />
-</aside>
-<footer>
-  <p class="footer">
-    2022 © MJC Morlaix <a
-      href="https://thriving-pony-43b8ee.netlify.app/mentions-legales/"
+  </picture>
+</div>
+</main><footer role="contentinfo">
+  <div class="footer">
+    <a href="https://twitter.com/MJC_Morlaix"
+      ><svg
+        class="footer__icon"
+	aria-hidden="true"
+        fill="#3e6b6c"
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 512 512"
+      >
+        
+        <path
+          d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"
+        />
+      </svg>
+      <span class="sr-only">Twitter</span>
+    </a>
+
+    <a href="https://www.instagram.com/mjcmorlaix/">
+      <svg
+        class="footer__icon"
+	aria-hidden="true"
+        fill="#3e6b6c"
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 448 512"
+      >
+        
+        <path
+          d="M224.1 141c-63.6
+											 0-114.9 51.3-114.9
+											 114.9s51.3 114.9
+											 114.9 114.9S339 319.5
+											 339 255.9 287.7 141
+											 224.1 141zm0
+											 189.6c-41.1
+											 0-74.7-33.5-74.7-74.7s33.5-74.7
+											 74.7-74.7 74.7 33.5
+											 74.7 74.7-33.6
+											 74.7-74.7
+											 74.7zm146.4-194.3c0
+											 14.9-12 26.8-26.8
+											 26.8-14.9
+											 0-26.8-12-26.8-26.8s12-26.8
+											 26.8-26.8 26.8 12
+											 26.8 26.8zm76.1
+											 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9
+											 0-35.8 1.7-67.6
+											 9.9-93.9 36.1s-34.4
+											 58-36.2 93.9c-2.1
+											 37-2.1 147.9 0 184.9
+											 1.7 35.9 9.9 67.7
+											 36.2 93.9s58 34.4
+											 93.9 36.2c37 2.1
+											 147.9 2.1 184.9 0
+											 35.9-1.7 67.7-9.9
+											 93.9-36.2 26.2-26.2
+											 34.4-58 36.2-93.9
+											 2.1-37 2.1-147.8
+											 0-184.8zM398.8
+											 388c-7.8 19.6-22.9
+											 34.7-42.6 42.6-29.5
+											 11.7-99.5 9-132.1
+											 9s-102.7
+											 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7
+											 9-132.1c7.8-19.6
+											 22.9-34.7 42.6-42.6
+											 29.5-11.7 99.5-9
+											 132.1-9s102.7-2.6
+											 132.1 9c19.6 7.8 34.7
+											 22.9 42.6 42.6 11.7
+											 29.5 9 99.5 9
+											 132.1s2.7 102.7-9
+											 132.1z"
+        />
+      </svg>
+      <span class="sr-only">Instagram</span>
+    </a>
+    2022 - 2023 © MJC Morlaix - <a
+      href="http://localhost:1313/mentions-legales/"
       >Mentions légales</a
-    >
-  </p>
+    > - <a href="http://localhost:1313/plan-du-site/">Plan du site</a>
+    <div id="accessibility" class="accessibility">
+      <div
+        id="accessconfig"
+        data-accessconfig-buttonname="Paramètres d’accessibilité"
+        data-accessconfig-params='{ "Prefix" : "a42-ac", "ContainerClass" : "","ModalCloseButton" :
+      "","ModalTitle" : "","FormFieldset" : "","FormFieldsetLegend" : "","FormRadio" : "", "ImageReplacement":
+    false}'
+      ></div>
+    </div>
+  </div>
 </footer>
 <script type="text/javascript" src="/jquery/jquery-3.6.0.min.js"></script>
 <script type="text/javascript" src="/slick/slick.min.js"></script>

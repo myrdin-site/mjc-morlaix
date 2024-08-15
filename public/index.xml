@@ -1,168 +1,314 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Un bref bilan de la saison 2020/2021 à la MJC on MJC Morlaix</title>
-    <link>https://thriving-pony-43b8ee.netlify.app/</link>
-    <description>Recent content in Un bref bilan de la saison 2020/2021 à la MJC on MJC Morlaix</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>BIENVENUE ! on MJC Morlaix</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in BIENVENUE ! on MJC Morlaix</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>2022 © MJC Morlaix</copyright>
-    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://thriving-pony-43b8ee.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2022 - 2023 © MJC Morlaix</copyright>
+    <lastBuildDate>Sat, 30 Apr 2022 11:19:42 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La MJC</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/la-mjc/</link>
+      <link>http://localhost:1313/la-mjc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/la-mjc/</guid>
+      <guid>http://localhost:1313/la-mjc/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Informations Jeunesse</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/infos-jeunesse/</link>
+      <title>Information Jeunesse</title>
+      <link>http://localhost:1313/infos-jeunesse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/infos-jeunesse/</guid>
+      <guid>http://localhost:1313/infos-jeunesse/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Contact</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>OPEN MIC - Jeunes Talents</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/podcasts/open-mic-jeunes-talents/</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/podcasts/open-mic-jeunes-talents/</guid>
-      <description>Retour sur la soirée RAP «Open MIC» qui à eu lieu à l’auditorium de la MJC en 2021. L’occasion de découvrir plusieurs artistes en devenir au sein du programme Trock’Son ou non, et de leur offrir pour certains leur première scène, et d’autres la possibilité de présenter leur projet&amp;hellip;</description>
+      <title>Les Chroniques de l&#39;Auditorium</title>
+      <link>http://localhost:1313/podcasts/les-chroniques-de-lauditorium/</link>
+      <pubDate>Sat, 30 Apr 2022 11:19:42 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/les-chroniques-de-lauditorium/</guid>
+      <description>Retour sur l&amp;rsquo;aprés-midi jeux du monde, qui à eu lieu à la MJC de Morlaix le 30 avril 2022, dans le cadre du Festival &amp;quot; On part à l&amp;rsquo;aventure&amp;quot;&amp;hellip;</description>
     </item>
-    
     <item>
-      <title>La Jeunesse Envoie des Des Ondes</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/podcasts/la-jeunesse-envoie-des-ondes/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/podcasts/la-jeunesse-envoie-des-ondes/</guid>
-      <description>L’émission «La Jeunesse Envoie Des Ondes» propose une création sonore globale (musique, bruitage, voix , écriture, captation et montage), sous forme de radio fiction sur le thème de la pandémie en cours&amp;hellip; À une exception près : ce n’est pas le covid qui nous contamine dans cet épisode, mais bien le bonheur et la joie de vivre&amp;hellip;</description>
+      <title>La Jeunesse Envoie Des Ondes</title>
+      <link>http://localhost:1313/podcasts/la-jeunesse-envoie-des-ondes/</link>
+      <pubDate>Fri, 10 Jul 2020 12:24:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/la-jeunesse-envoie-des-ondes/</guid>
+      <description>L’émission «La Jeunesse Envoie Des Ondes» propose une création sonore globale (musique, bruitage, voix , écriture, captation et montage), sous forme de radio fiction sur le thème de la pandémie en cours&amp;hellip;</description>
     </item>
-    
+    <item>
+      <title>AD Lib #3</title>
+      <link>http://localhost:1313/podcasts/ad-lib-3/</link>
+      <pubDate>Sat, 21 Dec 2019 14:27:25 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/ad-lib-3/</guid>
+      <description>Ad Lib #3 - une émission 100% live, en prise &amp;ldquo;sèche&amp;rdquo;, où nos chroniqueurs lisent des textes d&amp;rsquo;auteurs choisis par leurs soins, ou des textes écrits par eux-même, le tout porté par les improvisations des musiciens invités à cette occasion.</description>
+    </item>
+    <item>
+      <title>La Jeunesse Envoie Des Ondes</title>
+      <link>http://localhost:1313/podcasts/la-jeunesse-envoie-des-ondes-1/</link>
+      <pubDate>Sat, 20 Jul 2019 13:00:53 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/la-jeunesse-envoie-des-ondes-1/</guid>
+      <description>L’émission «La Jeunesse Envoie Des Ondes» propose 2 créations sonore globale (musique, bruitage, voix et interprétation, écriture, captation et montage) sous forme d&amp;rsquo;une radio fiction &amp;ldquo;Tellement Fake&amp;rdquo; et d&amp;rsquo;une nouvelle création musicale et littéraire&amp;hellip; improvisée et nomade &amp;ldquo;Ad Lib&amp;rdquo;.</description>
+    </item>
     <item>
       <title>Love And Pop</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/podcasts/love-and-pop/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/podcasts/love-and-pop/</guid>
+      <link>http://localhost:1313/podcasts/love-and-pop/</link>
+      <pubDate>Sat, 05 Jan 2019 13:39:42 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/love-and-pop/</guid>
       <description>L’émission mensuelle «Love And Pop» balaye, par l’intermédiaire des chroniqueurs des ateliers radio, les tendances et les émergences de la «pop culture» qui les ont interpellés ou intéressés&amp;hellip;</description>
     </item>
-    
     <item>
-      <title>Radiophonie</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/podcasts/festival-des-solidarit%C3%A9s/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/podcasts/festival-des-solidarit%C3%A9s/</guid>
-      <description>L’émission RADIOPHONIE revient sur le Festival des solidarités qui à eu lieu à l’auditorium de la MJC en 2018. Toute l’équipe de Radio MJC, se sont atablés pour interviewer les différents représentants de associations du territoire sur leurs projets d’actions quotidiens et futurs&amp;hellip;</description>
+      <title>RADIOPHONIE</title>
+      <link>http://localhost:1313/podcasts/radiophonie/</link>
+      <pubDate>Sat, 15 Dec 2018 13:33:57 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/radiophonie/</guid>
+      <description>L’émission RADIOPHONIE revient sur le Festival des solidarités qui à eu lieu à l’auditorium de la MJC en 2018.&#xA;Toute l’équipe de Radio MJC, se sont attablés pour interviewer les différents représentants de associations du territoire sur leurs projets d’actions quotidiens et futurs&amp;hellip;</description>
     </item>
-    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/plan-du-site/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/plan-du-site/</guid>
+      <description>Plan du site Ce plan du site présente les pages importantes du site.&#xA;Présentation de la MJC Accueil La MJC Activités Informations jeunesse Trock&amp;rsquo;son Informations pratiques et contact Contact Documentation Actualités et agenda Ces pages contiennent des liens vers les pages de chaque actualités ou des événements atteignables via la pagination ou par les liens &amp;ldquo;En savoir plus&amp;rdquo; de chaque article.</description>
+    </item>
     <item>
       <title>Anglais</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/activites/anglais/</link>
+      <link>http://localhost:1313/activites/anglais-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/activites/anglais/</guid>
+      <guid>http://localhost:1313/activites/anglais-1/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Arts plastiques</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/activites/arts-plastiques/</link>
+      <title>Arts Plastiques</title>
+      <link>http://localhost:1313/activites/arts-plastiques-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/activites/arts-plastiques/</guid>
+      <guid>http://localhost:1313/activites/arts-plastiques-1/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Concert</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/actu/concert-test/</link>
+      <title>Atelier Cartonnage</title>
+      <link>http://localhost:1313/activites/atelier-cartonnage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/actu/concert-test/</guid>
-      <description>Lorem repudiandae numquam doloribus suscipit odit A facilis delectus ad architecto error. Odit impedit nihil doloribus nulla nostrum odit. Pariatur perferendis tempore dolore numquam quas quae.</description>
-    </item>
-    
-    <item>
-      <title>Concert Rap</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/trockson/concert-rap/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/trockson/concert-rap/</guid>
-      <description>Amet repudiandae tenetur tempora architecto earum, officia? Maxime adipisci minima non nisi reprehenderit error. Delectus nemo unde culpa eveniet voluptates Ipsum quisquam consequuntur doloremque vero at, perspiciatis suscipit assumenda molestias?</description>
-    </item>
-    
-    <item>
-      <title>Conditions d&#39;accès spectacles &amp; diffusion culturelle MJC</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/documents/conditions-acces/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/documents/conditions-acces/</guid>
+      <guid>http://localhost:1313/activites/atelier-cartonnage/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Conditions d&#39;inscription</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/documents/conditions-inscription/</link>
+      <title>Atelier Peinture Dessin</title>
+      <link>http://localhost:1313/activites/atelier-peinture-dessin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/documents/conditions-inscription/</guid>
+      <guid>http://localhost:1313/activites/atelier-peinture-dessin/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Devil JO and the backdoormen</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/actu/concert-blue-rock/</link>
+      <title>Atelier Photo</title>
+      <link>http://localhost:1313/activites/atelier-photo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/actu/concert-blue-rock/</guid>
-      <description>Un rock aux origines multiples. Depuis 2008, ce quintet Stéphanois façonne son répertoire en puisant ses racines dans la musique rock du 20ème siècle Amet deleniti nostrum corrupti assumenda error.</description>
+      <guid>http://localhost:1313/activites/atelier-photo/</guid>
+      <description></description>
     </item>
-    
     <item>
-      <title>Echo</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/agenda/echo/</link>
+      <title>Balade Loisirs</title>
+      <link>http://localhost:1313/activites/balade-loisirs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/agenda/echo/</guid>
-      <description>Ce combo morlaisien et mere du dispositif trock&amp;rsquo;son de la MJC, développe une énergie singulière en fusionnant avec groove leurs compositions.</description>
+      <guid>http://localhost:1313/activites/balade-loisirs/</guid>
+      <description></description>
     </item>
-    
+    <item>
+      <title>Chinois</title>
+      <link>http://localhost:1313/activites/chinois/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/chinois/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conditions d&#39;accès à la diffusion culturelle de la MJC</title>
+      <link>http://localhost:1313/documents/conditions-dacc%C3%A8s-spectacles-et-diffusion-culturelle-mjc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/documents/conditions-dacc%C3%A8s-spectacles-et-diffusion-culturelle-mjc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conditions d&#39;inscription aux Activités</title>
+      <link>http://localhost:1313/documents/conditions-dinscription/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/documents/conditions-dinscription/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Couture</title>
+      <link>http://localhost:1313/activites/couture-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/couture-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>École de Cirque</title>
+      <link>http://localhost:1313/activites/%C3%A9cole-de-cirque-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/%C3%A9cole-de-cirque-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Espagnol</title>
+      <link>http://localhost:1313/activites/espagnol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/espagnol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fête de la Musique</title>
+      <link>http://localhost:1313/trockson/f%C3%AAte-de-la-musique-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trockson/f%C3%AAte-de-la-musique-1/</guid>
+      <description>FÊTE DE LA MUSIQUE 2024 - Plateau MJC / Trock’Son&#xA;Retrouvez et découvrez en Live un panel de nos adhérents/musiciens TROCK’SON ou diversité des styles se mêlent à l’émergence des jeunes artistes et l’énergie des formations plus “rodées”… Bref quelques heures de découvertes musicales aux univers singuliers… !</description>
+    </item>
+    <item>
+      <title>Fiche d&#39;inscription MJC</title>
+      <link>http://localhost:1313/documents/fiche-dinscription/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/documents/fiche-dinscription/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gymnastique</title>
+      <link>http://localhost:1313/activites/gymnastique-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/gymnastique-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hip Hop</title>
+      <link>http://localhost:1313/activites/hip-hop-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/hip-hop-1/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Mentions légales</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/mentions-legales/</link>
+      <link>http://localhost:1313/mentions-legales/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/mentions-legales/</guid>
-      <description>Éditeur MJC Morlaix
-7, place du Dossen - 29600 MORLAIX
-Téléphone : 02 98 88 09 94
-Mail : mjc.morlaix@wanadoo.fr</description>
+      <guid>http://localhost:1313/mentions-legales/</guid>
+      <description>Éditeur MJC Morlaix&#xA;7, place du Dossen - 29600 MORLAIX&#xA;Téléphone : 02 98 88 09 94&#xA;Mail : mjc.morlaix@wanadoo.fr</description>
     </item>
-    
     <item>
-      <title>Vive le sport</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/actu/vive-le-sport/</link>
+      <title>Pop Music Club</title>
+      <link>http://localhost:1313/activites/pop-music-club-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/actu/vive-le-sport/</guid>
-      <description>Dolor id repudiandae enim optio laudantium Mollitia deserunt commodi reprehenderit tempora mollitia amet nam. Ut sunt rem corrupti unde facere nostrum voluptates?</description>
+      <guid>http://localhost:1313/activites/pop-music-club-1/</guid>
+      <description></description>
     </item>
-    
+    <item>
+      <title>Postural ball</title>
+      <link>http://localhost:1313/activites/postural-ball-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/postural-ball-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programme Juillet 2024</title>
+      <link>http://localhost:1313/actu/programme-juillet-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/actu/programme-juillet-2024/</guid>
+      <description>La MJC propose différents stages et animations durant le mois de juillet. Découvertes culturelles, scientifiques, sportives et convivialité seront au rendez-vous !</description>
+    </item>
+    <item>
+      <title>Programme Juillet 2024</title>
+      <link>http://localhost:1313/agenda/programme-juillet-2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/agenda/programme-juillet-2024/</guid>
+      <description>La MJC propose différents stages et animations durant le mois de juillet. Découvertes culturelles, scientifiques, sportives et convivialité seront au rendez-vous !</description>
+    </item>
+    <item>
+      <title>Programme Officiel MJC  </title>
+      <link>http://localhost:1313/documents/programme-officiel-mjc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/documents/programme-officiel-mjc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Site Web MJC </title>
+      <link>http://localhost:1313/actu/site-web-mjc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/actu/site-web-mjc/</guid>
+      <description>Mise à jour &amp;amp; maintenance&#xA;Nous procédons actuellement à la mise à jour du site web et à l&amp;rsquo;élaboration du programme de la nouvelle saison 2024 / 2025.</description>
+    </item>
+    <item>
+      <title>Skateboard</title>
+      <link>http://localhost:1313/activites/skateboard-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/skateboard-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TaïChi Chuan</title>
+      <link>http://localhost:1313/activites/ta%C3%AFchi-chuan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/ta%C3%AFchi-chuan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tarifs Adhésion MJC</title>
+      <link>http://localhost:1313/documents/tarifs-adh%C3%A9sion-mjc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/documents/tarifs-adh%C3%A9sion-mjc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tarifs des Activités</title>
+      <link>http://localhost:1313/documents/tarifs-des-activit%C3%A9s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/documents/tarifs-des-activit%C3%A9s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Théâtre</title>
+      <link>http://localhost:1313/activites/th%C3%A9%C3%A2tre-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/th%C3%A9%C3%A2tre-3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Théâtre</title>
+      <link>http://localhost:1313/activites/th%C3%A9%C3%A2tre-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/th%C3%A9%C3%A2tre-4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Théâtre</title>
+      <link>http://localhost:1313/activites/th%C3%A9%C3%A2tre-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/th%C3%A9%C3%A2tre-5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Théâtre d&#39;impro</title>
+      <link>http://localhost:1313/activites/th%C3%A9%C3%A2tre-dimpro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/th%C3%A9%C3%A2tre-dimpro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Up Cycling</title>
+      <link>http://localhost:1313/actu/up-cycling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/actu/up-cycling/</guid>
+      <description>Mercredi 26 juin de 14h30 à 17h30&#xA;La MJC accueillera l&amp;rsquo;association Scient pour un atelier de : • réparation et customisation de chaussures</description>
+    </item>
+    <item>
+      <title>Up Cycling</title>
+      <link>http://localhost:1313/agenda/up-cycling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/agenda/up-cycling/</guid>
+      <description>Mercredi 26 juin de 14h30 à 17h30&#xA;La MJC accueillera l’association Scient pour un atelier de : • réparation et customisation de chaussures</description>
+    </item>
   </channel>
 </rss>

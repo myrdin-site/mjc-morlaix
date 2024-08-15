@@ -2,28 +2,151 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Activités on MJC Morlaix</title>
-    <link>https://thriving-pony-43b8ee.netlify.app/activites/</link>
+    <link>http://localhost:1313/activites/</link>
     <description>Recent content in Activités on MJC Morlaix</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>2022 © MJC Morlaix</copyright><atom:link href="https://thriving-pony-43b8ee.netlify.app/activites/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>2022 - 2023 © MJC Morlaix</copyright>
+    <atom:link href="http://localhost:1313/activites/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anglais</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/activites/anglais/</link>
+      <link>http://localhost:1313/activites/anglais-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/activites/anglais/</guid>
+      <guid>http://localhost:1313/activites/anglais-1/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Arts plastiques</title>
-      <link>https://thriving-pony-43b8ee.netlify.app/activites/arts-plastiques/</link>
+      <title>Arts Plastiques</title>
+      <link>http://localhost:1313/activites/arts-plastiques-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://thriving-pony-43b8ee.netlify.app/activites/arts-plastiques/</guid>
+      <guid>http://localhost:1313/activites/arts-plastiques-1/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Atelier Cartonnage</title>
+      <link>http://localhost:1313/activites/atelier-cartonnage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/atelier-cartonnage/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Atelier Peinture Dessin</title>
+      <link>http://localhost:1313/activites/atelier-peinture-dessin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/atelier-peinture-dessin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Atelier Photo</title>
+      <link>http://localhost:1313/activites/atelier-photo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/atelier-photo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Balade Loisirs</title>
+      <link>http://localhost:1313/activites/balade-loisirs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/balade-loisirs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chinois</title>
+      <link>http://localhost:1313/activites/chinois/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/chinois/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Couture</title>
+      <link>http://localhost:1313/activites/couture-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/couture-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>École de Cirque</title>
+      <link>http://localhost:1313/activites/%C3%A9cole-de-cirque-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/%C3%A9cole-de-cirque-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Espagnol</title>
+      <link>http://localhost:1313/activites/espagnol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/espagnol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gymnastique</title>
+      <link>http://localhost:1313/activites/gymnastique-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/gymnastique-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hip Hop</title>
+      <link>http://localhost:1313/activites/hip-hop-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/hip-hop-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pop Music Club</title>
+      <link>http://localhost:1313/activites/pop-music-club-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/pop-music-club-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Postural ball</title>
+      <link>http://localhost:1313/activites/postural-ball-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/postural-ball-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Skateboard</title>
+      <link>http://localhost:1313/activites/skateboard-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/skateboard-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TaïChi Chuan</title>
+      <link>http://localhost:1313/activites/ta%C3%AFchi-chuan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/ta%C3%AFchi-chuan/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Théâtre</title>
+      <link>http://localhost:1313/activites/th%C3%A9%C3%A2tre-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/th%C3%A9%C3%A2tre-3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Théâtre</title>
+      <link>http://localhost:1313/activites/th%C3%A9%C3%A2tre-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/th%C3%A9%C3%A2tre-4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Théâtre</title>
+      <link>http://localhost:1313/activites/th%C3%A9%C3%A2tre-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/th%C3%A9%C3%A2tre-5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Théâtre d&#39;impro</title>
+      <link>http://localhost:1313/activites/th%C3%A9%C3%A2tre-dimpro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/th%C3%A9%C3%A2tre-dimpro/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
