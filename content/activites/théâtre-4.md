@@ -1,6 +1,6 @@
 ---
 title: Théâtre
-picto: /medias/picto-théatre.png
+picto: /medias/picto-théatre-ok.png
 public:
   - adolescents
 anim: Shad REIS
