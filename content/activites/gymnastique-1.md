@@ -1,6 +1,6 @@
 ---
 title: Gymnastique
-picto: /medias/picto-gym.png
+picto: /medias/picto-gym-ok.png
 public:
   - adultes
 anim: Multiples
