@@ -9,25 +9,46 @@
     <copyright>2022 - 2023 © MJC Morlaix</copyright>
     <atom:link href="http://localhost:1313/actu/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Programme Juillet 2024</title>
-      <link>http://localhost:1313/actu/programme-juillet-2024/</link>
+      <title>ANTHARES &#43; LA CABRA</title>
+      <link>http://localhost:1313/actu/anthares-la-cabra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/actu/programme-juillet-2024/</guid>
-      <description>La MJC propose différents stages et animations durant le mois de juillet. Découvertes culturelles, scientifiques, sportives et convivialité seront au rendez-vous !</description>
+      <guid>http://localhost:1313/actu/anthares-la-cabra/</guid>
+      <description>Originaire de Seattle (USA) LACABRA est un groupe de metal né sur le lit de cendres de la pandémie de Covid-19 et formé par un groupe d’amis : Richie Sather (batterie), Eric Weber (basse), Eric Snyder (guitare et chant), Michael Anthony (guitare) et Lance Neatherlin (chant).</description>
     </item>
     <item>
-      <title>Site Web MJC </title>
-      <link>http://localhost:1313/actu/site-web-mjc/</link>
+      <title>BB King HÉLÈNE PALARDY</title>
+      <link>http://localhost:1313/actu/bb-king-h%C3%A9l%C3%A8ne-palardy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/actu/site-web-mjc/</guid>
-      <description>Mise à jour &amp;amp; maintenance&#xA;Nous procédons actuellement à la mise à jour du site web et à l&amp;rsquo;élaboration du programme de la nouvelle saison 2024 / 2025.</description>
+      <guid>http://localhost:1313/actu/bb-king-h%C3%A9l%C3%A8ne-palardy/</guid>
+      <description>Tout le monde l’attendait : Bébé King est arrivé !&#xA;Maman joue et chante pour que son bébé guitare trouve le sommeil.</description>
     </item>
     <item>
-      <title>Up Cycling</title>
-      <link>http://localhost:1313/actu/up-cycling/</link>
+      <title>FLOOR IS LAVA</title>
+      <link>http://localhost:1313/actu/floor-is-lava/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/actu/up-cycling/</guid>
-      <description>Mercredi 26 juin de 14h30 à 17h30&#xA;La MJC accueillera l&amp;rsquo;association Scient pour un atelier de : • réparation et customisation de chaussures</description>
+      <guid>http://localhost:1313/actu/floor-is-lava/</guid>
+      <description>FLOOR IS LAVA est un duo Indie Punk Rock franco-russe né d’une rencontre fortuite entre deux artistes lors d’une jam session à la MJC en octobre 2023.</description>
+    </item>
+    <item>
+      <title>MATHIEU CROCHEMORE QUARTET</title>
+      <link>http://localhost:1313/actu/mathieu-crochemore-quartet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/actu/mathieu-crochemore-quartet/</guid>
+      <description>S’appuyant sur un répertoire vocal et instrumental de standards et de compositions, le quartet offre un son riche et généreux dont les couleurs nous font voyager entre le Swing et le Groove du Jazz intemporel.</description>
+    </item>
+    <item>
+      <title>the dirty llamas</title>
+      <link>http://localhost:1313/actu/the-dirty-llamas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/actu/the-dirty-llamas/</guid>
+      <description>Crée en 2021, le power trio The Dirty Llamas s’illustre par la production d’un Heavy Rock Stoner et délivre de puissantes compos originales, toutes en anglais.</description>
+    </item>
+    <item>
+      <title>Ultimatum 3</title>
+      <link>http://localhost:1313/actu/ultimatum-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/actu/ultimatum-3/</guid>
+      <description>Morlaix, 1990. Accusés d’un crime qu’ils n’ont pas commis, les inspecteurs Raymond Galaouen et Jérôme Vincent ont douze heures pour prouver leur innocence.</description>
     </item>
   </channel>
 </rss>

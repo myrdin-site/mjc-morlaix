@@ -23,13 +23,6 @@
       <description></description>
     </item>
     <item>
-      <title>Atelier Cartonnage</title>
-      <link>http://localhost:1313/activites/atelier-cartonnage/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/activites/atelier-cartonnage/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Atelier Peinture Dessin</title>
       <link>http://localhost:1313/activites/atelier-peinture-dessin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -48,13 +41,6 @@
       <link>http://localhost:1313/activites/balade-loisirs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/activites/balade-loisirs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Chinois</title>
-      <link>http://localhost:1313/activites/chinois/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/activites/chinois/</guid>
       <description></description>
     </item>
     <item>
@@ -107,13 +93,6 @@
       <description></description>
     </item>
     <item>
-      <title>Skateboard</title>
-      <link>http://localhost:1313/activites/skateboard-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/activites/skateboard-1/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>TaïChi Chuan</title>
       <link>http://localhost:1313/activites/ta%C3%AFchi-chuan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -146,6 +125,13 @@
       <link>http://localhost:1313/activites/th%C3%A9%C3%A2tre-dimpro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/activites/th%C3%A9%C3%A2tre-dimpro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yoga</title>
+      <link>http://localhost:1313/activites/skateboard-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/activites/skateboard-1/</guid>
       <description></description>
     </item>
   </channel>
