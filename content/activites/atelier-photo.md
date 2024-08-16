@@ -1,6 +1,6 @@
 ---
 title: Atelier Photo
-picto: /medias/picto-photo.png
+picto: /medias/picto-photo-ok.png
 public:
   - adultes
 anim: Gérard HERVET
