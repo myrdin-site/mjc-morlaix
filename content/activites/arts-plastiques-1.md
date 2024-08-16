@@ -1,6 +1,6 @@
 ---
 title: Arts Plastiques
-picto: /medias/picto-artsplastiques.png
+picto: /medias/picto-artsplastiques-ok.png
 public:
   - enfants
   - adolescents
