@@ -1,22 +1,24 @@
 ---
 title: TaïChi Chuan
-picto: /medias/taichi.png
+picto: /medias/picto-taichi.png
 public:
   - adolescents
   - adultes
 anim: Cyril CHEGARAY
 price: 126€ à 206€ /an
-starting_date: 2023-09-18T15:15:34.937Z
+starting_date: 2024-09-16T15:15:34.937Z
 creneau: >-
-  **Art martial interne énergétique chinois, dit «de longue vie»**, le Taiji
-  Quan peut se résumer à de la gymnastique douce chinoise. Activité non
-  traumatisante pour le corps, le Taïchi permet de ralentir les effets de la
-  vieillesse sur le corps par un maintien ou une amélioration de la souplesse,
-  de la coordination motrice et de l’équilibre, de la musculature et par un
-  travail de cohésion esprit/corps.
+  **Le Taiji Quan est un art martial dit de longue vie**, qui invite à bouger
+  lentement, de manière non traumatisante, en suivant une logique anatomique,
+  biomécanique et martiale. Ainsi, «faire du taichi», c’est préserver son corps.
+  Nous cherchons un maintien ou une amélioration de la souplesse, de la
+  coordination motrice et de l’équilibre, et un renforcement musculaire doux.
+  C’est un exercice de mémoire également, lors de l’apprentissage puis de
+  l’application des gestes, chorégraphiés en une série de mouvements précis,
+  appelée Forme.
 
 
-  La forme de Taï Chi proposée par la MJC relève de la méthode spécifique Yangjia Michuan qui compte 127 mouvements.
+  La forme proposée à la MJC est celle de l’école du Yangjia Michuan, transmise avec une approche conviviale et une progression pédagogique.
 
 
   LUNDI : **16 ans et + >** 17h15 / 18h45
