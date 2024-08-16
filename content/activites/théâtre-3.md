@@ -1,6 +1,6 @@
 ---
 title: Théâtre
-picto: /medias/theatre.png
+picto: /medias/picto-théatre.png
 public:
   - enfants
 anim: Ligéia SINOQUET
