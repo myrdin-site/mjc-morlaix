@@ -1,11 +1,11 @@
 ---
 title: Balade Loisirs
-picto: /medias/randonnée.png
+picto: /medias/picto-rando.png
 public:
   - adultes
 anim: Groupe Balade
 price: participation 5€ /an
-starting_date: 2023-08-15T09:03:04.603Z
+starting_date: 2024-09-19T11:30:04.603Z
 creneau: >-
   **Chaque jeudi** (hors vacances scolaires), RDV à 13h30 pour des balades sur
   Morlaix et alentours. \
