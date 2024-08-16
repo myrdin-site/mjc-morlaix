@@ -1,23 +1,15 @@
 ---
-title: Skateboard
-picto: /medias/skate.png
+title: Yoga
+picto: /medias/picto-yoga.png
 public:
-  - adolescents
   - adultes
-anim: David MEUROU
+anim: Nathalie KOWALCZYK
 price: 96€ à 160€ /an
-starting_date: 2023-09-20T12:00:27.740Z
-creneau: >-
-  **Apprentissage et acquisition des techniques de base du skate** et/ou
-  perfectionnement à la pratique en skate-parks. Atelier animé par un
-  professionnel, titulaire d’un brevet d’Initiateur fédéral pour une pratique du
-  skate en toute sécurité. \
+starting_date: 2024-09-16T09:00:27.740Z
+creneau: |-
+  **Exercices en mouvements et postures pour assouplir et renforcer le corps.**
+  Exercices de respiration pour aider à réguler les énergies vitales.
 
-  Planches et protections fournies en début d’année (il faudra s’équiper de son propre matériel dans le courant de l’année).
-
-
-  MERCREDI  **2 groupes :** \
-
-  **Débutants >** 14h00 / 15h00 /  **Initiés >** 14h45 / 16h00
-description: Skateboard
+  LUNDI - **Adultes >** 11h00 / 12h00 - 12h15 / 13h15
+description: Yoga
 ---
