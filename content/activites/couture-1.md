@@ -1,6 +1,6 @@
 ---
 title: Couture
-picto: /medias/picto-couture.png
+picto: /medias/picto-couture-ok.png
 public:
   - adultes
 anim: Rozenn GOURET
