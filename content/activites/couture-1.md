@@ -1,11 +1,11 @@
 ---
 title: Couture
-picto: /medias/couture.png
+picto: /medias/picto-couture.png
 public:
   - adultes
 anim: Rozenn GOURET
 price: 106€ à 206€ /an
-starting_date: 2023-09-21T14:15:22.877Z
+starting_date: 2024-09-19T14:15:22.877Z
 creneau: >-
   **Accompagnement de votre créativité** dans la création de vos travaux de
   couture.
