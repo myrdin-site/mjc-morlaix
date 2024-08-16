@@ -1,6 +1,6 @@
 ---
 title: Théâtre d'impro
-picto: /medias/picto-impro.png
+picto: /medias/picto-impro-ok.png
 public:
   - adultes
 anim: Clément FORT
