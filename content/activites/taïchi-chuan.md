@@ -1,6 +1,6 @@
 ---
 title: TaïChi Chuan
-picto: /medias/picto-taichi.png
+picto: /medias/picto-taichi-ok.png
 public:
   - adolescents
   - adultes
