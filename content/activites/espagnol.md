@@ -1,6 +1,6 @@
 ---
 title: Espagnol
-picto: /medias/picto-langue.png
+picto: /medias/picto-langue-ok.png
 public:
   - adolescents
   - adultes
