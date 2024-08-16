@@ -10,7 +10,7 @@ prix_abonné: 6
 ---
 ![BB King HÉLÈNE PALARDY](/medias/bébé-king-helene_palardy-750x500px.jpg "BB King HÉLÈNE PALARDY")
 
-***Tout le monde l’attendait : Bébé King est arrivé !***
+**Tout le monde l’attendait : Bébé King est arrivé !**
 
 Maman joue et chante pour que son bébé guitare trouve le sommeil. La maison est  enchantée... surtout les petites créatures qui se cachent sous la cheminée !
 
