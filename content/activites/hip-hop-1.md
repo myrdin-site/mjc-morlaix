@@ -1,12 +1,12 @@
 ---
 title: Hip Hop
-picto: /medias/hiphop.png
+picto: /medias/picto-hiphop.png
 public:
   - enfants
   - adolescents
 anim: David NOCH
 price: 96€ à 160€ /an
-starting_date: 2023-09-19T15:30:25.392Z
+starting_date: 2024-09-17T15:30:25.392Z
 creneau: >-
   **Initiation à la danse Hip Hop à travers différents styles :** break dance,
   acrobaties, street-dance…
