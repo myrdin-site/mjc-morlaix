@@ -1,12 +1,12 @@
 ---
 title: Anglais
-picto: /medias/langues.png
+picto: /medias/picto-langue.png
 public:
   - adolescents
   - adultes
-anim: "Mathilde ROJINSKI-SADOT "
+anim: Animateur.trice
 price: 117€ à 176€ /an
-starting_date: 2023-09-19T16:00:22.532Z
+starting_date: 2024-09-17T16:00:22.532Z
 creneau: >-
   **Atelier d’apprentissage déblocage linguistique** axé sur la conversation.
 
