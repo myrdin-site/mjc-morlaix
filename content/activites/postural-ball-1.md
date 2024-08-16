@@ -1,6 +1,6 @@
 ---
 title: Postural ball
-picto: /medias/picto-postural.png
+picto: /medias/picto-postural-ok.png
 public:
   - adolescents
   - adultes
