@@ -1,11 +1,11 @@
 ---
 title: Gymnastique
-picto: /medias/gymnastique.png
+picto: /medias/picto-gym.png
 public:
   - adultes
 anim: Multiples
 price: 57€ à 93€ /an
-starting_date: 2023-09-11T07:45:08.238Z
+starting_date: 2024-09-09T07:45:08.238Z
 creneau: >-
   **Des cours organisés pour tous et toutes.**\
 
@@ -63,12 +63,5 @@ creneau: >-
 
 
   Votre cotisation couvre un cours hebdomadaire. Possibilité de bénéficier d’un second cours (nombre de places limité) pour 12€ supplémentaires. (renseignements auprès de la MJC)
-
-
-  **NOUVEAU !**\
-
-  **YOGA** : Exercices en mouvements, postures, respiration.\
-
-  LUNDI : **10h30 / 11h30 -** Nathalie KOWALCZYK - Tarifs : 96€ à 160€ /an
 description: Gymnastique
 ---
