@@ -1,5 +1,5 @@
 ---
-title: Consulter la Brochure des Activités
+title: Consultez la Brochure des Activités
 format: pdf
 picto: /medias/pdf.png
 saison: 2024 / 2025
