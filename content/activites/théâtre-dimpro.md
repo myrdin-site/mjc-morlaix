@@ -13,7 +13,6 @@ creneau: >-
   **Pour inventer et jouer** des scènes décalées, s’exprimer et libérer toute votre créativité au sein d’un groupe. Ateliers débutants.
 
 
-
-  LUNDI : **adultes >** 20h00 / 22h00
+  LUNDI : **adultes >** 18h00 / 20h00 - 20h00 / 22h00
 description: Théâtre d'impro
 ---
