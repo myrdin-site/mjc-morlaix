@@ -4,7 +4,7 @@ description: FESTI'BLUES
 cover: /medias/jim-roberts-750x500px.jpg
 event_time: 2024-11-09T20:30:00.000Z
 lieu: Auditorium
-first: 2 concerts pour le prix d'1
+first: ""
 prix_libre: false
 prix_plein: 12
 prix_abonné: 8
