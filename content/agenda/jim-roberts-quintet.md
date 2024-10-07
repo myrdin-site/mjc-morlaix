@@ -9,7 +9,7 @@ prix_libre: false
 prix_plein: 12
 prix_abonné: 8
 ---
-![JIM ROBERTS QUINTET ](/medias/jim-roberts-750x500px.jpg "FESTI'BLUES")
+![Jim Roberts Quintet](/medias/jim-roberts-750x500px.jpg "FESTI'BLUES")
 
 **Soirée "FESTI'BLUES" \[2 concerts]**
 
