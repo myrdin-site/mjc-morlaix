@@ -2,9 +2,9 @@
 title: Dik Banovich
 description: FESTI'BLUES
 cover: /medias/dik-banovich-750x500px.jpg
-event_time: 2024-11-09T22:00:00.000Z
+event_time: 2024-11-09T20:30:00.000Z
 lieu: Auditorium
-first: Jim Roberts Quintet
+first: ""
 prix_libre: false
 prix_plein: 12
 prix_abonné: 8
