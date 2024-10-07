@@ -19,4 +19,4 @@ Sa musique englobe à la fois le blues urbain contemporain, et le blues acoustiq
 
 **Jim Roberts :** «Bien que je sois né à Chicago et que j’ai grandi dans le Midwest, j’ai toujours eu le plus grand respect pour la musique qui venait du Sud. Je crois qu’il faut raconter une histoire lorsque j’écris une chanson et que le Sud est rempli d’histoires qui me parlent. Dans mes albums, j’ai essayé de capturer ce son rock / blues du Sud qui était populaire dans les années 1970.»
 
-**Samedi 09 novembre** - **20h30** - 12 € / 8 € (Non-Adhérents / Adhérents)
+**Samedi 09 novembre** - **22h30** - 12 € / 8 € (Non-Adhérents / Adhérents)
