@@ -2,7 +2,7 @@
 title: JIM ROBERTS QUINTET
 description: FESTI'BLUES
 cover: /medias/jim-roberts-750x500px.jpg
-event_time: 2024-11-09T20:30:00.000Z
+event_time: 2024-11-09T22:30:00.000Z
 lieu: Auditorium
 prix_libre: false
 prix_plein: 12
