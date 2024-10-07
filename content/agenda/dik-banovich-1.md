@@ -18,4 +18,4 @@ Il s’inspire de la meilleure des méthodes traditionnelles et contemporaines d
 
 **Un style construit autour du blues acoustique traditionnel** puisé dans les racines les plus profondes du Delta mais aussi du swing, du ragtime, d’americana et du folk blues.
 
-**Samedi 09 novembre** - **22h30** - 12 € / 8 € (Non-Adhérents / Adhérents)
+**Samedi 09 novembre** - **20h30** - 12 € / 8 € (Non-Adhérents / Adhérents)
