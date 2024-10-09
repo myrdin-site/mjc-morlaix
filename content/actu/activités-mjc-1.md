@@ -30,7 +30,7 @@ prix_libre: false
 ![](/medias/affiche-journée-coréene-visuel750px.jpg)
 
 * **Deux après-midi découvertes de la culture coréenne vous seront proposées** \
-  par un groupe de 5 jeunes : le groupe Eternal Light .  Au programme, salon de thé, initiation à la danse K-POP, initiation au chant et un random ! **Mardi 29 et mercredi 30 octobre de 14h30 à 17h30.** Ouvert à tous à partir de 12 ans. **Sur inscription avant le 16 octobre 2024**
+  par un groupe de 5 jeunes : le groupe Eternal Light .  Au programme, salon de thé, initiation à la danse K-POP, initiation au chant et un random ! **Mardi 29 et mercredi 30 octobre de 14h30 à 17h30.** Ouvert à tous à partir de 12 ans. **Sur inscription avant le 16 octobre 2024 !**
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__**
 
