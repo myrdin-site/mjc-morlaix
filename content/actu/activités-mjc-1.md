@@ -1,5 +1,5 @@
 ---
-title: Activités MJC
+title: Activités MJC / SIJ
 description: Programme Vacances de Toussaint
 cover: /medias/fondpage-actusmjc_750x500px-rvb.jpg
 event_time: 2024-10-21T14:30:00.000Z
@@ -41,5 +41,5 @@ par un groupe de 5 jeunes : le groupe Eternal Light .  Au programme, salon de th
 **Contact inscriptions et réservations :  Daro Noch** / MJC de Morlaix - **02 98 88 09 94**\
  [jeunesse.animation@mjcmorlaix.com](mailto:jeunesse.animation@mjcmorlaix.com)
 
-**Vous pouvez télécharger (PDF) les programmes pour les vacances de Toussaint à la MJC et au SIG :**\
-Programme Vacances & activités SIJ    /    Programme Vacances & activités SIJ
+**Vous pouvez télécharger (PDF) les programmes détaillés** pour les vacances de Toussaint **à la MJC et au SIG :**\
+[Programme Vacances & activités MJC](https://www.mjcmorlaix.com/medias/prog_vactoussaint2024-mjc.pdf)    **/**    [Programme Vacances & activités SIJ](https://www.mjcmorlaix.com/medias/prog_vactoussaint2024-ig.pdf)
