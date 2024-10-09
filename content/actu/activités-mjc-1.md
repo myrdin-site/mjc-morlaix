@@ -18,20 +18,14 @@ prix_libre: false
   **Mardi 22 octobre, de 9h30 à 18h00. Gratuit.** Ouvert aux ados à partir de 12 ans. **Sur inscription.** \
   \[Prévoir un pique-nique]
 
-
-
 ![](/medias/am-jeunes-23-09_visuel2-750px.jpg)
 
 * **Après-midi des jeunes pour faire connaissance et échanger avec des jeunes.**\
   **Mercredi 23 octobre de 15h00 à 18h00.** Un atelier découverte et échange entre jeunes. Un ciné-débat du film “Ose toujours” sera ensuite proposé aux jeunes. Une rencontre avec des jeunes engagés dans une association. **Gratuit**. Ouvert à partir de 12 ans. **Sur inscription.**
 
-
-
 ![](/medias/tipso’voyages-visuel2-750px.jpg)
 
 * **Tipso’vacances est une bonne occasion d’échanger et partager** avec des jeunes partis en projet de vacances. **Gratuit**. **Jeudi 24 octobre, de 18h00 à 19h30**. Ouvert à tous.
-
-
 
 ![](/medias/affiche-journée-coréene-visuel750px.jpg)
 
