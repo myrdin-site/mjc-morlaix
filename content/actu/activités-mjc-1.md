@@ -25,7 +25,7 @@ prix_libre: false
 
 ![](/medias/tipso’voyages-visuel2-750px.jpg)
 
-* **Tipso’vacances est une bonne occasion d’échanger et partager** avec des jeunes partis en projet de vacances. **Gratuit**. **Jeudi 24 octobre, de 18h00 à 19h30**. Ouvert à tous.
+* **Tipso’Voyages est une bonne occasion d’échanger et partager** avec des jeunes partis en projet de vacances. **Gratuit**. **Jeudi 24 octobre, de 18h00 à 19h30**. Ouvert à tous.
 
 ![](/medias/affiche-journée-coréene-visuel750px.jpg)
 
