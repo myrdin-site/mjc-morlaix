@@ -13,21 +13,28 @@ prix_libre: false
 * **Jeu de piste et d’énigme familiale “La mémoire du temps”** \
   pour découvrir les différents lieux de Morlaix. **Lundi 21 octobre de 14h30 à 16h30.** \
   **Gratuit.** Ouvert à tous à partir de 10 ans et pour les familles. **Sur inscription**.
+
+   \_\_\_\_\_\_\_\_\_\_\_\_\_\__
+
 * **Journée à la découverte de la manufacture autour de divers ateliers :** \
   visite de l’espace des sciences, Golf Street, atelier up-cycling et séance de cinéma la salamandre.\
   **Mardi 22 octobre, de 9h30 à 18h00. Gratuit.** Ouvert aux ados à partir de 12 ans. **Sur inscription.** \
   \[Prévoir un pique-nique]
+
+   \_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 ![](/medias/am-jeunes-23-09_visuel2-750px.jpg)
 
 * **Après-midi des jeunes pour faire connaissance et échanger avec des jeunes.**\
   **Mercredi 23 octobre de 15h00 à 18h00.** Un atelier découverte et échange entre jeunes. Un ciné-débat du film “Ose toujours” sera ensuite proposé aux jeunes. Une rencontre avec des jeunes engagés dans une association. **Gratuit**. Ouvert à partir de 12 ans. **Sur inscription.**
 
-\    
+   \_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 ![](/medias/tipso’voyages-visuel2-750px.jpg)
 
 * **Tipso’Voyages est une bonne occasion d’échanger et partager** avec des jeunes partis en projet de vacances. **Gratuit**. **Jeudi 24 octobre, de 18h00 à 19h30**. Ouvert à tous.
+
+   \_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 ![](/medias/affiche-journée-coréene-visuel750px.jpg)
 
