@@ -8,7 +8,7 @@ prix_libre: false
 ---
 ![Jam Session](/medias/page750x750px.jpg "MJC Morlaix")
 
-**JAM SESSION - Vendredi 6 décembre / 19h > 21h**
+**JAM SESSION - Vendredi 6 décembre / 19h > 21h - Entrée Libre**
 
 Régulièrement nos musiciens adhérents du Trock'son se réunissent pour des moments festifs et conviviaux, ouvertes à tous et toutes (adhérents ou non), lors des Jam Sessions que nous organisons. 
 
