@@ -7,7 +7,7 @@ date: 2024-12-14T14:13:03.564Z
 durée: 04:48
 audio: /medias/13.-the-dirty-llamas_apes-2.0.mp3
 ---
-![](/medias/dlc_compil.png)
+![](/medias/dlc_compil_250.png)
 
 **13) The Dirty Llamas - Apes 2.0** 
 
