@@ -7,7 +7,7 @@ date: 2024-12-14T14:27:00.929Z
 durée: 04:59
 audio: /medias/08.-pauvre-s_a-demain.mp3
 ---
-![](/medias/prauves_compil.png)
+![](/medias/prauves_compil_250.png)
 
 **8) Pauvre S - A demain** 
 
