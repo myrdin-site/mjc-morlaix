@@ -7,7 +7,7 @@ date: 2024-12-14T14:45:43.300Z
 durée: 03:29
 audio: /medias/02.-coatal-run_london-gardens.mp3
 ---
-![](/medias/coastal_run_compil.png)
+![](/medias/coastal_run_compil_250.png)
 
 **2) Coastal Run - London gardens** 
 
