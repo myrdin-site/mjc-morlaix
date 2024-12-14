@@ -7,7 +7,7 @@ date: 2024-12-14T14:40:53.339Z
 durée: 02:15
 audio: /medias/04.-corbbel_heart-of-gold.mp3
 ---
-![](/medias/corbell_compil.png)
+![](/medias/corbell_compil_250.png)
 
 **4) Corbbel - Heart of gold** 
 
