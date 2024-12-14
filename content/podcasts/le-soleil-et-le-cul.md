@@ -7,7 +7,7 @@ date: 2024-12-14T14:48:19.547Z
 durée: 03:29
 audio: /medias/01.-john-trap_le-soleil-et-le-cul.mp3
 ---
-![](/medias/john_trap_compil.png)
+![](/medias/john_trap_compil_250.png)
 
 **1) John Trap - Le soleil et le cul** 
 
