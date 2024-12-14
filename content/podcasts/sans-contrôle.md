@@ -1,7 +1,7 @@
 ---
 title: Sans contrôle
 picto: /medias/pictoaudio.png
-description: musique
+description: "Compil' #7 - Trock'Son / MJC "
 auteur: Au Revoir Bruno
 date: 2024-12-14T14:01:45.375Z
 durée: 04:43
