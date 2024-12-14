@@ -7,7 +7,7 @@ date: 2024-12-14T14:32:09.167Z
 durée: 03:50
 audio: /medias/06.-kick-et-flute_mieux-droit.mp3
 ---
-![](/medias/kik-flute.png)
+![](/medias/kik-flute_250.png)
 
 **6) Kick et Flûte - Mieux droit** 
 
