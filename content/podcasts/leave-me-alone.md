@@ -7,7 +7,7 @@ date: 2024-12-14T14:43:03.342Z
 durée: 03:54
 audio: /medias/03.-june_leave-me-alone.mp3
 ---
-![](/medias/june_compil.png)
+![](/medias/june_compil_250.png)
 
 **3) June - Leave me alone** 
 
