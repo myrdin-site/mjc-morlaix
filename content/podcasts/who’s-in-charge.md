@@ -7,7 +7,7 @@ date: 2024-12-14T14:07:36.731Z
 durée: 04:01
 audio: /medias/15.-floor-is-lava_who-s-in-charge.mp3
 ---
-![](/medias/floor_compil.png)
+![](/medias/floor_compil_250.png)
 
 **15) Floor Is Lava - Who’s in charge ?** 
 
