@@ -7,7 +7,7 @@ date: 2024-12-14T14:17:14.400Z
 durée: 03:00
 audio: /medias/12.-atitja_ecchymoses.mp3
 ---
-![](/medias/atija_compil.png)
+![](/medias/atija_compil_250.png)
 
 **12) Atitja - Ecchymoses** 
 
