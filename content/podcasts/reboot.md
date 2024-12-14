@@ -7,7 +7,7 @@ date: 2024-12-14T14:10:39.058Z
 durée: 03:17
 audio: /medias/14.-matto_reboot.mp3
 ---
-![](/medias/matto_compil.png)
+![](/medias/matto_compil_250.png)
 
 **14) Matto - Reboot** 
 
