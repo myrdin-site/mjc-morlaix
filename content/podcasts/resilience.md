@@ -1,7 +1,7 @@
 ---
 title: Resilience
 picto: /medias/pictoaudio.png
-description: musique
+description: "Compil' #7 - Trock'Son / MJC"
 auteur: Pink Granit
 date: 2024-12-14T13:55:56.755Z
 durée: 03:53
