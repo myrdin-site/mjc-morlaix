@@ -7,7 +7,7 @@ date: 2024-12-14T14:01:45.375Z
 durée: 04:43
 audio: /medias/16.-au-revoir-bruno_sans-controle.mp3
 ---
-![](/medias/au_revoir_bruno_compil.png)
+![](/medias/au_revoir_bruno_compil_250.png)
 
 **16) Au Revoir Bruno - Sans contrôle** 
 
