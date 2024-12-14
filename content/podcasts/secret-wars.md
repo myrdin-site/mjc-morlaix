@@ -1,7 +1,7 @@
 ---
 title: Secret wars
 picto: /medias/pictoaudio.png
-description: musique
+description: "Compil' #7 - Trock'Son / MJC"
 auteur: Chignole
 date: 2024-12-14T13:59:00.462Z
 durée: 03:05
