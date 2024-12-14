@@ -1,7 +1,7 @@
 ---
 title: Le soleil et le cul
 picto: /medias/pictoaudio.png
-description: musique
+description: "Compil' #7 - Trock'Son / MJC"
 auteur: John Trap
 date: 2024-12-14T13:48:51.004Z
 durée: 03:29
