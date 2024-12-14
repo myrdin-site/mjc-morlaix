@@ -7,7 +7,7 @@ date: 2024-12-14T14:19:39.197Z
 durée: 03:00
 audio: /medias/11.-eva-helia_timidite.mp3
 ---
-![](/medias/eva_compil.png)
+![](/medias/eva_compil_250.png)
 
 **11) Eva Hélia - Timidité** 
 
