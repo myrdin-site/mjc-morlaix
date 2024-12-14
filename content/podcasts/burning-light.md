@@ -7,7 +7,7 @@ date: 2024-12-14T14:22:10.833Z
 durée: 05:04
 audio: /medias/10.-anthares_burning-light.mp3
 ---
-![](/medias/anthares_compil.png)
+![](/medias/anthares_compil_250.png)
 
 **10) Anthares - Burning light** 
 
