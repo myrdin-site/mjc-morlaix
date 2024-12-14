@@ -7,7 +7,7 @@ date: 2024-12-14T14:38:05.176Z
 durée: 03:33
 audio: /medias/05.-ad-bestias_despite.mp3
 ---
-![](/medias/ad_bestias_compil.png)
+![](/medias/ad_bestias_compil_250.png)
 
 **5) Ad Bestias - Despite** 
 
