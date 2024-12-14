@@ -7,7 +7,7 @@ date: 2024-12-14T13:59:00.462Z
 durée: 03:05
 audio: /medias/17.-chignole_secret-wars.mp3
 ---
-![](/medias/chignole_compil.png)
+![](/medias/chignole_compil_250.png)
 
 **17) Chignole - Secret wars** 
 
