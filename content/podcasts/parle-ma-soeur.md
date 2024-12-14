@@ -7,7 +7,7 @@ date: 2024-12-14T14:29:52.020Z
 durée: 03:43
 audio: /medias/07.-crew-du-off_pms.mp3
 ---
-![](/medias/crew_compil.png)
+![](/medias/crew_compil_250.png)
 
 **7) Crew du Off - Parle ma soeur** 
 
