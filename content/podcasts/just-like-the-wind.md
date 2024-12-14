@@ -7,7 +7,7 @@ date: 2024-12-14T14:24:35.365Z
 durée: 04:39
 audio: /medias/09.-echo_just-like-the-wind.mp3
 ---
-![](/medias/echo_compil.png)
+![](/medias/echo_compil_250.png)
 
 **9) Echo - Just like the wind** 
 
