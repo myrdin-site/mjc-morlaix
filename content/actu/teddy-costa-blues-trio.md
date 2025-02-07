@@ -2,7 +2,7 @@
 title: TEDDY COSTA BLUES TRIO
 description: BLUES
 cover: /medias/teddy-costa-750x500px.jpg
-event_time: 2025-02-07T00:00:00.000Z
+event_time: 2025-02-07T20:30:00.000Z
 lieu: Auditorium
 prix_libre: false
 prix_plein: 10
