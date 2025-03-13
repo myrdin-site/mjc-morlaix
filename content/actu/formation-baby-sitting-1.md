@@ -7,3 +7,5 @@ lieu: MJC
 prix_libre: false
 ---
 ![Formation Baby-Sitting / MJC Morlaix](/medias/formation-baby-sitting-2025.jpg "Formation Baby-Sitting / MJC Morlaix")
+
+**Réunion d'information Collective le 2 Avril 2025 à 16h à la MJC**
