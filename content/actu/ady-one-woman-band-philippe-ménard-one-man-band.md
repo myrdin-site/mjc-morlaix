@@ -2,7 +2,7 @@
 title: ADY ONE WOMAN BAND + PHILIPPE MÉNARD ONE MAN BAND
 description: BLUES / BLUES ROCK
 cover: /medias/adi_menard-750x500pix.jpg
-event_time: 2025-04-25T17:00:00.000Z
+event_time: 2025-04-25T20:30:00.000Z
 lieu: Auditorium
 prix_libre: false
 prix_plein: 10
