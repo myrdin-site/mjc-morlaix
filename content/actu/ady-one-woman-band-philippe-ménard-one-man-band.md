@@ -2,7 +2,7 @@
 title: ADY ONE WOMAN BAND + PHILIPPE MÉNARD ONE MAN BAND
 description: BLUES / BLUES ROCK
 cover: /medias/adi_menard-750x500pix.jpg
-event_time: 2025-04-25T17:00:00.000Z
+event_time: 2025-04-25T20:30:00.000Z
 lieu: Auditorium
 prix_libre: false
 prix_plein: 10
@@ -18,6 +18,6 @@ prix_abonné: 6
 
 C’est la référence. Depuis plus de 20 ans, il parcourt opiniâtrement la France et l’Europe pour proposer avec talent, sincérité, humilité et passion, sa musique à la fois blues et rock. Homme-orchestre par excellence – vents (voix, harmonica), cordes (guitare électrique, guitare acoustique, mandoline parfois), percussions (batterie, …). La réputation scénique de Philippe Ménard est des plus solides : authenticité, entrain, richesse du répertoire, technicité musicale et originalité des compositions.
 
-**Vendredi 25 avril** - **17h00** - 10 € / 6 € (Non-Adhérents / Adhérents)
+**Vendredi 25 avril** - **20h30** - 10 € / 6 € (Non-Adhérents / Adhérents)
 
 [](https://www.mjcmorlaix.com/documents)
