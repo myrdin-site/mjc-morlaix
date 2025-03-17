@@ -17,3 +17,5 @@ Ces compositions aux influences jazz, pop et folk se mettent au service de la vo
 Textes de Emmanuelle Bouthillier, Stellis Groseil, Rebecca James, Azilis Klapper, Ingrid Pereira, Laura Perrudin, Oona Spengler.
 
 **Vendredi 21 mars** - **20h30** - 10 € / 6 € (Non-Adhérents / Adhérents
+
+<https://youtu.be/ynIHMVCGh64?si=flfw697Ls2ZVnL2n>
