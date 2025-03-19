@@ -1,5 +1,5 @@
 ---
-title: LE ROCK ALLEMAND
+title: ANNULATION
 description: CONF’N’ROCK
 cover: /medias/conf-n-rock-le-rock-allemand-annul-_h500pix.jpg
 event_time: 2025-04-01T20:15:00.000Z
