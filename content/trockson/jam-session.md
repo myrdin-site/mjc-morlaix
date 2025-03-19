@@ -1,6 +1,6 @@
 ---
 title: JAM SESSION
-description: Concert Trockson
+description: Live Trockson
 cover: /medias/jam-session-avril2025_h500px.jpg
 event_time: 2025-04-04T19:00:00.000Z
 lieu: Auditorium
