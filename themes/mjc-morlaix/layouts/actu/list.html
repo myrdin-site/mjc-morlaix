@@ -15,7 +15,7 @@
     <div class="actu__content">
       <h2>{{ .Title }}</h2>
       <p>
-        {{ .Summary | truncate 160 }} [<a href="{{ .RelPermalink }}">...</a>]
+        {{ .Summary | plainify | truncate 160 }} [<a href="{{ .RelPermalink }}">...</a>]
       </p>
     </div>
     <div class="actu__footer">

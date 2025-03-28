@@ -44,7 +44,7 @@
       <div class="agenda__middle">
         <h1>{{ .Title }}</h1>
         <p>
-          {{ .Summary | truncate 160}} [<a href="{{ .RelPermalink }}">...</a>]
+          {{ .Summary | plainify | truncate 160}} [<a href="{{ .RelPermalink }}">...</a>]
         </p>
         <div class="agenda__more">
           <a href="{{ .RelPermalink }}">> En savoir plus</a>
