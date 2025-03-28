@@ -17,12 +17,66 @@
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2022-04-30T11:19:42+00:00</lastmod>
+    <lastmod>2024-12-14T14:48:19+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/podcasts/les-chroniques-de-lauditorium/</loc>
-    <lastmod>2022-04-30T11:19:42+00:00</lastmod>
+    <loc>http://localhost:1313/podcasts/le-soleil-et-le-cul/</loc>
+    <lastmod>2024-12-14T14:48:19+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/podcasts/</loc>
+    <lastmod>2024-12-14T14:48:19+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/london-gardens/</loc>
+    <lastmod>2024-12-14T14:45:43+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/leave-me-alone/</loc>
+    <lastmod>2024-12-14T14:43:03+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/heart-of-gold/</loc>
+    <lastmod>2024-12-14T14:40:53+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/despite/</loc>
+    <lastmod>2024-12-14T14:38:05+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/mieux-droit/</loc>
+    <lastmod>2024-12-14T14:32:09+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/parle-ma-soeur/</loc>
+    <lastmod>2024-12-14T14:29:52+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/a-demain/</loc>
+    <lastmod>2024-12-14T14:27:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/just-like-the-wind/</loc>
+    <lastmod>2024-12-14T14:24:35+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/burning-light/</loc>
+    <lastmod>2024-12-14T14:22:10+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/timidit%C3%A9/</loc>
+    <lastmod>2024-12-14T14:19:39+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/ecchymoses/</loc>
+    <lastmod>2024-12-14T14:17:14+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/apes-2-0/</loc>
+    <lastmod>2024-12-14T14:13:03+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/reboot/</loc>
+    <lastmod>2024-12-14T14:10:39+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/whos-in-charge/</loc>
+    <lastmod>2024-12-14T14:07:36+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/sans-contr%C3%B4le/</loc>
+    <lastmod>2024-12-14T14:01:45+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/secret-wars/</loc>
+    <lastmod>2024-12-14T13:59:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/resilience/</loc>
+    <lastmod>2024-12-14T13:55:56+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/les-chroniques-de-lauditorium/</loc>
     <lastmod>2022-04-30T11:19:42+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/podcasts/la-jeunesse-envoie-des-ondes/</loc>
@@ -44,11 +98,15 @@
   </url><url>
     <loc>http://localhost:1313/documents/tarifs-adh%C3%A9sion-mjc/</loc>
   </url><url>
+    <loc>http://localhost:1313/actu/ady-one-woman-band-philippe-m%C3%A9nard-one-man-band/</loc>
+  </url><url>
     <loc>http://localhost:1313/agenda/ady-one-woman-band-philippe-m%C3%A9nard-one-man-band/</loc>
   </url><url>
     <loc>http://localhost:1313/activites/anglais-1/</loc>
   </url><url>
-    <loc>http://localhost:1313/actu/anthares-la-cabra/</loc>
+    <loc>http://localhost:1313/actu/le-rock-allemand/</loc>
+  </url><url>
+    <loc>http://localhost:1313/agenda/le-rock-allemand/</loc>
   </url><url>
     <loc>http://localhost:1313/agenda/anthares-la-cabra/</loc>
   </url><url>
@@ -64,17 +122,19 @@
   </url><url>
     <loc>http://localhost:1313/activites/balade-loisirs/</loc>
   </url><url>
-    <loc>http://localhost:1313/actu/bb-king-h%C3%A9l%C3%A8ne-palardy/</loc>
-  </url><url>
     <loc>http://localhost:1313/agenda/bb-king-h%C3%A9l%C3%A8ne-palardy/</loc>
   </url><url>
     <loc>http://localhost:1313/agenda/bruce-springsteen-de-born-to-run-%C3%A0-born-in-the-usa/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/documents/consulter-la-brochure-des-activit%C3%A9s/</loc>
+  </url><url>
+    <loc>http://localhost:1313/documents/consultez-la-nouvelle-programmation/</loc>
+  </url><url>
     <loc>http://localhost:1313/activites/couture-1/</loc>
   </url><url>
-    <loc>http://localhost:1313/agenda/dik-banovich/</loc>
+    <loc>http://localhost:1313/agenda/dik-banovich-1/</loc>
   </url><url>
     <loc>http://localhost:1313/documents/</loc>
   </url><url>
@@ -82,13 +142,11 @@
   </url><url>
     <loc>http://localhost:1313/activites/espagnol/</loc>
   </url><url>
-    <loc>http://localhost:1313/trockson/f%C3%AAte-de-la-musique-1/</loc>
-  </url><url>
     <loc>http://localhost:1313/documents/fiche-dinscription/</loc>
   </url><url>
-    <loc>http://localhost:1313/actu/floor-is-lava/</loc>
-  </url><url>
     <loc>http://localhost:1313/agenda/floor-is-lava/</loc>
+  </url><url>
+    <loc>http://localhost:1313/actu/formation-baby-sitting-1/</loc>
   </url><url>
     <loc>http://localhost:1313/agenda/grand-jacques/</loc>
   </url><url>
@@ -98,15 +156,17 @@
   </url><url>
     <loc>http://localhost:1313/agenda/iggy-the-stooges/</loc>
   </url><url>
-    <loc>http://localhost:1313/agenda/jim-roberts-quintet/</loc>
+    <loc>http://localhost:1313/actu/jam-session/</loc>
+  </url><url>
+    <loc>http://localhost:1313/trockson/jam-session/</loc>
+  </url><url>
+    <loc>http://localhost:1313/agenda/jim-roberts-quintet-1/</loc>
   </url><url>
     <loc>http://localhost:1313/agenda/la-poup%C3%A9e-die-puppe/</loc>
   </url><url>
-    <loc>http://localhost:1313/agenda/le-rock-allemand/</loc>
-  </url><url>
-    <loc>http://localhost:1313/actu/mathieu-crochemore-quartet/</loc>
-  </url><url>
     <loc>http://localhost:1313/agenda/mathieu-crochemore-quartet/</loc>
+  </url><url>
+    <loc>http://localhost:1313/actu/sisters-letters-paul-andrzejewski-trio-1/</loc>
   </url><url>
     <loc>http://localhost:1313/agenda/mazingo/</loc>
   </url><url>
@@ -116,7 +176,15 @@
   </url><url>
     <loc>http://localhost:1313/activites/postural-ball-1/</loc>
   </url><url>
+    <loc>http://localhost:1313/actu/pr%C3%A9pare-ton-%C3%A9t%C3%A9/</loc>
+  </url><url>
     <loc>http://localhost:1313/agenda/programme-juillet-2024/</loc>
+  </url><url>
+    <loc>http://localhost:1313/documents/programme-vacances-de-toussaint-2024-mjc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/documents/programme-vacances-de-toussaint-2024-sij/</loc>
+  </url><url>
+    <loc>http://localhost:1313/documents/recrutement-secr%C3%A9taire-comptable-mjc/</loc>
   </url><url>
     <loc>http://localhost:1313/agenda/sisters-letters-paul-andrzejewski-trio/</loc>
   </url><url>
@@ -127,8 +195,6 @@
     <loc>http://localhost:1313/documents/tarifs-des-activit%C3%A9s/</loc>
   </url><url>
     <loc>http://localhost:1313/agenda/teddy-costa-blues-trio/</loc>
-  </url><url>
-    <loc>http://localhost:1313/actu/the-dirty-llamas/</loc>
   </url><url>
     <loc>http://localhost:1313/agenda/the-dirty-llamas/</loc>
   </url><url>
@@ -142,11 +208,11 @@
   </url><url>
     <loc>http://localhost:1313/agenda/trois-m%C3%A9s-aventures-dharold-lloyd/</loc>
   </url><url>
-    <loc>http://localhost:1313/actu/ultimatum-3/</loc>
-  </url><url>
     <loc>http://localhost:1313/agenda/ultimatum-3/</loc>
   </url><url>
     <loc>http://localhost:1313/agenda/up-cycling/</loc>
+  </url><url>
+    <loc>http://localhost:1313/actu/vacances-de-printemps/</loc>
   </url><url>
     <loc>http://localhost:1313/agenda/wasla/</loc>
   </url><url>

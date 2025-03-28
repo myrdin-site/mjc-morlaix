@@ -10,7 +10,7 @@
     href="/slick/accessible-slick-theme.min.css"
   />
   {{ $sass := resources.Get "scss/main.scss" }} {{ $style := $sass |
-  resources.ToCSS (dict "enableSourceMap" true) | resources.Fingerprint }}
+  css.Sass (dict "enableSourceMap" true) | resources.Fingerprint }}
   <link
     rel="stylesheet"
     href="{{ $style.Permalink }}"

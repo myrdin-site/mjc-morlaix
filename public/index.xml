@@ -6,8 +6,8 @@
     <description>Recent content in BIENVENUE ! on MJC Morlaix</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>2022 - 2023 © MJC Morlaix</copyright>
-    <lastBuildDate>Sat, 30 Apr 2022 11:19:42 +0000</lastBuildDate>
+    <copyright>2022 - 2025 © MJC Morlaix</copyright>
+    <lastBuildDate>Sat, 14 Dec 2024 14:48:19 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La MJC</title>
@@ -31,53 +31,179 @@
       <description></description>
     </item>
     <item>
+      <title>Le soleil et le cul </title>
+      <link>http://localhost:1313/podcasts/le-soleil-et-le-cul/</link>
+      <pubDate>Sat, 14 Dec 2024 14:48:19 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/le-soleil-et-le-cul/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/john_trap_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1) John Trap - Le soleil et le cul&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Multi-instrumentiste, John Trap compose, enregistre et interprète des chansons dans lesquelles il développe une matière musicale foisonnante, pop-rock onirique mêlée d’accents expérimentaux. &lt;br&gt;&#xA;Et si le regard porté sur le monde se fait parfois noir, c’est pour dire la nécessité de s’exprimer et de s’aimer. »&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>London gardens</title>
+      <link>http://localhost:1313/podcasts/london-gardens/</link>
+      <pubDate>Sat, 14 Dec 2024 14:45:43 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/london-gardens/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/coastal_run_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;2) Coastal Run - London gardens&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Coastal Run, c’est le projet de Dylan Le Foll, jeune franco-anglais breton, désormais accompagné de quatre musiciens. Ses compositions, au son Folk-Rock, sont le reflet de son regard sur la jeunesse, l’amour et l’amitié.&lt;br&gt;&#xA;Après un premier EP « Live » sorti en janvier 2024, le premier album de Coastal Run a suivi en avril 2024. Il en ressort une pop folk solaire qui fait voyager ! »&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Leave me alone</title>
+      <link>http://localhost:1313/podcasts/leave-me-alone/</link>
+      <pubDate>Sat, 14 Dec 2024 14:43:03 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/leave-me-alone/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/june_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;3) June - Leave me alone&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« JUNE évolue dans un univers faisant référence aux 70’s mais à la sauce 2024. Ces cinq morlaisiens.nes s’amusent à jouer avec les intensités et trouvent l’équilibre entre morceaux bruts et séquences plus Soul. &lt;br&gt;&#xA;Le clavier vient colorer les riffs de guitare parfois rugueux. Le tout est porté par un duo basse-batterie solide et efficace réhaussé par une voix puissante et envoûtante. »&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Heart of gold</title>
+      <link>http://localhost:1313/podcasts/heart-of-gold/</link>
+      <pubDate>Sat, 14 Dec 2024 14:40:53 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/heart-of-gold/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/corbell_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;4) Corbbel - Heart of gold&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Un trio Dark-Folk composé de Pierrick CORBEL (guitare acoustique-chant) Eric Cervera (guitare électrique et arrangements) et Romane Rosser (clavier- chant), quelque part entre Timber Timbre, PJ Harvey ou Sparklehorse. &lt;br&gt;&#xA;Des compositions « sad and blue » parfois teintées d’ironie, qui font apparaître des images en noir et blanc dans un théâtre à l’italienne. »&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Despite</title>
+      <link>http://localhost:1313/podcasts/despite/</link>
+      <pubDate>Sat, 14 Dec 2024 14:38:05 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/despite/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/ad_bestias_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;5) Ad Bestias - Despite&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Ad Bestias est une formation franco-germano-bosniaque résolument inclassable : Une solide base Hard Rock bien musclée mais poétique qui flirte avec du Métal, du Punk, du Funk, des mélodies traditionnelles et autres inspirations. &lt;br&gt;&#xA;Le chant navigue entre belles mélodies et une large panoplie des possibles, offerts par la voix humaine par une fusion toute particulière. »&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mieux droit</title>
+      <link>http://localhost:1313/podcasts/mieux-droit/</link>
+      <pubDate>Sat, 14 Dec 2024 14:32:09 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/mieux-droit/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/kik-flute_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;6) Kick et Flûte - Mieux droit&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Kick &amp;amp; Flûte, c’est le rythme et la mélodie, les machines et la clarinette. Une musique dansante, frappante, mélodieuse aussi, inventive et drôle. Un mélange du savant et du populaire, de l’écrit et de l’improvisé, de la musique commerciale alternative. »&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Parle ma soeur</title>
+      <link>http://localhost:1313/podcasts/parle-ma-soeur/</link>
+      <pubDate>Sat, 14 Dec 2024 14:29:52 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/parle-ma-soeur/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/crew_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;7) Crew du Off - Parle ma soeur&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Le crew du Off&amp;hellip; si le destin les a réunies c’est pour représenter et porter de manière non-exclusive la voix des femmes . Elles revisitent par le chant, le slam et le rap les sujets portés par l’actualité qu’elles abordent avec conscience, sensibilité et profondeur. »&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A demain</title>
+      <link>http://localhost:1313/podcasts/a-demain/</link>
+      <pubDate>Sat, 14 Dec 2024 14:27:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/a-demain/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/prauves_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;8) Pauvre S - A demain&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Pauvre S, ce sont des mots qui chantent l’intime et la quête de soi. Au travers de textes qui fouillent l’angoisse de l’usure, qui creusent la peur des lendemains incertains, c’est l’expression en filigrane de la difficulté d’être au monde. &lt;br&gt;&#xA;Sur une Pop-Folk Poétique où l’introspection côtoie l’ universel, c’est toujours un chant funambule qui avance entre désillusion et espoir. »&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Just like the wind</title>
+      <link>http://localhost:1313/podcasts/just-like-the-wind/</link>
+      <pubDate>Sat, 14 Dec 2024 14:24:35 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/just-like-the-wind/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/echo_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;9) Echo - Just like the wind&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Du haut de ses trois ans d’existence, Echo joue avec les codes de la Soul et du Rock pour donner à ses compositions une énergie et un groove entraînant. &lt;br&gt;&#xA;Forgé au fil des concerts dans toute la Bretagne, le son de Echo se pose comme la synthèse des influences de ses membres, des Black pumas aux Blacks Keys, de Led Zeppelin à Marvin Gaye, Écho a bâti un son unique à travers son Soul-Rock moderne.»&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Burning light</title>
+      <link>http://localhost:1313/podcasts/burning-light/</link>
+      <pubDate>Sat, 14 Dec 2024 14:22:10 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/burning-light/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/anthares_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;10) Anthares - Burning light&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Thrash metal from Britanny. Anthares, c’est presque 30 ans à faire saigner la Flying V et exploser les peaux de caisse claire. 2 EP et 3 albums dont le dernier « After the war » ponctuent un parcours où les compromis ne sont pas permis. &lt;br&gt;&#xA;En 1999, la mémoire, en 2019, le chaos et bientôt la guerre… 3 albums, 3 voix différentes mais sans jamais s’écarter d’un seul et unique chemin ponctué de riffs assassins et de frénétiques galopades rythmiques. »&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Timidité</title>
+      <link>http://localhost:1313/podcasts/timidit%C3%A9/</link>
+      <pubDate>Sat, 14 Dec 2024 14:19:39 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/timidit%C3%A9/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/eva_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;11) Eva Hélia - Timidité&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Eva Hélia se produit seule en scène entourée de son piano et de ses machines. Sa musique, à la croisée des chemins entre chanson et nouvelle Pop-Electro dévoile un univers ciselé habité par sa voix et sa présence magnétique, sublimé par des mélodies « catchy » et des textes poignants en français. &lt;br&gt;&#xA;Son titre «Timidité « ouvre son EP « DOULEUR DOUCEUR » sorti en Mars 2024. »&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ecchymoses</title>
+      <link>http://localhost:1313/podcasts/ecchymoses/</link>
+      <pubDate>Sat, 14 Dec 2024 14:17:14 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/ecchymoses/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/atija_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;12) Atitja - Ecchymoses&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;Après plusieurs esquisses musicales tracées seul pendant deux ans, il est temps pour Atitja de se dévoiler pleinement en affirmant un style et une esthétique à son image. &lt;br&gt;&#xA;En s’associant avec le « beatmaker » Samgi pour composer de nouvelles chansons aux sonorités plus électroniques, le rappeur morlaisien sublime une écriture introspective par des flows rappés et mélodiques. »&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apes 2.0</title>
+      <link>http://localhost:1313/podcasts/apes-2-0/</link>
+      <pubDate>Sat, 14 Dec 2024 14:13:03 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/apes-2-0/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/dlc_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;13) The Dirty Llamas - Apes 2.0&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« The Dirty Llamas convoquent et invoquent les esprits tourmentés de Black Sab’ , Led Zep’, et du Thin White Duke ( mais pas que&amp;hellip; ) pour forger un style oscillant entre Stoner Rock, Métal et Psyché planant. &lt;br&gt;&#xA;Ces trois vétérans de la scène musicale nord-finistérienne délivrent un son massif à grands coups de compos acérées dans la langue de Shakespeare, qui, à une tout autre époque, aurait peut-être été embauché comme chanteur dans un groupe de Rock… »&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reboot</title>
+      <link>http://localhost:1313/podcasts/reboot/</link>
+      <pubDate>Sat, 14 Dec 2024 14:10:39 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/reboot/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/matto_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;14) Matto - Reboot&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Le combat n’est jamais aussi dur que lorsqu’on fait face à soi-même. Dans le rap comme dans le skate, Matto est son propre adversaire et a appris à se relever car derrière chaque chute se trouve une victoire. Il façonne un style profond et fidèle à son histoire personnelle. &lt;br&gt;&#xA;Ses trois EP résonnent comme une immersion dans les instants de sa vie. »&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Who’s in charge ? </title>
+      <link>http://localhost:1313/podcasts/whos-in-charge/</link>
+      <pubDate>Sat, 14 Dec 2024 14:07:36 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/whos-in-charge/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/floor_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;15) Floor Is Lava - Who’s in charge ?&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Nous sommes FLOOR IS LAVA, nous chantons la liberté, nous la faisons résonner fortement. Le seul groupe au monde composé d’un dissident et anarchiste de Leningrad et d’une batteuse de Morlaix. Feddy Lavrov et Isa et C. ont formé le duo en 2024, déjà sorti deux albums et travaillent sur de nouveaux morceaux. »&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sans contrôle</title>
+      <link>http://localhost:1313/podcasts/sans-contr%C3%B4le/</link>
+      <pubDate>Sat, 14 Dec 2024 14:01:45 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/sans-contr%C3%B4le/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/au_revoir_bruno_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;16) Au Revoir Bruno - Sans contrôle&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« «Sans contrôle» morceau décharné du projet de Coldwave Morlaisien «Au revoir Bruno». Il est le fruit d’une anxiété longuement subie, longuement vécue, longuement maturée. &lt;br&gt;&#xA;A l’aide d’une boite à rythme qui court à toute vitesse et d’une basse rugueuse, Au revoir Bruno nous conte une journée tapissée d’angoisse où le vertige et les palpitations obstruent le cerveau d’un individu qui doit se concentrer pour respirer et se calmer »&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Secret wars</title>
+      <link>http://localhost:1313/podcasts/secret-wars/</link>
+      <pubDate>Sat, 14 Dec 2024 13:59:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/secret-wars/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/chignole_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;17) Chignole - Secret wars&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Après quelques années en dilettante, passées à fréquenter des batteurs en préretraite et des bassistes poseurs de lapin, Chignole trouve enfin son blase et sa formule parfaite courant 2023. &lt;br&gt;&#xA;Un original trio guitare/basse/batterie flanqué d’un chant pas toujours « hyper juste » mais réalisé avec conviction. Mélodique et abrasif, Rock, Punk, parfois Noisy, son premier EP 9 titres auto-produit intitulé « Box » voit le jour fin 2024. »&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resilience</title>
+      <link>http://localhost:1313/podcasts/resilience/</link>
+      <pubDate>Sat, 14 Dec 2024 13:55:56 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/resilience/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/pink_granit_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;18) Pink Granit - Résilience&lt;/strong&gt; &lt;br&gt;&#xA;« Pink Granit est un groupe de Rock dynamique formé en 2022. Il est composé de quatre membres, Steff AC à la guitare et au chant, Phil à la basse, Thibaut à la guitare et Fred à la batterie. Le groupe a su rapidement se faire une expérience sur la scène musicale locale avec de nombreux concerts à son actif. Au plaisir de se voir sur scène ! »&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Les Chroniques de l&#39;Auditorium</title>
       <link>http://localhost:1313/podcasts/les-chroniques-de-lauditorium/</link>
       <pubDate>Sat, 30 Apr 2022 11:19:42 +0000</pubDate>
       <guid>http://localhost:1313/podcasts/les-chroniques-de-lauditorium/</guid>
-      <description>Retour sur l&amp;rsquo;aprés-midi jeux du monde, qui à eu lieu à la MJC de Morlaix le 30 avril 2022, dans le cadre du Festival &amp;quot; On part à l&amp;rsquo;aventure&amp;quot;&amp;hellip;</description>
+      <description>&lt;p&gt;Retour sur l&amp;rsquo;aprés-midi jeux du monde, qui à eu lieu à la MJC de Morlaix le 30 avril 2022, dans le cadre du Festival &amp;quot; On part à l&amp;rsquo;aventure&amp;quot;&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>La Jeunesse Envoie Des Ondes</title>
       <link>http://localhost:1313/podcasts/la-jeunesse-envoie-des-ondes/</link>
       <pubDate>Fri, 10 Jul 2020 12:24:00 +0000</pubDate>
       <guid>http://localhost:1313/podcasts/la-jeunesse-envoie-des-ondes/</guid>
-      <description>L’émission «La Jeunesse Envoie Des Ondes» propose une création sonore globale (musique, bruitage, voix , écriture, captation et montage), sous forme de radio fiction sur le thème de la pandémie en cours&amp;hellip;</description>
+      <description>&lt;p&gt;&lt;strong&gt;L’émission «La Jeunesse Envoie Des Ondes»  propose une création sonore globale&lt;/strong&gt; (musique, bruitage, voix , écriture, captation et montage), sous forme de radio fiction sur le thème de la pandémie en cours&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AD Lib #3</title>
       <link>http://localhost:1313/podcasts/ad-lib-3/</link>
       <pubDate>Sat, 21 Dec 2019 14:27:25 +0000</pubDate>
       <guid>http://localhost:1313/podcasts/ad-lib-3/</guid>
-      <description>Ad Lib #3 - une émission 100% live, en prise &amp;ldquo;sèche&amp;rdquo;, où nos chroniqueurs lisent des textes d&amp;rsquo;auteurs choisis par leurs soins, ou des textes écrits par eux-même, le tout porté par les improvisations des musiciens invités à cette occasion.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Ad Lib #3 - une émission 100% live&lt;/strong&gt;, en prise &amp;ldquo;sèche&amp;rdquo;, où nos chroniqueurs lisent des textes d&amp;rsquo;auteurs choisis par leurs soins, ou des textes écrits par eux-même, le tout porté par les improvisations des musiciens invités à cette occasion.&lt;/p&gt;</description>
     </item>
     <item>
       <title>La Jeunesse Envoie Des Ondes</title>
       <link>http://localhost:1313/podcasts/la-jeunesse-envoie-des-ondes-1/</link>
       <pubDate>Sat, 20 Jul 2019 13:00:53 +0000</pubDate>
       <guid>http://localhost:1313/podcasts/la-jeunesse-envoie-des-ondes-1/</guid>
-      <description>L’émission «La Jeunesse Envoie Des Ondes» propose 2 créations sonore globale (musique, bruitage, voix et interprétation, écriture, captation et montage) sous forme d&amp;rsquo;une radio fiction &amp;ldquo;Tellement Fake&amp;rdquo; et d&amp;rsquo;une nouvelle création musicale et littéraire&amp;hellip; improvisée et nomade &amp;ldquo;Ad Lib&amp;rdquo;.</description>
+      <description>&lt;p&gt;&lt;strong&gt;L’émission «La Jeunesse Envoie Des Ondes» propose 2 créations&lt;/strong&gt; sonore globale (musique, bruitage, voix et interprétation, écriture, captation et montage) sous forme d&amp;rsquo;une radio fiction &amp;ldquo;Tellement Fake&amp;rdquo; et d&amp;rsquo;une nouvelle création musicale et littéraire&amp;hellip; improvisée et nomade &amp;ldquo;Ad Lib&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Love And Pop</title>
       <link>http://localhost:1313/podcasts/love-and-pop/</link>
       <pubDate>Sat, 05 Jan 2019 13:39:42 +0000</pubDate>
       <guid>http://localhost:1313/podcasts/love-and-pop/</guid>
-      <description>L’émission mensuelle «Love And Pop» balaye, par l’intermédiaire des chroniqueurs des ateliers radio, les tendances et les émergences de la «pop culture» qui les ont interpellés ou intéressés&amp;hellip;</description>
+      <description>&lt;p&gt;&lt;strong&gt;L’émission mensuelle «Love And Pop»&lt;/strong&gt; balaye, par l’intermédiaire des chroniqueurs des ateliers radio, les tendances et les émergences de la «pop culture» qui les ont interpellés ou intéressés&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>RADIOPHONIE</title>
       <link>http://localhost:1313/podcasts/radiophonie/</link>
       <pubDate>Sat, 15 Dec 2018 13:33:57 +0000</pubDate>
       <guid>http://localhost:1313/podcasts/radiophonie/</guid>
-      <description>L’émission RADIOPHONIE revient sur le Festival des solidarités qui à eu lieu à l’auditorium de la MJC en 2018.&#xA;Toute l’équipe de Radio MJC, se sont attablés pour interviewer les différents représentants de associations du territoire sur leurs projets d’actions quotidiens et futurs&amp;hellip;</description>
+      <description>&lt;p&gt;&lt;strong&gt;L’émission RADIOPHONIE revient sur le Festival des solidarités qui à eu lieu à l’auditorium de la MJC en 2018&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Toute l’équipe de Radio MJC, se sont attablés pour interviewer les différents représentants de associations du territoire sur leurs projets d’actions quotidiens et futurs&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/plan-du-site/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/plan-du-site/</guid>
-      <description>Plan du site Ce plan du site présente les pages importantes du site.&#xA;Présentation de la MJC Accueil La MJC Activités Informations jeunesse Trock&amp;rsquo;son Informations pratiques et contact Contact Documentation Actualités et agenda Ces pages contiennent des liens vers les pages de chaque actualités ou des événements atteignables via la pagination ou par les liens &amp;ldquo;En savoir plus&amp;rdquo; de chaque article.</description>
+      <description>&lt;h1 id=&#34;plan-du-site&#34;&gt;Plan du site&lt;/h1&gt;&#xA;&lt;p&gt;Ce plan du site présente les pages importantes du site.&lt;/p&gt;&#xA;&lt;h2 id=&#34;présentation-de-la-mjc&#34;&gt;Présentation de la MJC&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/&#34;&gt;Accueil&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/la-mjc/&#34;&gt;La MJC&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/activites/&#34;&gt;Activités&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/infos-jeunesse/&#34;&gt;Informations jeunesse&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/trockson/&#34;&gt;Trock&amp;rsquo;son&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;informations-pratiques-et-contact&#34;&gt;Informations pratiques et contact&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;Contact&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/documents/&#34;&gt;Documentation&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;actualités-et-agenda&#34;&gt;Actualités et agenda&lt;/h2&gt;&#xA;&lt;p&gt;Ces pages contiennent des liens vers les pages de chaque actualités ou des événements atteignables via la pagination ou par&#xA;les liens &amp;ldquo;En savoir plus&amp;rdquo; de chaque article.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Adhésion MJC &amp; Conditions d&#39;accès aux spectacles</title>
@@ -88,10 +214,17 @@
     </item>
     <item>
       <title>ADY ONE WOMAN BAND &#43; PHILIPPE MÉNARD ONE MAN BAND</title>
+      <link>http://localhost:1313/actu/ady-one-woman-band-philippe-m%C3%A9nard-one-man-band/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/actu/ady-one-woman-band-philippe-m%C3%A9nard-one-man-band/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/adi_menard-750x500pix.jpg&#34; alt=&#34;ADY ONE WOMAN BAND + PHILIPPE MÉNARD ONE MAN BAND&#34; title=&#34;ADY ONE WOMAN BAND + PHILIPPE MÉNARD ONE MAN BAND&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Une soirée avec deux One Woman / One Man Blues Band sur scène !&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ADY ONE WOMAN BAND &#43; PHILIPPE MÉNARD ONE MAN BAND</title>
       <link>http://localhost:1313/agenda/ady-one-woman-band-philippe-m%C3%A9nard-one-man-band/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/agenda/ady-one-woman-band-philippe-m%C3%A9nard-one-man-band/</guid>
-      <description>Une soirée avec deux One Woman / One Man Blues Band sur scène !&#xA;Ady, alias Ady One Woman Band, est une musicienne polyvalente.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/adi_menard-750x500pix.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Une soirée avec deux One Woman / One Man Blues Band sur scène !&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ady, alias Ady One Woman Band, est une musicienne polyvalente. Percussions aux pieds, guitare ou cigare box en main, mêle avec modernité Blues, Boogie et Rock’n’Roll dans ce projet unique en France&lt;/strong&gt;.  C’est le blues qui coule dans ses veines et façonne sa voix. Sa voix puissante et ses performances captivantes lui ont valu une reconnaissance croissante sur la scène musicale jusqu’à obtenir le 1er prix France Blues dans catégorie Solo/Duo en 2024.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Anglais</title>
@@ -101,25 +234,32 @@
       <description></description>
     </item>
     <item>
-      <title>ANTHARES &#43; LA CABRA</title>
-      <link>http://localhost:1313/actu/anthares-la-cabra/</link>
+      <title>ANNULATION</title>
+      <link>http://localhost:1313/actu/le-rock-allemand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/actu/anthares-la-cabra/</guid>
-      <description>Originaire de Seattle (USA) LACABRA est un groupe de metal né sur le lit de cendres de la pandémie de Covid-19 et formé par un groupe d’amis : Richie Sather (batterie), Eric Weber (basse), Eric Snyder (guitare et chant), Michael Anthony (guitare) et Lance Neatherlin (chant).</description>
+      <guid>http://localhost:1313/actu/le-rock-allemand/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/conf-n-rock-rockallemand-annul-_750pix.jpg&#34; alt=&#34;LE ROCK ALLEMAND&#34; title=&#34;CONF’N’ROCK&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;La conférence &amp;ldquo;Le Rock Allemand&amp;rdquo; initialement prévue pour le mardi 1er avril et proposée dans notre cycle de conférences &amp;ldquo;Les Conf&amp;rsquo;n&amp;rsquo;Rock avec Christophe Brault&amp;rdquo; est annulée.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ANNULATION</title>
+      <link>http://localhost:1313/agenda/le-rock-allemand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/agenda/le-rock-allemand/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/conf-n-rock-rockallemand-annul-_750pix.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Avec Christophe Brault, DJ, animateur radio, diplômé en musicologie, conférencier Musiques Actuelles.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;La conférence &amp;ldquo;Le Rock Allemand&amp;rdquo; initialement prévue pour le mardi 1er avril et proposée dans notre cycle de conférences &amp;ldquo;Les Conf&amp;rsquo;n&amp;rsquo;Rock avec Christophe Brault&amp;rdquo; est annulée.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>ANTHARES &#43; LA CABRA</title>
       <link>http://localhost:1313/agenda/anthares-la-cabra/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/agenda/anthares-la-cabra/</guid>
-      <description>Originaire de Seattle (USA) LACABRA est un groupe de metal né sur le lit de cendres de la pandémie de Covid-19 et formé par un groupe d’amis : Richie Sather (batterie), Eric Weber (basse), Eric Snyder (guitare et chant), Michael Anthony (guitare) et Lance Neatherlin (chant).</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/monytage-antar-cabra.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Originaire de Seattle (USA) LACABRA est un groupe de metal né sur le lit de cendres de la pandémie de Covid-19 et formé par un groupe d’amis :&lt;/strong&gt; Richie Sather (batterie), Eric Weber (basse), Eric Snyder (guitare et chant), Michael Anthony (guitare) et Lance Neatherlin (chant).&lt;/p&gt;</description>
     </item>
     <item>
       <title>ANTHONY STELMASZACK </title>
       <link>http://localhost:1313/agenda/anthony-stelmaszack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/agenda/anthony-stelmaszack/</guid>
-      <description>Chanteur, guitariste, harmoniciste, mandoliniste, également bassiste ou batteur à ses heures, Anthony Stelmaszack est un personnage incontournable de la scène blues française.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/anthony-stelmaszack-750x500px.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Chanteur, guitariste, harmoniciste, mandoliniste, également bassiste ou batteur à ses heures, Anthony Stelmaszack est un personnage incontournable de la scène blues française.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Arts Plastiques</title>
@@ -133,7 +273,7 @@
       <link>http://localhost:1313/agenda/ast%C3%A9ro%C3%AFdes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/agenda/ast%C3%A9ro%C3%AFdes/</guid>
-      <description>La rencontre des deux personnages, Sacha et Sol. La construction d’une amitié impossible. Astéroïdes : comme deux éléments cosmiques qui se percutent.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/asteroides-750x500px.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;La rencontre des deux personnages, Sacha et Sol. La construction d’une amitié impossible.&#xA;Astéroïdes : comme deux éléments cosmiques qui se percutent.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Atelier Peinture Dessin</title>
@@ -158,24 +298,31 @@
     </item>
     <item>
       <title>BB King HÉLÈNE PALARDY</title>
-      <link>http://localhost:1313/actu/bb-king-h%C3%A9l%C3%A8ne-palardy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/actu/bb-king-h%C3%A9l%C3%A8ne-palardy/</guid>
-      <description>Tout le monde l’attendait : Bébé King est arrivé !&#xA;Maman joue et chante pour que son bébé guitare trouve le sommeil.</description>
-    </item>
-    <item>
-      <title>BB King HÉLÈNE PALARDY</title>
       <link>http://localhost:1313/agenda/bb-king-h%C3%A9l%C3%A8ne-palardy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/agenda/bb-king-h%C3%A9l%C3%A8ne-palardy/</guid>
-      <description>Tout le monde l’attendait : Bébé King est arrivé !&#xA;Maman joue et chante pour que son bébé guitare trouve le sommeil.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/be%CC%81be%CC%81-king-helene_palardy-750x500px.jpg&#34; alt=&#34;BB King HÉLÈNE PALARDY&#34; title=&#34;BB King HÉLÈNE PALARDY&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tout le monde l’attendait : Bébé King est arrivé !&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Maman joue et chante pour que son bébé guitare trouve le sommeil. La maison est  enchantée&amp;hellip; surtout les petites créatures qui se cachent sous la cheminée !&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bruce Springsteen,  de “Born to Run” à “Born in The USA”</title>
       <link>http://localhost:1313/agenda/bruce-springsteen-de-born-to-run-%C3%A0-born-in-the-usa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/agenda/bruce-springsteen-de-born-to-run-%C3%A0-born-in-the-usa/</guid>
-      <description>Avec Christophe Brault, DJ, animateur radio, diplômé en musicologie, conférencier Musiques Actuelles&#xA;Le natif du New Jersey, fan de Bob Dylan, est toujours aujourd’hui un des rockers les plus actifs du circuit.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/bruce_springsteen_750x500px.jpg&#34; alt=&#34;Bruce Springsteen,  de “Born to Run” à “Born in The USA”&#34; title=&#34;CONF’N’ROCK&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Avec Christophe Brault, DJ, animateur radio, diplômé en musicologie, conférencier Musiques Actuelles&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Consultez la Brochure des Activités</title>
+      <link>http://localhost:1313/documents/consulter-la-brochure-des-activit%C3%A9s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/documents/consulter-la-brochure-des-activit%C3%A9s/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Consultez la Nouvelle Programmation</title>
+      <link>http://localhost:1313/documents/consultez-la-nouvelle-programmation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/documents/consultez-la-nouvelle-programmation/</guid>
+      <description></description>
     </item>
     <item>
       <title>Couture</title>
@@ -185,11 +332,11 @@
       <description></description>
     </item>
     <item>
-      <title>Dik Banovich</title>
-      <link>http://localhost:1313/agenda/dik-banovich/</link>
+      <title>DIK BANOVICH</title>
+      <link>http://localhost:1313/agenda/dik-banovich-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/agenda/dik-banovich/</guid>
-      <description>Soirée “FESTI’BLUES” [2 concerts]&#xA;Élevé à Chicago dans les années 60, Dik Banovich est influencé très tôt par le blues, le swing et autres styles de musique de guitare américain.</description>
+      <guid>http://localhost:1313/agenda/dik-banovich-1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/dik-banovich-750x500px.jpg&#34; alt=&#34;DIK BANOVICH&#34; title=&#34;FESTI&#39;BLUES&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Soirée “FESTI’BLUES” [2 concerts]&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Élevé à Chicago dans les années 60, Dik Banovich est influencé très tôt par le blues, le swing et autres styles de musique de guitare américain.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>École de Cirque</title>
@@ -206,13 +353,6 @@
       <description></description>
     </item>
     <item>
-      <title>Fête de la Musique</title>
-      <link>http://localhost:1313/trockson/f%C3%AAte-de-la-musique-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/trockson/f%C3%AAte-de-la-musique-1/</guid>
-      <description>FÊTE DE LA MUSIQUE 2024 - Plateau MJC / Trock’Son&#xA;Retrouvez et découvrez en Live un panel de nos adhérents/musiciens TROCK’SON ou diversité des styles se mêlent à l’émergence des jeunes artistes et l’énergie des formations plus “rodées”… Bref quelques heures de découvertes musicales aux univers singuliers… !</description>
-    </item>
-    <item>
       <title>Fiche d&#39;inscription MJC</title>
       <link>http://localhost:1313/documents/fiche-dinscription/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -221,24 +361,24 @@
     </item>
     <item>
       <title>FLOOR IS LAVA</title>
-      <link>http://localhost:1313/actu/floor-is-lava/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/actu/floor-is-lava/</guid>
-      <description>FLOOR IS LAVA est un duo Indie Punk Rock franco-russe né d’une rencontre fortuite entre deux artistes lors d’une jam session à la MJC en octobre 2023.</description>
-    </item>
-    <item>
-      <title>FLOOR IS LAVA</title>
       <link>http://localhost:1313/agenda/floor-is-lava/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/agenda/floor-is-lava/</guid>
-      <description>FLOOR IS LAVA est un duo Indie Punk Rock franco-russe né d’une rencontre fortuite entre deux artistes lors d’une jam session à la MJC en octobre 2023.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/floor-is-lava_750x500px.jpg&#34; alt=&#34;FLOOR IS LAVA&#34; title=&#34;FLOOR IS LAVA&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;FLOOR IS LAVA est un duo Indie Punk Rock franco-russe né d’une rencontre fortuite entre deux artistes lors d’une jam session à la MJC en octobre 2023&lt;/strong&gt;. De ce partage est née une réelle connivence, un lien quasi fraternel, qui les unit aujourd’hui. &lt;br&gt;&#xA;Ce duo humaniste et engagé, usant de textes parfois graves génére un son puissant et détonnant. Après un premier album enregistré et auto-produit en fin d’année 2023, Floor Is Lava a cette fois-ci choisi de confier au studio Near Def Experience la mise en boite de toute cette énergie musicale foisonnante. \&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Formation Baby-Sitting</title>
+      <link>http://localhost:1313/actu/formation-baby-sitting-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/actu/formation-baby-sitting-1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/formation-baby-sitting-2025.jpg&#34; alt=&#34;Formation Baby-Sitting / MJC Morlaix&#34; title=&#34;Formation Baby-Sitting / MJC Morlaix&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;COMPLET !&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>grand jacques</title>
       <link>http://localhost:1313/agenda/grand-jacques/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/agenda/grand-jacques/</guid>
-      <description>Réécouter Brel, mais pas seulement. Avec GRAND JACQUES, on en redécouvre les textes, on les vit.&#xA;Car c’est une interprétation incarnée, vibrante, souvent rieuse, toujours touchante qu’offrent Jean Sébastien Richard à la voix et Yann Simon à la guitare électrique.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/grand-jacques-750x500px.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Réécouter Brel, mais pas seulement. Avec GRAND JACQUES, on en redécouvre les textes, on les vit.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Car c’est une interprétation incarnée, vibrante, souvent rieuse, toujours touchante qu’offrent Jean Sébastien Richard à la voix et Yann Simon à la guitare électrique. L’énergie rock, inscrite sur l’ADN des chansons, devient une évidence grâce au duo complice qui envoie valser, de Bruxelles à Varsovie, les marins, les notaires, les amants, les cons et les suivantes. Pas question ici de vernir une idole, plutôt une invitation à venir partager, se&#xA;laisser traverser, rire… et chanter !&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gymnastique</title>
@@ -259,56 +399,63 @@
       <link>http://localhost:1313/agenda/iggy-the-stooges/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/agenda/iggy-the-stooges/</guid>
-      <description>Avec Christophe Brault, DJ, animateur radio, diplômé en musicologie, conférencier Musiques Actuelles&#xA;Etonné d’être toujours vivant, la vie de James Ostergerg, alias Iggy Pop est un incroyable tourbillon d’excès en tout genre.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/iggy-pop_1977-750x500px.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Avec Christophe Brault, DJ, animateur radio, diplômé en musicologie, conférencier Musiques Actuelles&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Etonné d’être toujours vivant, la vie de James Ostergerg, alias Iggy Pop est un incroyable tourbillon d’excès en tout genre.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>JIM ROBERTS QUINTET </title>
-      <link>http://localhost:1313/agenda/jim-roberts-quintet/</link>
+      <title>JAM SESSION</title>
+      <link>http://localhost:1313/actu/jam-session/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/agenda/jim-roberts-quintet/</guid>
-      <description>Soirée &amp;ldquo;FESTI&amp;rsquo;BLUES&amp;rdquo; [2 concerts]&#xA;Jim Roberts est profondément enraciné dans le blues, la musique du Delta et le rock du sud.</description>
+      <guid>http://localhost:1313/actu/jam-session/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/jam-session-avril2025_l750px.jpg&#34; alt=&#34;JAM SESSION TROCKSON&#34; title=&#34;JAM SESSION TROCKSON&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;JAM SESSION - Vendredi 4 avril / 19h &amp;gt; 21h&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Régulièrement nos musiciens adhérents du Trock’son se réunissent pour des moments festifs et conviviaux, ouvertes à tous et toutes (adhérents ou non), lors des Jam Sessions que nous organisons. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JAM SESSION</title>
+      <link>http://localhost:1313/trockson/jam-session/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/trockson/jam-session/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/jam-session-avril2025_l750px.jpg&#34; alt=&#34;jam session Trockson&#34; title=&#34;jam session Trockson&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;JAM SESSION - Vendredi 4 avril / 19h &amp;gt; 21h&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Régulièrement nos musiciens adhérents du Trock&amp;rsquo;son se réunissent pour des moments festifs et conviviaux, ouvertes à tous et toutes (adhérents ou non), lors des Jam Sessions que nous organisons. &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>JIM ROBERTS QUINTET</title>
+      <link>http://localhost:1313/agenda/jim-roberts-quintet-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/agenda/jim-roberts-quintet-1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/jim-roberts-750x500px.jpg&#34; alt=&#34;Jim Roberts Quintet&#34; title=&#34;FESTI&#39;BLUES&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Soirée “FESTI’BLUES” [2 concerts]&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Jim Roberts est profondément enraciné dans le blues, la musique du Delta et le rock du sud.&lt;/strong&gt; Le mélange des styles offre une parfaite toile de fond à l’univers du musicien qui partage aujourd’hui son temps entre le rythme effréné de Los Angeles et la paisible campagne française.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LA POUPÉE (DIE PUPPE)</title>
       <link>http://localhost:1313/agenda/la-poup%C3%A9e-die-puppe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/agenda/la-poup%C3%A9e-die-puppe/</guid>
-      <description>Comédie rafraîchissante, dynamique, intelligente et en avance sur son temps, La Poupée condense tout ce qui fait la force et le charme du cinéma de Lubitsch.</description>
-    </item>
-    <item>
-      <title>LE ROCK ALLEMAND</title>
-      <link>http://localhost:1313/agenda/le-rock-allemand/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/agenda/le-rock-allemand/</guid>
-      <description>Avec Christophe Brault, DJ, animateur radio, diplômé en musicologie, conférencier Musiques Actuelles&#xA;Quel intérêt de singer la pop anglo-saxonne ?</description>
-    </item>
-    <item>
-      <title>MATHIEU CROCHEMORE QUARTET</title>
-      <link>http://localhost:1313/actu/mathieu-crochemore-quartet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/actu/mathieu-crochemore-quartet/</guid>
-      <description>S’appuyant sur un répertoire vocal et instrumental de standards et de compositions, le quartet offre un son riche et généreux dont les couleurs nous font voyager entre le Swing et le Groove du Jazz intemporel.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/cine%CC%81-concert-la-poupe%CC%81e-750x500px.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Comédie rafraîchissante, dynamique, intelligente et en avance sur son temps, La Poupée condense tout ce qui fait la force et le charme du cinéma de Lubitsch.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>MATHIEU CROCHEMORE QUARTET</title>
       <link>http://localhost:1313/agenda/mathieu-crochemore-quartet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/agenda/mathieu-crochemore-quartet/</guid>
-      <description>S’appuyant sur un répertoire vocal et instrumental de standards et de compositions, le quartet offre un son riche et généreux dont les couleurs nous font voyager entre le Swing et le Groove du Jazz intemporel.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/mathieu-crochemore-03-750x500px.jpg&#34; alt=&#34;Mathieu Crochemore Quartet&#34; title=&#34;Concert Soul Jazz&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sax, Guitare, Orgue, Batterie !  Comme une formule magique qui met le feu aux poudres du jazz. Le son de ce quartet est toujours aussi redoutable, dynamique et chantant.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MAZINGO</title>
+      <link>http://localhost:1313/actu/sisters-letters-paul-andrzejewski-trio-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/actu/sisters-letters-paul-andrzejewski-trio-1/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/mazingo-750x500px.jpg&#34; alt=&#34;MAZINGO&#34; title=&#34;BLUES ROCK&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Le trio franco-américain Mazingo nous emmène avec eux en cavale. Ils prennent la route en 2020 dans un nuage de poussière avec des morceaux teintés de blues et de rock.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>MAZINGO</title>
       <link>http://localhost:1313/agenda/mazingo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/agenda/mazingo/</guid>
-      <description>Le trio franco-américain Mazingo nous emmène avec eux en cavale. Ils prennent la route en 2020 dans un nuage de poussière avec des morceaux teintés de blues et de rock.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/mazingo-750x500px.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Le trio franco-américain Mazingo nous emmène avec eux en cavale. Ils prennent la route en 2020 dans un nuage de poussière avec des morceaux teintés de blues et de rock.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mentions légales</title>
       <link>http://localhost:1313/mentions-legales/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mentions-legales/</guid>
-      <description>Éditeur MJC Morlaix&#xA;7, place du Dossen - 29600 MORLAIX&#xA;Téléphone : 02 98 88 09 94&#xA;Mail : mjc.morlaix@wanadoo.fr</description>
+      <description>&lt;h2 id=&#34;éditeur&#34;&gt;Éditeur&lt;/h2&gt;&#xA;&lt;p&gt;MJC Morlaix&lt;br&gt;&#xA;7, place du Dossen - 29600 MORLAIX&lt;br&gt;&#xA;Téléphone : &lt;a href=&#34;tel:0298880984&#34;&gt;02 98 88 09 94&lt;/a&gt;&lt;br&gt;&#xA;Mail : &lt;a href=&#34;mailto:mjc.morlaix@wanadoo.fr&#34;&gt;mjc.morlaix@wanadoo.fr&lt;/a&gt;&lt;br&gt;&#xA;Siret : 777 559 559 00012 APE : 9499Z TVA intracommunautaire : TVA non applicable, art. 293 B du CGI&lt;br&gt;&#xA;N° des Licences d’entrepreneur du spectacle :&#xA;PLATESV-R-2021-002331 PLATESV-R-2021-002332 PLATESV-R-2021-002333&lt;br&gt;&#xA;Représentante légale : Mme Sophie DESURMONT, Présidente&lt;/p&gt;</description>
     </item>
     <item>
       <title>Pop Music Club</title>
@@ -325,18 +472,46 @@
       <description></description>
     </item>
     <item>
+      <title>Prépare ton été</title>
+      <link>http://localhost:1313/actu/pr%C3%A9pare-ton-%C3%A9t%C3%A9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/actu/pr%C3%A9pare-ton-%C3%A9t%C3%A9/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/atelier-pre%CC%81pare-ton-e%CC%81te%CC%812025_page.jpg&#34; alt=&#34;Prépare ton été - Atelier SIJ&#34; title=&#34;Prépare ton été - Atelier SIJ&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;GRATUIT&lt;/strong&gt; - &lt;strong&gt;Sur inscription&lt;/strong&gt; auprès de la MJC Morlaix - &lt;strong&gt;02 98 88 09 94&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Programme Juillet 2024</title>
       <link>http://localhost:1313/agenda/programme-juillet-2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/agenda/programme-juillet-2024/</guid>
-      <description>La MJC propose différents stages et animations durant le mois de juillet. Découvertes culturelles, scientifiques, sportives et convivialité seront au rendez-vous !</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/actus-page-activites-juillet2024.jpg&#34; alt=&#34;Programme Juillet 2024 MJC Morlaix&#34; title=&#34;Programme Juillet 2024 MJC Morlaix&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;La MJC propose différents stages et animations durant le mois de juillet.&lt;/strong&gt; &lt;strong&gt;Découvertes culturelles, scientifiques, sportives et convivialité seront au rendez-vous !&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Programme Vacances de Toussaint 2024 MJC</title>
+      <link>http://localhost:1313/documents/programme-vacances-de-toussaint-2024-mjc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/documents/programme-vacances-de-toussaint-2024-mjc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programme Vacances de Toussaint 2024 SIJ</title>
+      <link>http://localhost:1313/documents/programme-vacances-de-toussaint-2024-sij/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/documents/programme-vacances-de-toussaint-2024-sij/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recrutement Secrétaire Comptable MJC</title>
+      <link>http://localhost:1313/documents/recrutement-secr%C3%A9taire-comptable-mjc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/documents/recrutement-secr%C3%A9taire-comptable-mjc/</guid>
+      <description></description>
     </item>
     <item>
       <title>SISTER’S LETTERS PAUL ANDRZEJEWSKI TRIO</title>
       <link>http://localhost:1313/agenda/sisters-letters-paul-andrzejewski-trio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/agenda/sisters-letters-paul-andrzejewski-trio/</guid>
-      <description>Sister’s letters est un corpus de textes pour lequel Paul Andrzejewski a écrit la musique et qu’il interprète en trio accompagné de Dylan James (voix, contrebasse) &amp;amp; Clément Lemennicier (trompette, bugle).</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/sisters-letters-750x500px.jpg&#34; alt=&#34;SISTER’S LETTERS PAUL ANDRZEJEWSKI TRIO&#34; title=&#34;LIVE SESSION JAZZ&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Sister’s letters est un corpus de textes pour lequel Paul Andrzejewski a écrit la musique et qu’il interprète en trio accompagné de Dylan James (voix, contrebasse) &amp;amp; Clément Lemennicier (trompette, bugle).&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>TaïChi Chuan</title>
@@ -357,21 +532,14 @@
       <link>http://localhost:1313/agenda/teddy-costa-blues-trio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/agenda/teddy-costa-blues-trio/</guid>
-      <description>Influencé par le blues le plus authentique joué dans la moiteur inconfortable des Juke-joints, Teddy Costa perpétue avec audace l’héritage musical fertile et captivant d’hier tout en ravivant celui-ci pour qu’il soit le reflet de notre époque.</description>
-    </item>
-    <item>
-      <title>the dirty llamas</title>
-      <link>http://localhost:1313/actu/the-dirty-llamas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/actu/the-dirty-llamas/</guid>
-      <description>Crée en 2021, le power trio The Dirty Llamas s’illustre par la production d’un Heavy Rock Stoner et délivre de puissantes compos originales, toutes en anglais.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/teddy-costa-750x500px.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Influencé par le blues le plus authentique joué dans la moiteur inconfortable des Juke-joints, Teddy Costa perpétue avec audace l’héritage musical fertile et captivant d’hier tout en ravivant celui-ci pour qu’il soit le reflet de notre époque.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>the dirty llamas</title>
       <link>http://localhost:1313/agenda/the-dirty-llamas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/agenda/the-dirty-llamas/</guid>
-      <description>Crée en 2021, le power trio The Dirty Llamas s’illustre par la production d’un Heavy Rock Stoner et délivre de puissantes compos originales, toutes en anglais.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/the-dirty-llamas-750x500px.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Crée en 2021, le power trio The Dirty Llamas s’illustre par la production d’un Heavy Rock Stoner et délivre de puissantes compos originales, toutes en anglais.&lt;/strong&gt;\&lt;/p&gt;</description>
     </item>
     <item>
       <title>Théâtre</title>
@@ -406,35 +574,35 @@
       <link>http://localhost:1313/agenda/trois-m%C3%A9s-aventures-dharold-lloyd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/agenda/trois-m%C3%A9s-aventures-dharold-lloyd/</guid>
-      <description>Troisième grand comique du cinéma muet américain, avec Charlie Chaplin et Buster Keaton, Harold Lloyd est resté célèbre comme « l’homme aux lunettes d’écaille ».</description>
-    </item>
-    <item>
-      <title>Ultimatum 3</title>
-      <link>http://localhost:1313/actu/ultimatum-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/actu/ultimatum-3/</guid>
-      <description>Morlaix, 1990. Accusés d’un crime qu’ils n’ont pas commis, les inspecteurs Raymond Galaouen et Jérôme Vincent ont douze heures pour prouver leur innocence.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/cine%CC%81-concert-harold-lloyd-750x500px.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Troisième grand comique du cinéma muet américain, avec Charlie Chaplin et Buster Keaton, Harold Lloyd est resté célèbre comme « l’homme aux lunettes d’écaille ».&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ultimatum 3</title>
       <link>http://localhost:1313/agenda/ultimatum-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/agenda/ultimatum-3/</guid>
-      <description>Morlaix, 1990. Accusés d’un crime qu’ils n’ont pas commis, les inspecteurs Raymond Galaouen et Jérôme Vincent ont douze heures pour prouver leur innocence.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/ultimatum-iii-750x500px.jpg&#34; alt=&#34;Ultimatum 3&#34; title=&#34;Ultimatum 3&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Morlaix, 1990. Accusés d’un crime qu’ils n’ont pas commis, les inspecteurs Raymond Galaouen et Jérôme Vincent ont douze heures pour prouver leur innocence.&lt;/strong&gt; Mais le mystérieux Jack Power les&#xA;manipule dans l’ombre&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Up Cycling</title>
       <link>http://localhost:1313/agenda/up-cycling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/agenda/up-cycling/</guid>
-      <description>Mercredi 26 juin de 14h30 à 17h30&#xA;La MJC accueillera l’association Scient pour un atelier de : • réparation et customisation de chaussures</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/upcycling-page-750px0.jpg&#34; alt=&#34;Up Cycling&#34; title=&#34;Up Cycling&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Mercredi 26 juin de 14h30 à 17h30&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;La MJC accueillera l’association Scient pour un atelier de :  &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Vacances de Printemps</title>
+      <link>http://localhost:1313/actu/vacances-de-printemps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/actu/vacances-de-printemps/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/planning-vac-de-printemps2025_page.jpg&#34; alt=&#34;Vacances de Printemps - SIJ (Info jeunes Morlaix)&#34; title=&#34;Vacances de Printemps - SIJ (Info jeunes Morlaix)&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Informations, renseignements &amp;amp; inscription - MJC Morlaix - 02 98 88 09 94&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>WASLA</title>
       <link>http://localhost:1313/agenda/wasla/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/agenda/wasla/</guid>
-      <description>Un spectacle programmé dans le cadre du Festisol (Festival des solidarités) Wasla est une création qui souhaite relier les deux rives de la Méditerranéenne de la Bretagne en France jusqu’au Maroc du Maghreb.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/wasla-750x500px.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Un spectacle programmé dans le cadre du Festisol (Festival des solidarités)&lt;/strong&gt;&#xA;Wasla est une création qui souhaite relier les deux rives de la Méditerranéenne de la Bretagne en France jusqu’au Maroc du Maghreb.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Yoga</title>

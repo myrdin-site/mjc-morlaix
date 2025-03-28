@@ -11,3 +11,14 @@ footer {
   height: 1rem;
   
 }
+
+.footer__partner_container {
+  display: flex;
+  justify-content: center;
+}
+
+.footer__partner {
+  max-width: 780px;
+  width: 100%;
+  margin-bottom: 2rem;
+}

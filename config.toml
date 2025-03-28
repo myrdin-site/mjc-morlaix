@@ -3,7 +3,7 @@ languageCode = 'en-us'
 defaultContentLanguage = "fr"
 title = 'MJC Morlaix'
 theme = 'mjc-morlaix'
-copyright = '2022 - 2023 © MJC Morlaix'
+copyright = '2022 - 2025 © MJC Morlaix'
 summaryLength = '20'
 [module]
 [[module.mounts]]
