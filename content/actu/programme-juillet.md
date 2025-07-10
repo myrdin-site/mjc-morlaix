@@ -10,4 +10,4 @@ prix_libre: false
 
 **Du lundi 4 août au vendredi 22 août (inclus) : Fermeture de la MJC. Nous serons de retour à partir du lundi 25 août...** 
 
-**Programme Téléchargeable ici**
+**Programme [Téléchargeable ici](https://www.mjcmorlaix.com/medias/programme_juillet-1-mjc.pdf)**
