@@ -6,7 +6,6 @@ title: BIENVENUE !
 **Merci pour votre patience** 
 
 **IMPORTANT**\
-**Du lundi 4 août au vendredi 22 août (inclus) :** \
-**Fermeture de la MJC.** 
+**Du lundi 4 août au vendredi 22 août (inclus) :** **Fermeture de la MJC.** 
 
 Nous serons de retour à partir du **lundi 25 août...**
