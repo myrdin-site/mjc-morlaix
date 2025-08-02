@@ -1,6 +1,6 @@
 ---
 title: Anglais
-picto: /medias/picto-langue-ok.png
+picto: /medias/langues_150px.png
 public:
   - adolescents
   - adultes
