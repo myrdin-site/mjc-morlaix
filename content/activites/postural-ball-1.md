@@ -1,12 +1,12 @@
 ---
 title: Postural ball
-picto: /medias/picto-postural-ok.png
+picto: /medias/postural_150px.png
 public:
   - adolescents
   - adultes
 anim: Véronique FAUQUET
-price: 96€ à 160€ /an
-starting_date: 2024-09-15T22:15:37.200Z
+price: 99€ à 165€ /an
+starting_date: 2025-09-21T22:15:37.200Z
 creneau: >-
   **Méthode sportive douce, pratiquée avec un swiss ball** (gros ballon), en
   chorégraphie et en musique pour renforcer les muscles profonds et relaxer le
