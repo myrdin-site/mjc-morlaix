@@ -1,12 +1,12 @@
 ---
 title: École de Cirque
-picto: /medias/picto-cirque-ok.png
+picto: /medias/cirque_150px.png
 public:
   - enfants
   - adolescents
 anim: CIE du Cirque à Léon
-price: 117€ à 270€ /an
-starting_date: 2024-09-18T13:00:44.996Z
+price: 97€ à 280€ /an
+starting_date: 2025-09-24T13:00:44.996Z
 creneau: >-
   **À partir de 4 ans :** approche par un travail sur le corps et son
   expressivité, la manipulation d’objets et le travail de l’équilibre.
