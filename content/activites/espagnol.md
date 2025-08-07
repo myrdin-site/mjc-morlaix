@@ -1,20 +1,21 @@
 ---
-title: Espagnol
-picto: /medias/picto-langue-ok.png
+title: Français Langue Etrangère
+picto: /medias/langues_150px.png
 public:
-  - adolescents
   - adultes
-anim: " Leticia CASTRO"
-price: 117€ à 176€ /an
-starting_date: 2024-09-19T16:15:16.116Z
+anim: Maha HASSAN
+price: 119€ à 180€ /an
+starting_date: 2025-09-22T12:15:16.116Z
 creneau: >-
-  **Débutants et faux-débutants**. Pour les personnes qui souhaitent suivre les
-  films d’Almodovar en VO. Aussi pour celles qui souhaitent renouer avec la
-  langue de Cervantes en prévision d’un voyage en terre de
+  **Un atelier pour apprendre le français ou pour s’exprimer avec plus
+  d’aisance** dans la langue pour les personnes dont le français n’est pas la
+  langue maternelle. **Des cours ouverts aux débutants** comme aux personnes
+  ayant déjà des notions de base.
 
-  Castille et qui en sont restées au niveau collège. **Cet atelier est fait pour vous !**
+
+  LUNDI : **adultes/16 ans + >** 14h15 / 15h45
 
 
-  JEUDI : **adultes/16 ans + >** 18h00 / 19h30
-description: Espagnol
+  JEUDI : **adultes/16 ans + >** 17h45 / 19h15
+description: Français Langue Étrangère
 ---
