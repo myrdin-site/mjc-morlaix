@@ -4,9 +4,9 @@ picto: /medias/langues_150px.png
 public:
   - adolescents
   - adultes
-anim: Animateur.trice
-price: 117€ à 176€ /an
-starting_date: 2024-09-17T16:00:22.532Z
+anim: Isabel Mc GUIGAN
+price: 119€ à 180€ /an
+starting_date: 2025-09-23T16:00:22.532Z
 creneau: >-
   **Atelier d’apprentissage déblocage linguistique** axé sur la conversation.
 
