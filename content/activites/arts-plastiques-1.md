@@ -1,12 +1,12 @@
 ---
 title: Arts Plastiques
-picto: /medias/picto-artsplastiques-ok.png
+picto: /medias/artsplastik_150px.png
 public:
   - enfants
   - adolescents
 anim: Charles VERGNOLLE
-price: 96€ à 160€ /an
-starting_date: 2024-09-18T15:00:10.730Z
+price: 99€ à 165€ /an
+starting_date: 2025-09-24T15:00:10.730Z
 creneau: >-
   **A travers l’histoire de l’Art et de ses artistes**, découverte de
   différentes techniques picturales : figuratif, abstrait, portrait, Pop Art,
