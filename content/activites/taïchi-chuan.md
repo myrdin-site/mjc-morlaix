@@ -1,12 +1,12 @@
 ---
 title: TaïChi Chuan
-picto: /medias/picto-taichi-ok.png
+picto: /medias/taichi_150px.png
 public:
   - adolescents
   - adultes
 anim: Cyril CHEGARAY
-price: 126€ à 206€ /an
-starting_date: 2024-09-16T15:15:34.937Z
+price: 126€ à 210€ /an
+starting_date: 2025-09-22T15:15:34.937Z
 creneau: >-
   **Le Taiji Quan est un art martial dit de longue vie**, qui invite à bouger
   lentement, de manière non traumatisante, en suivant une logique anatomique,
@@ -21,9 +21,6 @@ creneau: >-
   La forme proposée à la MJC est celle de l’école du Yangjia Michuan, transmise avec une approche conviviale et une progression pédagogique.
 
 
-  LUNDI : **16 ans et + >** 17h15 / 18h45
-
-
-  JEUDI : **débutants >** 17h15 / 18h45
+  LUNDI : **16 ans et + Initiés >** 17h15 / 18h45 - **débutants >** 19h00 / 20h30
 description: TaïChi Chuan
 ---
