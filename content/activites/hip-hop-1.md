@@ -1,12 +1,12 @@
 ---
 title: Hip Hop
-picto: /medias/picto-hiphop-ok.png
+picto: /medias/hiphop_150px.png
 public:
   - enfants
   - adolescents
-anim: David NOCH
-price: 96€ à 160€ /an
-starting_date: 2024-09-17T15:30:25.392Z
+anim: Daro NOCH
+price: 99€ à 165€ /an
+starting_date: 2025-09-23T15:30:25.392Z
 creneau: >-
   **Initiation à la danse Hip Hop à travers différents styles :** break dance,
   acrobaties, street-dance…
@@ -18,6 +18,9 @@ creneau: >-
 
   MARDI\
 
-  **à partir de 10 ans >** 17h30 / 18h30 - **à partir de 12 ans >** 18h40 / 19h40
+  **à partir de 10 ans >** 17h30 / 18h30
+
+
+  **à partir de 12 ans  et + ados >** 18h40 / 19h40
 description: Hip Hop
 ---
