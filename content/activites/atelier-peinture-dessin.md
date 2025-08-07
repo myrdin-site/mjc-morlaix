@@ -1,6 +1,6 @@
 ---
 title: Atelier Peinture Dessin
-picto: /medias/picto-artsplastiques-ok.png
+picto: /medias/artsplastik_150px.png
 public:
   - adultes
 anim: Charles VERGNOLLE
