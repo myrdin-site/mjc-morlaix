@@ -1,5 +1,5 @@
 ---
-title: TIA CAROLL
+title: TIA CAROLL + A. FAIVRE
 description: FESTI' BLUES
 cover: /medias/05.mont_tiacarrol-faivre_750x150px.jpg
 event_time: 2025-11-08T20:30:00.000Z
