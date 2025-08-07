@@ -1,6 +1,6 @@
 ---
 title: DONAN
-description: POP/ROCK - Sortie de résidence
+description: POP - ROCK / Sortie de résidence
 cover: /medias/01donan_750x150px.jpg
 event_time: 2025-08-29T18:00:00.000Z
 lieu: Auditorium
