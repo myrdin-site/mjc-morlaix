@@ -1,11 +1,11 @@
 ---
 title: Yoga
-picto: /medias/picto-yoga-ok.png
+picto: /medias/yoga_150px.png
 public:
   - adultes
 anim: Nathalie KOWALCZYK
-price: 96€ à 160€ /an
-starting_date: 2024-09-16T09:00:27.740Z
+price: 99€ à 165€ /an
+starting_date: 2025-09-22T09:00:27.740Z
 creneau: |-
   **Exercices en mouvements et postures pour assouplir et renforcer le corps.**
   Exercices de respiration pour aider à réguler les énergies vitales.
