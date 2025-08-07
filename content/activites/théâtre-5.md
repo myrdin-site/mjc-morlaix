@@ -1,11 +1,11 @@
 ---
 title: Théâtre
-picto: /medias/picto-théatre-ok.png
+picto: /medias/theatre_150px.png
 public:
   - adultes
 anim: Ligéia SINOQUET
-price: 126€ à 206€ /an
-starting_date: 2024-09-17T17:15:00.231Z
+price: 126€ à 210€ /an
+starting_date: 2025-09-23T17:15:00.231Z
 creneau: >-
   **Les ateliers Théâtre de la MJC s’adressent aussi bien aux enfants qu’aux 
 
