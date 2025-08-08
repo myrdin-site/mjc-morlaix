@@ -9,12 +9,16 @@
       <div class="actu__description trockson__description">
         {{ .Description }}
       </div>
-      {{ $image := resources.Get .Params.cover }} {{ $image := $image.Fill
-      "365x200 Top" }}
+      {{ $image := resources.Get .Params.cover }} {{ if $image }} {{ $image := $image.Fill
+      "365x200 Top" }} 
       <img class="actu__cover" src="{{ $image.RelPermalink }}" />
-      {{ $imageDesktop := resources.Get .Params.cover }} {{ $imageDesktop :=
+      {{ end }}
+      {{ $imageDesktop := resources.Get .Params.cover }} 
+      {{ if $imageDesktop }}
+      {{ $imageDesktop :=
       $imageDesktop.Fill "300x300 Top" }}
       <img class="actu__cover_desktop" src="{{ $imageDesktop.RelPermalink }}" />
+      {{ end }}
       <div class="actu__content">
         <h2>{{ .Title }}</h2>
         <p>

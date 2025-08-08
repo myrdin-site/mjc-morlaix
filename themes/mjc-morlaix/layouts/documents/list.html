@@ -12,13 +12,19 @@
     </div>
     <div class="page__documents_middle">
       {{ $file := resources.Get .Params.file }}
+      {{ with $file }}
       <a href="{{ $file.RelPermalink }}">{{ .Params.format }}</a>
+      {{ else }}
+      <p>Pas de document disponible</p>
+      {{ end }}
     </div>
     <div class="page__documents_right">
       {{ $image := resources.Get .Params.picto }}
+      {{ with $file }}
       <a href="{{ $file.RelPermalink }}">
         <img src="{{ $image.RelPermalink }}" alt="fichier {{ $file }}" />
       </a>
+      {{ end }}
     </div>
   </div>
   {{ end }} {{ template "_internal/pagination.html" . }}
