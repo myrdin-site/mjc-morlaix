@@ -13,9 +13,9 @@
     <div class="page__documents_middle">
       {{ $file := resources.Get .Params.file }}
       {{ with $file }}
-      <a href="{{ $file.RelPermalink }}">{{ .Params.format }}</a>
+      <a href="{{ $file.RelPermalink }}">PDF</a>
       {{ else }}
-      <p>Pas de document disponible</p>
+      <p>Ce document n'est plus disponible</p>
       {{ end }}
     </div>
     <div class="page__documents_right">
