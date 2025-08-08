@@ -86,13 +86,13 @@ main a {
   padding-bottom: 0.8rem; }
 
 .header__title_white {
-  color: #31678E; }
+  color: #ffffff; }
 
 .header__title_light {
   font-weight: 100; }
 
 .header__title_city {
-  color: #dd0142; }
+  color: #EF0F2C; }
 
 /* Header Desktop */
 .header__wrapper_desktop {
@@ -1194,7 +1194,7 @@ label {
   .header__wrapper_desktop {
     padding-left: 23rem; }
   .header__title_white {
-    color: #ffffff; }
+    color: #31678E; }
   #nav__menu {
     display: none; }
   .header__title {
@@ -1207,7 +1207,7 @@ label {
     padding: 0;
     font-size: 0.95rem; }
     .nav__link a {
-      color: #a6b8ce; }
+      color: #396166; }
   .nav__link:nth-child(1) .nav__active {
     color: #31678E; }
   .nav__link:nth-child(2) .nav__active {
@@ -1223,17 +1223,17 @@ label {
   .nav__link:nth-child(7) .nav__active {
     color: #165746; }
   .nav__link:hover:nth-child(1) a {
-    color: #ffffff; }
+    color: #31678E; }
   .nav__link:hover:nth-child(2) a {
-    color: #EF6c6a; }
+    color: #EF0079; }
   .nav__link:hover:nth-child(3) a {
-    color: #ED7D35; }
+    color: #E85D03; }
   .nav__link:hover:nth-child(4) a {
-    color: #DB7F7F; }
+    color: #B80000; }
   .nav__link:hover:nth-child(5) a {
-    color: #73B78E; }
+    color: #007b32; }
   .nav__link:hover:nth-child(6) a {
-    color: #9E70A4; }
+    color: #6A2473; }
   .nav__link:hover:nth-child(7) a {
     color: #165746; }
   .nav__link::after {

@@ -86,7 +86,7 @@ main a {
   padding-bottom: 0.8rem; }
 
 .header__title_white {
-  color: #31678E; }
+  color: #ffffff; }
 
 .header__title_light {
   font-weight: 100; }
@@ -1233,7 +1233,7 @@ label {
   .nav__link:hover:nth-child(5) a {
     color: #73B78E; }
   .nav__link:hover:nth-child(6) a {
-    color: #9E70A4; }
+    color: #6A2473; }
   .nav__link:hover:nth-child(7) a {
     color: #165746; }
   .nav__link::after {
