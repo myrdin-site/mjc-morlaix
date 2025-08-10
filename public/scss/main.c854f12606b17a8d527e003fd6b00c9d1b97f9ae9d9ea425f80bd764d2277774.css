@@ -1213,13 +1213,13 @@ label {
   .nav__link:nth-child(2) .nav__active {
     color: #EF6C6A; }
   .nav__link:nth-child(3) .nav__active {
-    color: #ED7D35; }
+    color: #E85D03; }
   .nav__link:nth-child(4) .nav__active {
-    color: #DB7F7F; }
+    color: #B80000; }
   .nav__link:nth-child(5) .nav__active {
-    color: #73B78E; }
+    color: #007b32; }
   .nav__link:nth-child(6) .nav__active {
-    color: #9E70A4; }
+    color: #6A2473; }
   .nav__link:nth-child(7) .nav__active {
     color: #165746; }
   .nav__link:hover:nth-child(1) a {
