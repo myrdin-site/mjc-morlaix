@@ -2,60 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Actualités on MJC Morlaix</title>
-    <link>http://localhost:1313/actu/</link>
+    <link>https://www.mjcmorlaix.com/actu/</link>
     <description>Recent content in Actualités on MJC Morlaix</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2022 - 2025 © MJC Morlaix</copyright>
-    <atom:link href="http://localhost:1313/actu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.mjcmorlaix.com/actu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CORBBEL</title>
-      <link>http://localhost:1313/actu/corbbel/</link>
+      <link>https://www.mjcmorlaix.com/actu/corbbel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/actu/corbbel/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/03.corbbel_750x150px.jpg&#34; alt=&#34;CORBBEL - Dark Folk / Rock&#34; title=&#34;CORBBEL - Dark Folk / Rock&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;CORBBEL propose  un univers dark-folk&lt;/strong&gt; entre Timber Timbre, Sparklehorse et PJ Harvey. Des compositions «sad and blue» parfois teintées d’ironie. Le groupe fait surgir des images en noir et blanc dans un théâtre à l’italienne.&lt;/p&gt;</description>
+      <guid>https://www.mjcmorlaix.com/actu/corbbel/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/03.corbbel_750x150px.jpg&#34; alt=&#34;CORBBEL - Dark Folk / Rock&#34; title=&#34;CORBBEL - Dark Folk / Rock&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;CORBBEL propose  un univers dark-folk&lt;/strong&gt; entre Timber Timbre, Sparklehorse et PJ Harvey. Des compositions «sad and blue» parfois teintées d’ironie. Le groupe fait surgir des images en noir et blanc dans un théâtre à l’italienne.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DONAN</title>
-      <link>http://localhost:1313/actu/donan/</link>
+      <link>https://www.mjcmorlaix.com/actu/donan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/actu/donan/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/01donan_750x150px.jpg&#34; alt=&#34;Donan&#34; title=&#34;Donan&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lancé en 2023, le projet solo Donan livre une pop baroque et mélancolique aux accents rock et folk, en français dans le texte.&lt;/strong&gt; &lt;/p&gt;</description>
+      <guid>https://www.mjcmorlaix.com/actu/donan/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/01donan_750x150px.jpg&#34; alt=&#34;Donan&#34; title=&#34;Donan&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lancé en 2023, le projet solo Donan livre une pop baroque et mélancolique aux accents rock et folk, en français dans le texte.&lt;/strong&gt; &lt;/p&gt;</description>
     </item>
     <item>
       <title>LACABRA &#43; INFERN</title>
-      <link>http://localhost:1313/actu/lacabra-infern/</link>
+      <link>https://www.mjcmorlaix.com/actu/lacabra-infern/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/actu/lacabra-infern/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/02.mont-infern-lacabra_750x150px.jpg&#34; alt=&#34;LACABRA + INFERN&#34; title=&#34;LACABRA + INFERN&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Presque 1 an jour pour jour après leur 1er passage sur la scène de la MJC, les américains de LACABRA&lt;/strong&gt; reviennent avec leur son surpuissant, cette fois pour défendre en live leur premier album sorti au printemps 2025. Faisant preuve d’une puissance tellurique foudroyante sur scène, le quintet de Seattle puise son inspiration au travers de diverses influences très éclectiques : le heavy metal traditionnel, la dark wave, le black metal ainsi que le death metal mélodique des années 1990. &lt;/p&gt;</description>
+      <guid>https://www.mjcmorlaix.com/actu/lacabra-infern/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/02.mont-infern-lacabra_750x150px.jpg&#34; alt=&#34;LACABRA + INFERN&#34; title=&#34;LACABRA + INFERN&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Presque 1 an jour pour jour après leur 1er passage sur la scène de la MJC, les américains de LACABRA&lt;/strong&gt; reviennent avec leur son surpuissant, cette fois pour défendre en live leur premier album sorti au printemps 2025. Faisant preuve d’une puissance tellurique foudroyante sur scène, le quintet de Seattle puise son inspiration au travers de diverses influences très éclectiques : le heavy metal traditionnel, la dark wave, le black metal ainsi que le death metal mélodique des années 1990. &lt;/p&gt;</description>
     </item>
     <item>
       <title>LE ROCK ALLEMAND</title>
-      <link>http://localhost:1313/actu/le-rock-allemand/</link>
+      <link>https://www.mjcmorlaix.com/actu/le-rock-allemand/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/actu/le-rock-allemand/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/06.kraftwerk_750x500px.jpg&#34; alt=&#34;LE ROCK ALLEMAND&#34; title=&#34;LE ROCK ALLEMAND&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Avec Christophe Brault, DJ, animateur radio, diplômé en musicologie, conférencier Musiques Actuelles&lt;/strong&gt; &lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;strong&gt;Quel intérêt de singer la pop anglo-saxonne ? C’est sur cette réflexion que le rock allemand se construit&lt;/strong&gt; dès la fin des sixties. Can, Neu, Faut, Tangerine Dream, Kraftwerk et bien d’autres prennent un autre chemin musical.&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;strong&gt;Electronique, répétitif, bruitiste ou planant,&lt;/strong&gt; qu’il soit instrumental ou chanté, parfois même dans sa langue maternelle, le rock allemand invente, défriche, inaugure des voies inexplorées tellement&lt;br&gt;&#xA;nouvelles et modernes qu’elles résonnent encore aujourd’hui.&lt;/p&gt;</description>
+      <guid>https://www.mjcmorlaix.com/actu/le-rock-allemand/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/06.kraftwerk_750x500px.jpg&#34; alt=&#34;LE ROCK ALLEMAND&#34; title=&#34;LE ROCK ALLEMAND&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Avec Christophe Brault, DJ, animateur radio, diplômé en musicologie, conférencier Musiques Actuelles&lt;/strong&gt; &lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;strong&gt;Quel intérêt de singer la pop anglo-saxonne ? C’est sur cette réflexion que le rock allemand se construit&lt;/strong&gt; dès la fin des sixties. Can, Neu, Faut, Tangerine Dream, Kraftwerk et bien d’autres prennent un autre chemin musical.&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;strong&gt;Electronique, répétitif, bruitiste ou planant,&lt;/strong&gt; qu’il soit instrumental ou chanté, parfois même dans sa langue maternelle, le rock allemand invente, défriche, inaugure des voies inexplorées tellement&lt;br&gt;&#xA;nouvelles et modernes qu’elles résonnent encore aujourd’hui.&lt;/p&gt;</description>
     </item>
     <item>
       <title>LICORNA SHOW</title>
-      <link>http://localhost:1313/actu/licorna-show/</link>
+      <link>https://www.mjcmorlaix.com/actu/licorna-show/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/actu/licorna-show/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/04.licorna_750x150px.jpg&#34; alt=&#34;LICORNA SHOW - Spectacle musical jeune public&#34; title=&#34;LICORNA SHOW - Spectacle musical jeune public&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Un duo surprenant et inédit entre un pianiste de chair et d’os et une licorne&lt;/strong&gt; qui évolue en projection vidéo en toute liberté. Licorna nous fait découvrir avec humour les instruments de l’orchestre. Une complicité, qui se passe du langage des mots, s’installe entre les deux personnages.&lt;/p&gt;</description>
+      <guid>https://www.mjcmorlaix.com/actu/licorna-show/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/04.licorna_750x150px.jpg&#34; alt=&#34;LICORNA SHOW - Spectacle musical jeune public&#34; title=&#34;LICORNA SHOW - Spectacle musical jeune public&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Un duo surprenant et inédit entre un pianiste de chair et d’os et une licorne&lt;/strong&gt; qui évolue en projection vidéo en toute liberté. Licorna nous fait découvrir avec humour les instruments de l’orchestre. Une complicité, qui se passe du langage des mots, s’installe entre les deux personnages.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MEMOIRES REBELLES</title>
-      <link>http://localhost:1313/actu/memoires-rebelles/</link>
+      <link>https://www.mjcmorlaix.com/actu/memoires-rebelles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/actu/memoires-rebelles/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/07.mem-rebelles_page_750x500px.jpg&#34; alt=&#34;MEMOIRES REBELLES&#34; title=&#34;MEMOIRES REBELLES&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Un projet musical né à l’initiative du flûtiste Jean-Mathias Petri, en Mars 2023, à Lannion lors de la célébration du festival « Wattstax 1972 » en compagnie de l’écrivain Guy Darol.&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>https://www.mjcmorlaix.com/actu/memoires-rebelles/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/07.mem-rebelles_page_750x500px.jpg&#34; alt=&#34;MEMOIRES REBELLES&#34; title=&#34;MEMOIRES REBELLES&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Un projet musical né à l’initiative du flûtiste Jean-Mathias Petri, en Mars 2023, à Lannion lors de la célébration du festival « Wattstax 1972 » en compagnie de l’écrivain Guy Darol.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>TIA CAROLL &#43; A. FAIVRE</title>
-      <link>http://localhost:1313/actu/tia-caroll-a-faivre/</link>
+      <link>https://www.mjcmorlaix.com/actu/tia-caroll-a-faivre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/actu/tia-caroll-a-faivre/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/05.mont_tiacarrol-faivre_750x150px.jpg&#34; alt=&#34;TIA CAROLL + A. FAIVRE&#34; title=&#34;TIA CAROLL + A. FAIVRE&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Festi &amp;rsquo; Blues - soirée 2 concerts !&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;TIA CAROLL, chanteuse de blues et de soul californienne&lt;/strong&gt;, est connue pour ses puissantes prouesses vocales, son écriture sans égal et ses interprétations scéniques mémorables. &lt;/p&gt;</description>
+      <guid>https://www.mjcmorlaix.com/actu/tia-caroll-a-faivre/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/05.mont_tiacarrol-faivre_750x150px.jpg&#34; alt=&#34;TIA CAROLL + A. FAIVRE&#34; title=&#34;TIA CAROLL + A. FAIVRE&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Festi &amp;rsquo; Blues - soirée 2 concerts !&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;TIA CAROLL, chanteuse de blues et de soul californienne&lt;/strong&gt;, est connue pour ses puissantes prouesses vocales, son écriture sans égal et ses interprétations scéniques mémorables. &lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
