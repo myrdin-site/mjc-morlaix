@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trock&#39;Son on MJC Morlaix</title>
-    <link>https://www.mjcmorlaix.com/trockson/</link>
+    <link>http://localhost:1313/trockson/</link>
     <description>Recent content in Trock&#39;Son on MJC Morlaix</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2022 - 2025 © MJC Morlaix</copyright>
-    <atom:link href="https://www.mjcmorlaix.com/trockson/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/trockson/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Louise AWA</title>
-      <link>https://www.mjcmorlaix.com/trockson/louise-awa/</link>
+      <link>http://localhost:1313/trockson/louise-awa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/trockson/louise-awa/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/louise_live-pageweb.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nous avons le plaisir de recevoir en résidence début juillet l’artiste Louise AWA et son groupe, qui nous présentera son répertoire lors d’un concert de restitution dans l’auditorium de la MJC.&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/trockson/louise-awa/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/louise_live-pageweb.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nous avons le plaisir de recevoir en résidence début juillet l’artiste Louise AWA et son groupe, qui nous présentera son répertoire lors d’un concert de restitution dans l’auditorium de la MJC.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

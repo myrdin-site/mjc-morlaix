@@ -2,143 +2,143 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Activités on MJC Morlaix</title>
-    <link>https://www.mjcmorlaix.com/activites/</link>
+    <link>http://localhost:1313/activites/</link>
     <description>Recent content in Activités on MJC Morlaix</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2022 - 2025 © MJC Morlaix</copyright>
-    <atom:link href="https://www.mjcmorlaix.com/activites/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/activites/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anglais</title>
-      <link>https://www.mjcmorlaix.com/activites/anglais-1/</link>
+      <link>http://localhost:1313/activites/anglais-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/activites/anglais-1/</guid>
+      <guid>http://localhost:1313/activites/anglais-1/</guid>
       <description></description>
     </item>
     <item>
       <title>Arts Plastiques</title>
-      <link>https://www.mjcmorlaix.com/activites/arts-plastiques-1/</link>
+      <link>http://localhost:1313/activites/arts-plastiques-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/activites/arts-plastiques-1/</guid>
+      <guid>http://localhost:1313/activites/arts-plastiques-1/</guid>
       <description></description>
     </item>
     <item>
       <title>Atelier Peinture Dessin</title>
-      <link>https://www.mjcmorlaix.com/activites/atelier-peinture-dessin/</link>
+      <link>http://localhost:1313/activites/atelier-peinture-dessin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/activites/atelier-peinture-dessin/</guid>
+      <guid>http://localhost:1313/activites/atelier-peinture-dessin/</guid>
       <description></description>
     </item>
     <item>
       <title>Atelier Photo</title>
-      <link>https://www.mjcmorlaix.com/activites/atelier-photo/</link>
+      <link>http://localhost:1313/activites/atelier-photo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/activites/atelier-photo/</guid>
+      <guid>http://localhost:1313/activites/atelier-photo/</guid>
       <description></description>
     </item>
     <item>
       <title>Balade Loisirs</title>
-      <link>https://www.mjcmorlaix.com/activites/balade-loisirs/</link>
+      <link>http://localhost:1313/activites/balade-loisirs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/activites/balade-loisirs/</guid>
+      <guid>http://localhost:1313/activites/balade-loisirs/</guid>
       <description></description>
     </item>
     <item>
       <title>Batucada</title>
-      <link>https://www.mjcmorlaix.com/activites/batucada/</link>
+      <link>http://localhost:1313/activites/batucada/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/activites/batucada/</guid>
+      <guid>http://localhost:1313/activites/batucada/</guid>
       <description></description>
     </item>
     <item>
       <title>Capoeira</title>
-      <link>https://www.mjcmorlaix.com/activites/capoeira/</link>
+      <link>http://localhost:1313/activites/capoeira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/activites/capoeira/</guid>
+      <guid>http://localhost:1313/activites/capoeira/</guid>
       <description></description>
     </item>
     <item>
       <title>Couture</title>
-      <link>https://www.mjcmorlaix.com/activites/couture-1/</link>
+      <link>http://localhost:1313/activites/couture-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/activites/couture-1/</guid>
+      <guid>http://localhost:1313/activites/couture-1/</guid>
       <description></description>
     </item>
     <item>
       <title>École de Cirque</title>
-      <link>https://www.mjcmorlaix.com/activites/%C3%A9cole-de-cirque-1/</link>
+      <link>http://localhost:1313/activites/%C3%A9cole-de-cirque-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/activites/%C3%A9cole-de-cirque-1/</guid>
+      <guid>http://localhost:1313/activites/%C3%A9cole-de-cirque-1/</guid>
       <description></description>
     </item>
     <item>
       <title>Français Langue Etrangère</title>
-      <link>https://www.mjcmorlaix.com/activites/espagnol/</link>
+      <link>http://localhost:1313/activites/espagnol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/activites/espagnol/</guid>
+      <guid>http://localhost:1313/activites/espagnol/</guid>
       <description></description>
     </item>
     <item>
       <title>Gym</title>
-      <link>https://www.mjcmorlaix.com/activites/gymnastique-1/</link>
+      <link>http://localhost:1313/activites/gymnastique-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/activites/gymnastique-1/</guid>
+      <guid>http://localhost:1313/activites/gymnastique-1/</guid>
       <description></description>
     </item>
     <item>
       <title>Hip Hop</title>
-      <link>https://www.mjcmorlaix.com/activites/hip-hop-1/</link>
+      <link>http://localhost:1313/activites/hip-hop-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/activites/hip-hop-1/</guid>
+      <guid>http://localhost:1313/activites/hip-hop-1/</guid>
       <description></description>
     </item>
     <item>
       <title>Pop Music Club</title>
-      <link>https://www.mjcmorlaix.com/activites/pop-music-club-1/</link>
+      <link>http://localhost:1313/activites/pop-music-club-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/activites/pop-music-club-1/</guid>
+      <guid>http://localhost:1313/activites/pop-music-club-1/</guid>
       <description></description>
     </item>
     <item>
       <title>Postural ball</title>
-      <link>https://www.mjcmorlaix.com/activites/postural-ball-1/</link>
+      <link>http://localhost:1313/activites/postural-ball-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/activites/postural-ball-1/</guid>
+      <guid>http://localhost:1313/activites/postural-ball-1/</guid>
       <description></description>
     </item>
     <item>
       <title>TaïChi Chuan</title>
-      <link>https://www.mjcmorlaix.com/activites/ta%C3%AFchi-chuan/</link>
+      <link>http://localhost:1313/activites/ta%C3%AFchi-chuan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/activites/ta%C3%AFchi-chuan/</guid>
+      <guid>http://localhost:1313/activites/ta%C3%AFchi-chuan/</guid>
       <description></description>
     </item>
     <item>
       <title>Théâtre</title>
-      <link>https://www.mjcmorlaix.com/activites/th%C3%A9%C3%A2tre-3/</link>
+      <link>http://localhost:1313/activites/th%C3%A9%C3%A2tre-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/activites/th%C3%A9%C3%A2tre-3/</guid>
+      <guid>http://localhost:1313/activites/th%C3%A9%C3%A2tre-3/</guid>
       <description></description>
     </item>
     <item>
       <title>Théâtre</title>
-      <link>https://www.mjcmorlaix.com/activites/th%C3%A9%C3%A2tre-5/</link>
+      <link>http://localhost:1313/activites/th%C3%A9%C3%A2tre-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/activites/th%C3%A9%C3%A2tre-5/</guid>
+      <guid>http://localhost:1313/activites/th%C3%A9%C3%A2tre-5/</guid>
       <description></description>
     </item>
     <item>
       <title>Théâtre d&#39;impro</title>
-      <link>https://www.mjcmorlaix.com/activites/th%C3%A9%C3%A2tre-dimpro/</link>
+      <link>http://localhost:1313/activites/th%C3%A9%C3%A2tre-dimpro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/activites/th%C3%A9%C3%A2tre-dimpro/</guid>
+      <guid>http://localhost:1313/activites/th%C3%A9%C3%A2tre-dimpro/</guid>
       <description></description>
     </item>
     <item>
       <title>Yoga</title>
-      <link>https://www.mjcmorlaix.com/activites/skateboard-1/</link>
+      <link>http://localhost:1313/activites/skateboard-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/activites/skateboard-1/</guid>
+      <guid>http://localhost:1313/activites/skateboard-1/</guid>
       <description></description>
     </item>
   </channel>

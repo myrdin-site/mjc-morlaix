@@ -2,179 +2,179 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Podcast&#39;s on MJC Morlaix</title>
-    <link>https://www.mjcmorlaix.com/podcasts/</link>
+    <link>http://localhost:1313/podcasts/</link>
     <description>Recent content in Podcast&#39;s on MJC Morlaix</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>2022 - 2025 © MJC Morlaix</copyright>
     <lastBuildDate>Sat, 14 Dec 2024 14:48:19 +0000</lastBuildDate>
-    <atom:link href="https://www.mjcmorlaix.com/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/podcasts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Le soleil et le cul </title>
-      <link>https://www.mjcmorlaix.com/podcasts/le-soleil-et-le-cul/</link>
+      <link>http://localhost:1313/podcasts/le-soleil-et-le-cul/</link>
       <pubDate>Sat, 14 Dec 2024 14:48:19 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/le-soleil-et-le-cul/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/john_trap_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1) John Trap - Le soleil et le cul&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Multi-instrumentiste, John Trap compose, enregistre et interprète des chansons dans lesquelles il développe une matière musicale foisonnante, pop-rock onirique mêlée d’accents expérimentaux. &lt;br&gt;&#xA;Et si le regard porté sur le monde se fait parfois noir, c’est pour dire la nécessité de s’exprimer et de s’aimer. »&lt;/p&gt;</description>
+      <guid>http://localhost:1313/podcasts/le-soleil-et-le-cul/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/john_trap_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1) John Trap - Le soleil et le cul&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Multi-instrumentiste, John Trap compose, enregistre et interprète des chansons dans lesquelles il développe une matière musicale foisonnante, pop-rock onirique mêlée d’accents expérimentaux. &lt;br&gt;&#xA;Et si le regard porté sur le monde se fait parfois noir, c’est pour dire la nécessité de s’exprimer et de s’aimer. »&lt;/p&gt;</description>
     </item>
     <item>
       <title>London gardens</title>
-      <link>https://www.mjcmorlaix.com/podcasts/london-gardens/</link>
+      <link>http://localhost:1313/podcasts/london-gardens/</link>
       <pubDate>Sat, 14 Dec 2024 14:45:43 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/london-gardens/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/coastal_run_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;2) Coastal Run - London gardens&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Coastal Run, c’est le projet de Dylan Le Foll, jeune franco-anglais breton, désormais accompagné de quatre musiciens. Ses compositions, au son Folk-Rock, sont le reflet de son regard sur la jeunesse, l’amour et l’amitié.&lt;br&gt;&#xA;Après un premier EP « Live » sorti en janvier 2024, le premier album de Coastal Run a suivi en avril 2024. Il en ressort une pop folk solaire qui fait voyager ! »&lt;/p&gt;</description>
+      <guid>http://localhost:1313/podcasts/london-gardens/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/coastal_run_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;2) Coastal Run - London gardens&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Coastal Run, c’est le projet de Dylan Le Foll, jeune franco-anglais breton, désormais accompagné de quatre musiciens. Ses compositions, au son Folk-Rock, sont le reflet de son regard sur la jeunesse, l’amour et l’amitié.&lt;br&gt;&#xA;Après un premier EP « Live » sorti en janvier 2024, le premier album de Coastal Run a suivi en avril 2024. Il en ressort une pop folk solaire qui fait voyager ! »&lt;/p&gt;</description>
     </item>
     <item>
       <title>Leave me alone</title>
-      <link>https://www.mjcmorlaix.com/podcasts/leave-me-alone/</link>
+      <link>http://localhost:1313/podcasts/leave-me-alone/</link>
       <pubDate>Sat, 14 Dec 2024 14:43:03 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/leave-me-alone/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/june_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;3) June - Leave me alone&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« JUNE évolue dans un univers faisant référence aux 70’s mais à la sauce 2024. Ces cinq morlaisiens.nes s’amusent à jouer avec les intensités et trouvent l’équilibre entre morceaux bruts et séquences plus Soul. &lt;br&gt;&#xA;Le clavier vient colorer les riffs de guitare parfois rugueux. Le tout est porté par un duo basse-batterie solide et efficace réhaussé par une voix puissante et envoûtante. »&lt;/p&gt;</description>
+      <guid>http://localhost:1313/podcasts/leave-me-alone/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/june_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;3) June - Leave me alone&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« JUNE évolue dans un univers faisant référence aux 70’s mais à la sauce 2024. Ces cinq morlaisiens.nes s’amusent à jouer avec les intensités et trouvent l’équilibre entre morceaux bruts et séquences plus Soul. &lt;br&gt;&#xA;Le clavier vient colorer les riffs de guitare parfois rugueux. Le tout est porté par un duo basse-batterie solide et efficace réhaussé par une voix puissante et envoûtante. »&lt;/p&gt;</description>
     </item>
     <item>
       <title>Heart of gold</title>
-      <link>https://www.mjcmorlaix.com/podcasts/heart-of-gold/</link>
+      <link>http://localhost:1313/podcasts/heart-of-gold/</link>
       <pubDate>Sat, 14 Dec 2024 14:40:53 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/heart-of-gold/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/corbell_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;4) Corbbel - Heart of gold&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Un trio Dark-Folk composé de Pierrick CORBEL (guitare acoustique-chant) Eric Cervera (guitare électrique et arrangements) et Romane Rosser (clavier- chant), quelque part entre Timber Timbre, PJ Harvey ou Sparklehorse. &lt;br&gt;&#xA;Des compositions « sad and blue » parfois teintées d’ironie, qui font apparaître des images en noir et blanc dans un théâtre à l’italienne. »&lt;/p&gt;</description>
+      <guid>http://localhost:1313/podcasts/heart-of-gold/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/corbell_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;4) Corbbel - Heart of gold&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Un trio Dark-Folk composé de Pierrick CORBEL (guitare acoustique-chant) Eric Cervera (guitare électrique et arrangements) et Romane Rosser (clavier- chant), quelque part entre Timber Timbre, PJ Harvey ou Sparklehorse. &lt;br&gt;&#xA;Des compositions « sad and blue » parfois teintées d’ironie, qui font apparaître des images en noir et blanc dans un théâtre à l’italienne. »&lt;/p&gt;</description>
     </item>
     <item>
       <title>Despite</title>
-      <link>https://www.mjcmorlaix.com/podcasts/despite/</link>
+      <link>http://localhost:1313/podcasts/despite/</link>
       <pubDate>Sat, 14 Dec 2024 14:38:05 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/despite/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/ad_bestias_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;5) Ad Bestias - Despite&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Ad Bestias est une formation franco-germano-bosniaque résolument inclassable : Une solide base Hard Rock bien musclée mais poétique qui flirte avec du Métal, du Punk, du Funk, des mélodies traditionnelles et autres inspirations. &lt;br&gt;&#xA;Le chant navigue entre belles mélodies et une large panoplie des possibles, offerts par la voix humaine par une fusion toute particulière. »&lt;/p&gt;</description>
+      <guid>http://localhost:1313/podcasts/despite/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/ad_bestias_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;5) Ad Bestias - Despite&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Ad Bestias est une formation franco-germano-bosniaque résolument inclassable : Une solide base Hard Rock bien musclée mais poétique qui flirte avec du Métal, du Punk, du Funk, des mélodies traditionnelles et autres inspirations. &lt;br&gt;&#xA;Le chant navigue entre belles mélodies et une large panoplie des possibles, offerts par la voix humaine par une fusion toute particulière. »&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mieux droit</title>
-      <link>https://www.mjcmorlaix.com/podcasts/mieux-droit/</link>
+      <link>http://localhost:1313/podcasts/mieux-droit/</link>
       <pubDate>Sat, 14 Dec 2024 14:32:09 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/mieux-droit/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/kik-flute_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;6) Kick et Flûte - Mieux droit&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Kick &amp;amp; Flûte, c’est le rythme et la mélodie, les machines et la clarinette. Une musique dansante, frappante, mélodieuse aussi, inventive et drôle. Un mélange du savant et du populaire, de l’écrit et de l’improvisé, de la musique commerciale alternative. »&lt;/p&gt;</description>
+      <guid>http://localhost:1313/podcasts/mieux-droit/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/kik-flute_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;6) Kick et Flûte - Mieux droit&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Kick &amp;amp; Flûte, c’est le rythme et la mélodie, les machines et la clarinette. Une musique dansante, frappante, mélodieuse aussi, inventive et drôle. Un mélange du savant et du populaire, de l’écrit et de l’improvisé, de la musique commerciale alternative. »&lt;/p&gt;</description>
     </item>
     <item>
       <title>Parle ma soeur</title>
-      <link>https://www.mjcmorlaix.com/podcasts/parle-ma-soeur/</link>
+      <link>http://localhost:1313/podcasts/parle-ma-soeur/</link>
       <pubDate>Sat, 14 Dec 2024 14:29:52 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/parle-ma-soeur/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/crew_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;7) Crew du Off - Parle ma soeur&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Le crew du Off&amp;hellip; si le destin les a réunies c’est pour représenter et porter de manière non-exclusive la voix des femmes . Elles revisitent par le chant, le slam et le rap les sujets portés par l’actualité qu’elles abordent avec conscience, sensibilité et profondeur. »&lt;/p&gt;</description>
+      <guid>http://localhost:1313/podcasts/parle-ma-soeur/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/crew_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;7) Crew du Off - Parle ma soeur&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Le crew du Off&amp;hellip; si le destin les a réunies c’est pour représenter et porter de manière non-exclusive la voix des femmes . Elles revisitent par le chant, le slam et le rap les sujets portés par l’actualité qu’elles abordent avec conscience, sensibilité et profondeur. »&lt;/p&gt;</description>
     </item>
     <item>
       <title>A demain</title>
-      <link>https://www.mjcmorlaix.com/podcasts/a-demain/</link>
+      <link>http://localhost:1313/podcasts/a-demain/</link>
       <pubDate>Sat, 14 Dec 2024 14:27:00 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/a-demain/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/prauves_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;8) Pauvre S - A demain&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Pauvre S, ce sont des mots qui chantent l’intime et la quête de soi. Au travers de textes qui fouillent l’angoisse de l’usure, qui creusent la peur des lendemains incertains, c’est l’expression en filigrane de la difficulté d’être au monde. &lt;br&gt;&#xA;Sur une Pop-Folk Poétique où l’introspection côtoie l’ universel, c’est toujours un chant funambule qui avance entre désillusion et espoir. »&lt;/p&gt;</description>
+      <guid>http://localhost:1313/podcasts/a-demain/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/prauves_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;8) Pauvre S - A demain&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Pauvre S, ce sont des mots qui chantent l’intime et la quête de soi. Au travers de textes qui fouillent l’angoisse de l’usure, qui creusent la peur des lendemains incertains, c’est l’expression en filigrane de la difficulté d’être au monde. &lt;br&gt;&#xA;Sur une Pop-Folk Poétique où l’introspection côtoie l’ universel, c’est toujours un chant funambule qui avance entre désillusion et espoir. »&lt;/p&gt;</description>
     </item>
     <item>
       <title>Just like the wind</title>
-      <link>https://www.mjcmorlaix.com/podcasts/just-like-the-wind/</link>
+      <link>http://localhost:1313/podcasts/just-like-the-wind/</link>
       <pubDate>Sat, 14 Dec 2024 14:24:35 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/just-like-the-wind/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/echo_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;9) Echo - Just like the wind&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Du haut de ses trois ans d’existence, Echo joue avec les codes de la Soul et du Rock pour donner à ses compositions une énergie et un groove entraînant. &lt;br&gt;&#xA;Forgé au fil des concerts dans toute la Bretagne, le son de Echo se pose comme la synthèse des influences de ses membres, des Black pumas aux Blacks Keys, de Led Zeppelin à Marvin Gaye, Écho a bâti un son unique à travers son Soul-Rock moderne.»&lt;/p&gt;</description>
+      <guid>http://localhost:1313/podcasts/just-like-the-wind/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/echo_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;9) Echo - Just like the wind&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Du haut de ses trois ans d’existence, Echo joue avec les codes de la Soul et du Rock pour donner à ses compositions une énergie et un groove entraînant. &lt;br&gt;&#xA;Forgé au fil des concerts dans toute la Bretagne, le son de Echo se pose comme la synthèse des influences de ses membres, des Black pumas aux Blacks Keys, de Led Zeppelin à Marvin Gaye, Écho a bâti un son unique à travers son Soul-Rock moderne.»&lt;/p&gt;</description>
     </item>
     <item>
       <title>Burning light</title>
-      <link>https://www.mjcmorlaix.com/podcasts/burning-light/</link>
+      <link>http://localhost:1313/podcasts/burning-light/</link>
       <pubDate>Sat, 14 Dec 2024 14:22:10 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/burning-light/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/anthares_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;10) Anthares - Burning light&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Thrash metal from Britanny. Anthares, c’est presque 30 ans à faire saigner la Flying V et exploser les peaux de caisse claire. 2 EP et 3 albums dont le dernier « After the war » ponctuent un parcours où les compromis ne sont pas permis. &lt;br&gt;&#xA;En 1999, la mémoire, en 2019, le chaos et bientôt la guerre… 3 albums, 3 voix différentes mais sans jamais s’écarter d’un seul et unique chemin ponctué de riffs assassins et de frénétiques galopades rythmiques. »&lt;/p&gt;</description>
+      <guid>http://localhost:1313/podcasts/burning-light/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/anthares_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;10) Anthares - Burning light&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Thrash metal from Britanny. Anthares, c’est presque 30 ans à faire saigner la Flying V et exploser les peaux de caisse claire. 2 EP et 3 albums dont le dernier « After the war » ponctuent un parcours où les compromis ne sont pas permis. &lt;br&gt;&#xA;En 1999, la mémoire, en 2019, le chaos et bientôt la guerre… 3 albums, 3 voix différentes mais sans jamais s’écarter d’un seul et unique chemin ponctué de riffs assassins et de frénétiques galopades rythmiques. »&lt;/p&gt;</description>
     </item>
     <item>
       <title>Timidité</title>
-      <link>https://www.mjcmorlaix.com/podcasts/timidit%C3%A9/</link>
+      <link>http://localhost:1313/podcasts/timidit%C3%A9/</link>
       <pubDate>Sat, 14 Dec 2024 14:19:39 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/timidit%C3%A9/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/eva_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;11) Eva Hélia - Timidité&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Eva Hélia se produit seule en scène entourée de son piano et de ses machines. Sa musique, à la croisée des chemins entre chanson et nouvelle Pop-Electro dévoile un univers ciselé habité par sa voix et sa présence magnétique, sublimé par des mélodies « catchy » et des textes poignants en français. &lt;br&gt;&#xA;Son titre «Timidité « ouvre son EP « DOULEUR DOUCEUR » sorti en Mars 2024. »&lt;/p&gt;</description>
+      <guid>http://localhost:1313/podcasts/timidit%C3%A9/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/eva_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;11) Eva Hélia - Timidité&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Eva Hélia se produit seule en scène entourée de son piano et de ses machines. Sa musique, à la croisée des chemins entre chanson et nouvelle Pop-Electro dévoile un univers ciselé habité par sa voix et sa présence magnétique, sublimé par des mélodies « catchy » et des textes poignants en français. &lt;br&gt;&#xA;Son titre «Timidité « ouvre son EP « DOULEUR DOUCEUR » sorti en Mars 2024. »&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ecchymoses</title>
-      <link>https://www.mjcmorlaix.com/podcasts/ecchymoses/</link>
+      <link>http://localhost:1313/podcasts/ecchymoses/</link>
       <pubDate>Sat, 14 Dec 2024 14:17:14 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/ecchymoses/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/atija_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;12) Atitja - Ecchymoses&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;Après plusieurs esquisses musicales tracées seul pendant deux ans, il est temps pour Atitja de se dévoiler pleinement en affirmant un style et une esthétique à son image. &lt;br&gt;&#xA;En s’associant avec le « beatmaker » Samgi pour composer de nouvelles chansons aux sonorités plus électroniques, le rappeur morlaisien sublime une écriture introspective par des flows rappés et mélodiques. »&lt;/p&gt;</description>
+      <guid>http://localhost:1313/podcasts/ecchymoses/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/atija_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;12) Atitja - Ecchymoses&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;Après plusieurs esquisses musicales tracées seul pendant deux ans, il est temps pour Atitja de se dévoiler pleinement en affirmant un style et une esthétique à son image. &lt;br&gt;&#xA;En s’associant avec le « beatmaker » Samgi pour composer de nouvelles chansons aux sonorités plus électroniques, le rappeur morlaisien sublime une écriture introspective par des flows rappés et mélodiques. »&lt;/p&gt;</description>
     </item>
     <item>
       <title>Apes 2.0</title>
-      <link>https://www.mjcmorlaix.com/podcasts/apes-2-0/</link>
+      <link>http://localhost:1313/podcasts/apes-2-0/</link>
       <pubDate>Sat, 14 Dec 2024 14:13:03 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/apes-2-0/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/dlc_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;13) The Dirty Llamas - Apes 2.0&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« The Dirty Llamas convoquent et invoquent les esprits tourmentés de Black Sab’ , Led Zep’, et du Thin White Duke ( mais pas que&amp;hellip; ) pour forger un style oscillant entre Stoner Rock, Métal et Psyché planant. &lt;br&gt;&#xA;Ces trois vétérans de la scène musicale nord-finistérienne délivrent un son massif à grands coups de compos acérées dans la langue de Shakespeare, qui, à une tout autre époque, aurait peut-être été embauché comme chanteur dans un groupe de Rock… »&lt;/p&gt;</description>
+      <guid>http://localhost:1313/podcasts/apes-2-0/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/dlc_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;13) The Dirty Llamas - Apes 2.0&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« The Dirty Llamas convoquent et invoquent les esprits tourmentés de Black Sab’ , Led Zep’, et du Thin White Duke ( mais pas que&amp;hellip; ) pour forger un style oscillant entre Stoner Rock, Métal et Psyché planant. &lt;br&gt;&#xA;Ces trois vétérans de la scène musicale nord-finistérienne délivrent un son massif à grands coups de compos acérées dans la langue de Shakespeare, qui, à une tout autre époque, aurait peut-être été embauché comme chanteur dans un groupe de Rock… »&lt;/p&gt;</description>
     </item>
     <item>
       <title>Reboot</title>
-      <link>https://www.mjcmorlaix.com/podcasts/reboot/</link>
+      <link>http://localhost:1313/podcasts/reboot/</link>
       <pubDate>Sat, 14 Dec 2024 14:10:39 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/reboot/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/matto_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;14) Matto - Reboot&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Le combat n’est jamais aussi dur que lorsqu’on fait face à soi-même. Dans le rap comme dans le skate, Matto est son propre adversaire et a appris à se relever car derrière chaque chute se trouve une victoire. Il façonne un style profond et fidèle à son histoire personnelle. &lt;br&gt;&#xA;Ses trois EP résonnent comme une immersion dans les instants de sa vie. »&lt;/p&gt;</description>
+      <guid>http://localhost:1313/podcasts/reboot/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/matto_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;14) Matto - Reboot&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Le combat n’est jamais aussi dur que lorsqu’on fait face à soi-même. Dans le rap comme dans le skate, Matto est son propre adversaire et a appris à se relever car derrière chaque chute se trouve une victoire. Il façonne un style profond et fidèle à son histoire personnelle. &lt;br&gt;&#xA;Ses trois EP résonnent comme une immersion dans les instants de sa vie. »&lt;/p&gt;</description>
     </item>
     <item>
       <title>Who’s in charge ? </title>
-      <link>https://www.mjcmorlaix.com/podcasts/whos-in-charge/</link>
+      <link>http://localhost:1313/podcasts/whos-in-charge/</link>
       <pubDate>Sat, 14 Dec 2024 14:07:36 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/whos-in-charge/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/floor_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;15) Floor Is Lava - Who’s in charge ?&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Nous sommes FLOOR IS LAVA, nous chantons la liberté, nous la faisons résonner fortement. Le seul groupe au monde composé d’un dissident et anarchiste de Leningrad et d’une batteuse de Morlaix. Feddy Lavrov et Isa et C. ont formé le duo en 2024, déjà sorti deux albums et travaillent sur de nouveaux morceaux. »&lt;/p&gt;</description>
+      <guid>http://localhost:1313/podcasts/whos-in-charge/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/floor_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;15) Floor Is Lava - Who’s in charge ?&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Nous sommes FLOOR IS LAVA, nous chantons la liberté, nous la faisons résonner fortement. Le seul groupe au monde composé d’un dissident et anarchiste de Leningrad et d’une batteuse de Morlaix. Feddy Lavrov et Isa et C. ont formé le duo en 2024, déjà sorti deux albums et travaillent sur de nouveaux morceaux. »&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sans contrôle</title>
-      <link>https://www.mjcmorlaix.com/podcasts/sans-contr%C3%B4le/</link>
+      <link>http://localhost:1313/podcasts/sans-contr%C3%B4le/</link>
       <pubDate>Sat, 14 Dec 2024 14:01:45 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/sans-contr%C3%B4le/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/au_revoir_bruno_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;16) Au Revoir Bruno - Sans contrôle&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« «Sans contrôle» morceau décharné du projet de Coldwave Morlaisien «Au revoir Bruno». Il est le fruit d’une anxiété longuement subie, longuement vécue, longuement maturée. &lt;br&gt;&#xA;A l’aide d’une boite à rythme qui court à toute vitesse et d’une basse rugueuse, Au revoir Bruno nous conte une journée tapissée d’angoisse où le vertige et les palpitations obstruent le cerveau d’un individu qui doit se concentrer pour respirer et se calmer »&lt;/p&gt;</description>
+      <guid>http://localhost:1313/podcasts/sans-contr%C3%B4le/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/au_revoir_bruno_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;16) Au Revoir Bruno - Sans contrôle&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« «Sans contrôle» morceau décharné du projet de Coldwave Morlaisien «Au revoir Bruno». Il est le fruit d’une anxiété longuement subie, longuement vécue, longuement maturée. &lt;br&gt;&#xA;A l’aide d’une boite à rythme qui court à toute vitesse et d’une basse rugueuse, Au revoir Bruno nous conte une journée tapissée d’angoisse où le vertige et les palpitations obstruent le cerveau d’un individu qui doit se concentrer pour respirer et se calmer »&lt;/p&gt;</description>
     </item>
     <item>
       <title>Secret wars</title>
-      <link>https://www.mjcmorlaix.com/podcasts/secret-wars/</link>
+      <link>http://localhost:1313/podcasts/secret-wars/</link>
       <pubDate>Sat, 14 Dec 2024 13:59:00 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/secret-wars/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/chignole_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;17) Chignole - Secret wars&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Après quelques années en dilettante, passées à fréquenter des batteurs en préretraite et des bassistes poseurs de lapin, Chignole trouve enfin son blase et sa formule parfaite courant 2023. &lt;br&gt;&#xA;Un original trio guitare/basse/batterie flanqué d’un chant pas toujours « hyper juste » mais réalisé avec conviction. Mélodique et abrasif, Rock, Punk, parfois Noisy, son premier EP 9 titres auto-produit intitulé « Box » voit le jour fin 2024. »&lt;/p&gt;</description>
+      <guid>http://localhost:1313/podcasts/secret-wars/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/chignole_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;17) Chignole - Secret wars&lt;/strong&gt; &lt;/p&gt;&#xA;&lt;p&gt;« Après quelques années en dilettante, passées à fréquenter des batteurs en préretraite et des bassistes poseurs de lapin, Chignole trouve enfin son blase et sa formule parfaite courant 2023. &lt;br&gt;&#xA;Un original trio guitare/basse/batterie flanqué d’un chant pas toujours « hyper juste » mais réalisé avec conviction. Mélodique et abrasif, Rock, Punk, parfois Noisy, son premier EP 9 titres auto-produit intitulé « Box » voit le jour fin 2024. »&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resilience</title>
-      <link>https://www.mjcmorlaix.com/podcasts/resilience/</link>
+      <link>http://localhost:1313/podcasts/resilience/</link>
       <pubDate>Sat, 14 Dec 2024 13:55:56 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/resilience/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.mjcmorlaix.com/medias/pink_granit_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;18) Pink Granit - Résilience&lt;/strong&gt; &lt;br&gt;&#xA;« Pink Granit est un groupe de Rock dynamique formé en 2022. Il est composé de quatre membres, Steff AC à la guitare et au chant, Phil à la basse, Thibaut à la guitare et Fred à la batterie. Le groupe a su rapidement se faire une expérience sur la scène musicale locale avec de nombreux concerts à son actif. Au plaisir de se voir sur scène ! »&lt;/p&gt;</description>
+      <guid>http://localhost:1313/podcasts/resilience/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/medias/pink_granit_compil_250.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;18) Pink Granit - Résilience&lt;/strong&gt; &lt;br&gt;&#xA;« Pink Granit est un groupe de Rock dynamique formé en 2022. Il est composé de quatre membres, Steff AC à la guitare et au chant, Phil à la basse, Thibaut à la guitare et Fred à la batterie. Le groupe a su rapidement se faire une expérience sur la scène musicale locale avec de nombreux concerts à son actif. Au plaisir de se voir sur scène ! »&lt;/p&gt;</description>
     </item>
     <item>
       <title>Les Chroniques de l&#39;Auditorium</title>
-      <link>https://www.mjcmorlaix.com/podcasts/les-chroniques-de-lauditorium/</link>
+      <link>http://localhost:1313/podcasts/les-chroniques-de-lauditorium/</link>
       <pubDate>Sat, 30 Apr 2022 11:19:42 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/les-chroniques-de-lauditorium/</guid>
+      <guid>http://localhost:1313/podcasts/les-chroniques-de-lauditorium/</guid>
       <description>&lt;p&gt;Retour sur l&amp;rsquo;aprés-midi jeux du monde, qui à eu lieu à la MJC de Morlaix le 30 avril 2022, dans le cadre du Festival &amp;quot; On part à l&amp;rsquo;aventure&amp;quot;&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>La Jeunesse Envoie Des Ondes</title>
-      <link>https://www.mjcmorlaix.com/podcasts/la-jeunesse-envoie-des-ondes/</link>
+      <link>http://localhost:1313/podcasts/la-jeunesse-envoie-des-ondes/</link>
       <pubDate>Fri, 10 Jul 2020 12:24:00 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/la-jeunesse-envoie-des-ondes/</guid>
+      <guid>http://localhost:1313/podcasts/la-jeunesse-envoie-des-ondes/</guid>
       <description>&lt;p&gt;&lt;strong&gt;L’émission «La Jeunesse Envoie Des Ondes»  propose une création sonore globale&lt;/strong&gt; (musique, bruitage, voix , écriture, captation et montage), sous forme de radio fiction sur le thème de la pandémie en cours&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>AD Lib #3</title>
-      <link>https://www.mjcmorlaix.com/podcasts/ad-lib-3/</link>
+      <link>http://localhost:1313/podcasts/ad-lib-3/</link>
       <pubDate>Sat, 21 Dec 2019 14:27:25 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/ad-lib-3/</guid>
+      <guid>http://localhost:1313/podcasts/ad-lib-3/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Ad Lib #3 - une émission 100% live&lt;/strong&gt;, en prise &amp;ldquo;sèche&amp;rdquo;, où nos chroniqueurs lisent des textes d&amp;rsquo;auteurs choisis par leurs soins, ou des textes écrits par eux-même, le tout porté par les improvisations des musiciens invités à cette occasion.&lt;/p&gt;</description>
     </item>
     <item>
       <title>La Jeunesse Envoie Des Ondes</title>
-      <link>https://www.mjcmorlaix.com/podcasts/la-jeunesse-envoie-des-ondes-1/</link>
+      <link>http://localhost:1313/podcasts/la-jeunesse-envoie-des-ondes-1/</link>
       <pubDate>Sat, 20 Jul 2019 13:00:53 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/la-jeunesse-envoie-des-ondes-1/</guid>
+      <guid>http://localhost:1313/podcasts/la-jeunesse-envoie-des-ondes-1/</guid>
       <description>&lt;p&gt;&lt;strong&gt;L’émission «La Jeunesse Envoie Des Ondes» propose 2 créations&lt;/strong&gt; sonore globale (musique, bruitage, voix et interprétation, écriture, captation et montage) sous forme d&amp;rsquo;une radio fiction &amp;ldquo;Tellement Fake&amp;rdquo; et d&amp;rsquo;une nouvelle création musicale et littéraire&amp;hellip; improvisée et nomade &amp;ldquo;Ad Lib&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Love And Pop</title>
-      <link>https://www.mjcmorlaix.com/podcasts/love-and-pop/</link>
+      <link>http://localhost:1313/podcasts/love-and-pop/</link>
       <pubDate>Sat, 05 Jan 2019 13:39:42 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/love-and-pop/</guid>
+      <guid>http://localhost:1313/podcasts/love-and-pop/</guid>
       <description>&lt;p&gt;&lt;strong&gt;L’émission mensuelle «Love And Pop»&lt;/strong&gt; balaye, par l’intermédiaire des chroniqueurs des ateliers radio, les tendances et les émergences de la «pop culture» qui les ont interpellés ou intéressés&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>RADIOPHONIE</title>
-      <link>https://www.mjcmorlaix.com/podcasts/radiophonie/</link>
+      <link>http://localhost:1313/podcasts/radiophonie/</link>
       <pubDate>Sat, 15 Dec 2018 13:33:57 +0000</pubDate>
-      <guid>https://www.mjcmorlaix.com/podcasts/radiophonie/</guid>
+      <guid>http://localhost:1313/podcasts/radiophonie/</guid>
       <description>&lt;p&gt;&lt;strong&gt;L’émission RADIOPHONIE revient sur le Festival des solidarités qui à eu lieu à l’auditorium de la MJC en 2018&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Toute l’équipe de Radio MJC, se sont attablés pour interviewer les différents représentants de associations du territoire sur leurs projets d’actions quotidiens et futurs&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>
