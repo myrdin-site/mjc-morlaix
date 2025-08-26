@@ -21,6 +21,6 @@ creneau: >-
   **à partir de 10 ans >** 17h30 / 18h30
 
 
-  **à partir de 12 ans  et + ados >** 18h40 / 19h40
+  **à partir de 12 ans  et + ados >** 18h30 / 20h00
 description: Hip Hop
 ---
