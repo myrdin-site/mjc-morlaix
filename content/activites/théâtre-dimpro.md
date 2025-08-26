@@ -14,6 +14,6 @@ creneau: >-
   LUNDI : **adultes >** 17h50 / 19h50 - 20h10 / 22h10
 
 
-  MERCREDI : **14 ans + et Ados >** 14h00 /15h30
+  MERCREDI : **14 ans + et Ados >** 17h30 / 19h00
 description: Théâtre d'impro
 ---
