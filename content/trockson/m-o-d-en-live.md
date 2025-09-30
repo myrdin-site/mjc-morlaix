@@ -10,7 +10,7 @@ prix_libre: true
 
 Après avoir réalisé leur 1er Clip vidéo, **la MJC à le plaisir d’accueillir, dans le cadre de l’accompagnement par le dispositif Trock’son, le Duo « Eclectro Akousti’World » MOD (Maintenant On Danse) pour leur 1er LIVE !** 
 
-**M.O.D est né de la rencontre entre Hervé LOUVET (Richard BONA, Mory KANTE) et Johan GINESTE (les frères SIMMS, Steve SHEHAN).** Ces deux percussionnistes aux parcours multiples partageant les mêmes aspirations créatives, ambitionnent, à l’origine, de créer une musique teintée « électroacoustique » d’abord par le son et par la technologie tactile et digitale du smartphone. 
+**M.O.D est né de la rencontre entre Hervé LOUVET** (Richard BONA, Mory KANTE) **et Johan GINESTE** (les frères SIMMS, Steve SHEHAN). Ces deux percussionnistes aux parcours multiples partageant les mêmes aspirations créatives, ambitionnent, à l’origine, de créer une musique teintée « électroacoustique » d’abord par le son et par la technologie tactile et digitale du smartphone. 
 
 **Aujourd’hui leur musique Electro-World s’est naturellement muée et enrichie du patrimoine rythmique et mélodique mondial,** orchestrant savamment les sonorités électroniques, les inspirations classiques et ethniques portées par des pulsations percussives polymorphes... 
 
