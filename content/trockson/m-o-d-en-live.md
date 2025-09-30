@@ -23,7 +23,7 @@ Après avoir réalisé leur 1er Clip vidéo, **la MJC à le plaisir d’accueill
 Artiste multi-instrumentiste formé dès le plus jeune âge au piano et aux percussions, il n’a eu de cesse d’enrichir ses pratiques et d’ajouter des cordes à son arc. En pratiquant avec de grands artistes et dans des formations aussi diverses qu’exigeantes, Hervé explore les styles musicaux et les influences internationales. Fort de ses expériences, il crée plusieurs projets musicaux et transmet, enseigne, initie au grand public et en associations ses techniques musicales. 
 
 **Johan Gineste : Claviers - Batterie - Percussions - Chant** \
-Parallèlement à l’activité de musicien, il développe son projet “Musique Bien-Être” s’inspirant des sons thérapeutiques et des vibrations des instruments tels que le Handpan, les bols chantants tibétains, les tambours chamaniques et les sons ambiants de la nature pour pour accompagner des pratiques comme le Yin yoga, créer des événements live, des relaxations sonores en thalasso et des ateliers immersifs avec des coachs sportifs, des professeurs de yoga. 
+Artiste batteur/percussioniste/clavieriste autodictate au parcours atypique, façonné par les rencontres musicales plurielles et internationales. Avec un jeu nourri et teinté par les couleurs d’’afrique, d’amérique latine et du sud, du vieux continent ou de l’asie, Johan sans cesse en quête et en curiosité s’exprime en puisant dans ces in uences et collaborations multiples. En musicien nomade, Johan explore aussi la musique, la vibration sonore en ce qu’elle a de spirituelle, tribal et libératrice. 
 
 **ÉCOUTER >** <https://soundcloud.com/mod-2025> 
 
