@@ -1,6 +1,6 @@
 ---
 title: JAM SESSION
-description: Concert MJC/Trock'Son
+description: Concert Trock'Son / MJC
 cover: /medias/encart_jamsession_trockson2025.jpg
 event_time: 2025-10-17T19:00:00.000Z
 lieu: Auditorium
