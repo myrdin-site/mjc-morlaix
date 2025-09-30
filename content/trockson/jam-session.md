@@ -28,6 +28,6 @@ C’est l’occasion pour vous musicien.n.e.s amateur.e.s ou confirmé.e.s, de r
 **Pour les rappeurs, uniquement en FreeStyle (ou textes)** sur musique Instrumentale.
 
 En espérant vous voir nombreux !!\
-**Si vous souhaitez y participer, contactez nous au 02 98 88 09 94 ou [trockson@gmail.com](trockson@gmail.com)** 
+**Si vous souhaitez y participer, contactez nous au 02 98 88 09 94 ou [trockson@gmail.com](mailto:trockson@gmail.com)** 
 
 **JAM SESSION - Vendredi 17 octobre / 19h00 > 22h00**
