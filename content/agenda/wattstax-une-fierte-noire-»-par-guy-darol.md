@@ -6,7 +6,7 @@ event_time: 2025-11-25T20:15:00.000Z
 lieu: Auditorium
 prix_libre: true
 ---
-![CONFÉRENCE  autour du concert MÉMOIRES REBELLES](/medias/08.conf-wattstax_page_750x150px.jpg "CONFÉRENCE  autour du concert MÉMOIRES REBELLES")
+![Wattstax, une fierte Noire » par Guy Darol](/medias/08.conf-wattstax_page_750x150px.jpg "CONFÉRENCE  autour du concert MÉMOIRES REBELLES")
 
 **Conférence** autour du concert "MÉMOIRES REBELLES"
 
