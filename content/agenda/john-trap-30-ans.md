@@ -1,6 +1,6 @@
 ---
 title: JOHN TRAP 30 ANS
-description: POP-ROCK / ELECTRO / EXPERIMENTAL POP
+description: Pop Rock / Electro / Experimental
 cover: /medias/12.johntrapp_750x150px.jpg
 event_time: 2026-02-06T20:30:00.000Z
 lieu: Auditorium
