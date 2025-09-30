@@ -23,7 +23,7 @@ Après avoir réalisé leur 1er Clip vidéo, **la MJC à le plaisir d’accueil
 Artiste multi-instrumentiste formé dès le plus jeune âge au piano et aux percussions, il n’a eu de cesse d’enrichir ses pratiques et d’ajouter des cordes à son arc. En pratiquant avec de grands artistes et dans des formations aussi diverses qu’exigeantes, Hervé explore les styles musicaux et les influences internationales. Fort de ses expériences, il crée plusieurs projets musicaux et transmet, enseigne, initie au grand public et en associations ses techniques musicales. 
 
 **Johan Gineste : Claviers - Batterie - Percussions - Chant** \
-Artiste batteur/percussioniste/clavieriste autodictate au parcours atypique, façonné par les rencontres musicales plurielles et internationales. Avec un jeu nourri et teinté par les couleurs d’’afrique, d’amérique latine et du sud, du vieux continent ou de l’asie, Johan sans cesse en quête et en curiosité s’exprime en puisant dans ces in uences et collaborations multiples. En musicien nomade, Johan explore aussi la musique, la vibration sonore en ce qu’elle a de spirituelle, tribal et libératrice. 
+Artiste batteur/percussioniste/clavieriste autodictate au parcours atypique, façonné par les rencontres musicales plurielles et internationales. Avec un jeu nourri et teinté par les couleurs d’’afrique, d’amérique latine et du sud, du vieux continent ou de l’asie, Johan sans cesse en quête et en curiosité s’exprime en puisant dans ces influences et collaborations multiples. En musicien nomade, Johan explore aussi la musique, la vibration sonore en ce qu’elle a de spirituelle, tribal et libératrice. 
 
 **ÉCOUTER >** <https://soundcloud.com/mod-2025> 
 
