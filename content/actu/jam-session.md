@@ -8,9 +8,9 @@ prix_libre: false
 ---
 ![Jam Session](/medias/page_jamsession_trockson2025.jpg "Concert MJC / Trock'Son")
 
-Régulièrement nos musiciens adhérents du Trock’Son se réunissent pour des moments festifs et conviviaux, ouvertes à tous et toutes (adhérents ou non), lors des Jam Sessions que nous organisons. 
+**Régulièrement nos musiciens adhérents du Trock’Son se réunissent pour des moments festifs et conviviaux**, ouvertes à tous et toutes (adhérents ou non), lors des Jam Sessions que nous organisons. 
 
-C’est l’occasion pour vous musicien.n.e.s amateur.e.s ou confirmé.e.s, de rencontrer, écouter, échanger et/ou participer sur scène avec nos adhérents du dispositif… Et laisser le champ libre à votre créativité…
+C’est l’occasion pour vous musicien.n.e.s amateur.e.s ou confirmé.e.s, de rencontrer, écouter, échanger et/ou participer sur scène avec nos adhérents du dispositif… **Et laisser le champ libre à votre créativité…**
 
 **INFOS PRATIQUES**
 
@@ -23,11 +23,11 @@ C’est l’occasion pour vous musicien.n.e.s amateur.e.s ou confirmé.e.s, de r
 
 **2 morceaux (5mn Max / morceau) à suivre par musiciens,** renouvelables tout au long de la JAM (en fonction du nombre de musiciens)
 
-**Accent mis sur l’improvisation**, **en évitant les reprises** autant de possible, pour que certains ne se sentent pas mis de coté ou pas au niveau si ils ne les connaissent pas.
+**Accent mis sur l’improvisation**, **en évitant les reprises** autant que possible, pour que certains ne se sentent pas mis de coté ou pas au niveau si ils ne les connaissent pas.
 
-**Pour les rappeurs, uniquement en FreeStyle sur musique Instrumentale**.
+**Pour les rappeurs, uniquement en FreeStyle (ou textes)** sur musique Instrumentale.
 
 En espérant vous voir nombreux !!\
-**Si vous souhaitez y participer, contactez nous au 02 98 88 09 94,** 
+**Si vous souhaitez y participer, contactez nous au 02 98 88 09 94 ou [trockson@gmail.com](trockson@gmail.com)** 
 
 **JAM SESSION - Vendredi 17 octobre / 19h00 > 22h00**
