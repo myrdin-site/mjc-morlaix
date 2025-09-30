@@ -8,7 +8,7 @@ prix_libre: true
 ---
 ![M O D en Live](/medias/page_mod-659x750_web.jpg "Concert Trock'Son / MJC")
 
-Après avoir réalisé leur 1er Clip vidéo, **la MJC à le plaisir d’accueillir, dans le cadre de l’accompagnement par le dispositif Trock’son, le Duo « Eclectro Akousti’World » MOD (Maintenant On Danse) pour leur 1er LIVE !** 
+Après avoir réalisé leur 1er Clip vidéo, **la MJC à le plaisir d’accueillir,** dans le cadre de l’accompagnement par le dispositif Trock’son, **le Duo** « Eclectro Akousti’World » **MOD (Maintenant On Danse) pour leur 1er LIVE !** 
 
 **M.O.D est né de la rencontre entre Hervé LOUVET** (Richard BONA, Mory KANTE) **et Johan GINESTE** (les frères SIMMS, Steve SHEHAN). Ces deux percussionnistes aux parcours multiples partageant les mêmes aspirations créatives, ambitionnent, à l’origine, de créer une musique teintée « électroacoustique » d’abord par le son et par la technologie tactile et digitale du smartphone. 
 
