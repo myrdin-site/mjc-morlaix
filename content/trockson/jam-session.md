@@ -2,7 +2,7 @@
 title: JAM SESSION
 description: Concert Trock'Son / MJC
 cover: /medias/encart_jamsession_trockson2025.jpg
-event_time: 2025-10-17T19:00:00.000Z
+event_time: 2025-12-12T19:00:00.000Z
 lieu: Auditorium
 prix_libre: false
 ---
@@ -30,4 +30,4 @@ C’est l’occasion pour vous musicien.n.e.s amateur.e.s ou confirmé.e.s, de r
 En espérant vous voir nombreux !!\
 **Si vous souhaitez y participer, contactez nous au 02 98 88 09 94 ou [trockson@gmail.com](mailto:trockson@gmail.com)** 
 
-**JAM SESSION - Vendredi 17 octobre / 19h00 > 22h00**
+**JAM SESSION - Vendredi 12 Décembre / 19h00 > 22h00**
