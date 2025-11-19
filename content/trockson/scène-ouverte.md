@@ -11,7 +11,7 @@ prix_libre: false
 **Un plateau éclectique et électrique pour finir en beauté ce mois de novembre avec les groupes du Trock'Son.** \
 Venez découvrir : 
 
-**Boréale** \[électro pop poétique] - **Flying Feathers** \[rock] / **Pouillot Véloce** \[triornithorock] \
+**Boréale** \[électro pop poétique] - **Flying Feathers** \[rock] - **Pouillot Véloce** \[triornithorock] \
 qui nous font l’honneur d’inaugurer ce premier format scène ouverte de l’année 
 
 **Ouverture des portes à 19h30 - Entrée libre**
