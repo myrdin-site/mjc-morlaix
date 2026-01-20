@@ -2,7 +2,7 @@
 title: MYLENE CHAMBLAIN DUO FEAT. FABRICE MANZINI
 description: BLUES
 cover: /medias/11.mylenechamblain_750x150px.jpg
-event_time: 2025-12-30T20:30:00.000Z
+event_time: 2026-01-30T20:30:00.000Z
 lieu: Auditorium
 prix_libre: false
 prix_plein: 10
