@@ -12,7 +12,7 @@ prix_libre: false
 
 un voyage en Guinée ou s’enchaînent les rythmes traditionnels des percussions, la danse et le chant…le tout dans un format intimiste.\
 \
-**ATTENTION** : Nombre de places limité à 20 personnes par ateliers - Ne tardez pas à vous inscrire !
+**ATTENTION** : Nombre de places limité à 20 personnes par ateliers - **Ne tardez pas à vous inscrire !**
 
 **Programme du Stage :**
 
@@ -31,3 +31,23 @@ un voyage en Guinée ou s’enchaînent les rythmes traditionnels des percussion
 **20h / 20h30 - Concert Restitution stage.** Présentation globale (percussions, danse et chant) travaillé durant le stage
 
 **21h - CONCERT de Layba Kourouma** (+ invités)
+
+**COÛT DU STAGE :** \
+**1/2 journée 10€ / Participant -  journée 15€ / Participant - Option + (4ème atelier) + 5 € / Participant**
+
+**Inscriptions au 02 98 88 09 94 ou directement à la MJC.**
+
+**\--------------------------**
+
+**Layba Kourouma est un artiste percussionniste Guinéen.** Il pratique la musique Mandingue de l'ethnie Malinké. Il est reconnu dans son pays et est un des plus grands batteur de sa génération. Ce terme englobe le djembé bien sûr ou il excelle dans les phrasés de solo que la pratique des tambours en général.\
+\
+Son apprentissage à "l'ancienne"  au village de Oroko avec les Vieux lui a transmis toute la tradition ancestrale qui rythmait la vie au village comme pour les travaux des champs, l'initiation des jeunes, le passage à l'âge adulte... Dans les années 2000 avec quelques autres jeunes du village il s' installe à Conakry la capitale et devient musicien pro. Il fonde les percussions de Kouroussa, troupe qui gagne en 2006  le grand concours international de percussion ( sorte de coupe du monde...)
+
+Après une tournée en France, il s' installe à Auxerre et y fonde une famille. Aujourd'hui, il enseigne son art, la percussion, la danse et le chant. Layba est un ambianceur, un show man , avec lui le spectacle est interactif et tout le monde participe, danse, chante .
+
+**Vidéos**\
+<https://www.youtube.com/watch?v=r9Kem-MyuDQ&ab_channel=NouzB>
+
+<https://www.youtube.com/watch?v=w1Kp6LDZRnM&ab_channel=VilledeSens>
+
+<https://www.youtube.com/watch?v=HuJStFI7Zec&ab_channel=MamadiCond%C3%A9Djemb%C3%A9folaPercussionsdeKouroussa>
