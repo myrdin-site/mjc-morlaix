@@ -1,14 +1,16 @@
 ---
 title: KATHY BOYE AND SOULIDARITY GOSPEL SINGERS
 description: GOSPEL / SOUL / BLUES
-cover: /medias/13.kathyboye_750x150px.jpg
+cover: /medias/13.kathyboye_report_750x150px.jpg
 event_time: 2026-03-06T20:30:00.000Z
-lieu: Auditorium
+lieu: REPORTÉ
 prix_libre: false
 prix_plein: 10
 prix_abonné: 6
 ---
-![KATHY BOYE AND SOULIDARITY GOSPEL SINGERS](/medias/13.kathyboye_750x150px.jpg "GOSPEL / SOUL / BLUES")
+![KATHY BOYE AND SOULIDARITY GOSPEL SINGERS](/medias/13.kathyboye_report_750x150px.jpg "GOSPEL / SOUL / BLUES")
+
+**CONCERT REPORTÉ** à la saison prochaine (2026-2027)
 
 **Depuis toujours passionnée par le chant, Kathy Boyé se tourne très tôt vers le Blues et le Gospel.** Elle arrange et compose du blues et gospel, passionnée par cet univers musical, qu’elle aborde avec ses propres racines et couleurs vocales. 
 
