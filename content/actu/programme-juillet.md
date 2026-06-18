@@ -1,6 +1,6 @@
 ---
 title: Programme JUILLET
-description: Service Information Jeunesse
+description: "SIJ - Service Information Jeunesse "
 cover: /medias/encart-actuweb_sij2026.png
 event_time: 2026-07-06T10:00:00.000Z
 lieu: "MJC "
