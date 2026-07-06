@@ -1,11 +1,11 @@
 ---
-title: Atelier Peinture Dessin
+title: Atelier Peinture - Dessin & Arts plastiques
 picto: /medias/artsplastik_150px.png
 public:
   - adultes
 anim: Charles VERGNOLLE
-price: 126€ à 210€ /an
-starting_date: 2025-09-22T17:00:06.240Z
+price: 127€ à 213€ /an
+starting_date: 2026-09-14T17:00:06.240Z
 creneau: >-
   **Débutants comme confirmés**, cet atelier est destiné aux personnes
   souhaitant acquérir des techniques de dessin et/ou pratiquer la peinture. Et
