@@ -1,5 +1,5 @@
 ---
-title: Atelier Peinture - Dessin & Arts plastiques
+title: Atelier Peinture Dessin & Arts plastiques
 picto: /medias/artsplastik_150px.png
 public:
   - adultes
