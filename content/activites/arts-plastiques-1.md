@@ -1,12 +1,12 @@
 ---
-title: Arts Plastiques
+title: Arts Plastiques Enfants
 picto: /medias/artsplastik_150px.png
 public:
   - enfants
   - adolescents
 anim: Charles VERGNOLLE
-price: 99€ à 165€ /an
-starting_date: 2025-09-24T15:00:10.730Z
+price: 102 € à 168 € /an
+starting_date: 2026-09-16T15:00:10.730Z
 creneau: >-
   **A travers l’histoire de l’Art et de ses artistes**, découverte de
   différentes techniques picturales : figuratif, abstrait, portrait, Pop Art,
@@ -17,5 +17,5 @@ creneau: >-
 
 
   **8 / 12 ans >** MERCREDI **\- 17h00 / 18h30**
-description: Arts Plastiques
+description: Arts Plastiques Enfants
 ---
