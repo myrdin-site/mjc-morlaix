@@ -11,6 +11,6 @@ creneau: |-
   **!!! NOUVEAU !!!** \
   **CREATION BD / CARTOON / MANGA**
 
-  **12 ANS ET +** > Lundi - 17h45 / 19h15
+  **12 ans et +** > Lundi - 17h45 / 19h15
 description: Atelier Création BD / CARTOON / MANGA
 ---
