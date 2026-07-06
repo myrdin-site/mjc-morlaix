@@ -5,8 +5,8 @@ public:
   - adolescents
   - adultes
 anim: Cyril CHEGARAY
-price: 126€ à 210€ /an
-starting_date: 2025-09-22T15:15:34.937Z
+price: 127 € à 213 € /an
+starting_date: 2026-09-28T15:15:34.937Z
 creneau: >-
   **Le Taiji Quan est un art martial dit de longue vie**, qui invite à bouger
   lentement, de manière non traumatisante, en suivant une logique anatomique,
