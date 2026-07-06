@@ -1,5 +1,5 @@
 ---
-title: Atelier Brico' Créations
+title: Brico' Créations
 picto: /medias/artsplastik_150px.png
 public:
   - enfants
