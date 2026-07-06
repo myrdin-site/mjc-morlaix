@@ -1,5 +1,5 @@
 ---
-title: Atelier BD - Cartoon - Manga
+title: BD - Cartoon - Manga
 picto: /medias/artsplastik_150px.png
 public:
   - enfants
