@@ -5,8 +5,8 @@ public:
   - enfants
   - adolescents
 anim: Barbora PILATIKOVA-JESTIN
-price: 99€ à 165€ /an
-starting_date: 2025-09-24T14:30:10.100Z
+price: 102 € à 168 € /an
+starting_date: 2026-09-23T15:00:10.100Z
 creneau: >-
   **Si tu aimes chanter** et que tu as envie de saisir le micro pour faire le
   show en solo ou avec d’autres chanteurs, cet atelier est fait pour toi !
@@ -17,9 +17,6 @@ creneau: >-
 
   MERCREDI
 
-  **8 / 10 ans >** 16h30 / 17h30
-
-
-  **12 ans et + & adultes >** 17h30 / 19h00
+  **8 / 10 ans et + jusqu'à 17 ans >** 17h00 / 19h00
 description: Pop Music Club
 ---
