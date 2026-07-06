@@ -3,9 +3,9 @@ title: Couture
 picto: /medias/couture_150px.png
 public:
   - adultes
-anim: Cécile HESLOIN - Ligéa SINOQUET
-price: 126€ à 210€ /an
-starting_date: 2025-09-22T12:00:22.877Z
+anim: Ligéa SINOQUET
+price: 126 € à 210 € /an
+starting_date: 2026-09-14T08:00:22.877Z
 creneau: >-
   **Accompagnement de votre créativité** dans la création de vos travaux de
   couture.
@@ -15,7 +15,7 @@ creneau: >-
   Matériel et machines à coudre à disposition. Ouvrages et matériaux de «récup» peuvent aider à vos créations.
 
 
-  LUNDI : **adultes >** 14h00 / 16h00
+  LUNDI : **adultes >** 10h00 / 12h00 - 14h00 / 16h00 - 16h15 / 18h15
 
 
   JEUDI : **adultes >** 16h15 / 18h15  -  18h30 / 20h30
