@@ -2,11 +2,10 @@
 title: Anglais
 picto: /medias/langues_150px.png
 public:
-  - adolescents
   - adultes
-anim: Isabel Mc GUIGAN
-price: 119€ à 180€ /an
-starting_date: 2025-09-23T16:00:22.532Z
+anim: Patrick YTHIER
+price: 119 € à 180 € /an
+starting_date: 2026-09-15T16:30:22.532Z
 creneau: >-
   **Atelier d’apprentissage déblocage linguistique** axé sur la conversation.
 
@@ -15,8 +14,6 @@ creneau: >-
   des personnes anglophones.
 
 
-
-
-  MARDI : **adultes/16 ans + >** 18h00 / 19h30
+  MARDI : **adultes  >** 18h30 / 20h00
 description: Anglais
 ---
