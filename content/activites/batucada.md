@@ -5,8 +5,8 @@ public:
   - adolescents
   - adultes
 anim: Mohamed FAQUIR
-price: 119€ à 180€ /an
-starting_date: 2025-09-27T14:00:23.899Z
+price: 122 € à 183 € /an
+starting_date: 2026-09-19T14:00:23.899Z
 creneau: >-
   **! NOUVEAU !**
 
