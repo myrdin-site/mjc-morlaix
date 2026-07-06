@@ -3,6 +3,7 @@ title: Atelier Brico' Créations
 picto: /medias/artsplastik_150px.png
 public:
   - enfants
+  - adolescents
 anim: Charles VERGNOLLE
 price: 102 € à 168 € /an
 starting_date: 2026-09-16T13:00:08.624Z
