@@ -15,5 +15,5 @@ creneau: >-
 
 
   MARDI : **16 ans et + adultes >** 19h00 / 21h00
-description: Théâtre
+description: Théâtre Adultes
 ---
