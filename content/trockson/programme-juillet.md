@@ -2,7 +2,7 @@
 title: Programme Juillet
 description: Actus Trock'Son
 cover: /medias/encart_jamsession_trockson2025.jpg
-event_time: 2026-07-09T14:01:44.116Z
+event_time: 2026-07-30T16:00:44.116Z
 lieu: Morlaix territoire
 prix_libre: false
 ---
@@ -12,8 +12,8 @@ prix_libre: false
 
 **Camion Trock'Son**\
 Trock'Son agit hors les murs : en mettant à disposition des instruments, en proposant des initiations, de l'enregistrement, des jeux, de l'écoute...\
-\
-Cet été le camion Trock'Son sera présent le **7 juillet**, de 14h à 17h30 à Carantec pour les structures jeunesse, et le **30 juillet** de 16h à 20h au centre de loisir de à Plougasnou.
+Cet été le camion Trock'Son sera présent le **7 juillet**, de 14h à 17h30 à Carantec pour les structures jeunesse,\
+et le **30 juillet** de 16h à 20h au centre de loisir de à Plougasnou.
 
 *Intervention destinée aux publics jeunes ([trockson@gmail.com](http://trockson@gmail.com) / 0298880994)*
 
