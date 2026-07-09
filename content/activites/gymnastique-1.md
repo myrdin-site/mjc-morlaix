@@ -12,7 +12,7 @@ creneau: >-
   Tous niveaux : Gym d’entretien, Gym dynamique, Assouplissement Stretching, Entretien musculaire.
 
 
-  **LUNDI** \
+  **LUNDI** - Début lundi 7 septembre\
 
   09h45/10h45 > **Gym d’entretien** Renaud CUDENNEC - MJC\
 
@@ -23,7 +23,7 @@ creneau: >-
   18h00/19h00 > **Gym d’entretien** Yannick THOMAS  - Zoé Puyo
 
 
-  **MARDI** \
+  **MARDI** - Début mardi 8 septembre\
 
   09h10/10h10 > **Gym dynamique +** Enora FLAUX - Zoé Puyo \
 
@@ -34,7 +34,7 @@ creneau: >-
   16h15/17h15 > **Assoup. /Stretching** Yannick THOMAS - MJC
 
 
-  **MERCREDI** \
+  **MERCREDI** - Début mercredi 9 septembre\
 
   09h00/10h00 > **Gym d’entretien** Yannick THOMAS - MJC\
 
@@ -51,7 +51,7 @@ creneau: >-
   **!! NOUVEAU !!** 20h30/21h30 > **Gym Dansée** Étienne DOBO BI - MJC
 
 
-  **JEUDI** \
+  **JEUDI** - Début jeudi 10 septembre\
 
   09h00/10h00 > **Gym d’entretien** Yannick THOMAS Zoé - Puyo\
 
@@ -61,7 +61,7 @@ creneau: >-
 
   \
 
-  **VENDREDI** \
+  **VENDREDI** - Début vendredi 11 septembre\
 
   09h00/10h00 > **Gym d’entretien** Yannick THOMAS - MJC\
 
@@ -70,7 +70,7 @@ creneau: >-
   15h15/16h15 > **Assoup./Stretching** Yannick THOMAS - MJC
 
 
-  **SAMEDI** \
+  **SAMEDI** - Début samedi 12 septembre\
 
   09H15/10H15 > **Pilates** Étienne DOBO BI - MJC\
 
