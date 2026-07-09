@@ -30,8 +30,7 @@ Vous en avez marre des aller-retours entre les membres de votre groupe et la MJC
 
 La réservation se fait toujours par mail, téléphone ou bien sur place.  **\>>[Le planning](https://mpod7.r.a.d.sendibm1.com/mk/cl/f/sh/SMK1E8tHeFuBlzkY4nZzxTaM1BQX/NFZ1mfCeCBhZ)<<**
 
-
-
+\
 **FERMETURE ESTIVALE**\
 Le **Trock'Son** et la **MJC** **seront fermés du 1er au 23 août**. Réouverture la semaine du 24 août. 
 
