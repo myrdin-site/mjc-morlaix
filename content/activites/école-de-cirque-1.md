@@ -1,6 +1,6 @@
 ---
 title: École de Cirque
-picto: /medias/cirque_150px.png
+picto: /medias/cirque_27.png
 public:
   - enfants
   - adolescents
