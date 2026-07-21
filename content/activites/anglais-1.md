@@ -1,6 +1,6 @@
 ---
 title: Anglais
-picto: /medias/langues_150px.png
+picto: /medias/langue_27.png
 public:
   - adultes
 anim: Patrick YTHIER
