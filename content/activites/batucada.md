@@ -1,6 +1,6 @@
 ---
 title: Batucada
-picto: /medias/batucada_150px.png
+picto: /medias/batucada_27.png
 public:
   - adolescents
   - adultes
