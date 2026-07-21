@@ -1,6 +1,6 @@
 ---
 title: Gym
-picto: /medias/gym_150px.png
+picto: /medias/gym-sport_27.png
 public:
   - adultes
 anim: Multiples
