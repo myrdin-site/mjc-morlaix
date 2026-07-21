@@ -1,6 +1,6 @@
 ---
 title: Théâtre
-picto: /medias/theatre_150px.png
+picto: /medias/theatre_27.png
 public:
   - adolescents
   - adultes
