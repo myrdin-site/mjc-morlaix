@@ -1,6 +1,6 @@
 ---
 title: Couture
-picto: /medias/couture_150px.png
+picto: /medias/couture_27.png
 public:
   - adultes
 anim: Ligéa SINOQUET
