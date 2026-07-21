@@ -1,6 +1,6 @@
 ---
 title: Balade Loisirs
-picto: /medias/balade_150px.png
+picto: /medias/balade_27.png
 public:
   - adultes
 anim: Groupe Balade
