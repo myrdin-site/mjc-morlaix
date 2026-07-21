@@ -1,6 +1,6 @@
 ---
 title: Arts Plastiques Enfants
-picto: /medias/artsplastik_150px.png
+picto: /medias/artsplastik_27.png
 public:
   - enfants
   - adolescents
