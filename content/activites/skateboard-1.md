@@ -1,6 +1,6 @@
 ---
 title: Yoga
-picto: /medias/yoga_150px.png
+picto: /medias/yoga_27.png
 public:
   - adultes
 anim: Nathalie KOWALCZYK
