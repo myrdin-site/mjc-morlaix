@@ -1,6 +1,6 @@
 ---
 title: Pop Music Club
-picto: /medias/popmusic_150px.png
+picto: /medias/popmusicclub_27.png
 public:
   - enfants
   - adolescents
