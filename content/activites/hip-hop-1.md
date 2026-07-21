@@ -1,6 +1,6 @@
 ---
 title: Hip Hop
-picto: /medias/hiphop_150px.png
+picto: /medias/hiphop_27.png
 public:
   - enfants
   - adolescents
