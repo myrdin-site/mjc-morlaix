@@ -1,9 +1,9 @@
 ---
 title: Théâtre
-picto: /medias/theatre_150px.png
+picto: /medias/theatre_27.png
 public:
   - adolescents
-anim: Mélanie FAURE
+anim: Ligéia SINOQUET
 price: 102 € à 168 € /an
 starting_date: 2026-09-16T13:30:09.166Z
 creneau: |-
