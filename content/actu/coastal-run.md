@@ -18,6 +18,7 @@ Avec des prestations en solo, duo Coastal Run nous propose des compositions sola
 Deezer : <https://link.deezer.com/s/33UXHbYUBtEqncZpkyLqQ>\
 Spotify : <https://open.spotify.com/intl-fr/album/2iPrAa6tneciBffjVbIXo9?si=YykvYYDNQvONP4We9AoVmw>\
 Apple music : <https://music.apple.com/fr/album/everybody-needs-a-friend-ep/6786246184>\
+ou directement sur notre Site ici : <https://www.mjcmorlaix.com/podcasts/>\
 \
 **Pour découvrir Coastal Run :**\
 Chaine YouTube › <https://www.youtube.com/channel/UCXT9A8fMJFiyRxBOwqqIkQw>\
