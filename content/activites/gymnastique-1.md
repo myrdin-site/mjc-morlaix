@@ -4,7 +4,7 @@ picto: /medias/gym-sport_27.png
 public:
   - adultes
 anim: Multiples
-price: 96€ /an
+price: 58 € à 96 € /an
 starting_date: 2026-09-07T07:45:08.238Z
 creneau: >-
   **Des cours organisés pour tous et toutes.**\
@@ -12,18 +12,18 @@ creneau: >-
   Tous niveaux : Gym d’entretien, Gym dynamique, Assouplissement Stretching, Entretien musculaire.
 
 
-  **LUNDI** - Début lundi 7 septembre\
+  **LUNDI** - Début **lundi 7 sept.**\
 
   09h45/10h45 > **Gym d’entretien** Renaud CUDENNEC - MJC\
 
   **!! NOUVEAU !!** 12h15/13h15 > **Pilates** Enora FLAUX - Spirale/EntreChats\
 
-  16h00/17h00 > **Pilates** Renaud CUDENNEC - MJC - **!! NOUVEAU !!**\
+  **!! NOUVEAU !!** 16h00/17h00 > **Pilates** Renaud CUDENNEC - MJC \
 
   18h00/19h00 > **Gym d’entretien** Yannick THOMAS  - Zoé Puyo
 
 
-  **MARDI** - Début mardi 8 septembre\
+  **MARDI** - Début **mardi 8 sept.**\
 
   09h10/10h10 > **Gym dynamique +** Enora FLAUX - Zoé Puyo \
 
@@ -34,7 +34,7 @@ creneau: >-
   16h15/17h15 > **Assoup. /Stretching** Yannick THOMAS - MJC
 
 
-  **MERCREDI** - Début mercredi 9 septembre\
+  **MERCREDI** - Début **mercredi 9 sept.**\
 
   09h00/10h00 > **Gym d’entretien** Yannick THOMAS - MJC\
 
@@ -51,9 +51,9 @@ creneau: >-
   **!! NOUVEAU !!** 20h30/21h30 > **Gym Dansée** Étienne DOBO BI - MJC
 
 
-  **JEUDI** - Début jeudi 10 septembre\
+  **JEUDI** - Début **jeudi 10 sept.**\
 
-  09h00/10h00 > **Gym d’entretien** Yannick THOMAS Zoé - Puyo\
+  09h00/10h00 > **Gym d’entretien** Yannick THOMAS - Zoé Puyo\
 
   12h15/13h15 > **Pilates** Enora FLAUX - MJC\
 
@@ -61,7 +61,7 @@ creneau: >-
 
   \
 
-  **VENDREDI** - Début vendredi 11 septembre\
+  **VENDREDI** - Début **vendredi 11 sept.**\
 
   09h00/10h00 > **Gym d’entretien** Yannick THOMAS - MJC\
 
@@ -70,7 +70,7 @@ creneau: >-
   15h15/16h15 > **Assoup./Stretching** Yannick THOMAS - MJC
 
 
-  **SAMEDI** - Début samedi 12 septembre\
+  **SAMEDI** - Début **samedi 12 sept.**\
 
   09H15/10H15 > **Pilates** Étienne DOBO BI - MJC\
 
