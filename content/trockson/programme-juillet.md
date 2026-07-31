@@ -15,6 +15,9 @@ Le Café Marylène, à Plougasnou, accueille des groupes Trock'Son le 29 août p
 \
 **Samedi 29 août - 20h00 - Café Marylène**, 8 rue de Saint Sébastien, Plougasnou 29630, **Entrée libre**
 
+
+
+\
 **Jam et Apéro de rentrée !** Vous l'avez demandé, voici votre vœu exhaussé ! 
 Désormais il y aura deux JAM par mois, **une chaque troisième samedi du mois, de 12h à 14h**, mais également **une les 1er mercredis du mois, de 19h30 à 21h30.** \
 Pour cette première de la saison nous doublons la proposition d'un apéro de rentrée des musicien.ne.s du Trock'Son, l'occasion de se retrouver et de faire le point sur la belle saison 26/27 à venir.\
