@@ -2,7 +2,6 @@
 title: Postural ball
 picto: /medias/postural_27.png
 public:
-  - adolescents
   - adultes
 anim: Véronique FAUQUET
 price: 102 € à 168 € /an
