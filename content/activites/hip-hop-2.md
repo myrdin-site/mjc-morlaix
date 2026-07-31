@@ -5,12 +5,12 @@ public:
   - adultes
 anim: Daro NOCH
 price: 122 € à 183 € /an
-starting_date: 2026-09-15T16:15:01.442Z
+starting_date: 2026-09-16T16:15:01.442Z
 creneau: >-
   **!!! NOUVEAU !!!  Ouverture d’un groupe ADULTES et 16 ans et +**
 
 
-  Mercredi - 18h15 / 19h45
+  **Mercredi - Adultes / 16 ans+ >** 18h15 / 19h45
 
 
   **!!! Nouveau !!! ATELIER en OPTION :** Pratique danse renforcée, chorégraphie et musicalité\
