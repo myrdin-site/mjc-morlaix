@@ -2,7 +2,7 @@
 title: Coastal Run
 description: Sortie EP
 cover: /medias/encart_coastal-run-ep-2026.jpg
-event_time: 2026-07-24T15:12:27.613Z
+event_time: 2026-09-01T10:00:27.613Z
 lieu: Morlaix
 prix_libre: false
 ---
