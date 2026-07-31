@@ -4,7 +4,7 @@ picto: /medias/artsplastik_27.png
 public:
   - adultes
 anim: Charles VERGNOLLE
-price: 127€ à 213€ /an
+price: 129€ à 213€ /an
 starting_date: 2026-09-14T17:00:06.240Z
 creneau: >-
   **Débutants comme confirmés**, cet atelier est destiné aux personnes
