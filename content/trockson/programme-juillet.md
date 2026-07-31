@@ -3,7 +3,7 @@ title: Programme Rentrée
 description: Actus Trock'Son
 cover: /medias/encart_jamsession_trockson2025.jpg
 event_time: 2026-08-29T20:00:44.116Z
-lieu: Morlaix territoire
+lieu: MJC Morlaix
 prix_libre: false
 ---
 ![](/medias/encart_jamsession_trockson2025.jpg)
