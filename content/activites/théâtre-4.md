@@ -3,7 +3,7 @@ title: Théâtre
 picto: /medias/theatre_27.png
 public:
   - adolescents
-anim: Ligéia SINOQUET
+anim: Mélanie FAURE
 price: 102 € à 168 € /an
 starting_date: 2026-09-16T13:30:09.166Z
 creneau: |-
