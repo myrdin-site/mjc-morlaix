@@ -1,12 +1,12 @@
 ---
 title: Programme Rentrée
 description: Actus Trock'Son
-cover: /medias/encart_jamsession_trockson2025.jpg
+cover: /medias/encartpage_base-trockson_2026.jpg
 event_time: 2026-08-29T20:00:44.116Z
 lieu: MJC Morlaix
 prix_libre: false
 ---
-![](/medias/encart_jamsession_trockson2025.jpg)
+![](/medias/encartpage_base-trockson_2026.jpg)
 
 **Le Trock'Son ferme du 1er au 24 août et vous donne rendez-vous pour une rentrée survitaminée** \
 \
@@ -14,8 +14,6 @@ prix_libre: false
 Le Café Marylène, à Plougasnou, accueille des groupes Trock'Son le 29 août prochain, pour marquer la fin de l'été mais aussi souffler quelques unes des 40 bougies que nous célébrons cette année. Boréale et La Piv deux artistes émergentes joueront leur répertoires complémentaires, entre pop et électro, chanson et rap.\
 \
 **Samedi 29 août - 20h00 - Café Marylène**, 8 rue de Saint Sébastien, Plougasnou 29630, **Entrée libre**
-
-
 
 \
 **Jam et Apéro de rentrée !** Vous l'avez demandé, voici votre vœu exhaussé ! 
