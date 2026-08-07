@@ -1,12 +1,12 @@
 ---
 title: PROGRAMME RENTRÉE
 description: Actus Trock'Son
-cover: /medias/encart_jamsession_trockson2025.jpg
+cover: /medias/encartpage_base-trockson_2026.jpg
 event_time: 2026-08-29T20:00:00.000Z
 lieu: MJC Morlaix
 prix_libre: false
 ---
-![](/medias/encart_jamsession_trockson2025.jpg)
+![](/medias/encartpage_base-trockson_2026.jpg)
 
 **Le Trock’Son ferme du 1er au 24 août et vous donne rendez-vous pour une rentrée survitaminée** \
 \
