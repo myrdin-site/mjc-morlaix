@@ -1,5 +1,5 @@
 baseURL = 'https://www.mjcmorlaix.com'
-locale = 'en-us'
+locale = 'fr-fr'
 defaultContentLanguage = "fr"
 title = 'MJC Morlaix'
 theme = 'mjc-morlaix'
