@@ -1,11 +1,15 @@
 .homepage__title {
-  text-transform: uppercase;
-  color: #31678E;
+  color: $blue;
   font-weight: 800;
   margin-bottom: 0.8rem;
 }
 
 .homepage__content {
-  color: #4B6D69;
+  color: $teal-dark;
   margin: 0.8rem;
+  padding: 1.5rem 0;
+}
+
+.homepage__title + p {
+  margin-top: 0;
 }

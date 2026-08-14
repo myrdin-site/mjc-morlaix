@@ -17,8 +17,23 @@
   align-items: flex-end;
   position: fixed;
   top: 0;
-  background-color: #9f4786;
+  background-color: rgba($purple-nav, 0.96);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  box-shadow: $shadow-lg;
   display: none;
+  animation: navSlideIn 0.3s ease;
+}
+
+@keyframes navSlideIn {
+  from {
+    transform: translateX(-100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
 }
 
 .nav__wrapper {
@@ -28,12 +43,16 @@
 
 .nav__link {
   list-style-type: none;
-  padding: 0.6rem;
+  padding: 0.8rem;
   font-size: 1.2rem;
   text-align: right;
   a {
-    color: white;
+    color: $white;
     text-decoration: none;
+    transition: color $transition;
+    &:hover {
+      color: $teal-light;
+    }
   }
 }
 

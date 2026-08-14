@@ -11,9 +11,9 @@
 .carousel__event {
   min-height: 170px;
   min-width: 230px;
-  color: white;
+  color: $white;
   padding: 0.8rem;
-  background-color: #659728;
+  background-color: $green;
   font-size: 1.3rem;
   font-weight: 800;
   position: relative;
@@ -21,17 +21,17 @@
     position: absolute;
     bottom: 0;
     padding-bottom: 0.3rem;
-    color: #0E1519;
+    color: $ink;
     font-size: 1.6rem;
     .carousel__event_time {
-      color: white;
+      color: $white;
       font-size: 2rem;
     }
   }
 }
 
 .carousel__event_place {
-  color: #fbcc23;
+  color: $amber;
 }
 
 .carousel__link {
@@ -46,20 +46,20 @@
   text-align: center;
   font-weight: 1000;
   font-size: 1em;
-  background-color: white;
-  color: #fbcc23;
+  background-color: $white;
+  color: $amber;
   z-index: 1;
   min-height: 95px;
   display: flex;
   align-items: center;
   justify-content: center;
   a {
-    color: #dadc3e;
+    color: $amber-lime;
   }
 }
 
 .carousel__slide {
-  border: 10px solid #1b3f47;
+  border: 10px solid $navy;
   overflow: hidden;
 }
 
@@ -67,13 +67,13 @@
 .slick-next:focus .slick-prev-icon,
 .slick-prev:focus .slick-next-icon,
 .slick-prev:focus .slick-prev-icon {
-  color: #5cb0cb;
+  color: $teal-light;
 }
 
 .slick-dots li button:focus .slick-dot-icon:before {
-  color: #5cb0cb;
+  color: $teal-light;
 }
 
 .slick-autoplay-toggle-button:focus {
-  color: #5cb0cb;
+  color: $teal-light;
 }

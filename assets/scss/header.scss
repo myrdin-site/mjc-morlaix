@@ -28,7 +28,7 @@
 }
 
 .header__title_white {
-  color: #31678E;
+  color: $blue;
 }
 
 .header__title_light {
@@ -36,9 +36,8 @@
 }
 
 .header__title_city {
-  color: #5bacde;
+  color: $city;
 }
-
 /* Header Desktop */
 
 .header__wrapper_desktop {

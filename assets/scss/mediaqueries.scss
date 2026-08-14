@@ -129,7 +129,7 @@
     padding-left: 23rem;
   }
  .header__title_white {
-   color: #ffffff;
+   color: $white;
  }
   #nav__menu {
     display: none;
@@ -148,44 +148,44 @@
     padding: 0;
     font-size: 0.95rem;
     a {
-      color: #E2E6EA;
+      color: $gray-light;
     }
   }
 
   .nav__link {
     &:nth-child(1) {
       .nav__active {
-        color: #ffffff;
+        color: $white;
       }
     }
     &:nth-child(2) {
       .nav__active {
-        color: #EF6C6A;
+        color: $red-soft;
       }
     }
     &:nth-child(3) {
       .nav__active {
-        color: #ED7D35;
+        color: $orange;
       }
     }
     &:nth-child(4) {
       .nav__active {
-        color: #DB7F7F;
+        color: $red;
       }
     }
     &:nth-child(5) {
       .nav__active {
-        color: #73B78E;
+        color: $green-light;
       }
     }
     &:nth-child(6) {
       .nav__active {
-        color: #9E70A4;
+        color: $purple;
       }
     }
     &:nth-child(7) {
       .nav__active {
-        color: #7EBFAB;
+        color: $green-soft;
       }
     }
   }
@@ -194,38 +194,38 @@
     &:hover {
       &:nth-child(1) {
         a {
-          color: #ffffff;
+          color: $white;
         }
       }
       &:nth-child(2) {
         a {
-          color: #EF6c6a;
+          color: $red-soft;
         }
       }
       &:nth-child(3) {
         a {
-          color: #ED7D35;
+          color: $orange;
         }
       }
       &:nth-child(4) {
         a {
-          color: #DB7F7F;
+          color: $red;
         }
       }
       &:nth-child(5) {
         a {
-          color: #73B78E;
+          color: $green-light;
         }
       }
       &:nth-child(6) {
         a {
-          color: #9E70A4;
+          color: $purple;
         }
       }
 
       &:nth-child(7) {
         a {
-          color: #7EBFAB;
+          color: $green-soft;
         }
       }
     }
@@ -234,7 +234,7 @@
   .nav__link::after {
     content: "|";
     font-weight: 700;
-    color: #00d1ff;
+    color: $blue-lime;
     padding: 0 0.4rem;
   }
 
@@ -254,7 +254,7 @@
   }
 
   .carousel__flex {
-    border: 10px solid #1b3f47;
+    border: 10px solid $navy;
     display: flex !important;
   }
 
@@ -274,7 +274,7 @@
   }
 
   .carousel__right {
-    background-color: #5b6121;
+    background-color: $green-slate;
   }
 
   .carousel__event {
@@ -292,7 +292,7 @@
 
   .carousel__event_date {
     font-size: 1.6rem !important;
-    color: #d9db23;
+    color: $amber-lime-dark;
     padding-top: 0.8rem;
     position: relative !important;
   }
@@ -449,13 +449,6 @@
     padding: 0rem 1rem 1rem 1rem;
   }
 
-  .page__ij_imgdesktop {
-    width: 27vw;
-    padding-left: 1rem;
-    padding-bottom: 1rem;
-    padding-top: 2rem;
-  }
-
   .page__ij_imgmobile {
     display: none;
   }
@@ -501,7 +494,7 @@
     top: 5%;
     height: 90%;
     width: 50px;
-    border-right: 1px solid #2e3e57;
+    border-right: 1px solid $blue-dark;
   }
 
   .trockson__text_left {
@@ -516,7 +509,7 @@
     top: 5%;
     height: 90%;
     width: 50px;
-    border-right: 1px solid #2e3e57;
+    border-right: 1px solid $blue-dark;
   }
 
   .trockson__photo_desktop {
@@ -649,10 +642,6 @@
   }
 
   // Infos Jeunesse
-  .page__ij_wrapper {
-    display: flex;
-  }
-
   .page__ij_img {
     width: 30vw;
   }

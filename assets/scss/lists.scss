@@ -1,23 +1,31 @@
 /* ACTU */
-$brown-actu: #71A227;
+$brown-actu: $green-dark;
 
 .list__container {
   max-width: 365px;
   margin: 10rem auto;
   margin-bottom: 4rem;
+  padding: 0 0.5rem;
   .actu__title {
-    text-transform: uppercase;
-    color: #DB7F7F;
+    color: $red;
     font-size: 3rem;
+    margin-bottom: 1.2rem;
   }
 }
 
 .actu__wrapper {
-  border: 1px solid #2e3e57;
+  border: 1px solid $blue-dark;
   max-width: 344px;
   margin: 0.4rem auto;
   padding: 0.4rem;
   overflow: hidden;
+  border-radius: 12px;
+  box-shadow: $shadow-sm;
+  transition: box-shadow $transition, transform $transition;
+  &:hover {
+    box-shadow: $shadow-md;
+    transform: translateY(-2px);
+  }
   p:first-line {
     font-weight: bold;
     text-transform: uppercase;
@@ -44,8 +52,8 @@ $brown-actu: #71A227;
 .actu__wrapper {
   margin-bottom: 1.2rem;
   .actu__description {
-    color: white;
-    background-color: #659728;
+    color: $white;
+    background-color: $green;
     margin-top: -0.4rem;
     margin-left: -0.4rem;
     margin-right: -0.4rem;
@@ -61,7 +69,7 @@ $brown-actu: #71A227;
     padding: 0.8rem 0;
   }
   a {
-    color: #5bab37;
+    color: $green-link;
   }
   .actu__lieu {
     color: $brown-actu;
@@ -82,8 +90,7 @@ $brown-actu: #71A227;
 .list__container {
   max-width: 365px;
   .podcast__title {
-    text-transform: uppercase;
-    color: #7c99ba;
+    color: $blue-podcast;
     font-size: 3rem;
   }
 }
@@ -92,17 +99,24 @@ $brown-actu: #71A227;
   font-size: 1.6rem;
   font-weight: bold;
   .podcast__desc_blue {
-    color: #5cb0cb;
+    color: $teal-light;
   }
   .podcast__desc_dark {
-    color: #3e6b6c;
+    color: $teal;
   }
 }
 
 .podcast__item {
   margin-top: 1rem;
   padding: 1rem;
-  border: 1px solid black;
+  border: 1px solid $blue-dark;
+  border-radius: 12px;
+  box-shadow: $shadow-sm;
+  transition: box-shadow $transition, transform $transition;
+  &:hover {
+    box-shadow: $shadow-md;
+    transform: translateY(-2px);
+  }
 }
 
 .podcast__item_flex {
@@ -117,7 +131,7 @@ $brown-actu: #71A227;
 }
 
 .podcast__item_title {
-  color: #2c81bc;
+  color: $blue-link;
   font-size: 1rem;
   font-weight: bold;
 }
@@ -132,37 +146,38 @@ $brown-actu: #71A227;
 }
 
 .podcast__content > p::first-line {
-  color: #2c81bc;
+  color: $blue-link;
 }
 
 .podcast__content_timing {
-  color: #2c81bc;
+  color: $blue-link;
 }
 
 // Trockson
 
 .trockson__title {
   font-size: 3rem;
-  color: #9E70A4;
-  text-transform: uppercase;
+  color: $purple;
 }
 
 .trockson__h2 {
-  color: #6A2473;
+  color: $purple-dark;
   text-align: center;
   padding: 1rem;
 }
 
 .trockson__h3,
 .trockson__blue {
-  color: #31678E;
+  color: $blue;
   text-align: center;
   padding: 0.8rem;
 }
 
 .trockson__wrapper {
-  border: 1px solid #2e3e57;
+  border: 1px solid $blue-dark;
   margin: 1rem 0rem;
+  border-radius: 12px;
+  box-shadow: $shadow-sm;
 }
 
 .trockson__logo,
@@ -183,13 +198,13 @@ $brown-actu: #71A227;
 .trockson__hr {
   width: 80%;
   margin: 2rem auto;
-  background-color: #2e3e57;
+  background-color: $blue-dark;
   height: 1px;
   border: none;
 }
 
 .trockson__hours {
-  color: #395088;
+  color: $blue-hours;
   text-align: center;
   font-size: 1.3rem;
 }
@@ -227,18 +242,18 @@ $brown-actu: #71A227;
 }
 
 .trockson__description {
-  background-color: #444070 !important;
+  background-color: $purple-desc !important;
 }
 
 .trockson__actu_wrapper {
   a {
-    color: #7b9aaf !important;
+    color: $gray-blue !important;
   }
   h2,
   .actu__lieu,
   .actu__legende,
   .actu__indice {
-    color: #31678E;
+    color: $blue;
   }
 }
 
@@ -254,7 +269,7 @@ $brown-actu: #71A227;
 
 .agenda__right_firstpart {
   font-weight: bold;
-  color: #243a4e;
+  color: $blue-darker;
 }
 
 .agenda__middle {

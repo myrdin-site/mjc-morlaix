@@ -1,11 +1,12 @@
 .contact__container {
-  border-radius: 5px;
-  background-color: #f2f2f2;
+  border-radius: 12px;
+  background-color: $off-white;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   width: fit-content;
   position: relative;
+  box-shadow: $shadow-sm;
 }
 
 .contact__header {
@@ -34,10 +35,16 @@
 
 .form-control {
   width: 100%;
-  border-radius: 0;
-  border: 1px solid gray;
+  border-radius: 8px;
+  border: 1px solid $gray-blue;
   margin-bottom: 1em;
-  padding: 0.28rem 0;
+  padding: 0.55rem 0.6rem;
+  font-size: 1rem;
+  &:focus {
+    outline: none;
+    border-color: $teal-light;
+    box-shadow: 0 0 0 3px rgba($teal-light, 0.25);
+  }
 }
 
 label {
@@ -47,17 +54,19 @@ label {
 }
 
 .envoyer {
-  background-color: #3e6b6c;
-  color: white;
-  border: 1px solid #3e6b6c;
-  font-size: 1.3rem;
+  background-color: $teal;
+  color: $white;
+  border: 1px solid $teal;
+  border-radius: 999px;
+  font-size: 1.1rem;
   float: right;
-  padding: 15px;
-}
-
-.envoyer:hover {
+  padding: 0.7rem 1.6rem;
   cursor: pointer;
-  border: 1px solid #3e6b6c;
-  color: #3e6b6c;
-  background-color: white;
+  transition: background-color $transition, color $transition, transform $transition;
+  &:hover {
+    border: 1px solid $teal;
+    color: $teal;
+    background-color: $white;
+    transform: translateY(-1px);
+  }
 }

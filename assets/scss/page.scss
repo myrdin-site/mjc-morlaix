@@ -44,16 +44,16 @@
   width: 360px;
   margin: auto;
   h1 {
-    color: #31678E;
+    color: $blue;
     text-transform: uppercase;
     padding: 0.8rem 0;
   }
   h2 {
-    color:  #26535f;
+    color:  $blue-mjc;
     padding: 0.6rem 0;
   }
   h3 {
-    color: #31678E;
+    color: $blue;
     padding: 0.4rem 0;
   }
 }
@@ -71,31 +71,39 @@
 }
 
 .page__mjc_yellow {
-  color: #d0922c;
+  color: $amber-dark;
 }
 
 .page__mjc_wrapper {
-  border: 1px solid #2e3e57;
+  border: 1px solid $blue-dark;
+  border-radius: 12px;
+  box-shadow: $shadow-sm;
 }
 
 /* Jeunesse */
 
 .page__jeunesse_content {
   h1 {
-    color: #73B78E;
+    color: $green-light;
     text-transform: uppercase;
     padding: 0.8rem 0;
   }
   h2 {
-    color: #007B32;
+    color: $green-strong;
     padding: 0.6rem 0;
   }
   h3 {
-    color: #31678E;
+    color: $blue;
     padding: 0.4rem 0;
   }
   ul {
     margin-left: 1rem;
+    li {
+      margin: 0.3rem 0;
+    }
+  }
+  p {
+    margin: 0.3rem 0;
   }
 }
 
@@ -103,6 +111,25 @@
 .page__ij_img {
   max-width: 95vw;
   padding: 0.8rem 0;
+}
+
+.page__ij_wrapper1 {
+  align-items: center;
+  gap: 2rem;
+}
+
+.page__ij_imgs {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+  padding: 1rem 0;
+}
+
+.page__ij_imgdesktop {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 8px;
 }
 
 .hr__ij {
@@ -114,22 +141,29 @@
     width: 20px;
     height: auto;
   }
+  .page__ij_logos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
 }
 
 /* Contact */
 
 .page__contact_content {
   h1 {
-    color: #5B897D;
+    color: $contact-teal;
     text-transform: uppercase;
     padding: 0.8rem 0;
   }
   h2 {
-    color: #165746;
+    color: $contact-green;
     padding: 0.6rem 0;
   }
   h3 {
-    color: #31678E;
+    color: $blue;
     padding: 0.4rem 0;
   }
 }
@@ -160,14 +194,14 @@
   padding: 0 0.5rem;
 
   h1 {
-    color: #9E70A4;
+    color: $purple;
     text-transform: uppercase;
   }
   h2 {
-    color: #6A2473;
+    color: $purple-dark;
   }
   h3 {
-    color: #31678E;
+    color: $blue;
   }
 }
 
@@ -176,33 +210,36 @@
 .page__agenda_content {
   padding: 0 0.5rem;
   h1 {
-    color: #ED7D35;
+    color: $orange;
     text-transform: uppercase;
     padding: 0.8rem 0;
   }
   h2 {
-    color: #E85D03;
+    color: $orange-dark;
     padding: 0.6rem 0;
   }
   h3 {
-    color: #31678E;
+    color: $blue;
     padding: 0.4rem 0;
   }
 }
 
 .agenda__header {
   strong {
-    color: #fba303;
+    color: $amber-soft;
     font-size: 1.6rem;
   }
 }
 
 .agenda__wrapper {
   margin-top: 1.6rem;
-  border: 1px solid #2e3e57;
+  border: 1px solid $blue-dark;
   max-width: 344px;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 12px;
+  box-shadow: $shadow-sm;
+  overflow: hidden;
 }
 
 .agenda__middle {
@@ -214,7 +251,7 @@
   }
   h1 {
     font-size: 1.5rem;
-    color: #3e6b6c;
+    color: $teal;
     font-weight: bolder;
   }
   p:first-line {
@@ -231,10 +268,10 @@
 }
 
 .agenda__right {
-  background-color: #E85D03;
+  background-color: $orange-dark;
   padding: 1rem;
   .agenda__right_desc {
-    color: #243a4e;
+    color: $blue-darker;
     font-size: 1.5rem;
     font-weight: bold;
   }
@@ -245,13 +282,13 @@
     font-weight: bold;
   }
   .agenda__right_date {
-    color: #243a4e;
+    color: $blue-darker;
     font-size: 1.4rem;
     font-weight: bold;
     padding-bottom: 1rem;
   }
   .agenda__prix {
-    color: #243a4e;
+    color: $blue-darker;
     font-weight: bold;
   }
   .agenda__indice,
@@ -261,23 +298,23 @@
 }
 
 .agenda__wrapper:nth-child(even) > .agenda__right {
-  background-color: #3cabe2;
+  background-color: $blue-sky;
 }
 
 /* Actu */
 
 .page__actu_content {
   h1 {
-    color: #DB7F7F;
+    color: $red;
     text-transform: uppercase;
     padding: 3.8rem 0;
   }
   h2 {
-    color: #B80000;
+    color: $red-actu;
     padding: 0.6rem 0;
   }
   h3 {
-    color: #31678E;
+    color: $blue;
     padding: 0.4rem 0;
   }
 }
@@ -287,23 +324,26 @@
 .page__activites_content {
   padding: 0 0.5rem;
   h1 {
-    color: #EF6C6A;
+    color: $red-soft;
     text-transform: uppercase;
     padding: 0.8rem 0;
   }
   h2 {
-    color: #EF0079;
+    color: $purple-h2;
     padding: 0.6rem 0;
   }
   h3 {
-    color: #31678E;
+    color: $blue;
     padding: 0.4rem 0;
   }
 }
 
 .activites__wrapper {
   margin-top: 1.6rem;
-  border: 1px solid #2e3e57;
+  border: 1px solid $blue-dark;
+  border-radius: 12px;
+  box-shadow: $shadow-sm;
+  overflow: hidden;
 }
 
 .activites__header {
@@ -313,7 +353,7 @@
 }
 
 .activites__left {
-  background-color: #F8AD13;
+  background-color: $amber-activites;
   color: white;
   padding: 1rem;
   position: relative;
@@ -336,24 +376,24 @@
 }
 
 .activites__wrapper:nth-child(even) > .activites__left {
-  background-color: #488094;
+  background-color: $blue-sky;
 }
 
 .activites__right {
   padding: 1rem;
   h1 {
     font-size: 1rem;
-    color: #297db9;
+    color: $blue-link;
   }
   p {
     padding: 0.4rem 0;
-    color: #297db9;
+    color: $blue-link;
     strong {
-      color: #c90036;
+      color: $red-strong;
     }
   }
   .activites_description {
-    color: #44404c;
+    color: $gray-dark;
     &:first-line {
       font-weight: bold;
     }
@@ -367,20 +407,20 @@
 .activites__anim,
 .activites__day,
 .activites__age {
-  color: #297db9;
+  color: $blue-link;
 }
 
 .activites__price,
 .activites__hours {
-  color: #c90036;
+  color: $red-strong;
 }
 
 .activites__starting {
-  color: #f89d00;
+  color: $amber-start;
 }
 
 .activites__starting_date {
-  color: #103586;
+  color: $blue-royal;
 }
 
 /* Documentation */
@@ -393,7 +433,7 @@
   h1 {
     text-transform: uppercase;
     font-size: 2.5rem;
-    color: #98d25f;
+    color: $green-doc;
     padding: 0.8rem 0;
   }
   margin-bottom: 4rem;
@@ -405,7 +445,7 @@
   flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
-  border-bottom: 2px solid #8891a1;
+  border-bottom: 2px solid $gray;
   padding-bottom: 1rem;
   padding-top: 1rem;
   &:last-child {
@@ -418,11 +458,11 @@
 .page__documents_middle {
   margin-top: 1rem;
   a {
-    border-left: 4px solid #98d15f;
+    border-left: 4px solid $green-doc;
     padding-left: 1rem;
     font-size: 1.6rem;
     text-transform: uppercase;
-    color: #8891a1;
+    color: $gray;
   }
 }
 
@@ -438,12 +478,12 @@
 
 .page__trockson {
   h1 {
-    color: #f4ad85;
+    color: $orange-soft;
   }
   h2 {
-    color: #ea5b0c;
+    color: $orange-single;
   }
   h3 {
-    color: #7b9aaf;
+    color: $gray-blue;
   }
 }
