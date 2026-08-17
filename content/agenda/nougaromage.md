@@ -8,7 +8,7 @@ prix_libre: false
 prix_plein: 10
 prix_abonné: 6
 ---
-![NOUGARO'MAGE](/medias/06-page_nougaromage.jpg "Concert CHANSON JAZZ")
+![NOUGARO' MAGE](/medias/06-page_nougaromage.jpg "Concert CHANSON JAZZ")
 
 **NOUGARO'MAGE**\
 ConcertCHANSON JAZZ
@@ -18,7 +18,7 @@ ConcertCHANSON JAZZ
 Cet hommage est né de la rencontre entre Sophie Robic, chanteuse de jazz lorientaise et deux autres talentueux musiciens morbihannais amoureux des mots et de la chanson: Serge Le Clanche et Eric Nédelec. \
 Créé dans un premier temps sur scène avec l’Orchestre de Jazz de Bretagne, le spectacle s'adapte aujourd'hui à de petites salles dans un format acoustique en trio plus intimiste,. \
 \
-**"NougaroMage" est avant tout un affectueux moment autour de l'héritage musical d'un des plus grands artistes de notre patrimoine culturel : le "motsicien" Claude Nougaro.**\
+**"Nougaro'Mage" est avant tout un affectueux moment autour de l'héritage musical d'un des plus grands artistes de notre patrimoine culturel : le "motsicien" Claude Nougaro.**\
 \
 Sophie ROBIC : chant / Éric NÉDELEC : guitare, violon / Serge LE CLANCHE : accordéon
 
