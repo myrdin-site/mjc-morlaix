@@ -2,7 +2,7 @@
 title: MISE À JOUR
 description: Maintenance Web
 cover: /medias/visuel-update.png
-event_time: 2026-08-17T09:00:00.000Z
+event_time: 2026-08-24T09:00:00.000Z
 lieu: Site web MJC
 prix_libre: false
 ---
