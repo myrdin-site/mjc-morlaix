@@ -1,6 +1,6 @@
 ---
 title: HELGÄ
-description: CHANSON ROCK - Soirée "sortie d'album" ! Concert 40 ans Trock’Son !
+description: CHANSON ROCK - Sortie d'album ! Concert 40 ans Trock’Son !
 cover: /medias/04-helga.jpg
 event_time: 2026-11-27T20:30:00.000Z
 lieu: Auditorium
