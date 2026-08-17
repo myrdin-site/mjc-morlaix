@@ -1,6 +1,6 @@
 ---
 title: DES FLEURS POUSSERONT SUR NOS OS
-description: Ciné-concert Experimental Post Rock 
+description: Ciné-concert - Experimental Post Rock 
 cover: /medias/02-des-fleurs.jpg
 event_time: 2026-10-09T20:30:00.000Z
 lieu: Auditorium
@@ -12,7 +12,7 @@ prix_abonné: ""
 
 **DES FLEURS POUSSERONT SUR NOS OS**
 
-**Ciné-concert "**Experimental Post Rock" \
+**Ciné-concert** "Experimental Post Rock" \
 **40 mn** / Post-rock / Shoegaze / Ambient / Cinéma expérimental\
 \
 **Un ciné-concert post-apocalyptique immersif de Dylan Cozian** (créateur, réalisateur, compositeur) accueilli à la MJC en coopération avec le Studio Near Deaf Experience (Lanmeur).\
