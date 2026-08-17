@@ -12,7 +12,7 @@ prix_plein: 8
 
 **LOS ESTACADIANS / SWEET MONSTERS / + invité**\
 \
-INDIE + BRIT PUNK POP**! Concert 40 ans Trock’Son !**\
+INDIE + BRIT PUNK POP **! Concert 40 ans Trock’Son !**\
 \
 **Power trio originaire de Brest, Sweet Monsters, c’est l’efficacité et l’impact d’une vague rock en plein visage.** C'est rafraîchissant, c'est alarmant !\
 \
