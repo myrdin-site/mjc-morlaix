@@ -2,7 +2,7 @@
 title: FESTI' BLUES
 description: BLUES ! Soirée 2 concerts !
 cover: /medias/03-pageencart-festiblues_260926.jpg
-event_time: 2026-11-14T00:00:00.000Z
+event_time: 2026-11-14T20:30:00.000Z
 lieu: Auditorium
 first: Loïs MORGAN «One Man Band»
 prix_libre: false
