@@ -13,7 +13,7 @@ prix_abonné: 6
 **NOUGARO'MAGE**\
 ConcertCHANSON JAZZ
 
-**"NougaroMage" c'est l’histoire d’une passion. Une passion pour l’écriture de Claude Nougaro.**\
+**"Nougaro'Mage" c'est l’histoire d’une passion. Une passion pour l’écriture de Claude Nougaro.**\
 \
 Cet hommage est né de la rencontre entre Sophie Robic, chanteuse de jazz lorientaise et deux autres talentueux musiciens morbihannais amoureux des mots et de la chanson: Serge Le Clanche et Eric Nédelec. \
 Créé dans un premier temps sur scène avec l’Orchestre de Jazz de Bretagne, le spectacle s'adapte aujourd'hui à de petites salles dans un format acoustique en trio plus intimiste,. \
