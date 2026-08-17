@@ -24,4 +24,5 @@ ensemble une toute nouvelle identité sonore…\
 **Bjurström Cinétrio Electro**\
 Christofer Bjurström : piano, flûte / Jean-Denis Moreau : violon / Vincent Raude : traitement électroacoustique
 
+\
 **Vendredi 15 janvier - * 10€ / 6€** (* tarif Non-adhérents / Adhérents,) - **20h30**
