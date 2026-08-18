@@ -1,6 +1,6 @@
 ---
 title: GLOTTE - RINCE MOKET - BRUTAL PAILLETTES
-description: "! Concert 40 ans Trock’Son !"
+description: "! Concert 40 ans Trock’Son ! CRUST / PUNK / METAL"
 cover: /medias/montage-soiréepunkmetal_260926.jpg
 event_time: 2026-09-26T20:30:00.000Z
 lieu: Auditorium
