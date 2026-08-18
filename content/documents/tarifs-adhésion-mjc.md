@@ -2,6 +2,6 @@
 title: Adhésion MJC & Conditions d'accès aux spectacles
 format: pdf
 picto: /medias/pdf.png
-saison: 2025 / 2026
-file: /medias/mjc_adhésion-cond.acces_2025-26_web.pdf
+saison: 2026 / 2027
+file: /medias/adhesion-mjc2027_a5.pdf
 ---
