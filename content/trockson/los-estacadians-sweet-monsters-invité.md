@@ -1,6 +1,6 @@
 ---
 title: LOS ESTACADIANS / SWEET MONSTERS / + INVITÉ
-description: INDIE + BRIT PUNK POP ! Concert 40 ans Trock’Son !
+description: "! Concert 40 ans Trock’Son ! INDIE + BRIT PUNK POP"
 cover: /medias/05-sweetmonsters.jpg
 event_time: 2026-11-28T20:30:00.000Z
 lieu: Auditorium
