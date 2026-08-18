@@ -1,6 +1,6 @@
 ---
 title: BORÉALE + LA PIV
-description: "! Concerts 40 ans Trock’Son !"
+description: "! Concert 40 ans Trock’Son ! ELECTRO POP / RAP"
 cover: /medias/boreale_encartpage.jpg
 event_time: 2026-08-29T20:00:00.000Z
 lieu: " Café Marylène (Plougasnou 29)"
