@@ -2,7 +2,7 @@
 title: HELGÄ
 description: CHANSON ROCK ! Concert 40 ans Trock’Son !
 cover: /medias/04-helga.jpg
-event_time: 2026-08-27T20:30:00.000Z
+event_time: 2026-11-27T20:30:00.000Z
 lieu: Auditorium
 prix_libre: false
 prix_plein: 8
