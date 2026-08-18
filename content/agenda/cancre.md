@@ -1,6 +1,6 @@
 ---
 title: CANCRE
-description: POP ROCK ! Concert 40 ans Trock’Son !
+description: "! Concert 40 ans Trock’Son ! POP ROCK "
 cover: /medias/01-cancre.jpg
 event_time: 2026-10-02T20:30:00.000Z
 lieu: Auditorium
