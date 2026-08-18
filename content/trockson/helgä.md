@@ -1,6 +1,6 @@
 ---
 title: HELGÄ
-description: CHANSON ROCK ! Concert 40 ans Trock’Son !
+description: "! Concert 40 ans Trock’Son ! CHANSON ROCK"
 cover: /medias/04-helga.jpg
 event_time: 2026-11-27T20:30:00.000Z
 lieu: Auditorium
