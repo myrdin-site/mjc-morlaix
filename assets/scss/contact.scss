@@ -45,6 +45,17 @@
   margin-top: 1.8rem;
 }
 
+.form__legend {
+  font-size: 0.9rem;
+  color: $teal;
+  margin-bottom: 1rem;
+}
+
+.form__required {
+  color: $red;
+  font-weight: bold;
+}
+
 .form-control {
   width: 100%;
   border-radius: 8px;
