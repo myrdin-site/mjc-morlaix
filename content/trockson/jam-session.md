@@ -17,13 +17,11 @@ Ces sessions sont ouvertes au public et gratuites.
 
 **Les Jam Sessions du Trock'Son ont lieu 2 fois / mois : 1er mercredi du mois, 19h30 & 3ème samedi du mois, 12h00.**
 
+**Inscription préalable recommandée** pour les musicien.ne.s ([trockson@gmail.com](mailto:trockson@gmail.com)/ 02 98 88 09 94)
+
 \
 **APÉRO DE RENTRÉE du Trock'Son**
 
 Cette première JAM de la rentrée sera accompagnée d'un apéro permettant aux musicien.ne.s de se rencontrer, mais aussi de découvrir les projets de l'année pour le Trock'Son (concerts, compilations, émission radio, fanzine...).
 
 **Ouvert à toutes et tous, venez avec de quoi boire ou grignoter pour partager.**
-
-
-
-**Inscription préalable recommandée** pour les musicien.ne.s ([trockson@gmail.com](mailto:trockson@gmail.com)/ 02 98 88 09 94)
