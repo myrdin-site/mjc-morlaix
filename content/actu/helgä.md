@@ -1,23 +1,27 @@
 ---
-title: HELGÄ
-description: "! Concert 40 ans Trock’Son ! CHANSON ROCK - Sortie Album"
-cover: /medias/04-helga.jpg
-event_time: 2026-11-27T20:30:00.000Z
+title: LOS ESTACADIANS / SWEET MONSTERS / + INVITÉ
+description: "! Concert 40 ans Trock’Son ! INDIE + BRIT PUNK POP"
+cover: /medias/05-sweetmonsters.jpg
+event_time: 2026-11-28T20:30:00.000Z
 lieu: Auditorium
 prix_libre: false
 prix_plein: 8
 ---
-![](/medias/page_04-helga.jpg)
+![LOS ESTACADIANS / SWEET MONSTERS / + INVITÉ](/medias/05-sweetmonsters.jpg "! Concert 40 ans Trock’Son ! INDIE + BRIT PUNK POP")
 
-**HELGÄ** \[+1ère Partie]\
-CHANSON ROCK - *Soirée “sortie d’album”* **! Concert 40 ans Trock’Son !**\
+**LOS ESTACADIANS / SWEET MONSTERS / + invité**\
 \
-**Après plusieurs dizaines de concerts en groupe,** et des passages remarqués dans différents festivals (Fête du bruit, La nuit des étoiles…) ou pour des premières parties (Têtes raides, Rover…), HELGÄ reprend du service. Mais cette fois, l’histoire s’écrit en solo… Pour une version plus intimiste, plus dépouillée.\
+INDIE + BRIT PUNK POP **! Concert 40 ans Trock’Son !**\
 \
-**Accompagné par sa guitare et ses programmations, Gaël Abaléo continue de tracer son sillon entre chanson française et rock dans un univers poétique et imagé.**\
+**Power trio originaire de Brest, Sweet Monsters, c’est l’efficacité et l’impact d’une vague rock en plein visage.** C’est rafraîchissant, c’est alarmant !\
 \
-\[1ère partie assurée par un Groupe issu du dispositif Trock’Son.]\
+Un concentré d’influences mélant rock alternatif et rock progressif. Après deux EP le groupe a sorti son 1er album “Too Bright Too Dark” en février dernier. Un album enregistré au studio Near Deaf Experience à Lanmeur.\
 \
-**Vendredi 27 novembre - Tarif unique 8 €** - **20h30**
+\
+**Le quatuor LOS ESTACADIANS** se définit dans un style BRIT-PUNK-POP-MUTANT.\
+\
+Cultivant une jonction entre Breton-Français-Espagnol et Anglais, les textes viennent dépeindre le quotidien, parfois rêveur des habitants de ces villes du littoral isolées. Ils seront rejoints pour l’occasion par le multi-instrumentiste John TRAP pour une fin de soirée festive et enjouée !
 
-[](https://www.mjcmorlaix.com/documents)
+\[1ère partie assurée par un Groupe issu du dispositif Trock’Son.]
+
+**Samedi 28 novembre - Tarif unique 8 €** - **20h30** \[concert debout][](https://www.mjcmorlaix.com/documents)
