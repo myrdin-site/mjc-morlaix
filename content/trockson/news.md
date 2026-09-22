@@ -72,9 +72,9 @@ Nous vous proposons une rencontre avec Alice Legrand chargée d'administration a
 
 ***Petites annonces*![📻](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f4fb/32.png)**
 
-***Concert** - Le foyer des jeunes de Sainte-Sève recherche un groupe pour assurer une première le 10 octobre prochain, formation légère idéalement. Contacter [michmuch29@gmail.com](mailto:michmuch29@gmail.com)*
+**\*Concert** - Le foyer des jeunes de Sainte-Sève recherche un groupe pour assurer une première le 10 octobre prochain, formation légère idéalement. Contacter [michmuch29@gmail.com](mailto:michmuch29@gmail.com)*
 
-***Vente** - deux accordéons diatoniques à vendre - contacter 0677615002.*
+**\*Vente** - deux accordéons diatoniques à vendre - contacter 0677615002.*
 
 *\--------------------------*
 
