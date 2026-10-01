@@ -13,7 +13,7 @@ Les prochaines dates clés et actualités du dispositif !
 
 *\-------------------------*
 
-**Concert 40 ans Trock'Son - Cancre, 1ère partie Hasard**
+**Concert 40 ans Trock'Son - CANCRE + invités**
 
 Originaire de Morlaix, le trio Cancre s’impose depuis 2023 comme une voix singulière du rock français**,** portée par des textes bruts et des riffs puissants. Le groupe revient en 2026 avec un second album, Le Plongeon, enregistré entre la presqu’île de Crozon et le sud de la Bretagne sous la direction du réalisateur Nicolas Quéré (Feu ! Chatterton, Arctic Monkeys, Nick Cave). Le concert de Cancre lancera officiellement la programmation culturelle et artistique 26/27 de la MJC tout en célébrant les 40 ans du Trock'Son. Pour ouvrir cette belle soirée nous aurons le plaisir d'accueillir le très prometteur groupe Hasard, adhérent du Trock'Son, accompagné par les équipes de la MJC. 
 
@@ -54,9 +54,9 @@ Les Scènes Ouvertes changent de nom et deviennent les Trock en Scène, mais le 
 
 ***Petites annonces*![📻](https://fonts.gstatic.com/s/e/notoemoji/17.0/1f4fb/32.png)**
 
-**\*Concert** - Le foyer des jeunes de Sainte-Sève recherche un groupe pour assurer une première le 10 octobre prochain, formation légère idéalement. Contacter [michmuch29@gmail.com](mailto:michmuch29@gmail.com)*
+**Concert** - Le foyer des jeunes de Sainte-Sève recherche un groupe pour assurer une première le 10 octobre prochain, formation légère idéalement. Contacter [michmuch29@gmail.com](mailto:michmuch29@gmail.com)
 
-**\*Vente** - deux accordéons diatoniques à vendre - contacter 0677615002.*
+**Vente** - deux accordéons diatoniques à vendre - contacter 0677615002.
 
 *\--------------------------*
 
