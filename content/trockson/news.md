@@ -13,7 +13,7 @@ Les prochaines dates clés et actualités du dispositif !
 
 *\-------------------------*
 
-**Concert 40 ans Trock'Son - CACRE + invités**
+**Concert 40 ans Trock'Son - CANCRE + invités**
 
 Originaire de Morlaix, le trio Cancre s’impose depuis 2023 comme une voix singulière du rock français**,** portée par des textes bruts et des riffs puissants. Le groupe revient en 2026 avec un second album, Le Plongeon, enregistré entre la presqu’île de Crozon et le sud de la Bretagne sous la direction du réalisateur Nicolas Quéré (Feu ! Chatterton, Arctic Monkeys, Nick Cave). Le concert de Cancre lancera officiellement la programmation culturelle et artistique 26/27 de la MJC tout en célébrant les 40 ans du Trock'Son. Pour ouvrir cette belle soirée nous aurons le plaisir d'accueillir le très prometteur groupe Hasard, adhérent du Trock'Son, accompagné par les équipes de la MJC. 
 
