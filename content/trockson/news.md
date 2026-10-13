@@ -2,7 +2,7 @@
 title: "NEWS "
 description: Actus Trock'Son Automne 2026
 cover: /medias/encartpage_base-trockson_2026.jpg
-event_time: 2026-10-07T19:30:00.000Z
+event_time: 2026-10-21T19:30:00.000Z
 lieu: "MJC "
 prix_libre: false
 ---
