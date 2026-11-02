@@ -7,7 +7,7 @@ lieu: Auditorium
 prix_libre: false
 prix_plein: 8
 ---
-![LOS ESTACADIANS / SWEET MONSTERS / + INVITÉ](/medias/05-sweetmonsters.jpg "! Concert 40 ans Trock’Son ! INDIE + BRIT PUNK POP")
+![LOS ESTACADIANS / SWEET MONSTERS / + INVITÉ](/medias/page05-sweetmonsters.jpg "! Concert 40 ans Trock’Son ! INDIE + BRIT PUNK POP")
 
 **LOS ESTACADIANS / SWEET MONSTERS / + invité**\
 \
