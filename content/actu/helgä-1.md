@@ -8,7 +8,7 @@ prix_libre: false
 prix_plein: 8
 prix_abonné: ""
 ---
-![HELGÄ](/medias/04-helga.jpg "! Concert 40 ans Trock’Son ! CHANSON ROCK")
+![HELGÄ](/medias/page_04-helga.jpg "! Concert 40 ans Trock’Son ! CHANSON ROCK")
 
 **HELGÄ** \[+1ère Partie]\
 \
