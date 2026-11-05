@@ -13,8 +13,8 @@ prix_abonné: 8
 
 **FESTI’BLUES**
 
-**Initialement programmé sur cette soirée Festi'Blues à a MJC, le groupe Cincinnati Slim & The Vine Street Shuffle a annulé cette date pour des raisons indépendantes de notre volonté.** \
-**Il sera remplacé au pied levé par MISTER TCHANG & BLUZ EXPLOSION**\
+Initialement programmé sur cette soirée Festi'Blues à a MJC, **le groupe Cincinnati Slim & The Vine Street Shuffle a annulé cette date pour des raisons indépendantes de notre volonté.** \
+Il sera remplacé au pied levé par **MISTER TCHANG & BLUZ EXPLOSION**\
 \
 **LOIS MORGAN «One Man Band»** \[1ère Partie]\
 \
