@@ -8,17 +8,21 @@ prix_libre: false
 ---
 ![INFOS #21](/medias/fond_encart-trock_2027.png "Actualités Trock'Son")
 
-**Voici venu fin novembre et le point d'orgue de cette année des 40 ans du Trock'Son,** au plaisir de vous y retrouver nombreuses et nombreux pour vibrer collectivement et célébrer cette incroyable aventure !
+**Voici venu fin novembre et le point d'orgue de cette année des 40 ans du Trock'Son,** au plaisir de vous y retrouver nombreuses et nombreux pour vibrer collectivement et célébrer cette incroyable aventure !­
+
+­
 
 ­---------------------------------------------------------------------------------------
-\
+
 **JAM**
 Quel plaisir lors de la dernière JAM d'entendre un bouzouki, un poème lu, un harmonium, un synthé modulaire...  on vous invite à continuer à venir avec des instruments originaux, pour travailler tous et toutes ensemble cette écoute, cette alchimie unique, jusqu'à ce que la magie opère et nous emporte. 
 
 **Samedi 21 novembre - 12h**\
 Entrée libre, inscription préalable recommandée pour les musicien.ne.s - [trockson@gmail.com](trockson@gmail.com) 0298880994
 
-\---------------------------------------------------------------------------------------
+­
+
+­---------------------------------------------------------------------------------------
 
 **Infra-JAM**\
 L'Infra-JAM c'est un espace temps privilégié, un cadre collectif pour travailler et pratiquer la musique ensemble, avant de monter sur scène lors des JAM.
@@ -27,17 +31,22 @@ L'Infra-JAM c'est un espace temps privilégié, un cadre collectif pour travaill
 Places limitées, inscription préalable obligatoire - [trockson@gmail.com](trockson@gmail.com) - 0298880994
 
 ­
+
 ­---------------------------------------------------------------------------------------
 
 **Radio Trock'S'Ondes - Appel à musicien.ne.s**
-Trock'S'Ondes c'est désormais l'émission radio régulière du Trock'Son sur RADIO U. Plusieurs formats pensés et créés par vous : lives, portraits de professionnels de la musique, art & société, interview d'un groupe, poésie et improvisation musicale... 
+Trock'S'Ondes c'est désormais l'émission radio régulière du Trock'Son sur RADIO U. 
+
+Plusieurs formats pensés et créés par vous : lives, portraits de professionnels de la musique, art & société, interview d'un groupe, poésie et improvisation musicale... 
 
 **Deux choses :** 
 
-* Nous recherchons des musicien.ne.s qui souhaitent se prêter au jeu de l'improvisation pour accompagner en live des lectures de poésie ;
+* Nous recherchons des musicien.ne.s qui souhaitent se prêter au jeu de l'improvisation pour accompagner en live des lectures de poésie.
 * L'émission est une aventure collective construite à plusieurs mains, rejoignez-nous si vous le souhaitez ! 
 
 **Enregistrement live le mercredi 25 novembre, 19h** - **infos et participations** - [trockson@gmail.com](trockson@gmail.com)
+
+­
 
 ­---------------------------------------------------------------------------------------
 
