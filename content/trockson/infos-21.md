@@ -8,7 +8,7 @@ prix_libre: false
 ---
 ![INFOS #21](/medias/fond_encart-trock_2027.png "Actualités Trock'Son")
 
-Voici venu fin novembre et le point d'orgue de cette année des 40 ans du Trock'Son, au plaisir de vous y retrouver nombreuses et nombreux pour vibrer collectivement et célébrer cette incroyable aventure !\
+**Voici venu fin novembre et le point d'orgue de cette année des 40 ans du Trock'Son,** au plaisir de vous y retrouver nombreuses et nombreux pour vibrer collectivement et célébrer cette incroyable aventure !\
 ­
 ­---------------------------------------------------------------------------------------
 \
