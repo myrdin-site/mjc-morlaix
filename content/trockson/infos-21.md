@@ -48,17 +48,18 @@ On recherche des bénévoles pour nous aider à tenir le bar 
 
 **Scène Ouverte + Helgä - vendredi 27 novembre, 20h30, tarif unique de 8 euros**
 
-**Pouillot Véloce + Man Foo Tits + Sweet Monsters - samedi 28 novembre, 20h30, tarif unique de 8 euros** 
+**Pouillot Véloce + Man Foo Tits + Sweet Monsters - samedi 28 novembre, 20h30, tarif unique de 8 euros**\
+\
 ­
 ­---------------------------------------------------------------------------------------\
 \
 **Petites annonces**
 
-* Coastal Run recherche activement une chanteuse et claviériste pour rejoindre son projet 
+* Coastal Run recherche activement une chanteuse et claviériste pour rejoindre son projet.
 * Aoife, 17 ans, cherche à monter où a intégrer un groupe de musique, chante, joue du clavier et guitare folk, influences variées mais préfère le blues et le rock psyché.
 * Benoît, 48 ans, bassiste débutant recherche groupe pour reprises dans un premier temps (muse, nirvana, soundgarden).
 
-**Intéressé.e.s ?** Faites-moi signe pour mise en relation.[ trockson@gmail.com](mailto:trockson@gmail.com)\
+**Intéressé.e.s ?** Faites-moi signe pour mise en relation.[ trockson@gmail.com](mailto:trockson@gmail.com)
 
 ­---------------------------------------------------------------------------------------
 
