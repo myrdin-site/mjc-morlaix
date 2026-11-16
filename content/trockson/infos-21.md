@@ -6,10 +6,12 @@ event_time: 2026-11-21T12:00:00.000Z
 lieu: Auditorium
 prix_libre: false
 ---
-![](/medias/fond_encart-trock_2027.png)
+![INFOS #21](/medias/fond_encart-trock_2027.png "Actualités Trock'Son")
 
-Voici venu fin novembre et le point d'orgue de cette année des 40 ans du Trock'Son, au plaisir de vous y retrouver nombreuses et nombreux pour vibrer collectivement et célébrer cette incroyable aventure  
+Voici venu fin novembre et le point d'orgue de cette année des 40 ans du Trock'Son, au plaisir de vous y retrouver nombreuses et nombreux pour vibrer collectivement et célébrer cette incroyable aventure !\
 ­
+­---------------------------------------------------------------------------------------
+\
 **JAM**
 Quel plaisir lors de la dernière JAM d'entendre un bouzouki, un poème lu, un harmonium, un synthé modulaire...  on vous invite à continuer à venir avec des instruments originaux, pour travailler tous et toutes ensemble cette écoute, cette alchimie unique, jusqu'à ce que la magie opère et nous emporte. 
 
@@ -36,8 +38,8 @@ Trock'S'Ondes c'est désormais l'émission radio régulière du Trock'Son sur RA
 
 **Enregistrement live le mercredi 25 novembre, 19h** - **infos et participations** - [trockson@gmail.com](mailto:trockson@gmail.com)
 
-­---------------------------------------------------------------------------------------
-
+­---------------------------------------------------------------------------------------\
+\
 **40 ans Trock'Son - le bouquet final**\
 **Deux soirées** - vendredi, une scène ouverte pour découvrir les musiciens adhérents, suivie du concert d'un concert poétique et imagé d'Helgä - samedi, un concert de folie avec Pouillot Véloce, Man Foo Tits et Sweet Monsters... 
 
@@ -48,16 +50,16 @@ On recherche des bénévoles pour nous aider à tenir le bar 
 
 **Pouillot Véloce + Man Foo Tits + Sweet Monsters - samedi 28 novembre, 20h30, tarif unique de 8 euros** 
 ­
-­---------------------------------------------------------------------------------------
-
+­---------------------------------------------------------------------------------------\
+\
 **Petites annonces**
 
 * Coastal Run recherche activement une chanteuse et claviériste pour rejoindre son projet 
 * Aoife, 17 ans, cherche à monter où a intégrer un groupe de musique, chante, joue du clavier et guitare folk, influences variées mais préfère le blues et le rock psyché.
 * Benoît, 48 ans, bassiste débutant recherche groupe pour reprises dans un premier temps (muse, nirvana, soundgarden).
 
-**Intéressé.e.s ?** Faites-moi signe pour mise en relation.[ trockson@gmail.com](mailto:trockson@gmail.com)
-­
+**Intéressé.e.s ?** Faites-moi signe pour mise en relation.[ trockson@gmail.com](mailto:trockson@gmail.com)\
+
 ­---------------------------------------------------------------------------------------
 
-> > \>>[Pour consulter la disponibilité du local de répétition](https://mpod7.r.a.d.sendibm1.com/mk/cl/f/sh/SMK1E8tHeG13E8ZVFxjU3It5zU0n/kRM7cMWToe3G)<<
+**\>>**[Pour consulter la disponibilité du local de répétition](https://mpod7.r.a.d.sendibm1.com/mk/cl/f/sh/SMK1E8tHeG13E8ZVFxjU3It5zU0n/kRM7cMWToe3G)**<<**
