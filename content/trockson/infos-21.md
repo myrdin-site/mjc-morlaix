@@ -42,9 +42,9 @@ Plusieurs formats pensés et créés par vous : lives, portraits de professionn
 **Deux choses :** 
 
 * Nous recherchons des musicien.ne.s qui souhaitent se prêter au jeu de l'improvisation pour accompagner en live des lectures de poésie.
-* L'émission est une aventure collective construite à plusieurs mains, rejoignez-nous si vous le souhaitez ! 
-
-**Enregistrement live le mercredi 25 novembre, 19h** - **infos et participations** - [trockson@gmail.com](trockson@gmail.com)
+* L'émission est une aventure collective construite à plusieurs mains, rejoignez-nous si vous le souhaitez ! \
+  \
+  **Enregistrement live le mercredi 25 novembre, 19h** - **infos et participations** - [trockson@gmail.com](trockson@gmail.com)
 
 ­
 
@@ -67,9 +67,9 @@ On recherche des bénévoles pour nous aider à tenir le bar 
 
 * Coastal Run recherche activement une chanteuse et claviériste pour rejoindre son projet.
 * Aoife, 17 ans, cherche à monter où a intégrer un groupe de musique, chante, joue du clavier et guitare folk, influences variées mais préfère le blues et le rock psyché.
-* Benoît, 48 ans, bassiste débutant recherche groupe pour reprises dans un premier temps (muse, nirvana, soundgarden).
-
-**Intéressé.e.s ?** Faites-moi signe pour mise en relation.[ trockson@gmail.com](trockson@gmail.com)
+* Benoît, 48 ans, bassiste débutant recherche groupe pour reprises dans un premier temps (muse, nirvana, soundgarden).\
+  \
+  **Intéressé.e.s ?** Faites-moi signe pour mise en relation.[ trockson@gmail.com](trockson@gmail.com)
 
 ­---------------------------------------------------------------------------------------
 
